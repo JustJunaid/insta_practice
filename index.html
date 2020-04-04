@@ -4,6 +4,7 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<link rel="stylesheet" href="styles.css" />
 		<title>Insta Chat</title>
 		<script
 			crossorigin
@@ -19,20 +20,27 @@
 	<body>
 		<div id="root">React is not loaded</div>
 		<script type="text/babel">
+			let messages
 			for (const chat of chats) {
 				if (chat.participants.includes('__deleted__bhiebeafeacedigbh')) {
-					const messages = chat.conversation.sort(
+					messages = chat.conversation.sort(
 						(a, b) => new Date(a.created_at) - new Date(b.created_at)
 					)
-					console.log('messages', messages)
 				}
 			}
 
 			const App = () => (
-				<>
-					<div>First</div>
-					<div>Second</div>
-				</>
+				<div className="container">
+					{messages
+						// .slice(0, 10)
+						.map(message =>
+							message.sender === 'just_junaid_here' ? (
+								<div className="chatsOnRight">{message.text}</div>
+							) : (
+								<div className="chatsOnLeft">{message.text}</div>
+							)
+						)}
+				</div>
 			)
 
 			ReactDOM.render(<App />, document.getElementById('root'))
