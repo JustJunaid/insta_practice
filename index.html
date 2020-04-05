@@ -31,15 +31,23 @@
 
 			const App = () => (
 				<div className="container">
+					<h1 className="heading">Chat between two persons</h1>
 					{messages
-						.slice(1, 10)
+						// .slice(1, 10)
 						.map(message =>
-							message.sender === 'just_junaid_here' ? (
-								<div className="chatsOnRight">{message.text}</div>
+							message.sender === 'just_not_here' ? (
+								<div className="chatsOnRight">
+									{message.text || 'Invalid text'}
+								</div>
 							) : (
 								<div className="chatsOnLeft">{message.text}</div>
 							)
 						)}
+					<input
+						className="sendMessageInput"
+						placeholder="Enter your message here..."
+						type="text"
+					/>
 				</div>
 			)
 

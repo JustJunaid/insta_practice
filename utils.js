@@ -1,6 +1,6 @@
 const chats = [
 	{
-		participants: ['just_junaid_here', 'nish_nikk'],
+		participants: ['just_not_here', 'nish_nikk'],
 		conversation: [
 			{
 				sender: 'nish_nikk',
@@ -11,7 +11,7 @@ const chats = [
 					'https://instagram.com/stories/nish_nikk/2277678263794915169?utm_source=ig_story_item_share&igshid=rw84o2wwls7m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-10T17:32:06.063081+00:00',
 				likes: [
 					{ username: 'nish_nikk', date: '2020-02-10T17:33:45.435072+00:00' }
@@ -29,12 +29,12 @@ const chats = [
 				text: 'Haye sexy'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-10T17:31:16.886648+00:00',
 				text: 'more thab sexxyy'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-10T17:31:03.165347+00:00',
 				text: 'bss bhai mst ekdm'
 			},
@@ -49,17 +49,17 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-10T17:30:00.195289+00:00',
 				text: 'delhi hi hoon bencho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-10T17:29:48.857351+00:00',
 				text: 'kya haal h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-10T17:29:44.637460+00:00',
 				text: 'bhaiii'
 			},
@@ -84,7 +84,7 @@ const chats = [
 				text: 'Yo sexyy'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-10T16:58:44.433404+00:00',
 				story_share: "Shared nish_nikk's story",
 				text: 'yeeaah ldke more than sexy'
@@ -92,18 +92,18 @@ const chats = [
 			{
 				sender: 'nish_nikk',
 				created_at: '2019-01-04T09:09:27.187960+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Yeah model lover 😂😂'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'polarity_high'],
+		participants: ['just_not_here', 'polarity_high'],
 		conversation: [
 			{
 				sender: 'polarity_high',
 				created_at: '2020-04-01T08:18:14.361066+00:00',
-				mentioned_username: 'just_junaid_here',
+				mentioned_username: 'just_not_here',
 				story_share: "Shared polarity_high's story",
 				text: null
 			},
@@ -115,7 +115,7 @@ const chats = [
 					'Student Prime is here! Get an exclusive student offer on one year membership of Prime and avail Rs.500 cashback. Go to http://bit.ly/fppinstagramprime'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T10:08:05.386423+00:00',
 				likes: [
 					{
@@ -123,7 +123,7 @@ const chats = [
 						date: '2019-06-22T13:10:56.134894+00:00'
 					}
 				],
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Gains bro'
 			},
 			{
@@ -132,17 +132,17 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:16:14.210067+00:00',
 				text: 'Switch krte hi double hike h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:15:59.404953+00:00',
 				text: 'Abe bhut scope h yaar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:15:49.448719+00:00',
 				text: 'Acch'
 			},
@@ -162,12 +162,12 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:14:07.997589+00:00',
 				text: '2 yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:13:59.031648+00:00',
 				text: 'Bca ignou'
 			},
@@ -182,7 +182,7 @@ const chats = [
 				text: 'Open se bhi kuch nhi kr rha h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:12:54.268059+00:00',
 				text: '12'
 			},
@@ -192,7 +192,7 @@ const chats = [
 				text: 'Degree???'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:12:22.772284+00:00',
 				text: '3.6 lpa'
 			},
@@ -212,7 +212,7 @@ const chats = [
 				text: 'Ab Jake developer ki internship di h saalo ne'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:11:12.530770+00:00',
 				text: 'Bdiya h'
 			},
@@ -238,12 +238,12 @@ const chats = [
 					'Pehle din to buri halat hui thi 9 ghante kaam pta nhi kese krte h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:10:08.202996+00:00',
 				text: 'Paid h kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:09:37.360191+00:00',
 				text: 'Shi'
 			},
@@ -253,7 +253,7 @@ const chats = [
 				text: 'Js , php'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:09:13.143051+00:00',
 				text: 'Shi h'
 			},
@@ -268,12 +268,12 @@ const chats = [
 				text: 'Me bhi internship kr rha hu company me'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:08:47.401802+00:00',
 				text: 'Shukriya bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:08:33.815466+00:00',
 				text: 'New delhi'
 			},
@@ -293,7 +293,7 @@ const chats = [
 				text: 'Location Kya h?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:08:00.660265+00:00',
 				text: 'Full time'
 			},
@@ -303,7 +303,7 @@ const chats = [
 				text: 'Part time?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:07:34.625731+00:00',
 				text: 'Web'
 			},
@@ -318,12 +318,12 @@ const chats = [
 				text: 'Wese mene platform poocha tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:06:14.129442+00:00',
 				text: 'Python/js'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:06:02.831111+00:00',
 				text: '3 months'
 			},
@@ -338,7 +338,7 @@ const chats = [
 				text: 'Kitne time se?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:03:41.222378+00:00',
 				text: 'SDE 1'
 			},
@@ -348,12 +348,12 @@ const chats = [
 				text: 'Dating app ki Company h, kis position me h?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:02:37.577891+00:00',
 				text: 'Haan'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:02:27.333328+00:00',
 				text: 'Mtlb'
 			},
@@ -368,7 +368,7 @@ const chats = [
 				text: 'Sale nhi badla tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:01:29.183030+00:00',
 				text: 'Google it bro'
 			},
@@ -378,7 +378,7 @@ const chats = [
 				text: 'Ye Kya h??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T11:00:26.042792+00:00',
 				text: 'Neargroup'
 			},
@@ -388,7 +388,7 @@ const chats = [
 				text: 'Kha p?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T10:58:51.264618+00:00',
 				text: 'Bs bhai lge hue h hille se'
 			},
@@ -418,12 +418,12 @@ const chats = [
 				text: 'Bhadiya bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T10:53:53.767556+00:00',
 				text: 'Tu bta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-20T10:53:41.129373+00:00',
 				text: 'Bdhiya bhai'
 			},
@@ -438,46 +438,46 @@ const chats = [
 				text: 'Hi bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-01T04:15:34.310044+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'mtlb'
 			},
 			{
 				sender: 'polarity_high',
 				created_at: '2019-01-20T06:59:02.864584+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Kya h isme?'
 			}
 		]
 	},
 	{
-		participants: ['__sabyasachi__', 'just_junaid_here'],
+		participants: ['__sabyasachi__', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-04-01T07:19:32.368991+00:00',
 				text: 'lol'
 			},
 			{
 				sender: '__sabyasachi__',
 				created_at: '2020-04-01T07:18:17.822952+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-26T18:39:42.606823+00:00',
 				text: 'han bhai thoda bhut h'
 			},
 			{
 				sender: '__sabyasachi__',
 				created_at: '2020-03-26T15:24:29.719007+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Wah bhai videshi chats'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-25T16:03:42.907507+00:00',
 				likes: [
 					{
@@ -489,20 +489,20 @@ const chats = [
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-21T19:44:11.291696+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-16T13:49:01.574821+00:00',
 				text: 'haan'
 			},
 			{
 				sender: '__sabyasachi__',
 				created_at: '2020-01-16T13:27:53.173245+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Mithai hai kya yeh'
 			},
 			{
@@ -515,7 +515,7 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t50.2886-16/82431744_181482249718121_3128795193073549814_n.mp4?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_ohc=Ae-wt1cfm_kAX8OcU8v&oe=5E8A1CF1&oh=af66fe0cced5f6a9647b1561255e49ee'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-11T15:32:02.666018+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '🔥'
@@ -526,7 +526,7 @@ const chats = [
 				text: '🤘'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T18:35:53.659442+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: 'are bhai😍'
@@ -537,13 +537,13 @@ const chats = [
 				text: 'Arey bhai bhojpuri gane v bajaya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-27T13:30:45.344212+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-20T13:55:50.557731+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '😍'
@@ -554,29 +554,29 @@ const chats = [
 				text: 'Haha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-06T15:57:45.664831+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: 'bhai bhai bhai bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-15T07:14:46.545493+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T06:31:32.829730+00:00',
 				text: 'bs kaat ra tha time'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T06:31:21.151549+00:00',
 				text: 'abe esi hi company thi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T06:31:06.905660+00:00',
 				text: 'are 15 din notice h'
 			},
@@ -591,24 +591,24 @@ const chats = [
 				text: 'Arey bhai bhai bhai...seedha resign daal diya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T04:28:35.530014+00:00',
 				text: 'on job hunt rn'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T04:28:21.499340+00:00',
 				text: 'abhi resign dala h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T04:28:13.498854+00:00',
 				text: 'are bhai bss kt ri h'
 			},
 			{
 				sender: '__sabyasachi__',
 				created_at: '2019-11-14T02:58:22.367237+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '🔥'
 			},
 			{
@@ -622,13 +622,13 @@ const chats = [
 				text: 'Travel kr rha tha bro jagah jagah ab back to office'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-13T18:49:43.277026+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: 'bro wassup'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-25T15:38:47.926874+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '😂'
@@ -639,25 +639,25 @@ const chats = [
 				text: 'Areyy bhai shukriyaa🤘'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-22T23:49:26.558144+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-22T23:49:20.537456+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: 'aye ldke sexxxyyy'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-12T08:32:57.656943+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T17:54:30.438561+00:00',
 				text: 'han krta hun kl'
 			},
@@ -667,12 +667,12 @@ const chats = [
 				text: 'Abe kriyo ab kisi din conference pe call'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T17:05:25.572596+00:00',
 				text: 'chutiya h manoj'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T16:44:43.730457+00:00',
 				text: 'lololokik'
 			},
@@ -687,7 +687,7 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:31:12.849324+00:00',
 				text: 'looolololol'
 			},
@@ -697,7 +697,7 @@ const chats = [
 				text: 'Are bhai bhai bhai kyu maje le rha uske woh v publically 😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T15:36:51.056990+00:00',
 				text: 'same 2 u bantai'
 			},
@@ -707,13 +707,13 @@ const chats = [
 				text: 'Happy dussehra nigga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T15:01:26.412971+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-06T14:46:41.329802+00:00',
 				text: 'oye hoye🤩'
 			},
@@ -723,17 +723,17 @@ const chats = [
 				text: 'Acha ha usne msge Kiya 😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-06T13:30:19.660229+00:00',
 				text: 'bhai bula le kmre pe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-06T13:30:17.910184+00:00',
 				text: '🥵'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-06T13:30:07.533060+00:00',
 				text: '🤙🤙🤙🤙'
 			},
@@ -743,7 +743,7 @@ const chats = [
 				text: 'Tujhe kaise pta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-06T13:04:42.577728+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: 'bhai sangwan bhi jp nagar hi rehti h'
@@ -754,12 +754,12 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T07:09:55.768890+00:00',
 				text: 'working remotely'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T07:09:27.687444+00:00',
 				text: 'delhi m hi h ye'
 			},
@@ -769,12 +769,12 @@ const chats = [
 				text: 'Abe Lekin Delhi mein kya kr rha yeh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-14T19:48:01.076836+00:00',
 				text: 'next level'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-14T19:47:53.864890+00:00',
 				text: 'swag h bhai k'
 			},
@@ -784,7 +784,7 @@ const chats = [
 				text: 'Oh bc Asrar se mila tu!'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-07T11:53:01.914910+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '💯'
@@ -794,7 +794,7 @@ const chats = [
 				created_at: '2019-09-05T03:45:07.357580+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-09-05T06:11:45.336925+00:00'
 					}
 				],
@@ -810,7 +810,7 @@ const chats = [
 				text: 'Dhnywaad bantai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-01T18:41:07.447452+00:00',
 				likes: [
 					{
@@ -827,12 +827,12 @@ const chats = [
 				text: 'Oh bhai bhai bhai !'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T06:13:56.244602+00:00',
 				text: 'ye dunia bhut kharab h bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T06:13:17.991020+00:00',
 				text: 'bhai wo company tjhe deserve ni krti thi'
 			},
@@ -847,17 +847,17 @@ const chats = [
 				text: 'Bc nikal diya tha aur tu keh rha chaud meh rehta tha😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T06:03:56.162740+00:00',
 				text: '🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T06:03:50.070969+00:00',
 				text: 'wo to bhai force kiya gya tha mjhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T06:03:14.499685+00:00',
 				text: 'are bhai chaud m to tu hi rehta tha'
 			},
@@ -877,17 +877,17 @@ const chats = [
 				text: 'Bc woh toh sab se krta tha😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T05:06:12.715774+00:00',
 				text: 'chup chup ke baate krta tha tu saale'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T05:05:58.544152+00:00',
 				text: 'asli to tra tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T05:05:51.261955+00:00',
 				text: 'chl bc🤣🤣🤣🤣'
 			},
@@ -902,12 +902,12 @@ const chats = [
 				text: 'Bhai sahi mein Janna mujhe mera kya scene tha🤔'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:59:22.219577+00:00',
 				text: 'manoj🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:59:16.142479+00:00',
 				text: 'are bhai bhai bhai'
 			},
@@ -927,17 +927,17 @@ const chats = [
 				text: 'Mera kya scene tha be'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:49:04.166759+00:00',
 				text: 'manoj🤣🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:48:57.030351+00:00',
 				text: 'tumhara bhi to scene tya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:48:48.292939+00:00',
 				text: 'are bhai'
 			},
@@ -952,12 +952,12 @@ const chats = [
 				text: 'Wtf'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:41:46.078185+00:00',
 				text: 'all good hows ur shaily'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:41:30.817811+00:00',
 				text: 'are bhai🤣'
 			},
@@ -967,7 +967,7 @@ const chats = [
 				text: 'Howzz jenny'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:14:44.274407+00:00',
 				text: 'cool nigga'
 			},
@@ -977,7 +977,7 @@ const chats = [
 				text: 'No idea nigga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-11T19:54:04.282412+00:00',
 				text: 'bhai kb ara h delhi'
 			},
@@ -992,14 +992,14 @@ const chats = [
 				text: 'Kya scene bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-11T18:11:44.403079+00:00',
 				text: 'are bhai bhai bhai'
 			},
 			{
 				sender: '__sabyasachi__',
 				created_at: '2019-08-11T18:05:09.691752+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Oh bc...jalwaaaa'
 			},
 			{
@@ -1007,7 +1007,7 @@ const chats = [
 				created_at: '2019-07-30T03:58:13.377594+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-07-30T04:27:22.722091+00:00'
 					}
 				],
@@ -1017,60 +1017,60 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t50.2886-16/68500956_2563078283735165_488350963962592089_n.mp4?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_ohc=XZuxdCJa49wAX_Eo2oR&oe=5E89CD15&oh=ba3c86fc649ec1a1ac44d8052f2773a9'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-29T07:34:16.199342+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T05:25:01.835091+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Teri to mauj h saale'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-19T17:59:24.220612+00:00',
 				text: '😁'
 			},
 			{
 				sender: '__sabyasachi__',
 				created_at: '2019-06-19T17:05:55.267866+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Oh bhaisahab chef bn gye!'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-03T12:06:50.687271+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '😮'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-03T12:06:35.334297+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: 'bhai bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-03T12:06:22.086276+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-02T18:14:45.035719+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-02T18:14:42.577436+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-02T18:14:39.840607+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '🔥'
@@ -1080,14 +1080,14 @@ const chats = [
 				created_at: '2019-06-01T03:32:56.089862+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-06-01T18:41:41.213041+00:00'
 					}
 				],
 				text: 'Arey buss flight pakadne aaya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-01T03:21:02.979110+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: 'firse??'
@@ -1105,7 +1105,7 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-26T17:34:39.766193+00:00',
 				text: 'haan bta dio'
 			},
@@ -1115,7 +1115,7 @@ const chats = [
 				text: 'Office hi jaunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-26T17:21:50.453254+00:00',
 				text: 'haan to bta dio kaha milega'
 			},
@@ -1125,7 +1125,7 @@ const chats = [
 				text: 'Tues ko aa rha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-26T17:17:32.672781+00:00',
 				text: 'tu delhi h kya'
 			},
@@ -1135,7 +1135,7 @@ const chats = [
 				text: 'Bro tera office kidhar hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-26T14:59:27.044640+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '🔥'
@@ -1146,7 +1146,7 @@ const chats = [
 				text: 'Kya scene bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-09T05:27:18.627681+00:00',
 				text: '😅'
 			},
@@ -1170,12 +1170,12 @@ const chats = [
 				text: 'Are bhai bhai bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-01T10:48:08.812714+00:00',
 				text: 'mra bhi khatm ho gya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-01T10:47:56.913364+00:00',
 				text: 'bro i dont go there anymore'
 			},
@@ -1185,7 +1185,7 @@ const chats = [
 				text: 'Ab toh bore hota hoga tu office mein'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-01T08:47:07.575501+00:00',
 				text: 'alag vajab tre bhai ka'
 			},
@@ -1203,7 +1203,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/53293054_103360610807216_5580887765360004227_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_ohc=Sv6BfLUR96gAX-nFxs0&oh=9afeea242b3719508c211efb56a5737e&oe=5EB20D82&ig_cache_key=MjAxMTkwMjQ1MzExMjg0NDUzMg%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-28T05:09:54.787669+00:00',
 				text: 'lol'
 			},
@@ -1222,7 +1222,7 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-27T09:47:55.824726+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '😢'
@@ -1242,12 +1242,12 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/52857066_321086588765659_2624170053060076165_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_ohc=YxCHjfyvgwcAX8BGBFl&oh=96bec7f233b6198e39dcac246f9caf5e&oe=5EAF3C14&ig_cache_key=MjAwMzE5Mjg2MzY0NDIzMDU4Ng%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-18T18:34:10.049569+00:00',
 				text: 'shit'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-18T18:34:06.562017+00:00',
 				text: 'abe yaaaaar'
 			},
@@ -1280,7 +1280,7 @@ const chats = [
 				text: 'Next level 🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-27T17:00:45.008183+00:00',
 				media_owner: 'arel.ir',
 				media_share_caption:
@@ -1289,13 +1289,13 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t50.2886-16/53274509_305411630173369_1465201176470355968_n.mp4?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=101&_nc_ohc=cwV2oHouKngAX8NMKTG&oe=5E89F257&oh=9bcf6e98603200da9268415103da2fc0'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-23T18:32:43.142607+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-23T18:32:38.153347+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '😍'
@@ -1305,7 +1305,7 @@ const chats = [
 				created_at: '2019-02-21T05:09:54.916815+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-02-22T18:58:48.158844+00:00'
 					}
 				],
@@ -1327,13 +1327,13 @@ const chats = [
 				text: '🤘'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-14T16:18:28.725695+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-14T16:18:24.543710+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '😂'
@@ -1343,7 +1343,7 @@ const chats = [
 				created_at: '2019-02-11T05:16:54.296118+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-02-11T12:07:40.330584+00:00'
 					}
 				],
@@ -1352,13 +1352,13 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-08T10:03:08.582712+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-28T16:57:48.226426+00:00',
 				likes: [
 					{
@@ -1370,13 +1370,13 @@ const chats = [
 				text: 'bhai kya baat h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-27T11:05:21.231631+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-20T07:31:13.557108+00:00',
 				text: '😆'
 			},
@@ -1391,7 +1391,7 @@ const chats = [
 				text: 'Bhai kya chah rha tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-20T07:12:28.957470+00:00',
 				text: 'ye bete sandy teri jldi lene wala h'
 			},
@@ -1401,7 +1401,7 @@ const chats = [
 				text: 'Yo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-20T07:11:36.862429+00:00',
 				story_share: "Shared __sabyasachi__'s story",
 				text: 'cp ghoom ra kya'
@@ -1409,28 +1409,28 @@ const chats = [
 			{
 				sender: '__sabyasachi__',
 				created_at: '2019-01-20T07:10:10.837699+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Ab ja rha tu next level'
 			},
 			{
 				sender: '__sabyasachi__',
 				created_at: '2019-01-20T06:01:44.338371+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Jalwa Bhai...waise hai kya😅'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'anupam_gooner'],
+		participants: ['just_not_here', 'anupam_gooner'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-04-01T07:16:04.581038+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '🎉'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-04-01T07:16:01.950361+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '💯'
@@ -1441,7 +1441,7 @@ const chats = [
 				text: 'HAAN'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:31:18.996789+00:00',
 				text: 'skin tone bhi shi h'
 			},
@@ -1451,7 +1451,7 @@ const chats = [
 				text: 'Ekdum'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:30:58.040365+00:00',
 				text: 'bhai perfect shape h'
 			},
@@ -1466,7 +1466,7 @@ const chats = [
 				text: 'Bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:30:32.903753+00:00',
 				text: 'haan'
 			},
@@ -1482,12 +1482,12 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/91394698_102003464743591_5839877815225714669_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_ohc=zyzzQFIOU6kAX9y_m-8&oh=25a6d8fd2605a1b2775280dde2349f75&oe=5EB30ECD&ig_cache_key=MjI3NDk5MjIwOTE2NTAwNDY5Mw%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:30:22.488392+00:00',
 				text: 'sbse pehle wali'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:30:12.171776+00:00',
 				text: 'nhi be'
 			},
@@ -1503,7 +1503,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/91254414_224483832268394_4718906288707730131_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=102&_nc_ohc=iAgwMsgACEsAX_j3xBb&oh=3aad9dfb2f435282e61f2dfa29d92c8e&oe=5EB0A7D8&ig_cache_key=MjI3NDk5MTkzNTA3NTU1MTExMQ%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:29:23.986331+00:00',
 				text: 'usne to mood kharab kr dia tha'
 			},
@@ -1518,17 +1518,17 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:28:21.727161+00:00',
 				text: '5k 2 shots'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:28:13.997519+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:28:08.263155+00:00',
 				text: 'ol'
 			},
@@ -1538,22 +1538,22 @@ const chats = [
 				text: 'Kaunsi?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:28:02.642413+00:00',
 				text: 'uska koi tod ni'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:27:49.854360+00:00',
 				text: '5k wali'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:27:43.709835+00:00',
 				text: 'wo zyada'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:27:39.024446+00:00',
 				text: 'bss bhai'
 			},
@@ -1568,7 +1568,7 @@ const chats = [
 				text: 'Ye cute to hai hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:09:47.344160+00:00',
 				text: 'ye to h'
 			},
@@ -1583,17 +1583,17 @@ const chats = [
 				text: 'Hahah'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:06:37.342682+00:00',
 				text: '*'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:06:35.467679+00:00',
 				text: 'dikha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:06:24.244068+00:00',
 				text: 'bs bhai ye sb mt sola'
 			},
@@ -1603,7 +1603,7 @@ const chats = [
 				text: 'Kya hua'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T18:00:27.581598+00:00',
 				text: '☹️'
 			},
@@ -1615,18 +1615,18 @@ const chats = [
 				story_share_type: 'default'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T17:09:25.566280+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T17:08:39.309795+00:00',
 				text: 'meetho wale kaam'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T17:08:32.970861+00:00',
 				text: 'm na krra ye'
 			},
@@ -1636,12 +1636,12 @@ const chats = [
 				text: 'Kya abe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T15:10:08.984330+00:00',
 				text: '🙏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T15:09:53.673541+00:00',
 				text: 'abe'
 			},
@@ -1652,20 +1652,20 @@ const chats = [
 					"Honest Answers are expected 😁\nThis stays between us. \n1. Love, Money, or Career?\n2. What's a song I NEED to add to my playlist?\n3. What are the 3 things you are looking forward to do post quarantine?\n4. What is your best memory of us together?\n5. Describe me in a word. \n6. What was your first impression of me?\n7. What am I to you?\n8. What's the one thing you would change about me?\n9. Number of relationships you have had till now?\n10. Current Relationship Status?           \n11. Who's your current celebrity crush (male and female)?\n12. What are you doing in the lockdown to pass your time?\n13. Melody itni chocolatey kyu hai?\n14. On a scale of 1-10, how bored are you today😂?\n\nIf it's more than 7, put up a poll asking the same questions 😜 Enjoy"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:06:23.392304+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T18:58:56.420198+00:00',
 				text: 'lol'
 			},
 			{
 				sender: 'anupam_gooner',
 				created_at: '2020-03-27T15:42:24.596128+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'God one'
 			},
 			{
@@ -1674,7 +1674,7 @@ const chats = [
 				text: 'Haan'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:50:19.449772+00:00',
 				text: 'bccha lgra tha'
 			},
@@ -1684,12 +1684,12 @@ const chats = [
 				text: 'Sahi kiya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:49:37.974380+00:00',
 				text: 'abhi wala'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:49:33.542912+00:00',
 				text: 'abe status'
 			},
@@ -1699,12 +1699,12 @@ const chats = [
 				text: 'Kya delete kar di'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:48:41.660845+00:00',
 				text: 'chl koi na'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:48:31.639247+00:00',
 				text: 'kr di tre bhai ne delete'
 			},
@@ -1714,12 +1714,12 @@ const chats = [
 				text: 'Bhai kaam na hota to aajata'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:48:17.516551+00:00',
 				text: 'online'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:48:12.893466+00:00',
 				text: 'abe ajaj'
 			},
@@ -1739,17 +1739,17 @@ const chats = [
 				text: 'Bhai tere aage to sab fiki hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:46:37.198621+00:00',
 				text: 'decent enough'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:46:27.319312+00:00',
 				text: 'hmmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:46:16.957182+00:00',
 				text: '5:30 wali'
 			},
@@ -1765,7 +1765,7 @@ const chats = [
 				text: 'Ye kaise hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:46:02.742061+00:00',
 				text: 'abe meeting m aja'
 			},
@@ -1775,47 +1775,47 @@ const chats = [
 				text: 'Haan bhai wahi aati hai mere ko'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:45:21.729664+00:00',
 				text: '🤣🤣🤣🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:45:17.511629+00:00',
 				text: 'kyunki tjhe whi ati h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:45:09.381271+00:00',
 				text: 'in c'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:45:05.652313+00:00',
 				text: 'write a program'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:44:57.295720+00:00',
 				text: 'pattern bn gya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:44:46.041479+00:00',
 				text: 'lolololol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:44:41.987863+00:00',
 				text: 'lololol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:44:38.743189+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:44:28.385687+00:00',
 				text: '🤣🤣🤣🤣🤣🤣'
 			},
@@ -1825,12 +1825,12 @@ const chats = [
 				text: '😂 😂 😂 😂 😂 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:43:59.689764+00:00',
 				text: 'na uspe to ni shayad'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:43:25.983192+00:00',
 				text: 'you motaaafukaa'
 			},
@@ -1840,12 +1840,12 @@ const chats = [
 				text: 'Ask me a question wale pe kisi ne question pucha?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:43:15.137655+00:00',
 				text: 'go stalk her'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:42:47.509389+00:00',
 				media:
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e35/91118888_2567780773478818_1807512448144904817_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110&_nc_ohc=GcM5MxIv3doAX952tql&oh=3d5b475650b1b485f4ef3a2cd6cf7261&oe=5EAF927C&ig_cache_key=MjI3NDA2MjI1NTEyMTAwNjM4Ng%3D%3D.2'
@@ -1856,7 +1856,7 @@ const chats = [
 				text: 'Maine hi diya tha bas'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:42:23.832855+00:00',
 				text: 'haan'
 			},
@@ -1871,20 +1871,20 @@ const chats = [
 				text: 'Aise hi bhai laundiya wali lag rahi hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:41:53.063677+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'okay'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:40:16.839759+00:00',
 				text: 'kyun bhaii'
 			},
 			{
 				sender: 'anupam_gooner',
 				created_at: '2020-03-27T11:22:34.301593+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Lodu status ekdum'
 			},
 			{
@@ -1893,7 +1893,7 @@ const chats = [
 				text: 'Okay'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-25T19:11:10.981050+00:00',
 				text: 'kl krunga'
 			},
@@ -1903,7 +1903,7 @@ const chats = [
 				text: 'Kar bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-25T19:05:46.743033+00:00',
 				text: '🙃'
 			},
@@ -1914,12 +1914,12 @@ const chats = [
 					'So....you liked my post so you have to post an embarrassing picture of yourself, for the caption you’re ONLY allowed to write “until tomorrow" and you can only tag me.  You must send this message to everyone who has liked your picture.  The picture must stay posted for 24 hours.  Good luck and don\'t spoil the game! LES DO IT'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:26:16.096922+00:00',
 				text: 'abe vese bhi vahn kisi senior ko prefer kiya higa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:26:00.322980+00:00',
 				text: 'accha'
 			},
@@ -1934,7 +1934,7 @@ const chats = [
 				text: 'Abey wo ab tak kuch aata'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:25:30.652414+00:00',
 				text: 'kyun tre ko kaise pta'
 			},
@@ -1944,7 +1944,7 @@ const chats = [
 				text: 'Bhai bahut par lhua nahi waha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:24:57.991659+00:00',
 				text: 'haan melbourne h to tgdi jghe vese'
 			},
@@ -1960,12 +1960,12 @@ const chats = [
 				text: 'Dekh aus ki baat alag hai Melbourne meri dream city hai bhyi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:22:25.118926+00:00',
 				text: 'fir aus apply kyun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:22:15.083989+00:00',
 				text: 'ye to h'
 			},
@@ -1975,7 +1975,7 @@ const chats = [
 				text: 'Sab kuch karenge bkl bas kaam nahi karenge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:21:52.625892+00:00',
 				text: 'andrie + danyl'
 			},
@@ -1995,12 +1995,12 @@ const chats = [
 				text: 'Bkl chutiya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:21:27.178381+00:00',
 				text: '🤣🤣🤣🤣🤣🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:21:23.120862+00:00',
 				text: 'be ka andrie'
 			},
@@ -2010,17 +2010,17 @@ const chats = [
 				text: '😂 😂 😂 😂 😂 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:21:18.010463+00:00',
 				text: 'fe ka artur'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:21:11.478751+00:00',
 				text: 'rewrite ho ra h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:21:03.742532+00:00',
 				text: 'itni alag ki tra saara code'
 			},
@@ -2030,12 +2030,12 @@ const chats = [
 				text: '😎'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:17:32.023419+00:00',
 				text: 'next level h tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:17:09.294894+00:00',
 				text: 'bhai tri baat hi alag h'
 			},
@@ -2050,46 +2050,46 @@ const chats = [
 				text: 'Mein dekh raha hu bc har launda mera status copy kar leta hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:16:29.192400+00:00',
 				text: 'mjhe lga tu offend nhi hoga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:16:19.491092+00:00',
 				text: 'bhai ab puchke krunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:15:43.397114+00:00',
 				text: '🤣🤣🤣🤣'
 			},
 			{
 				sender: 'anupam_gooner',
 				created_at: '2020-03-24T13:06:21.601058+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Bkl sab kuch copy kar le'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-23T14:23:10.982562+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '😢'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-22T17:24:38.268888+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-12T18:15:13.029619+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-03T17:34:24.950340+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '😂'
@@ -2100,7 +2100,7 @@ const chats = [
 				text: '😂 😂 😂 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-29T17:20:06.533570+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: 'khud ka kuch ni hona, kisi aur ka bhi na hone do🤨'
@@ -2111,20 +2111,20 @@ const chats = [
 				text: '😂 😂 😂 😂 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-23T08:30:38.439078+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '😢'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-16T10:14:49.695753+00:00',
 				mentioned_username: 'anupam_gooner',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: null
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-05T15:45:48.883738+00:00',
 				text: 'kesa chl ra h'
 			},
@@ -2134,7 +2134,7 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-05T07:58:56.557806+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '😢'
@@ -2145,31 +2145,31 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-04T21:23:26.384739+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-04T21:23:00.487093+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-02T01:05:12.333221+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-01T11:03:57.134635+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: 'yeah🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-31T04:12:32.347330+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '🎉'
@@ -2180,12 +2180,12 @@ const chats = [
 				text: 'Nike Mein dekh liyo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:53:20.450589+00:00',
 				text: 'aur koi sugg'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:53:11.502092+00:00',
 				text: 'ise fav kr diya'
 			},
@@ -2200,7 +2200,7 @@ const chats = [
 				text: '😂 😂 😂 😂 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:52:43.796405+00:00',
 				text: 'daily ni pehn paunga'
 			},
@@ -2210,12 +2210,12 @@ const chats = [
 				text: 'Haan yaar ye to hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:52:27.358885+00:00',
 				text: 'mgr saala gnda bhut hoga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:52:10.303240+00:00',
 				text: 'white bc tgda lgra h'
 			},
@@ -2233,22 +2233,22 @@ const chats = [
 				text: 'Bc white bikta hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:48:45.797737+00:00',
 				text: 'esa kyun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:48:41.301335+00:00',
 				text: 'me itna diff'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:48:34.326370+00:00',
 				text: 'abe ye black aur white ke price'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:48:13.785722+00:00',
 				text: 'vo to shi h'
 			},
@@ -2258,7 +2258,7 @@ const chats = [
 				text: 'Bhai White ka zamana hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:47:33.052094+00:00',
 				text: 'vese to black bhi shi lgre'
 			},
@@ -2286,12 +2286,12 @@ const chats = [
 					'https://www.amazon.in/adidas-neo-Advantage-Leather-Sneakers/dp/B018G7XUVO/ref=asc_df_B018G7XUVO/?tag=googleshopmob-21&linkCode=df0&hvadid=397107752360&hvpos=1o21&hvnetw=g&hvrand=10185014212891945188&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1007820&hvtargid=pla-337589045400&psc=1&ext_vrnc=hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:45:29.308297+00:00',
 				text: 'inhi m se lena h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:45:19.706326+00:00',
 				text: 'puma nike adidas'
 			},
@@ -2311,12 +2311,12 @@ const chats = [
 				text: 'Bhai nikeyke koi se bhi lele'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:44:40.157226+00:00',
 				text: '5k tk k'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:44:31.096012+00:00',
 				text: 'koi shoes suggest kr yr'
 			},
@@ -2326,12 +2326,12 @@ const chats = [
 				text: 'Haan'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:44:17.719946+00:00',
 				text: 'abe sun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:44:00.024656+00:00',
 				text: 'shi h bhai'
 			},
@@ -2346,7 +2346,7 @@ const chats = [
 				text: 'Bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:13:56.184810+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '👏'
@@ -2357,7 +2357,7 @@ const chats = [
 				text: 'Hahahahaha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T18:07:13.958995+00:00',
 				text: 'bc m fries hi chhod dunga'
 			},
@@ -2372,24 +2372,24 @@ const chats = [
 				text: '😂 😂 😂 😂 😂 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T17:54:25.221290+00:00',
 				text: 'chlega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T17:54:22.956338+00:00',
 				text: 'fries hi to h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T17:54:09.244465+00:00',
 				text: 'are bhai'
 			},
 			{
 				sender: 'anupam_gooner',
 				created_at: '2019-12-30T17:48:33.834032+00:00',
-				text: 'Junaid bhai aise bhabhi na mil jaaye'
+				text: 'not bhai aise bhabhi na mil jaaye'
 			},
 			{
 				sender: 'anupam_gooner',
@@ -2397,25 +2397,25 @@ const chats = [
 				text: '😂 😂 😂 😂 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-30T17:42:29.893077+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-28T20:26:44.807890+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-28T09:44:35.858608+00:00',
 				story_share: "Shared anupam_gooner's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-24T11:23:36.507299+00:00',
 				media_owner: 'abnair_khan',
 				media_share_caption: 'Caption unavailable.',
@@ -2441,18 +2441,18 @@ const chats = [
 				text: 'https://www.instagram.com/p/B6c-kbDl_ke/?igshid=qlu5ypzk0wls'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-24T11:19:47.204867+00:00',
 				media:
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e35/79541148_114909146450529_7754829464661336037_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_ohc=4RXuvcfVVqAAX_b3L8P&oh=af435d176b1dbb4867d2d1015b5e0a92&oe=5EAFADD3&ig_cache_key=MjIwNTkyMTc1NzU5MjA5MDEwMg%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-24T11:19:24.533669+00:00',
 				text: 'lodu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-24T11:19:14.072793+00:00',
 				link: 'https://www.instagram.com/p/B6cs5vfnwqs/?igshid=1oohqe3yn5qx3',
 				text: 'https://www.instagram.com/p/B6cs5vfnwqs/?igshid=1oohqe3yn5qx3'
@@ -2466,18 +2466,18 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'bang_dan_shadow'],
+		participants: ['just_not_here', 'bang_dan_shadow'],
 		conversation: [
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-29T14:08:14.182630+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '💯'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-29T14:08:11.436362+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
@@ -2486,7 +2486,7 @@ const chats = [
 				text: '🤟'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T17:09:42.358934+00:00',
 				likes: [
 					{
@@ -2503,17 +2503,17 @@ const chats = [
 				text: 'Haha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:14:28.258955+00:00',
 				text: 'she is great'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:14:12.779845+00:00',
 				text: 'not in a year'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:14:04.601448+00:00',
 				text: '5 at a time'
 			},
@@ -2528,7 +2528,7 @@ const chats = [
 				text: "It's her choice"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:12:44.415410+00:00',
 				story_share: "Shared bang_dan_shadow's story",
 				text: 'u hv heard of neha dhupia?'
@@ -2544,17 +2544,17 @@ const chats = [
 				text: 'Haha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:11:47.194698+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:11:45.831588+00:00',
 				text: 'mjhe meri muummy wali feel ari h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:11:19.808508+00:00',
 				text: 'esa kya'
 			},
@@ -2569,17 +2569,17 @@ const chats = [
 				text: 'Haha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:10:30.853306+00:00',
 				text: 'thanks btw'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:10:25.495100+00:00',
 				text: 'sangharsh m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:10:19.839391+00:00',
 				text: 'haan lge hue h'
 			},
@@ -2594,7 +2594,7 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:07:25.716886+00:00',
 				text: 'software dev engg'
 			},
@@ -2604,22 +2604,22 @@ const chats = [
 				text: 'Sde ?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:07:09.089089+00:00',
 				text: 'sde'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:07:03.609046+00:00',
 				text: "I'mma"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:07:00.235121+00:00',
 				text: 'mera'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:06:54.939103+00:00',
 				likes: [
 					{
@@ -2646,7 +2646,7 @@ const chats = [
 				text: '🙂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:05:59.276713+00:00',
 				text: 'shi h'
 			},
@@ -2661,12 +2661,12 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:01:27.008078+00:00',
 				text: 'like profession'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:01:14.985892+00:00',
 				text: 'vese tm krti kya hi'
 			},
@@ -2676,7 +2676,7 @@ const chats = [
 				text: 'Yeah'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:01:05.586673+00:00',
 				text: 'oh accha'
 			},
@@ -2691,7 +2691,7 @@ const chats = [
 				text: 'Data on rehta h saara din'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T19:00:25.542369+00:00',
 				text: 'lol jk'
 			},
@@ -2701,24 +2701,24 @@ const chats = [
 				text: 'Nhi to'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T18:59:56.634685+00:00',
 				text: 'pere din online rehti ho kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T18:59:45.821440+00:00',
 				text: 'too quick'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T18:59:11.333908+00:00',
 				text: 'lolol'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-27T15:04:03.273124+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
@@ -2732,7 +2732,7 @@ const chats = [
 				text: 'Haha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T14:40:58.034073+00:00',
 				likes: [
 					{
@@ -2749,7 +2749,7 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T12:13:38.413720+00:00',
 				text: 'are travelling and stuff'
 			},
@@ -2769,24 +2769,24 @@ const chats = [
 				text: 'Hahahah'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:41:14.701278+00:00',
 				text: 'to ghr ke ander hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:40:49.369793+00:00',
 				text: 'its just im used to that'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T11:40:35.237898+00:00',
 				text: 'nhi'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-27T10:55:58.930074+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text:
 					'Kya hua ? Where r ú gng ? 😂😂 Kahi tum earth chhod kr to nhi jaa rhe 😛😛'
 			},
@@ -2796,7 +2796,7 @@ const chats = [
 				text: '😁😁🤭'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T06:19:53.073662+00:00',
 				likes: [
 					{
@@ -2807,7 +2807,7 @@ const chats = [
 				text: 'my gawdd'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T06:19:45.883746+00:00',
 				likes: [
 					{
@@ -2820,19 +2820,19 @@ const chats = [
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-27T05:53:08.206584+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😢'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-27T05:53:05.690530+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '💯'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-27T05:53:03.118277+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
@@ -2846,37 +2846,37 @@ const chats = [
 				text: 'Haha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-26T19:29:09.397580+00:00',
 				text: 'thanks btw'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-26T19:29:04.364643+00:00',
 				text: 'i am'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-26T19:28:56.680773+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Great !!!!'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-26T19:28:51.203976+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '👏'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-26T19:28:48.985823+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-26T10:10:04.689902+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
@@ -2885,7 +2885,7 @@ const chats = [
 				text: '🥺'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-26T08:32:24.621940+00:00',
 				likes: [
 					{
@@ -2899,36 +2899,36 @@ const chats = [
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-24T15:32:00.184317+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T11:55:32.891729+00:00',
 				text: 'hahaha'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-24T11:45:42.476034+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😮'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-24T11:45:39.841055+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-24T11:45:03.376724+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'God oh God !!!!!!! 😂😂😂😂😂😂😂😂 ROFL'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-24T11:44:46.570110+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
@@ -2937,7 +2937,7 @@ const chats = [
 				text: '😁'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-23T14:26:29.243710+00:00',
 				likes: [
 					{
@@ -2949,7 +2949,7 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-23T14:22:27.345112+00:00',
 				likes: [
 					{
@@ -2960,7 +2960,7 @@ const chats = [
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-23T14:22:24.080080+00:00',
 				likes: [
 					{
@@ -2980,7 +2980,7 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e15/p640x640/90432559_509769006353219_24582173514949234_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_ohc=y5biFv_2Tw4AX_ZGeU2&_nc_tp=4&oh=fdbea87efe9bdbc3e20a0b943f888c3a&oe=5EAF92AF&ig_cache_key=MjI3MDY0NzI4Njg2OTc4NzE5OQ%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-21T15:02:15.923349+00:00',
 				likes: [
 					{
@@ -2993,42 +2993,42 @@ const chats = [
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-21T08:21:31.635005+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-21T08:21:09.895211+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-19T17:31:12.658651+00:00',
 				text: '🤣'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-19T16:41:14.376911+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-19T16:41:11.929537+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '💯'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-03-19T16:39:46.653391+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
 				sender: 'bang_dan_shadow',
 				created_at: '2020-01-05T17:33:59.114719+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '💙💙'
 			},
 			{
@@ -3037,7 +3037,7 @@ const chats = [
 				text: '😁😁🤭'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-03T14:36:42.998391+00:00',
 				likes: [
 					{
@@ -3051,12 +3051,12 @@ const chats = [
 		]
 	},
 	{
-		participants: ['meh_anubhav', 'just_junaid_here'],
+		participants: ['meh_anubhav', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'meh_anubhav',
 				created_at: '2020-03-28T14:22:51.032405+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
@@ -3065,13 +3065,13 @@ const chats = [
 				text: '😅😅😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-26T10:36:36.379728+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: '😢'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:52:54.816437+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-12-18T17:53:52.358994+00:00' }
@@ -3084,7 +3084,7 @@ const chats = [
 				text: 'Sahi lagre'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:48:25.363475+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-12-18T17:51:36.067200+00:00' }
@@ -3097,18 +3097,18 @@ const chats = [
 				text: 'ekdum bae😆\nBleach kraye baal?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:46:59.251848+00:00',
 				text: 'are bhai h'
 			},
 			{
 				sender: 'meh_anubhav',
 				created_at: '2019-12-18T17:44:13.618992+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Aray cheetah🤗'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-01T20:36:48.625992+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-12-02T07:04:46.196138+00:00' }
@@ -3117,7 +3117,7 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-13T20:41:12.866559+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-11-13T22:00:38.659324+00:00' }
@@ -3131,7 +3131,7 @@ const chats = [
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-03T05:48:41.647743+00:00',
 				text: 'kya baat krra'
 			},
@@ -3143,11 +3143,11 @@ const chats = [
 			{
 				sender: 'meh_anubhav',
 				created_at: '2019-11-03T00:31:01.481095+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Tu fatega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-29T17:34:02.354508+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-10-29T17:47:46.181347+00:00' }
@@ -3161,13 +3161,13 @@ const chats = [
 				text: 'Yoooow'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-29T10:33:29.585950+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'yo bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-15T16:58:55.630784+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-10-16T03:13:35.398029+00:00' }
@@ -3181,7 +3181,7 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-10T15:08:15.708059+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-10-10T16:11:17.095396+00:00' }
@@ -3190,13 +3190,13 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T19:22:11.813057+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-04T13:58:44.103921+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: '💯'
@@ -3212,7 +3212,7 @@ const chats = [
 				text: '✌'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-24T17:44:02.098180+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'medium ugly lol'
@@ -3223,7 +3223,7 @@ const chats = [
 				text: 'Ho ho lel cool'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T18:39:19.871376+00:00',
 				text: 'han bhai jb niklegi bta dunga'
 			},
@@ -3243,7 +3243,7 @@ const chats = [
 				text: 'Hahaha lel'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T18:12:50.564002+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-09-23T18:20:18.866187+00:00' }
@@ -3251,17 +3251,17 @@ const chats = [
 				text: 'koi dikkat ho to bhai h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T18:12:50.125311+00:00',
 				text: 'sb ho jaega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T18:12:49.584874+00:00',
 				text: 'are koi na padhle'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T18:12:49.020147+00:00',
 				text: 'haan bhai'
 			},
@@ -3276,7 +3276,7 @@ const chats = [
 				text: 'Python se web dev.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T17:36:34.463236+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-09-23T17:36:48.330255+00:00' }
@@ -3284,7 +3284,7 @@ const chats = [
 				text: 'mtlb full stack h apna'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T17:36:25.275435+00:00',
 				text: 'js python'
 			},
@@ -3304,7 +3304,7 @@ const chats = [
 				text: 'Aacha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T17:34:19.415786+00:00',
 				text: 'nhi bhai esa kuch ni h sbka scope h jo bhi dhang se ata h'
 			},
@@ -3329,7 +3329,7 @@ const chats = [
 				text: 'Sahi hai bete'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T17:31:22.736543+00:00',
 				text: 'software dev.'
 			},
@@ -3344,7 +3344,7 @@ const chats = [
 				text: 'Kahe mai?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T17:30:03.069168+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-09-23T17:30:33.996056+00:00' }
@@ -3362,7 +3362,7 @@ const chats = [
 				text: 'Kya naukri kr ra??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T17:27:59.834456+00:00',
 				text: 'haan bhai yhi hoon'
 			},
@@ -3372,12 +3372,12 @@ const chats = [
 				text: 'Delhi hi hoga tu toh?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T15:42:35.793487+00:00',
 				text: '*betha rehta hun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T15:42:31.172005+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-09-23T17:04:26.970813+00:00' }
@@ -3395,13 +3395,13 @@ const chats = [
 				text: 'Shukriya janab'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T15:10:37.881411+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-20T08:45:42.407728+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-09-20T13:24:25.033612+00:00' }
@@ -3415,7 +3415,7 @@ const chats = [
 				text: '🙂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-13T04:16:35.730830+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-09-13T08:04:38.887962+00:00' }
@@ -3429,7 +3429,7 @@ const chats = [
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-11T09:35:33.253901+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-09-11T10:41:28.913247+00:00' }
@@ -3443,13 +3443,13 @@ const chats = [
 				text: '😂😂mauj hi nirali hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-09T17:19:54.623927+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: '😮'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-11T08:29:48.867246+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-07-11T08:36:50.130827+00:00' }
@@ -3458,7 +3458,7 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-29T18:50:23.612944+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2019-06-30T05:47:08.386620+00:00' }
@@ -3466,7 +3466,7 @@ const chats = [
 				text: 'are sre to jaan h bc🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-29T18:50:11.111283+00:00',
 				text: 'bdiya bhai'
 			},
@@ -3496,12 +3496,12 @@ const chats = [
 				text: 'Bhadia bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-29T18:40:50.949206+00:00',
 				text: 'kesa h tu bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-29T18:40:36.819111+00:00',
 				text: 'bhai delhi'
 			},
@@ -3511,20 +3511,20 @@ const chats = [
 				text: 'Tu kha hai??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-29T18:39:35.676515+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'shi h bro🤙'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-27T18:37:33.511262+00:00',
 				text: 'haan bhai'
 			},
 			{
 				sender: 'meh_anubhav',
 				created_at: '2019-04-27T17:46:14.974618+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Noice be♥'
 			},
 			{
@@ -3538,22 +3538,22 @@ const chats = [
 				text: 'Lul theeke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:32:12.983087+00:00',
 				text: 'ttyl'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:32:09.872778+00:00',
 				text: 'office ka time ho gya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:31:55.318549+00:00',
 				text: 'chl yaar m gotta go'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:31:45.330845+00:00',
 				text: 'haan bhai'
 			},
@@ -3588,12 +3588,12 @@ const chats = [
 				text: 'Bhai bahar toh maja hai hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:12:37.910486+00:00',
 				text: 'getting +ve vibes here'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:12:12.319039+00:00',
 				text: 'exactly bhai'
 			},
@@ -3618,17 +3618,17 @@ const chats = [
 				text: 'Woi bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:10:54.440948+00:00',
 				text: 'ekdum ubhar ke niklte h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:10:39.424615+00:00',
 				text: 'apna next level h bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:10:22.194496+00:00',
 				text: 'abe haan'
 			},
@@ -3653,12 +3653,12 @@ const chats = [
 				text: 'Woi bhai😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:09:25.389537+00:00',
 				text: 'bc esa kya kiya inhone'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:09:16.746696+00:00',
 				text: 'abe konsi field h inki'
 			},
@@ -3678,12 +3678,12 @@ const chats = [
 				text: 'Woi bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:08:24.193870+00:00',
 				text: 'faad mt bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:08:16.953937+00:00',
 				text: 'oh bc kya baat krra'
 			},
@@ -3708,17 +3708,17 @@ const chats = [
 				text: 'Bhaisaab rhythm placed ho gyi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:06:48.949137+00:00',
 				text: 'sb shi chl ra inka'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:06:40.707492+00:00',
 				text: 'ayr ye log kya krre'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:06:33.919375+00:00',
 				text: 'okay'
 			},
@@ -3728,7 +3728,7 @@ const chats = [
 				text: 'Ghr aaya hua tha 2 din se ab jaunga wapaas aaj'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:05:50.800645+00:00',
 				text: 'tra bta kya scene h'
 			},
@@ -3743,12 +3743,12 @@ const chats = [
 				text: 'Hahahaha han'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:05:31.543163+00:00',
 				text: 'ye to m bkchodi krra tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:05:21.470846+00:00',
 				text: 'vese ghr ki baat alag hi h bc'
 			},
@@ -3768,17 +3768,17 @@ const chats = [
 				text: 'Hahah han bae'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:04:22.102802+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:04:19.551953+00:00',
 				text: 'ghr kisko jaana h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:04:13.272700+00:00',
 				text: 'are ab to yhi zindagi h'
 			},
@@ -3803,17 +3803,17 @@ const chats = [
 				text: 'Theekr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:03:28.225259+00:00',
 				text: 'kisi sunday'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:03:11.623541+00:00',
 				text: 'tra delhi aana ho to milio'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:02:57.368702+00:00',
 				text: 'haan haan vhi'
 			},
@@ -3838,7 +3838,7 @@ const chats = [
 				text: 'Ohoo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:02:18.165821+00:00',
 				text: 'abe gurugram almost 6 mhine se'
 			},
@@ -3863,17 +3863,17 @@ const chats = [
 				text: 'Han'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:01:43.982702+00:00',
 				text: 'abhi to vese bhi ghr pe ni tha m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:01:28.419053+00:00',
 				text: 'milte h na kbhi dhang se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T04:01:09.207835+00:00',
 				text: 'are bhai bhai'
 			},
@@ -3893,7 +3893,7 @@ const chats = [
 				text: 'Abay tere bare mai pooch rhe thae sb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-04T03:39:35.897931+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'are bohot shi👌'
@@ -3904,7 +3904,7 @@ const chats = [
 				text: '😅😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-03T16:49:27.450407+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2018-07-03T17:10:44.476377+00:00' }
@@ -3928,7 +3928,7 @@ const chats = [
 				text: 'Panoti saal'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-03T08:20:24.867552+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2018-07-03T11:01:32.923001+00:00' }
@@ -3939,17 +3939,17 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-01T07:58:15.623629+00:00',
 				text: 'wo bechara tadap ra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-01T07:57:59.672432+00:00',
 				text: 'pogba ki setting ni kra ra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-01T07:57:48.171822+00:00',
 				text: 'hai kahan tu'
 			},
@@ -3964,7 +3964,7 @@ const chats = [
 				text: 'Jb ayange'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-01T07:57:04.435417+00:00',
 				text: 'londo ke hi ae fir'
 			},
@@ -3974,22 +3974,22 @@ const chats = [
 				text: 'Abay aise nahi hai koi filhal'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-01T07:55:59.462500+00:00',
 				text: 'uska bhi aya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-01T07:55:44.046979+00:00',
 				text: '😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-01T07:55:43.413073+00:00',
 				text: 'kya aya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-01T07:55:42.887586+00:00',
 				text: 'are bhai ** 4'
 			},
@@ -4014,13 +4014,13 @@ const chats = [
 				text: 'Aarae h bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-01T07:52:39.793531+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: '😕😮'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-01T07:52:23.080335+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'reply bhi ara koi'
@@ -4036,7 +4036,7 @@ const chats = [
 				text: 'Thnks bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-04-06T17:40:36.247094+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'happy badday bhai'
@@ -4047,7 +4047,7 @@ const chats = [
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-21T06:44:12.767254+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text:
@@ -4058,19 +4058,19 @@ const chats = [
 				created_at: '2018-02-05T19:06:39.474370+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2018-02-05T19:06:48.458407+00:00'
 					}
 				],
 				text: 'Theeke gn'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:06:36.457968+00:00',
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:06:32.838788+00:00',
 				likes: [
 					{ username: 'meh_anubhav', date: '2018-02-05T19:06:37.633861+00:00' }
@@ -4083,7 +4083,7 @@ const chats = [
 				text: 'Aunga toh bataunga sre'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:06:24.568444+00:00',
 				text: 'lolwa'
 			},
@@ -4093,7 +4093,7 @@ const chats = [
 				text: 'Chalo theeke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:06:20.045285+00:00',
 				text: 'naam na badnaam kriyo mra'
 			},
@@ -4103,12 +4103,12 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:06:05.710386+00:00',
 				text: 'chl badhiyya padh le bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:05:55.808852+00:00',
 				text: 'yeah'
 			},
@@ -4123,7 +4123,7 @@ const chats = [
 				text: 'Yup'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:05:27.431518+00:00',
 				text: 'regular'
 			},
@@ -4138,7 +4138,7 @@ const chats = [
 				text: 'Jata hu mai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:05:14.042718+00:00',
 				text: 'lol'
 			},
@@ -4148,7 +4148,7 @@ const chats = [
 				text: 'Han maje aate hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:05:08.333748+00:00',
 				text: 'u shud try once'
 			},
@@ -4158,17 +4158,17 @@ const chats = [
 				text: 'Ye nai tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:04:56.699977+00:00',
 				text: 'bc gym ka apna alag maja h bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:04:43.143611+00:00',
 				text: 'bhai bs thoda bhut'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:04:30.905608+00:00',
 				text: 'ye to h tre paas'
 			},
@@ -4178,7 +4178,7 @@ const chats = [
 				text: 'Yo gym freak'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:04:22.188719+00:00',
 				text: '9211662744'
 			},
@@ -4193,7 +4193,7 @@ const chats = [
 				text: 'Tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:04:03.729168+00:00',
 				text: 'aaj kl bhai gym chl ra tha'
 			},
@@ -4203,7 +4203,7 @@ const chats = [
 				text: 'No. Konsa chala rha hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:03:46.095425+00:00',
 				text: 'insta ka bhi esa hi h'
 			},
@@ -4213,7 +4213,7 @@ const chats = [
 				text: 'Hmmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:03:33.152126+00:00',
 				text: 'na bhai aaj hi install kiya'
 			},
@@ -4243,12 +4243,12 @@ const chats = [
 				text: 'Skip ho gya tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:02:49.679704+00:00',
 				text: 'bta diya kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:02:44.074070+00:00',
 				text: 'yaar bta deta m ajata'
 			},
@@ -4273,17 +4273,17 @@ const chats = [
 				text: 'Sunday mai aunga shayad'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:01:55.783481+00:00',
 				text: 'milte h bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:01:51.729030+00:00',
 				text: 'yahi hoon tu bta kb ara'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:01:37.029280+00:00',
 				text: 'haan bhai'
 			},
@@ -4303,17 +4303,17 @@ const chats = [
 				text: 'Bs kya kahene apne toh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:00:55.378106+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:00:53.838067+00:00',
 				text: 'mgr apni jada badhiya h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T19:00:28.668976+00:00',
 				text: 'wo to h khair'
 			},
@@ -4328,17 +4328,17 @@ const chats = [
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T18:59:53.118683+00:00',
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T18:59:21.812416+00:00',
 				text: 'pkka'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T18:59:19.575754+00:00',
 				text: 'haan bhai'
 			},
@@ -4353,19 +4353,19 @@ const chats = [
 				text: 'Sooch le'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T18:56:45.289346+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'doodh-gud ki dali :)'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-05T18:56:17.612329+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'chai-biscut'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:08:59.628394+00:00',
 				text: 'Sme 2 u bro'
 			},
@@ -4375,17 +4375,17 @@ const chats = [
 				text: 'Phasa phasa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:06:39.211405+00:00',
 				text: '💑💏👪'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:06:15.849490+00:00',
 				text: '💪'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:06:09.819261+00:00',
 				text: '👅'
 			},
@@ -4395,7 +4395,7 @@ const chats = [
 				text: '👍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:05:16.485274+00:00',
 				text: 'Bpit'
 			},
@@ -4415,17 +4415,17 @@ const chats = [
 				text: 'Hmmm noice'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:04:35.894349+00:00',
 				text: 'Abe ipu du lil bit same same'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:04:14.094477+00:00',
 				text: '* no.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:04:06.054233+00:00',
 				text: 'Mra wala 4 pe h'
 			},
@@ -4440,12 +4440,12 @@ const chats = [
 				text: 'Ooo phk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:03:47.092978+00:00',
 				text: 'Aur vese bhi ipu ke under 30 40 clg aate h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:03:18.555902+00:00',
 				text: 'Abe chutiye 😂😂😂'
 			},
@@ -4465,17 +4465,17 @@ const chats = [
 				text: 'Ipu mai hai wo bhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:02:46.780616+00:00',
 				text: 'Lode'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:02:42.402842+00:00',
 				text: 'Knsa course h uska'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:02:31.856971+00:00',
 				text: 'Riya kahan h bc wahan'
 			},
@@ -4495,7 +4495,7 @@ const chats = [
 				text: 'Aacha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:01:23.878367+00:00',
 				text: 'Delhi jaunga 7 ko'
 			},
@@ -4505,12 +4505,12 @@ const chats = [
 				text: 'College ya sre'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T08:25:31.899257+00:00',
 				text: '7 ko waps jaunga...😉'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T08:25:15.212428+00:00',
 				text: 'Kl hi wapas aya..'
 			},
@@ -4520,7 +4520,7 @@ const chats = [
 				text: 'Tu chala gya college'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T05:49:37.996133+00:00',
 				text: 'Bdhiya h bc 👍'
 			},
@@ -4545,19 +4545,19 @@ const chats = [
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-03T18:51:33.290853+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'Londe to chutiya hi lgre bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-03T18:51:15.466597+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'Ae bete shi h bc lindiyan kesi h?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:26:29.782815+00:00',
 				text: '✌👍'
 			},
@@ -4572,27 +4572,27 @@ const chats = [
 				text: 'Chalo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:25:55.211892+00:00',
 				text: 'Milte rehwenge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:25:45.969978+00:00',
 				text: 'Delhi bh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:25:39.879704+00:00',
 				text: 'Paas hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:25:36.315898+00:00',
 				text: 'Pr koi na bhai tre'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:25:29.975122+00:00',
 				text: 'Bhai dekhta hoon vese ab mushkil hi h..'
 			},
@@ -4607,17 +4607,17 @@ const chats = [
 				text: 'Ary yaar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:24:28.701431+00:00',
 				text: 'Milneli'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:24:24.321908+00:00',
 				text: 'Agr ho bhi jaga to cs ya it ni'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:24:12.459183+00:00',
 				text: 'Bhai ab na hone ka'
 			},
@@ -4632,12 +4632,12 @@ const chats = [
 				text: 'Aray yaar kiet hi leele'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:23:31.062007+00:00',
 				text: 'Bhai wrna kiet m hi aata bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:23:12.855807+00:00',
 				text: 'Bhai mra kahin aur jugaad chlra'
 			},
@@ -4662,22 +4662,22 @@ const chats = [
 				text: 'Abay yaar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:22:11.142087+00:00',
 				text: 'Mil jangi cs m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:22:03.743083+00:00',
 				text: 'Bc londiyan bhi shi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:21:56.572065+00:00',
 				text: 'Alg se h unka'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:21:50.736552+00:00',
 				text: 'Abe cs ka sbse shi hisaab kitab h bc'
 			},
@@ -4697,22 +4697,22 @@ const chats = [
 				text: 'Aacha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:21:13.895418+00:00',
 				text: 'M to ghuma wa kiet m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:20:57.767503+00:00',
 				text: 'Mje le bc shi h waha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:20:50.365084+00:00',
 				text: '✌👍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:20:36.633712+00:00',
 				text: 'Ra'
 			},
@@ -4722,7 +4722,7 @@ const chats = [
 				text: 'Matlb aise hi sage mama nahi hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:20:34.210322+00:00',
 				text: 'Are m to yuhi keh'
 			},
@@ -4737,12 +4737,12 @@ const chats = [
 				text: 'Bhai mummy papa ne baat kri'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:19:13.736047+00:00',
 				text: 'Ho ske'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:19:04.677526+00:00',
 				text: 'Abe mra bhi jugaad krade bc'
 			},
@@ -4762,7 +4762,7 @@ const chats = [
 				text: 'Unki family k 3 bchhae wahi padhay hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:18:21.385388+00:00',
 				text: 'Abe shi bta'
 			},
@@ -4782,17 +4782,17 @@ const chats = [
 				text: 'Chacha vidhayak hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:18:00.385891+00:00',
 				text: 'H kon tra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:17:49.037891+00:00',
 				text: '10 k  bhi milti cs wahan'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:17:33.908152+00:00',
 				text: 'Haan vhi to bc'
 			},
@@ -4802,12 +4802,12 @@ const chats = [
 				text: 'Source hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:16:55.245314+00:00',
 				text: 'Bta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:16:52.978525+00:00',
 				text: 'Abe kese bc'
 			},
@@ -4817,7 +4817,7 @@ const chats = [
 				text: 'Han bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:16:18.449704+00:00',
 				text: 'Abe cs kese mili shi shu bta'
 			},
@@ -4832,17 +4832,17 @@ const chats = [
 				text: 'Ka matbl?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:15:22.751607+00:00',
 				text: 'Kiet ka kya scene h tra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:15:10.476548+00:00',
 				text: 'Abe sun u bta bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:14:58.875677+00:00',
 				text: '😳😑😒'
 			},
@@ -4862,13 +4862,13 @@ const chats = [
 				text: '😉'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:14:13.983025+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: '👌shi h bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:21:57.271378+00:00',
 				text: 'Abhi le'
 			},
@@ -4883,7 +4883,7 @@ const chats = [
 				text: 'Aray pagal hai kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:21:37.644526+00:00',
 				text: 'Tjhe koi dikkt to na'
 			},
@@ -4908,17 +4908,17 @@ const chats = [
 				text: 'Dekh le'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:21:17.444057+00:00',
 				text: 'Londiyon k liye h ye sb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:21:04.470860+00:00',
 				text: 'Bta mgr yr same ho jagi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:20:53.042837+00:00',
 				text: 'M bhi daalta hun bv'
 			},
@@ -4934,7 +4934,7 @@ const chats = [
 				text: 'Chutiya hi sahi tha😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:19:53.787100+00:00',
 				text: '12'
 			},
@@ -4949,7 +4949,7 @@ const chats = [
 				text: 'Aacha bta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:19:42.721128+00:00',
 				text: 'Chutiya hi to h'
 			},
@@ -4959,7 +4959,7 @@ const chats = [
 				text: '😂😂😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:19:28.973651+00:00',
 				text: 'Chl thik hi to h bc'
 			},
@@ -4989,7 +4989,7 @@ const chats = [
 				text: 'Bs phr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:18:42.880452+00:00',
 				text: 'Esa kahin hua kre'
 			},
@@ -5009,12 +5009,12 @@ const chats = [
 				text: 'Lol krle assume k iit delhi mil gyi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:18:03.130859+00:00',
 				text: 'Krne ki jrurt ni h vese'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:17:52.314111+00:00',
 				text: 'M assume kr leta hun...'
 			},
@@ -5029,17 +5029,17 @@ const chats = [
 				text: 'Soory'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:16:58.278549+00:00',
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:16:55.784116+00:00',
 				text: 'Mjhe lga hoga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:16:49.900433+00:00',
 				text: 'Papa ni h'
 			},
@@ -5054,7 +5054,7 @@ const chats = [
 				text: 'Chutiya hai is no pae toh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:13:38.251208+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: '69'
@@ -5065,7 +5065,7 @@ const chats = [
 				text: 'G'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-06T10:45:04.460981+00:00',
 				text: 'Phir chhod bc'
 			},
@@ -5075,17 +5075,17 @@ const chats = [
 				text: 'Lol nai choti hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-06T10:43:08.712630+00:00',
 				text: 'Fasa le ise'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-06T10:43:01.369167+00:00',
 				text: 'Tne...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-06T10:42:55.237245+00:00',
 				text: 'Kuch kiya?'
 			},
@@ -5095,7 +5095,7 @@ const chats = [
 				text: 'Basktball khelti thi ye saath mai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-06T10:42:20.804257+00:00',
 				text: 'H kon'
 			},
@@ -5110,7 +5110,7 @@ const chats = [
 				text: '😂😂😂 gandu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-06T10:40:31.702505+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'Bhai ye wali pyari lgri..bc kn h yr?😍'
@@ -5121,12 +5121,12 @@ const chats = [
 				text: 'Ouk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:32:20.442939+00:00',
 				text: '👍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:32:02.462265+00:00',
 				text: 'Chl thik h dekh lio jsa bhi ho'
 			},
@@ -5146,7 +5146,7 @@ const chats = [
 				text: 'Aray ab dwkha jayega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:30:46.486963+00:00',
 				text: 'Abe konsa chahiye tjhe'
 			},
@@ -5166,22 +5166,22 @@ const chats = [
 				text: 'Hmm bs kl dhayan dunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:29:29.025213+00:00',
 				text: 'Vrna dikkat ho jaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:29:16.924008+00:00',
 				text: 'Mtlb kon sa mil ske ya nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:28:44.138757+00:00',
 				text: 'Dekh ke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:28:40.351131+00:00',
 				text: 'Abe choice acche se bhario'
 			},
@@ -5191,12 +5191,12 @@ const chats = [
 				text: '😂😂😂 han wo toh hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:28:21.350416+00:00',
 				text: 'Chutiya bna rakha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:28:13.675892+00:00',
 				text: 'Pta ni koi keh ra abes koi kiet'
 			},
@@ -5211,22 +5211,22 @@ const chats = [
 				text: 'Hmm aacha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:27:20.353265+00:00',
 				text: 'Dekhta hoon'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:27:15.199339+00:00',
 				text: 'Mil gyi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:27:09.778373+00:00',
 				text: 'Abe mjhe abes m ece'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:26:51.314434+00:00',
 				text: 'Yeah..gjjb'
 			},
@@ -5246,12 +5246,12 @@ const chats = [
 				text: 'Evolution'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:26:23.061993+00:00',
 				text: 'Tu kon sa lera'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:26:10.440927+00:00',
 				text: 'Aaj dekh'
 			},
@@ -5261,7 +5261,7 @@ const chats = [
 				text: 'Aray aacha ye bta college uptu se lega!?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:26:04.732836+00:00',
 				text: 'Bc kese the hm'
 			},
@@ -5276,7 +5276,7 @@ const chats = [
 				text: 'School pic dwkhi hogi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:25:41.646993+00:00',
 				text: 'Ukg ki grp photo dekh ra tha bc'
 			},
@@ -5286,7 +5286,7 @@ const chats = [
 				text: 'Hayeee seedha dil pae laga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:25:20.133419+00:00',
 				text: 'Vese bc mjhe bhi kl hi pta lga'
 			},
@@ -5296,17 +5296,17 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:24:48.480342+00:00',
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:24:41.354670+00:00',
 				text: 'Bhaihood'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:24:35.801967+00:00',
 				text: 'Ye dekh bc😎'
 			},
@@ -5327,7 +5327,7 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e15/s480x480/19761954_1435526383200705_8134621831890993152_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_ohc=Fig8a-0d4g0AX_keCf4&oh=ed1f8e5f6c6a6e3e5ecf487896067109&oe=5EB100E0&ig_cache_key=MjE1NzcyNDgzODc2NDI1ODk0OQ%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:17:32.622751+00:00',
 				text: 'Londiyon m kisko bheja'
 			},
@@ -5337,7 +5337,7 @@ const chats = [
 				text: 'Ek min ruk aacha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:15:19.579312+00:00',
 				text: '😂😂😂bc'
 			},
@@ -5347,7 +5347,7 @@ const chats = [
 				text: 'Mai toh soochra tha aisae londiya pics dede shayad'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:15:02.191251+00:00',
 				text: 'Bhej phir'
 			},
@@ -5357,7 +5357,7 @@ const chats = [
 				text: 'Dal lae mrzee hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:14:40.628632+00:00',
 				text: 'M bhi krun kya'
 			},
@@ -5367,12 +5367,12 @@ const chats = [
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:14:17.681869+00:00',
 				text: 'Arre gjjb bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:14:02.126797+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: '😘😂😂😂👌👍😍😍'
@@ -5393,17 +5393,17 @@ const chats = [
 				text: 'Wait rae ab dwkhna stoey'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:07:34.961573+00:00',
 				text: '😀😀'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:07:19.088328+00:00',
 				text: 'H tu apna'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:07:14.361434+00:00',
 				text: '😆😆bhai'
 			},
@@ -5413,13 +5413,13 @@ const chats = [
 				text: 'Kaidi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:06:18.965980+00:00',
 				media:
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e15/p480x480/19932031_112350972728414_2977943998775164928_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=102&_nc_ohc=SK_VJjXvH6cAX9EVobq&_nc_tp=4&oh=461ba913965dc0ef6e3f2c339568b271&oe=5EAF74A8&ig_cache_key=MjE1NzcyNDg0Mjc5OTI2ODA2MQ%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:06:08.940385+00:00',
 				text: 'Abe yhi h thik si...'
 			},
@@ -5440,13 +5440,13 @@ const chats = [
 				text: 'ik'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-16T15:50:36.490143+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'Rofl'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-13T10:15:20.826584+00:00',
 				text: 'Chl bdhiya h milte h phir.....'
 			},
@@ -5456,12 +5456,12 @@ const chats = [
 				text: '😎btaunga kisi din mil k ssare kaand'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-13T05:53:00.067206+00:00',
 				text: 'Fasai kya koi ya phir hila hi ra ab bhi..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-13T05:52:29.737797+00:00',
 				text: 'Shi keh ra muth maro daba k....'
 			},
@@ -5476,17 +5476,17 @@ const chats = [
 				text: 'oho bilkul milange bakchodi toh abhi bhi kr ra mai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-13T05:15:31.685091+00:00',
 				text: 'Bkchodi krenge bc dbake...adv. k bd..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-13T05:14:57.546044+00:00',
 				text: 'Prajwal aur prasant to milte rehte h...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-13T05:13:58.232872+00:00',
 				text: 'Bhai mil bhi liya kr kbhi...'
 			},
@@ -5511,23 +5511,23 @@ const chats = [
 				text: 'Ohooo ouk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-12T21:25:24.284576+00:00',
 				text: 'Baaki aur bta ?? Ldkiyaan maa chudain..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-12T21:24:22.627722+00:00',
 				text: 'Dm hi kehte hain use...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-12T21:24:04.398735+00:00',
 				text:
 					'Story pe upar swipe kra kr..ya phir send message pr click kr diya kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-12T21:22:32.940198+00:00',
 				text: 'Abe jese mene tjhe dm hi to kiya tha...'
 			},
@@ -5553,7 +5553,7 @@ const chats = [
 					'Aur nito kya ..36 ayangi 36 jayangi chai peene se rokagi maa chudayangi 😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:36:30.134415+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: 'Bhai h tu apna ....#chai is life'
@@ -5561,18 +5561,18 @@ const chats = [
 		]
 	},
 	{
-		participants: ['shamim_malik_', 'just_junaid_here'],
+		participants: ['shamim_malik_', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'shamim_malik_',
 				created_at: '2020-03-28T08:33:41.854532+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '👏'
 			},
 			{
 				sender: 'shamim_malik_',
 				created_at: '2020-03-28T08:33:39.306751+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
@@ -5581,7 +5581,7 @@ const chats = [
 				text: 'Haan bhai alhamdulillah'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-26T05:28:00.267142+00:00',
 				text: 'aur sb khairiat'
 			},
@@ -5591,7 +5591,7 @@ const chats = [
 				text: 'Haan bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-25T19:26:49.071754+00:00',
 				story_share: "Shared shamim_malik_'s story",
 				text: 'nasik hi'
@@ -5599,10 +5599,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['rohanjangotra', 'just_junaid_here'],
+		participants: ['rohanjangotra', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-28T07:53:35.689888+00:00',
 				text: 'accha'
 			},
@@ -5612,22 +5612,22 @@ const chats = [
 				text: 'Areh ng mein log emt ka kaam kar rahe hain'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T18:58:26.000215+00:00',
 				text: 'emt to thap ho chuki hogi iss time'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T18:57:53.742680+00:00',
 				text: 'emt m h tu ab'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T18:57:32.609542+00:00',
 				text: 'band ho gya kya ng'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T18:57:25.749533+00:00',
 				text: 'mtlb'
 			},
@@ -5647,24 +5647,24 @@ const chats = [
 				text: 'Lol kuch khas nahin bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T13:22:35.672422+00:00',
 				story_share: "Shared rohanjangotra's story",
 				text: 'aur bhai kya chlra h ng pe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T13:22:21.125378+00:00',
 				story_share: "Shared rohanjangotra's story",
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-18T06:26:37.077644+00:00',
 				text: 'sb tukke marre the'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-18T06:26:28.741792+00:00',
 				text: 'shi kisi ka ni h'
 			},
@@ -5674,22 +5674,22 @@ const chats = [
 				text: 'Outsource Karke kitne log ne bataya?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-18T06:25:43.404724+00:00',
 				text: 'vrna ata mere ko bhi tha😜'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-18T06:25:27.231143+00:00',
 				text: 'abe outsource kr diya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-18T06:25:18.888239+00:00',
 				text: '🤣🤣🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-18T06:25:15.757376+00:00',
 				text: 'lol'
 			},
@@ -5704,24 +5704,24 @@ const chats = [
 				text: 'Abe mujhe toh aata tha tab bhi Nahin kiya Maine reply !'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-18T02:21:18.676480+00:00',
 				text: '🤣🤣🤣🤣'
 			},
 			{
 				sender: 'rohanjangotra',
 				created_at: '2019-08-17T20:50:05.303751+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂😂😂😂 perfect social media use'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-02T08:50:34.162771+00:00',
 				story_share: "Shared rohanjangotra's story",
 				text: '😢'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T12:54:28.722502+00:00',
 				story_share: "Shared rohanjangotra's story",
 				text: '🔥'
@@ -5729,18 +5729,18 @@ const chats = [
 		]
 	},
 	{
-		participants: ['abnair_khan', 'just_junaid_here'],
+		participants: ['abnair_khan', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'abnair_khan',
 				created_at: '2020-03-28T03:41:56.704978+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
 				sender: 'abnair_khan',
 				created_at: '2020-03-24T12:55:40.570261+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
@@ -5749,7 +5749,7 @@ const chats = [
 				text: 'Accha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T12:23:39.100512+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2020-03-24T12:54:01.748542+00:00' }
@@ -5767,7 +5767,7 @@ const chats = [
 				text: 'Lodu rhiyyo tu ek dm 😅😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T11:57:08.258343+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2020-03-24T12:11:30.729086+00:00' }
@@ -5775,7 +5775,7 @@ const chats = [
 				text: 'go corona'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T11:56:57.868231+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2020-03-24T12:11:30.061817+00:00' }
@@ -5783,7 +5783,7 @@ const chats = [
 				text: 'chill kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T11:56:52.547884+00:00',
 				text: 'kuch ni bro'
 			},
@@ -5798,7 +5798,7 @@ const chats = [
 				text: 'To mai kya kru phir ??😅😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T11:56:29.008923+00:00',
 				text: 'abe itna dhyaan ni dia mene'
 			},
@@ -5813,7 +5813,7 @@ const chats = [
 				text: 'Abey neeche padh le pehle'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T11:01:13.329510+00:00',
 				story_share: "Shared abnair_khan's story",
 				text: 'hi'
@@ -5832,7 +5832,7 @@ const chats = [
 				text: '😅🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-27T18:21:38.183989+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2020-02-27T18:34:59.971113+00:00' }
@@ -5841,7 +5841,7 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-18T13:24:59.026892+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2020-02-18T13:26:10.076232+00:00' }
@@ -5850,7 +5850,7 @@ const chats = [
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-05T08:45:37.352635+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2020-01-05T08:45:43.473068+00:00' }
@@ -5863,7 +5863,7 @@ const chats = [
 				text: 'Chl call krr diyyo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-05T08:43:43.549901+00:00',
 				text: 'bhai next weekend'
 			},
@@ -5878,7 +5878,7 @@ const chats = [
 				text: 'Bhkk bhosdk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-05T08:42:31.675428+00:00',
 				text: 'delhi hoon bhai'
 			},
@@ -5893,7 +5893,7 @@ const chats = [
 				text: '😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-05T08:41:47.904445+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2020-01-05T08:42:04.545214+00:00' }
@@ -5907,7 +5907,7 @@ const chats = [
 				text: '♥️🥰'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-27T10:41:24.733828+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2019-11-27T12:57:09.663228+00:00' }
@@ -5921,7 +5921,7 @@ const chats = [
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-03T14:27:24.818616+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2019-11-03T14:27:33.072089+00:00' }
@@ -5930,16 +5930,16 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T07:25:41.157692+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2019-09-28T07:52:40.407876+00:00' }
 				],
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'jld broo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-03T04:43:47.462348+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2019-07-03T05:11:54.299976+00:00' }
@@ -5954,7 +5954,7 @@ const chats = [
 				text: 'https://youtu.be/-KubNXrx7NA'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T10:37:13.425497+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2019-06-22T11:48:48.869240+00:00' }
@@ -5977,7 +5977,7 @@ const chats = [
 				text: 'Accha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T10:06:44.088696+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2019-06-22T10:29:05.675248+00:00' }
@@ -5987,7 +5987,7 @@ const chats = [
 			{
 				sender: 'abnair_khan',
 				created_at: '2019-06-22T09:56:52.221756+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Tereko khana bhi bnana aata hai😏😏saale khila bhi diya krr'
 			},
 			{
@@ -5995,7 +5995,7 @@ const chats = [
 				created_at: '2019-06-13T05:18:19.255678+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-06-13T10:41:59.561852+00:00'
 					}
 				],
@@ -6005,7 +6005,7 @@ const chats = [
 			{
 				sender: 'abnair_khan',
 				created_at: '2019-06-12T08:41:27.508858+00:00',
-				mentioned_username: 'just_junaid_here',
+				mentioned_username: 'just_not_here',
 				story_share: "Shared abnair_khan's story",
 				text: null
 			},
@@ -6016,7 +6016,7 @@ const chats = [
 					'Hi!💕 I’ll feature you but you need to follow these rules first :)!! Firstly, post the flower image in your story. (Just like I did) Then you have to post your favourite picture from my feed on your story and tag me in it. After that I will post my favourite picture of yours! \nWhy? Promoting each other is the best ❤ and we can learn about a lot of new profiles that way ❤❤ have fun :)'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-12T08:24:33.644708+00:00',
 				story_share: "Shared abnair_khan's story",
 				text: '🌻'
@@ -6027,7 +6027,7 @@ const chats = [
 				text: 'Jii Bhai aapko bhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-07T05:22:24.472565+00:00',
 				story_share: "Shared abnair_khan's story",
 				text: 'tere ko bhi bhai ramadan mubarak'
@@ -6053,7 +6053,7 @@ const chats = [
 				created_at: '2019-05-05T17:01:11.930299+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-05-06T03:57:02.037851+00:00'
 					}
 				],
@@ -6098,7 +6098,7 @@ const chats = [
 				text: 'Shukriya Bhai jo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-27T09:46:30.762942+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2019-03-27T09:49:06.837789+00:00' }
@@ -6107,7 +6107,7 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-27T09:46:28.713403+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2019-03-27T09:49:07.405275+00:00' }
@@ -6116,12 +6116,12 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-01T04:16:25.799609+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2019-03-01T08:40:41.502205+00:00' }
 				],
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'i dont think so'
 			},
 			{
@@ -6154,7 +6154,7 @@ const chats = [
 				created_at: '2019-02-11T03:17:43.642898+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-02-11T12:08:48.065416+00:00'
 					}
 				],
@@ -6177,7 +6177,7 @@ const chats = [
 				text: 'Bhai krrwa diyyo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-08T11:10:57.686108+00:00',
 				likes: [
 					{ username: 'abnair_khan', date: '2019-02-08T11:14:17.195304+00:00' }
@@ -6195,7 +6195,7 @@ const chats = [
 				text: 'Bhai ye upar wala Mera channel hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-08T10:03:45.799345+00:00',
 				story_share: "Shared abnair_khan's story",
 				text: '😍'
@@ -6245,7 +6245,7 @@ const chats = [
 					'OKAY! HERE ARE THE RULES\n\nAnswer numbers 1-5 first, before your answers, state "I answered these answers truthfully". And then do number 6 and I will post your facts.\n\n1. Who is your best ex? State the name!\n2. Describe me\n3. Are you currently liking/hating someone? State the names! \n4. What is one thing you want to say to me but you\'re scared to? \n5. What is your biggest fear? \n6. You have to post on your story "Send me \'Hey\' and I will post 3 facts about you."\n\nYOU MAY NOT CANCEL OR IGNORE'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-30T17:10:34.630273+00:00',
 				story_share: "Shared abnair_khan's story",
 				text: 'hey'
@@ -6256,7 +6256,7 @@ const chats = [
 				text: '😂😂😂🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-03T08:20:32.144484+00:00',
 				media_owner: 'the.movie.freak',
 				media_share_caption:
@@ -6269,7 +6269,7 @@ const chats = [
 				text: 'Bhai tu gay hai kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-06-27T11:42:42.489624+00:00',
 				text: 'mu me le le'
 			},
@@ -6280,7 +6280,7 @@ const chats = [
 					"NO CHEATING‼ You have to post the same thing I did and see what people tell you 😍😍\n•Pink-  date me or not?\n•Blue- one word for me \n•Red- something that you always wanted to tell me. \n•white- my first impression. \n•black- describe me\n•green- do you love me? \n•Orange- ever had a crush on me? \nDON'T be a punk repost n see what other people say"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-06-27T08:04:42.218570+00:00',
 				story_share: "Shared abnair_khan's story",
 				text: 'red'
@@ -6292,7 +6292,7 @@ const chats = [
 					"1) If you could go anywhere in the world where would it be ? \n\n2) describe yourself in 3 emojis \n\n3) say something you've always wanted to tell me \n\n4) you have to post the same thing on your story or I can't post your picture \n\nThis is what you have to put on your story:\n\nSend an x if you don't hate me and I will put my favorite picture from your instagram on my story but first you have to answer some question"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-06-23T05:26:58.675873+00:00',
 				story_share: "Shared abnair_khan's story",
 				text: 'x'
@@ -6303,13 +6303,13 @@ const chats = [
 				text: 'Arey Bhai paper expire ho gye the aur engine seize ho gyi thi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-04-23T18:30:40.582564+00:00',
 				story_share: "Shared abnair_khan's story",
 				text: 'abe kyun bech di fir bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-04-18T10:49:44.548586+00:00',
 				story_share: "Shared abnair_khan's story",
 				text: 'black'
@@ -6317,18 +6317,18 @@ const chats = [
 		]
 	},
 	{
-		participants: ['prince.mathur', 'just_junaid_here'],
+		participants: ['prince.mathur', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'prince.mathur',
 				created_at: '2020-03-27T22:24:00.735608+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '👏'
 			},
 			{
 				sender: 'prince.mathur',
 				created_at: '2020-03-27T15:47:43.070264+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
@@ -6341,7 +6341,7 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e35/91094505_582358985824039_4756549449783046789_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=1&_nc_ohc=0qF64UIFWqUAX9LZOZz&oh=cde4065f3d3a65a3da3e9eaae2f68a63&oe=5EB25EB7&ig_cache_key=MjI3MzU0MzUwNTM1NDk3MDk3MA%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T06:36:30.531952+00:00',
 				text: 'thik h'
 			},
@@ -6356,7 +6356,7 @@ const chats = [
 				text: 'Ruk 2 min'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T06:36:00.840912+00:00',
 				text: 'ruk krta hun'
 			},
@@ -6371,7 +6371,7 @@ const chats = [
 				text: 'Abey airplane mode me hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T06:35:53.678049+00:00',
 				text: 'switch off tga'
 			},
@@ -6381,7 +6381,7 @@ const chats = [
 				text: 'Tu phone krra hai?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T06:35:21.535138+00:00',
 				text: 'bro phone kyun ni utha ra'
 			},
@@ -6396,23 +6396,23 @@ const chats = [
 				text: 'Bancho office vaale or pagal ho gye hain work from home me'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T05:31:10.371371+00:00',
 				text: 'aur kesa chlra h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-27T05:31:03.005238+00:00',
 				text: 'haan brooo'
 			},
 			{
 				sender: 'prince.mathur',
 				created_at: '2020-03-26T20:16:59.084494+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Macbook pro? Bro bro bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T20:14:51.376134+00:00',
 				likes: [
 					{
@@ -6424,18 +6424,18 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T13:22:36.645264+00:00',
 				text: 'lmao'
 			},
 			{
 				sender: 'prince.mathur',
 				created_at: '2020-03-24T13:21:13.379682+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T12:25:26.123952+00:00',
 				likes: [
 					{
@@ -6447,7 +6447,7 @@ const chats = [
 				text: '😮'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-20T18:32:15.076792+00:00',
 				text: '😞'
 			},
@@ -6466,7 +6466,7 @@ const chats = [
 				text: 'Yep'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-13T10:11:45.740131+00:00',
 				text: 'han ye to h'
 			},
@@ -6481,17 +6481,17 @@ const chats = [
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-13T10:10:35.159734+00:00',
 				text: 'kya ho gya tjhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-13T10:10:27.228394+00:00',
 				text: 'pizza burger khane wala londa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-13T10:10:08.777042+00:00',
 				text: 'ese hi'
 			},
@@ -6501,13 +6501,13 @@ const chats = [
 				text: 'Kyun ro rha hai bhai xD'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-13T10:08:15.424072+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: '😢'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-18T13:36:16.560150+00:00',
 				likes: [
 					{
@@ -6519,7 +6519,7 @@ const chats = [
 				text: '🎉'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-18T13:36:13.904344+00:00',
 				likes: [
 					{
@@ -6531,7 +6531,7 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-10T14:40:24.784253+00:00',
 				likes: [
 					{
@@ -6545,11 +6545,11 @@ const chats = [
 			{
 				sender: 'prince.mathur',
 				created_at: '2020-01-06T03:36:30.210001+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-05T17:01:05.857983+00:00',
 				likes: [
 					{
@@ -6561,7 +6561,7 @@ const chats = [
 				text: 'lolololololol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-31T19:14:51.650870+00:00',
 				likes: [
 					{
@@ -6582,7 +6582,7 @@ const chats = [
 				text: 'Happy new year broo!'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-29T17:13:49.756469+00:00',
 				likes: [
 					{
@@ -6599,13 +6599,13 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-24T11:06:46.018356+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: '😮'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-24T11:06:40.414766+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: '😂'
@@ -6615,7 +6615,7 @@ const chats = [
 				created_at: '2019-12-03T17:57:44.951522+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-12-03T19:26:15.463677+00:00'
 					}
 				],
@@ -6625,7 +6625,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/75333950_962958950743718_8253097144944061418_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=102&_nc_ohc=OzpZ12SHctoAX_sN_OZ&oh=7b2d2220ec9bc343fbbfa0a9f38687f3&oe=5EAF437F&ig_cache_key=MjE5MDMxNDI5MzQ1MDUxMTI2NA%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-01T19:56:11.273630+00:00',
 				likes: [
 					{
@@ -6637,7 +6637,7 @@ const chats = [
 				text: '🎉'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-01T19:55:59.017643+00:00',
 				likes: [
 					{
@@ -6649,7 +6649,7 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-01T19:55:40.118387+00:00',
 				likes: [
 					{
@@ -6671,22 +6671,22 @@ const chats = [
 				text: 'Badiya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-13T20:40:10.781529+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-13T20:40:09.352069+00:00',
 				text: 'sunday ko summary dunga tjhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-13T20:39:46.162059+00:00',
 				text: 'kl bhi h ek do'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-13T20:39:37.679511+00:00',
 				text: 'bhai shi gya will update you'
 			},
@@ -6701,7 +6701,7 @@ const chats = [
 				text: 'Oye interview kesa gya?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-13T18:49:30.010056+00:00',
 				likes: [
 					{
@@ -6713,7 +6713,7 @@ const chats = [
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-09T06:13:40.092652+00:00',
 				text: '🤦‍♂'
 			},
@@ -6728,7 +6728,7 @@ const chats = [
 				text: 'Lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-08T18:22:00.433880+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: 'kitna khali h be tu lol'
@@ -6739,7 +6739,7 @@ const chats = [
 				text: 'Kya baat🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-06T12:13:56.124790+00:00',
 				likes: [
 					{
@@ -6759,7 +6759,7 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-27T13:28:17.774282+00:00',
 				likes: [
 					{
@@ -6775,7 +6775,7 @@ const chats = [
 				text: 'Happy Diwali bhaii 😄😄'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-27T13:21:20.409531+00:00',
 				likes: [
 					{
@@ -6791,7 +6791,7 @@ const chats = [
 				created_at: '2019-10-22T19:03:32.879735+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-10-22T19:28:30.108821+00:00'
 					}
 				],
@@ -6805,7 +6805,7 @@ const chats = [
 				text: 'One day bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-19T16:30:02.948477+00:00',
 				likes: [
 					{
@@ -6826,18 +6826,18 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t50.2886-16/74121360_414462649255155_538847505409117441_n.mp4?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=103&_nc_ohc=r8XfaQC9RDkAX9uA9Pt&oe=5E8A0AB8&oh=40f81b6b4f5d4ef916ec1670fd000d4c'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T15:39:25.904801+00:00',
 				text: '👐'
 			},
 			{
 				sender: 'prince.mathur',
 				created_at: '2019-10-08T15:38:50.895008+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '💪🏼'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T15:01:21.157381+00:00',
 				likes: [
 					{
@@ -6854,12 +6854,12 @@ const chats = [
 				text: 'Okaaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:45:32.318513+00:00',
 				text: 'type ni hora mre se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:45:26.279333+00:00',
 				text: 'abe m call krra'
 			},
@@ -6869,7 +6869,7 @@ const chats = [
 				text: 'Voi to bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:44:47.062094+00:00',
 				text: 'bkchodi h ye'
 			},
@@ -6879,7 +6879,7 @@ const chats = [
 				text: 'Varna code karne ka mann ni karega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:44:40.352600+00:00',
 				text: 'kyaaaa'
 			},
@@ -6910,7 +6910,7 @@ const chats = [
 					'Isme kaafi scene hota hai..rules vagerah..jese data company ke bahar nhi jaana chahiye or secure rhena chahiye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:42:36.552870+00:00',
 				text: 'ye kya h'
 			},
@@ -6924,14 +6924,14 @@ const chats = [
 				created_at: '2019-10-07T14:42:19.241498+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-10-07T14:42:32.656081+00:00'
 					}
 				],
 				text: 'ISO27001 karke ek regulation hoti hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:42:18.144545+00:00',
 				likes: [
 					{
@@ -6942,7 +6942,7 @@ const chats = [
 				text: 'office to sexy h bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:42:17.152347+00:00',
 				text: 'abe km se km'
 			},
@@ -6962,22 +6962,22 @@ const chats = [
 				text: 'Yahan bhi aajkal zyada dev to nhi horha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:41:20.396698+00:00',
 				text: 'tra kesa chl ra vahan'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:41:10.634366+00:00',
 				text: 'blogs vgera padhta rehta hun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:41:00.624666+00:00',
 				text: 'pure din'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:40:56.989122+00:00',
 				text: 'abe kuch bhi ni ho ra'
 			},
@@ -6992,22 +6992,22 @@ const chats = [
 				text: 'Achaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:39:43.693297+00:00',
 				text: 'fir dekhte h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:39:34.179370+00:00',
 				text: 'resignation dalung'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:39:26.213151+00:00',
 				text: 'abhi is next month starting'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:39:09.852898+00:00',
 				text: 'dekhta hun yr'
 			},
@@ -7032,27 +7032,27 @@ const chats = [
 				text: 'Abey tu to khe rha tha tune apply kiya tha phele'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:23:13.816019+00:00',
 				text: 'bc refer kr de m switch kr lunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:22:53.163450+00:00',
 				text: 'yr jlti h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:22:45.558591+00:00',
 				text: 'mt kr esa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:22:33.570155+00:00',
 				text: 'bhai😟'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:22:24.458515+00:00',
 				text: 'bhai'
 			},
@@ -7062,7 +7062,7 @@ const chats = [
 				text: 'Hahahaha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:18:51.629911+00:00',
 				likes: [
 					{
@@ -7074,23 +7074,23 @@ const chats = [
 				text: 'https://www.instagram.com/p/B3UWsv1DtdT/?igshid=ma7y9c5n14rf'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-07T14:18:15.614863+00:00',
 				text: 'sad life'
 			},
 			{
 				sender: 'prince.mathur',
 				created_at: '2019-10-07T14:11:18.602182+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Somewhere in between 😛'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T11:01:21.269879+00:00',
 				text: 'ab switch krefa tra bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T11:01:20.501668+00:00',
 				text: 'are bhia ho gya bhut'
 			},
@@ -7105,7 +7105,7 @@ const chats = [
 				text: 'As such hiring to kuch nhi chlti yahan'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:43:19.432401+00:00',
 				text: 'bhai hiring chl ri h kya'
 			},
@@ -7125,7 +7125,7 @@ const chats = [
 				text: 'Hahahahahha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:17:02.315141+00:00',
 				likes: [
 					{
@@ -7137,7 +7137,7 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:16:58.407565+00:00',
 				likes: [
 					{
@@ -7151,7 +7151,7 @@ const chats = [
 			{
 				sender: 'prince.mathur',
 				created_at: '2019-09-24T02:51:13.783945+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '💯'
 			},
 			{
@@ -7160,7 +7160,7 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T13:44:55.837724+00:00',
 				likes: [
 					{
@@ -7181,7 +7181,7 @@ const chats = [
 				text: 'Mujhe laga twitter ki bug report krra h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T13:44:31.880074+00:00',
 				text: 'network tab m bhi response check kiya'
 			},
@@ -7191,28 +7191,28 @@ const chats = [
 				text: 'Hahahaha achaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T13:44:09.634998+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T13:44:06.763111+00:00',
 				text: 'inspect element m dekh liya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T13:43:50.724297+00:00',
 				text: 'pta h'
 			},
 			{
 				sender: 'prince.mathur',
 				created_at: '2019-09-23T13:17:07.523275+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Abey jaanke naam vese likha hai usne xD'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-19T06:01:17.579653+00:00',
 				likes: [
 					{
@@ -7225,7 +7225,7 @@ const chats = [
 			{
 				sender: 'prince.mathur',
 				created_at: '2019-09-19T03:53:12.438201+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '💯'
 			},
 			{
@@ -7234,7 +7234,7 @@ const chats = [
 				text: '😂😁'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T04:13:29.910913+00:00',
 				likes: [
 					{
@@ -7246,7 +7246,7 @@ const chats = [
 				text: '😮'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T05:26:59.952664+00:00',
 				likes: [
 					{
@@ -7259,7 +7259,7 @@ const chats = [
 			{
 				sender: 'prince.mathur',
 				created_at: '2019-09-15T04:18:33.222466+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Kya baat 🔥'
 			},
 			{
@@ -7268,7 +7268,7 @@ const chats = [
 				text: 'Yeahh broo 😁'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-06T17:02:06.194627+00:00',
 				likes: [
 					{
@@ -7280,7 +7280,7 @@ const chats = [
 				text: 'ohohoh🤙'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-05T13:53:28.974507+00:00',
 				text: '🤙'
 			},
@@ -7290,19 +7290,19 @@ const chats = [
 				text: 'Arey mast'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-05T06:12:21.863169+00:00',
 				text: 'shi lgra kya vese?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-05T06:12:18.127738+00:00',
 				text: 'are bhai next levek'
 			},
 			{
 				sender: 'prince.mathur',
 				created_at: '2019-09-05T01:23:35.407047+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: "What's it? 😂"
 			},
 			{
@@ -7312,7 +7312,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/67288907_372982270287630_6696919787003802430_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=106&_nc_ohc=QOa8PmAoNAoAX9bR19R&oh=5db94d68d0e8b93ed4fca09a0737c275&oe=5EB18D57&ig_cache_key=MjExNDAwMTMyNDQ4MzAwMTM3NA%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-16T06:11:39.908988+00:00',
 				heart: '❤️'
 			},
@@ -7328,7 +7328,7 @@ const chats = [
 				created_at: '2019-08-06T16:15:22.189123+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-08-16T04:30:09.160580+00:00'
 					}
 				],
@@ -7350,7 +7350,7 @@ const chats = [
 				created_at: '2019-07-24T03:56:45.811953+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-07-24T04:46:16.577120+00:00'
 					}
 				],
@@ -7365,7 +7365,7 @@ const chats = [
 				text: 'xD'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-14T13:09:29.986209+00:00',
 				likes: [
 					{
@@ -7377,14 +7377,14 @@ const chats = [
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-02T05:21:19.041628+00:00',
 				text: 'lolol'
 			},
 			{
 				sender: 'prince.mathur',
 				created_at: '2019-07-02T03:11:19.055924+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
@@ -7393,7 +7393,7 @@ const chats = [
 				text: '😁'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-30T17:50:02.048849+00:00',
 				likes: [
 					{
@@ -7410,7 +7410,7 @@ const chats = [
 				text: 'okk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:24:15.085741+00:00',
 				text: 'Final krke btata hun'
 			},
@@ -7420,7 +7420,7 @@ const chats = [
 				text: 'Okayy'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:23:54.642413+00:00',
 				text: 'Haan vahan aa skta hun'
 			},
@@ -7435,7 +7435,7 @@ const chats = [
 				text: 'Nirman vihar pe aaja jo mall hai vahan'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:22:31.583048+00:00',
 				text: 'Bta bc fir'
 			},
@@ -7445,12 +7445,12 @@ const chats = [
 				text: 'xD'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:21:50.078576+00:00',
 				text: 'Abe yaar dur pdega tra ghr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:21:32.554624+00:00',
 				text: 'Pagal bagal h kya'
 			},
@@ -7460,7 +7460,7 @@ const chats = [
 				text: 'Lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:21:25.358723+00:00',
 				text: 'Lololok'
 			},
@@ -7470,17 +7470,17 @@ const chats = [
 				text: 'Abey tu mere ghar aaja'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:21:18.970931+00:00',
 				text: 'Bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:21:14.280787+00:00',
 				text: 'Laxmi nagar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:21:01.012627+00:00',
 				text: 'Abe mere flat pe jaa'
 			},
@@ -7500,12 +7500,12 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:20:33.032958+00:00',
 				text: 'Kahan aja'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:20:29.179889+00:00',
 				likes: [
 					{
@@ -7536,17 +7536,17 @@ const chats = [
 				text: 'Ghanta vacations 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:17:42.928483+00:00',
 				text: 'Bhai mil kb rha h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:17:28.347590+00:00',
 				text: 'I was on vacations'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:17:20.782498+00:00',
 				text: 'Are bro'
 			},
@@ -7571,7 +7571,7 @@ const chats = [
 				text: '🤣🤣🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:13:00.320710+00:00',
 				likes: [
 					{
@@ -7582,7 +7582,7 @@ const chats = [
 				text: "I'm freakin drop out bruh"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:12:45.187792+00:00',
 				text: 'Exan'
 			},
@@ -7592,12 +7592,12 @@ const chats = [
 				text: 'Exams chal rhe hain?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:12:06.130878+00:00',
 				text: 'Lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:12:03.160811+00:00',
 				text: 'Bethe bs khali'
 			},
@@ -7607,7 +7607,7 @@ const chats = [
 				text: 'Tu btaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:11:50.688943+00:00',
 				text: 'Bhai bhai'
 			},
@@ -7622,12 +7622,12 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:11:12.250835+00:00',
 				text: 'Kesa h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:10:54.868650+00:00',
 				text: 'Nothing bro'
 			},
@@ -7637,7 +7637,7 @@ const chats = [
 				text: 'Kya hua?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-21T14:10:07.973861+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: '😂'
@@ -7650,7 +7650,7 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-02T11:30:46.390572+00:00',
 				likes: [
 					{
@@ -7666,7 +7666,7 @@ const chats = [
 				created_at: '2019-05-29T13:56:30.151275+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-05-30T04:16:56.668083+00:00'
 					}
 				],
@@ -7689,7 +7689,7 @@ const chats = [
 				created_at: '2019-04-30T03:39:06.413518+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-04-30T05:37:17.435036+00:00'
 					}
 				],
@@ -7705,13 +7705,13 @@ const chats = [
 				text: 'Lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-26T14:59:01.224188+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-26T14:58:58.843345+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: 'shes fine bruh'
@@ -7722,7 +7722,7 @@ const chats = [
 				text: 'Lol lol lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-24T05:19:35.809542+00:00',
 				text: 'lol'
 			},
@@ -7732,7 +7732,7 @@ const chats = [
 				text: 'Zyada nhi 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-24T03:33:13.958777+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: 'is story pe kitni galiyan ayi btaio zroor'
@@ -7743,7 +7743,7 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-12T18:23:01.119235+00:00',
 				likes: [
 					{
@@ -7769,14 +7769,14 @@ const chats = [
 				text: 'Hahahahaaha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-12T18:12:09.756333+00:00',
 				text: 'beta ab black theme m na kaam hota mujhse'
 			},
 			{
 				sender: 'prince.mathur',
 				created_at: '2019-04-12T18:07:35.085397+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'White theme Sucks'
 			},
 			{
@@ -7790,12 +7790,12 @@ const chats = [
 				text: 'React toh mujhe bhi karni hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:36:28.518635+00:00',
 				text: 'graphql kuch ni h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:36:18.717629+00:00',
 				text: 'react ke bina'
 			},
@@ -7810,7 +7810,7 @@ const chats = [
 				text: 'Abey react nhi hogi kal kuch'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:36:04.848061+00:00',
 				text: 'abe yaar chl bha8'
 			},
@@ -7820,12 +7820,12 @@ const chats = [
 				text: 'Abey ek baar dhyaan se soch'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:35:54.795103+00:00',
 				text: 'abe react is'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:35:48.026216+00:00',
 				text: 'abe aa yaar'
 			},
@@ -7835,12 +7835,12 @@ const chats = [
 				text: 'Graphql is not a big deal vese bhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:35:42.762966+00:00',
 				text: 'pagal vagal h kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:35:36.763866+00:00',
 				text: 'abe yaar'
 			},
@@ -7850,17 +7850,17 @@ const chats = [
 				text: 'Disappoint hoke aajaenge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:35:30.107196+00:00',
 				text: 'mc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:35:26.354358+00:00',
 				text: 'bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:35:24.095958+00:00',
 				text: 'ye koi baat ni h'
 			},
@@ -7870,7 +7870,7 @@ const chats = [
 				text: 'Sahi bataun to'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:35:15.663060+00:00',
 				text: 'bhut pitega bc'
 			},
@@ -7880,7 +7880,7 @@ const chats = [
 				text: 'Microsoft office se kuch zyada farak nhi padega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:35:14.876826+00:00',
 				text: 'abe saale'
 			},
@@ -7890,12 +7890,12 @@ const chats = [
 				text: 'Ye rhende'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:34:59.812968+00:00',
 				text: 'be'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:34:58.916894+00:00',
 				text: 'bol'
 			},
@@ -7915,19 +7915,19 @@ const chats = [
 				text: '😁❤'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:32:40.317453+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:32:39.685955+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T16:32:38.411460+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: '🔥'
@@ -7938,7 +7938,7 @@ const chats = [
 				text: 'Lol lol lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-03T21:42:19.926795+00:00',
 				text: 'lol'
 			},
@@ -7948,25 +7948,25 @@ const chats = [
 				text: 'Mixed reactions 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-03T17:29:37.746476+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-03T17:29:31.228073+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: '😢'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-03T17:29:27.189036+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-03T17:28:51.807847+00:00',
 				story_share: "Shared prince.mathur's story",
 				text: '😂'
@@ -7976,7 +7976,7 @@ const chats = [
 				created_at: '2019-03-30T15:59:04.436418+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-03-30T16:04:00.993903+00:00'
 					}
 				],
@@ -7987,7 +7987,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/53752335_1466661990162968_1152412015618707527_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_ohc=wOtxi5xYxv0AX_jd_Vx&oh=26fbbf145c6f510e213cf7d273bf3c68&oe=5EB28341&ig_cache_key=MjAwNjY4NzM5ODI3NjQ2NjIwMg%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-24T06:46:09.785789+00:00',
 				text: 'lmao'
 			},
@@ -8007,17 +8007,17 @@ const chats = [
 				text: 'Haan yar bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-23T19:17:11.611225+00:00',
 				text: '!'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-23T19:17:06.994440+00:00',
 				text: 'life goes on what can u do'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-23T19:16:55.579887+00:00',
 				text: 'shi h yaar'
 			},
@@ -8037,17 +8037,17 @@ const chats = [
 				text: 'Lol hahaha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-23T19:15:21.451908+00:00',
 				text: 'rona aa jayega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-23T19:15:20.839404+00:00',
 				text: 'yaad mt dila'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-23T19:15:19.889941+00:00',
 				text: 'exactly bro'
 			},
@@ -8062,12 +8062,12 @@ const chats = [
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-23T19:12:39.019502+00:00',
 				text: 'rofl'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-23T19:12:32.959362+00:00',
 				text: 'hahahahahahha lok'
 			},
@@ -8092,16 +8092,16 @@ const chats = [
 			{
 				sender: 'prince.mathur',
 				created_at: '2019-03-02T18:12:59.945064+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-30T04:57:44.554698+00:00',
 				text: 'abe kahan h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-30T04:39:50.303690+00:00',
 				text: 'lolwa'
 			},
@@ -8123,7 +8123,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t50.2886-16/50437764_2245341822379696_2719848856928911360_n.mp4?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_ohc=l0Dm77Z_3ccAX-kovKW&oe=5E89A2F1&oh=5e6a89680dae3102e5401a91ee31e160'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T19:19:14.571693+00:00',
 				media_owner: 'official.desimeme',
 				media_share_caption: 'Caption unavailable.',
@@ -8131,7 +8131,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/47581725_1977212779000100_9177562761945428433_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_ohc=rR5vJ1HTUSoAX_SWjff&oh=0c483a740ed47d3b5f7a4605ab605e59&oe=5EB0B01C&ig_cache_key=MTk0NTY2NzY4NjI4NzUwMjQxNQ%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T19:13:19.433398+00:00',
 				media_owner: 'official.desimeme',
 				media_share_caption: 'Caption unavailable.',
@@ -8149,17 +8149,17 @@ const chats = [
 				text: '22'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T19:03:50.798827+00:00',
 				text: 'ya 22'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T19:03:45.624993+00:00',
 				text: '4 ko 23 ka hoga tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T19:03:28.336015+00:00',
 				text: 'yeee partyyy'
 			},
@@ -8169,7 +8169,7 @@ const chats = [
 				text: 'Coz my bday is coming'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T18:58:30.407531+00:00',
 				text: 'kya coz'
 			},
@@ -8189,12 +8189,12 @@ const chats = [
 				text: 'Haan'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T18:57:20.463646+00:00',
 				text: 'kl aa ra h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T18:57:03.499257+00:00',
 				text: 'same 2 u bruh'
 			},
@@ -8209,7 +8209,7 @@ const chats = [
 				text: '😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T18:53:00.491706+00:00',
 				likes: [
 					{
@@ -8222,7 +8222,7 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T18:52:29.690174+00:00',
 				likes: [
 					{
@@ -8236,7 +8236,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/47694507_288941738635459_5638816594908672588_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_ohc=4GyJKasLFL8AX_xOUfq&oh=800f0d936bce460ef91ef98148ce544b&oe=5EB05577&ig_cache_key=MTk0NTc3NDI5Mjc2NzYzMTM3Mg%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T18:49:35.432708+00:00',
 				media_owner: 'Username unavailable.',
 				media_share_caption: 'Caption unavailable.',
@@ -8248,7 +8248,7 @@ const chats = [
 				text: 'Haan jaldi aa mc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:49:44.891442+00:00',
 				text: 'baaki ake dekhte h bc'
 			},
@@ -8258,12 +8258,12 @@ const chats = [
 				text: 'Haan bhai ❤'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:49:23.008255+00:00',
 				text: 'lga reh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:49:18.800900+00:00',
 				text: 'abe sb ho jaega bc'
 			},
@@ -8293,12 +8293,12 @@ const chats = [
 				text: 'Arey loda'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:47:35.680589+00:00',
 				text: 'plus bndi ka mamla h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:47:23.018994+00:00',
 				text: 'full time jo hona h'
 			},
@@ -8318,17 +8318,17 @@ const chats = [
 				text: 'Haan thik hi chlra hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:46:04.483773+00:00',
 				text: 'aur baaki sb kesa chl ra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:45:46.771607+00:00',
 				text: 'abe aunga jldi bkchodi khtm ho ye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:45:23.175714+00:00',
 				text: 'haan zrur bc'
 			},
@@ -8343,7 +8343,7 @@ const chats = [
 				text: '🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:44:30.275153+00:00',
 				text: 'bhai mamla st h'
 			},
@@ -8353,7 +8353,7 @@ const chats = [
 				text: 'Wooaoaoaaoaooo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:44:13.084212+00:00',
 				text: 'o next level'
 			},
@@ -8373,7 +8373,7 @@ const chats = [
 				text: 'Arey follow karra hun me isse'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:43:22.104827+00:00',
 				text: 'full on stalk krra'
 			},
@@ -8393,17 +8393,17 @@ const chats = [
 				text: 'Kya hua 🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:42:45.375516+00:00',
 				text: 'bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:42:43.333956+00:00',
 				text: 'tu to next level nikla'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:42:24.744379+00:00',
 				text: 'saale'
 			},
@@ -8414,7 +8414,7 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e15/p480x480/46481968_2008898316077457_1236140394349072176_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_ohc=xpj9pi-xVv0AX9mBI0J&_nc_tp=4&oh=a7497f7bcf83da74559ea7ea65775cc4&oe=5EB1B61C&ig_cache_key=MjE3ODM4NTEyMDk0NzcyNjU2OA%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:41:32.905937+00:00',
 				heart: '❤️'
 			},
@@ -8429,7 +8429,7 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:41:08.446044+00:00',
 				text: 'ok kesi h vese'
 			},
@@ -8454,17 +8454,17 @@ const chats = [
 				text: 'Pta nhi vo arts background se hau'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:39:36.655199+00:00',
 				text: 'kesi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:39:34.680250+00:00',
 				text: 'kis m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:39:26.625851+00:00',
 				text: 'shi m bc'
 			},
@@ -8484,17 +8484,17 @@ const chats = [
 				text: 'Hahahaaha 😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:38:37.434267+00:00',
 				text: 'sochra hun sb chhod dun and back to redcarpet'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:37:56.684133+00:00',
 				text: 'mn ni lgra bc ghr m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:37:44.906486+00:00',
 				text: 'are bs theek hi jaa re h'
 			},
@@ -8509,7 +8509,7 @@ const chats = [
 				text: 'Or kya chal rha hai broo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:36:10.985588+00:00',
 				heart: '❤️'
 			},
@@ -8519,7 +8519,7 @@ const chats = [
 				text: 'Pta nhi 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-14T04:22:53.586903+00:00',
 				text: 'o bc ye kya tha'
 			},
@@ -8543,7 +8543,7 @@ const chats = [
 				text: '🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-10T17:23:25.874037+00:00',
 				text: '😂😂'
 			},
@@ -8568,10 +8568,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', '__prajuwal__'],
+		participants: ['just_not_here', '__prajuwal__'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-26T19:42:49.376929+00:00',
 				text: 'wo to h'
 			},
@@ -8591,7 +8591,7 @@ const chats = [
 				text: 'Offcourse bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-26T19:23:25.707549+00:00',
 				story_share: "Shared __prajuwal__'s story",
 				text: 'copying'
@@ -8602,13 +8602,13 @@ const chats = [
 				text: '😊'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-07T18:21:20.843079+00:00',
 				story_share: "Shared __prajuwal__'s story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-19T04:47:11.296982+00:00',
 				text: 'thik h'
 			},
@@ -8623,17 +8623,17 @@ const chats = [
 				text: 'Abhi to nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T18:15:22.644556+00:00',
 				text: 'ghr kb ara'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T18:15:22.190259+00:00',
 				text: 'bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T18:15:21.536540+00:00',
 				text: 'are'
 			},
@@ -8643,7 +8643,7 @@ const chats = [
 				text: 'Shi h bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:30:32.548059+00:00',
 				text: 'poori'
 			},
@@ -8663,12 +8663,12 @@ const chats = [
 				text: 'Nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T16:54:07.007822+00:00',
 				text: 'bekar lgra kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T16:53:57.267485+00:00',
 				text: 'mtlb ese hi'
 			},
@@ -8678,29 +8678,29 @@ const chats = [
 				text: 'Kyu bhai?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T16:09:48.922574+00:00',
 				text: 'haan bhai'
 			},
 			{
 				sender: '__prajuwal__',
 				created_at: '2019-12-18T16:01:46.648890+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Highlaiter phirwa liya?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-03T05:48:31.009755+00:00',
 				text: '😁'
 			},
 			{
 				sender: '__prajuwal__',
 				created_at: '2019-11-03T01:57:44.360965+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-25T15:11:08.419047+00:00',
 				text: 'haan bhai blkl'
 			},
@@ -8710,12 +8710,12 @@ const chats = [
 				text: 'Jldi pahocha to milte h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-25T15:08:01.361528+00:00',
 				text: 'call kr dio'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-25T15:07:48.055559+00:00',
 				text: 'kl hi mil lenge'
 			},
@@ -8735,7 +8735,7 @@ const chats = [
 				text: 'Kal to main aaunga hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-25T13:01:55.985061+00:00',
 				text: 'kyun bhai'
 			},
@@ -8745,7 +8745,7 @@ const chats = [
 				text: 'Ye to dikkat ki baat hogai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-25T12:42:23.675861+00:00',
 				text: '28'
 			},
@@ -8755,7 +8755,7 @@ const chats = [
 				text: 'Abe konsa Monday'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-25T11:17:58.110193+00:00',
 				text: 'monday subah wapaa'
 			},
@@ -8770,7 +8770,7 @@ const chats = [
 				text: "I'll try"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-25T09:04:37.951010+00:00',
 				text: 'aa jaio kl'
 			},
@@ -8790,17 +8790,17 @@ const chats = [
 				text: 'Nhi bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-25T07:00:50.835513+00:00',
 				text: 'ghr h kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-25T07:00:41.683410+00:00',
 				text: 'han bhai kya scene h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-20T18:00:20.820813+00:00',
 				text: 'haan bdiya h wo bhi'
 			},
@@ -8820,25 +8820,25 @@ const chats = [
 				text: 'Han bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-20T17:57:58.049782+00:00',
 				text: 'abe ghr kb ara h tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-20T17:57:43.742633+00:00',
 				text: 'are launda tagda tha bhai'
 			},
 			{
 				sender: '__prajuwal__',
 				created_at: '2019-09-20T17:55:54.310568+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Gaana acha h ye or bhi sun xxtentacion ke gaane'
 			},
 			{
 				sender: '__prajuwal__',
 				created_at: '2019-01-20T06:31:31.533656+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Ye kya h?'
 			},
 			{
@@ -8847,34 +8847,34 @@ const chats = [
 				text: '??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T07:08:17.811818+00:00',
-				video_call_action: 'just_junaid_here ended a video call'
+				video_call_action: 'just_not_here ended a video call'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T07:08:16.055477+00:00',
 				text: 'utha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T07:07:47.034740+00:00',
-				video_call_action: 'just_junaid_here started a video call'
+				video_call_action: 'just_not_here started a video call'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T07:07:43.303958+00:00',
-				video_call_action: 'just_junaid_here ended a video call'
+				video_call_action: 'just_not_here ended a video call'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T07:07:38.325866+00:00',
 				text: 'pogba'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T07:07:12.548487+00:00',
-				video_call_action: 'just_junaid_here started a video call'
+				video_call_action: 'just_not_here started a video call'
 			},
 			{
 				sender: '__prajuwal__',
@@ -8887,7 +8887,7 @@ const chats = [
 				text: 'Patna'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T06:50:13.892382+00:00',
 				text: 'tu kahan h'
 			},
@@ -8897,7 +8897,7 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T04:36:04.965636+00:00',
 				text: 'delhi'
 			},
@@ -8912,7 +8912,7 @@ const chats = [
 				text: 'Ye to h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T19:17:12.142967+00:00',
 				media_owner: 'official.desimeme',
 				media_share_caption: 'Caption unavailable.',
@@ -8920,7 +8920,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/46836647_2211018782474568_4893386528904481703_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_ohc=aH_EbJ0X2p0AX_FOTWw&oh=f2b2af39fd47b226fd382df61a6d7613&oe=5EB20028&ig_cache_key=MTkzOTEwMzMyMDk4NTM5NDI5OQ%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T18:57:48.292529+00:00',
 				media_owner: 'comdy_club',
 				media_share_caption: 'humpty dumpty as a great fall😃',
@@ -8928,17 +8928,17 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t50.2886-16/36899663_802373170153340_7757743730181799936_n.mp4?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_ohc=kJsvhUiYNMUAX9hvHH2&oe=5E89AE53&oh=808eaba5c0ded76a2b0d276c4298ee92'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-14T08:57:10.148083+00:00',
 				text: 'followers to hon de thode bohot'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-14T08:56:56.774998+00:00',
 				text: 'abe ye bkchodi abhi na kre'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-03T08:20:40.621534+00:00',
 				media_owner: 'the.movie.freak',
 				media_share_caption:
@@ -8948,10 +8948,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'bearded__pun_jabi'],
+		participants: ['just_not_here', 'bearded__pun_jabi'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-25T10:11:05.371647+00:00',
 				likes: [
 					{
@@ -8968,7 +8968,7 @@ const chats = [
 				text: 'Haan'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-03T15:47:04.514239+00:00',
 				likes: [
 					{
@@ -8989,12 +8989,12 @@ const chats = [
 				text: 'Bhai drop year jasa sa scene ho rha hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-03T15:00:57.547766+00:00',
 				text: 'aaj to kl se bhi zyada h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-03T15:00:46.727863+00:00',
 				text: 'haan yr shi kehra h'
 			},
@@ -9009,7 +9009,7 @@ const chats = [
 				text: 'Bhai Delhi hi tha mein Kal'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-03T05:47:33.581600+00:00',
 				story_share: "Shared bearded__pun_jabi's story",
 				text: 'itna bhi ni h bc'
@@ -9017,10 +9017,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['roopalxo', 'just_junaid_here'],
+		participants: ['roopalxo', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-24T18:24:16.464775+00:00',
 				likes: [
 					{ username: 'roopalxo', date: '2020-03-24T18:26:25.924289+00:00' }
@@ -9029,7 +9029,7 @@ const chats = [
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-15T10:28:42.840348+00:00',
 				likes: [
 					{ username: 'roopalxo', date: '2019-10-15T11:26:04.586059+00:00' }
@@ -9038,25 +9038,25 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-25T17:21:16.926243+00:00',
 				story_share: "Shared roopalxo's story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-25T17:20:35.116929+00:00',
 				story_share: "Shared roopalxo's story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-10T16:54:38.544953+00:00',
 				story_share: "Shared roopalxo's story",
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-12T14:34:00.901651+00:00',
 				story_share: "Shared roopalxo's story",
 				text: '👏'
@@ -9067,43 +9067,43 @@ const chats = [
 				text: 'Nhii on leave for a week'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-09T13:13:30.869215+00:00',
 				story_share: "Shared roopalxo's story",
 				text: 'what u also left'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-08T04:55:15.046575+00:00',
 				story_share: "Shared roopalxo's story",
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-28T15:43:46.402402+00:00',
 				story_share: "Shared roopalxo's story",
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-27T16:05:55.281875+00:00',
 				story_share: "Shared roopalxo's story",
 				text: '😢'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-27T16:05:45.454231+00:00',
 				story_share: "Shared roopalxo's story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-17T19:07:13.814735+00:00',
 				story_share: "Shared roopalxo's story",
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-24T04:23:50.612037+00:00',
 				story_share: "Shared roopalxo's story",
 				text: '🔥'
@@ -9111,10 +9111,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['varish_choudhary', 'just_junaid_here'],
+		participants: ['varish_choudhary', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-23T16:05:38.052151+00:00',
 				text: 'duaon ki darkhast h bhai bs'
 			},
@@ -9127,7 +9127,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['iamaviralminz', 'just_junaid_here'],
+		participants: ['iamaviralminz', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'iamaviralminz',
@@ -9135,26 +9135,26 @@ const chats = [
 				text: 'Thank-you bruh💛'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-22T14:20:58.188228+00:00',
 				story_share: "Shared iamaviralminz's story",
 				text: '🎉'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-19T17:30:53.045005+00:00',
 				text: '😁'
 			},
 			{
 				sender: 'iamaviralminz',
 				created_at: '2020-03-19T16:41:59.387533+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
 				sender: 'iamaviralminz',
 				created_at: '2020-03-19T16:41:36.867234+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
@@ -9163,7 +9163,7 @@ const chats = [
 				text: '🙏🙏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-21T17:08:33.511376+00:00',
 				likes: [
 					{
@@ -9179,7 +9179,7 @@ const chats = [
 				created_at: '2019-12-10T06:54:42.097549+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-12-10T07:18:35.858169+00:00'
 					}
 				],
@@ -9193,7 +9193,7 @@ const chats = [
 				text: '♥️♥️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-16T15:49:26.306852+00:00',
 				likes: [
 					{
@@ -9210,7 +9210,7 @@ const chats = [
 				text: '❤️😍❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-28T18:13:03.084399+00:00',
 				likes: [
 					{
@@ -9227,7 +9227,7 @@ const chats = [
 				text: '😁✨'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-23T17:48:41.925837+00:00',
 				likes: [
 					{
@@ -9244,7 +9244,7 @@ const chats = [
 				text: '🌟♥️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-12T06:58:29.794907+00:00',
 				likes: [
 					{
@@ -9265,10 +9265,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['adi_sharma06', 'just_junaid_here'],
+		participants: ['adi_sharma06', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-22T14:23:13.415892+00:00',
 				story_share: "Shared adi_sharma06's story",
 				text: '😂'
@@ -9276,16 +9276,16 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'akku_0307'],
+		participants: ['just_not_here', 'akku_0307'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-21T15:02:36.629927+00:00',
 				story_share: "Shared akku_0307's story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-31T17:52:55.272914+00:00',
 				likes: [
 					{ username: 'akku_0307', date: '2020-01-31T18:07:14.821583+00:00' }
@@ -9293,17 +9293,17 @@ const chats = [
 				text: 'tmhara masters bhi ho jaega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-31T17:52:24.417552+00:00',
 				text: 'yahan grad. bhi ni ki'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-31T17:52:06.690624+00:00',
 				text: 'bdiya h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-31T17:51:46.901346+00:00',
 				text: 'accha esa h'
 			},
@@ -9319,7 +9319,7 @@ const chats = [
 				text: 'Nhi nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-31T17:46:47.554084+00:00',
 				text:
 					'piase hi ka to saara khel h maidam, vese kya psu vgera ka scene h ya kuch aur'
@@ -9330,7 +9330,7 @@ const chats = [
 				text: 'Kahin ni , bas paisa milega clear ho gaya toh😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-31T17:43:46.460873+00:00',
 				likes: [
 					{ username: 'akku_0307', date: '2020-01-31T17:43:57.453427+00:00' }
@@ -9354,24 +9354,24 @@ const chats = [
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-31T17:39:58.211786+00:00',
 				story_share: "Shared akku_0307's story",
 				text: 'are ho jaegi placement, tension na lein :)'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-14T09:39:20.239539+00:00',
 				text: 'are🤪'
 			},
 			{
 				sender: 'akku_0307',
 				created_at: '2019-09-14T08:58:57.403001+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Oho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-02T19:02:56.701720+00:00',
 				story_share: "Shared akku_0307's story",
 				text: '🔥'
@@ -9379,7 +9379,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'monica_choudhary7'],
+		participants: ['just_not_here', 'monica_choudhary7'],
 		conversation: [
 			{
 				sender: 'monica_choudhary7',
@@ -9393,12 +9393,12 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-04T05:50:51.114222+00:00',
 				text: 'fir kbhi...pkaa🙂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-04T05:50:38.861139+00:00',
 				text: 'are yr ye sat working h😅'
 			},
@@ -9413,7 +9413,7 @@ const chats = [
 				text: 'Thankyou boy❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-04T05:44:45.827091+00:00',
 				story_share: "Shared monica_choudhary7's story",
 				text: 'haappy birthday girl'
@@ -9421,7 +9421,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', '_silent_wanderer_'],
+		participants: ['just_not_here', '_silent_wanderer_'],
 		conversation: [
 			{
 				sender: '_silent_wanderer_',
@@ -9429,7 +9429,7 @@ const chats = [
 				text: 'Okay'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-19T08:01:12.550069+00:00',
 				text:
 					'accha to agle sunday bnate h plan, iss wale pe to ghr hi hoonga m'
@@ -9440,22 +9440,22 @@ const chats = [
 				text: 'Sunday ko off h mera'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-18T20:21:09.601917+00:00',
 				text: 'abhi to m ghr hun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-18T20:21:02.737720+00:00',
 				text: 'weekend pe aja'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-18T20:20:49.828555+00:00',
 				text: 'kidhr h bhai mil le kbhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-18T20:20:40.399968+00:00',
 				text: 'badhiya bhaai tu bta'
 			},
@@ -9470,7 +9470,7 @@ const chats = [
 				text: '😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-18T19:32:46.460242+00:00',
 				likes: [
 					{
@@ -9482,13 +9482,13 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-18T16:37:09.677123+00:00',
 				story_share: "Shared _silent_wanderer_'s story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-09T05:28:21.668233+00:00',
 				likes: [
 					{
@@ -9505,7 +9505,7 @@ const chats = [
 				text: '25'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-20T14:50:34.498002+00:00',
 				text: 'ghr kb jaa ra'
 			},
@@ -9515,12 +9515,12 @@ const chats = [
 				text: 'Mai bhi yhi hu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-20T14:42:25.451787+00:00',
 				text: 'tu bta kidhar h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-20T14:42:09.290872+00:00',
 				text: 'are mtlb delhi lol'
 			},
@@ -9530,17 +9530,17 @@ const chats = [
 				text: 'Yhi kaha?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-20T14:39:16.726179+00:00',
 				text: '🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-20T14:39:02.612868+00:00',
 				text: 'hun bheed m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-20T14:38:58.867775+00:00',
 				text: 'are bhai yhi'
 			},
@@ -9550,7 +9550,7 @@ const chats = [
 				text: 'Kaha h bhai?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-20T14:22:38.757843+00:00',
 				likes: [
 					{
@@ -9562,7 +9562,7 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-20T14:22:36.383484+00:00',
 				likes: [
 					{
@@ -9574,7 +9574,7 @@ const chats = [
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-06T15:58:51.764307+00:00',
 				likes: [
 					{
@@ -9586,7 +9586,7 @@ const chats = [
 				text: 'kya baat'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-04T17:29:13.759132+00:00',
 				likes: [
 					{
@@ -9598,7 +9598,7 @@ const chats = [
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-10T18:35:01.997841+00:00',
 				likes: [
 					{
@@ -9610,13 +9610,13 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-09T21:18:41.559868+00:00',
 				story_share: "Shared _silent_wanderer_'s story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-30T09:02:14.023577+00:00',
 				likes: [
 					{
@@ -9633,7 +9633,7 @@ const chats = [
 				text: 'Arha tha Noida se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-26T17:44:31.731923+00:00',
 				likes: [
 					{
@@ -9650,13 +9650,13 @@ const chats = [
 				text: 'Achcha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-14T12:41:26.840320+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'meetup tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-08T16:46:02.387118+00:00',
 				likes: [
 					{
@@ -9673,18 +9673,18 @@ const chats = [
 				text: '🤣🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-09T06:03:02.791582+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'bro ktwa diye jaen sbke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-08T08:16:11.790481+00:00',
 				text: '🤣🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-08T08:16:08.605669+00:00',
 				text: 'abe yaaar'
 			},
@@ -9887,17 +9887,17 @@ const chats = [
 				user: {}
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-08T08:13:39.194082+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-08T08:13:34.578281+00:00',
 				text: 'no more nalla man'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-08T08:13:26.136783+00:00',
 				text: 'bro office'
 			},
@@ -9907,7 +9907,7 @@ const chats = [
 				text: 'Kaha h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-08T08:12:32.456404+00:00',
 				likes: [
 					{
@@ -9920,11 +9920,11 @@ const chats = [
 			{
 				sender: '_silent_wanderer_',
 				created_at: '2019-07-08T08:10:59.773548+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '"Once upona time when I was a nalla" 😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-02T05:23:41.078508+00:00',
 				likes: [
 					{
@@ -9932,11 +9932,11 @@ const chats = [
 						date: '2019-07-02T09:02:38.474888+00:00'
 					}
 				],
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'bhai bs chillin around'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-23T01:05:47.063963+00:00',
 				likes: [
 					{
@@ -9944,11 +9944,11 @@ const chats = [
 						date: '2019-06-23T06:35:00.376664+00:00'
 					}
 				],
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Bs yun hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T16:48:35.522188+00:00',
 				likes: [
 					{
@@ -9960,7 +9960,7 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-06T16:24:16.903436+00:00',
 				likes: [
 					{
@@ -9972,7 +9972,7 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-06T11:21:56.396097+00:00',
 				likes: [
 					{
@@ -9984,7 +9984,7 @@ const chats = [
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-03T03:40:25.891898+00:00',
 				likes: [
 					{
@@ -9996,7 +9996,7 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-11T12:50:36.176747+00:00',
 				likes: [
 					{
@@ -10013,7 +10013,7 @@ const chats = [
 				text: 'Thanks bhai 😎'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-13T02:34:34.762863+00:00',
 				story_share: "Shared _silent_wanderer_'s story",
 				text: '👏'
@@ -10024,7 +10024,7 @@ const chats = [
 				text: 'Chai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-01T04:16:38.800020+00:00',
 				likes: [
 					{
@@ -10032,29 +10032,29 @@ const chats = [
 						date: '2019-03-01T06:24:13.931201+00:00'
 					}
 				],
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'pta ni bhai'
 			},
 			{
 				sender: '_silent_wanderer_',
 				created_at: '2019-02-20T16:16:07.964221+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
 				sender: '_silent_wanderer_',
 				created_at: '2019-01-20T10:29:24.181657+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '🔥'
 			},
 			{
 				sender: '_silent_wanderer_',
 				created_at: '2019-01-20T10:29:10.773998+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Kya h ye?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-09T09:16:04.336582+00:00',
 				likes: [
 					{
@@ -10070,7 +10070,7 @@ const chats = [
 				text: 'Happy birthday Bhai😎'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-11-21T20:00:13.745603+00:00',
 				story_share: "Shared _silent_wanderer_'s story",
 				text: '😂'
@@ -10081,7 +10081,7 @@ const chats = [
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T18:57:45.178197+00:00',
 				media_owner: 'comdy_club',
 				media_share_caption: 'humpty dumpty as a great fall😃',
@@ -10091,14 +10091,14 @@ const chats = [
 			{
 				sender: '_silent_wanderer_',
 				created_at: '2018-07-11T19:18:17.444363+00:00',
-				mentioned_username: 'just_junaid_here',
+				mentioned_username: 'just_not_here',
 				story_share: "Shared _silent_wanderer_'s story",
 				text: null
 			},
 			{
 				sender: '_silent_wanderer_',
 				created_at: '2018-07-11T11:49:58.612936+00:00',
-				mentioned_username: 'just_junaid_here',
+				mentioned_username: 'just_not_here',
 				story_share: "Shared _silent_wanderer_'s story",
 				text: null
 			},
@@ -10108,22 +10108,22 @@ const chats = [
 				text: 'Chal theek h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:43:13.280229+00:00',
 				text: 'inshallah milte h fir'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:42:57.836636+00:00',
 				text: 'kl shaam ko aa skta hun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:42:38.183644+00:00',
 				text: 'usi ki prep. kr ra hun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:42:23.449842+00:00',
 				text: 'kl ek imp kaam h'
 			},
@@ -10133,7 +10133,7 @@ const chats = [
 				text: 'Kb fir?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:41:59.708460+00:00',
 				text: 'accha yr m abhi to ni aa skta'
 			},
@@ -10143,7 +10143,7 @@ const chats = [
 				text: 'Okay'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:41:31.645393+00:00',
 				text: 'nhi bhai'
 			},
@@ -10158,7 +10158,7 @@ const chats = [
 				text: 'Wo bhi thode din k liye hi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:40:15.064636+00:00',
 				text: 'bhai kb tk h wo'
 			},
@@ -10183,12 +10183,12 @@ const chats = [
 				text: 'Sunday tk jaunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:38:39.142337+00:00',
 				text: 'ya yhi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:38:34.135596+00:00',
 				text: 'chla gya kya tu'
 			},
@@ -10208,22 +10208,22 @@ const chats = [
 				text: 'Achcha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:37:37.396810+00:00',
 				text: '*jaenge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:37:23.674024+00:00',
 				text: 'or vese bhi bhot mil jaebge tjhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:37:07.361593+00:00',
 				text: 'udemy ke courses best h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:36:58.171716+00:00',
 				text: 'bhai agr comp. sci. ka hi chahiye to'
 			},
@@ -10238,12 +10238,12 @@ const chats = [
 				text: 'Koi particular ni h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:36:10.143335+00:00',
 				text: 'tjhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:36:08.230862+00:00',
 				text: 'kis field ka course chahiye'
 			},
@@ -10253,22 +10253,22 @@ const chats = [
 				text: 'Jo best h wo bta de'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:35:50.562078+00:00',
 				text: 'mgr udemy ke sbse zyada leta hun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:35:35.014160+00:00',
 				text: 'bhai koi ek prticular ni h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:35:18.284226+00:00',
 				text: 'accha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:35:06.511980+00:00',
 				text: 'bhai chill'
 			},
@@ -10278,12 +10278,12 @@ const chats = [
 				text: 'Tu ye bta jis website Se Tu course krta h uska naam kya h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:34:51.843404+00:00',
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:34:47.857963+00:00',
 				text: 'tu to dil pe le gya'
 			},
@@ -10308,22 +10308,22 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:34:08.913482+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:34:07.085826+00:00',
 				text: 'lok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:34:02.310717+00:00',
 				text: 'it is quite famous'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:33:52.805898+00:00',
 				text: 'tjhe pta ni'
 			},
@@ -10333,17 +10333,17 @@ const chats = [
 				text: 'Abey jaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:33:36.097010+00:00',
 				text: '??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:33:28.747715+00:00',
 				text: 'pornhub'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:33:23.617052+00:00',
 				text: 'konsi bhai'
 			},
@@ -10353,7 +10353,7 @@ const chats = [
 				text: 'Yrr tune us website Ka naam kya btaya tha??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-11T09:32:18.999387+00:00',
 				text: '😂😂😂'
 			},
@@ -10374,7 +10374,7 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t50.2886-16/34642910_408656979650973_7578053366647881728_n.mp4?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_ohc=uWK9uA4JXH8AX8y882m&oe=5E89C309&oh=b15a62422eb7ca5ef7c25d52bcc21eb5'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-03T08:20:59.371024+00:00',
 				likes: [
 					{
@@ -10388,7 +10388,7 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-06-20T10:33:43.317362+00:00',
 				likes: [
 					{
@@ -10404,7 +10404,7 @@ const chats = [
 				text: 'Thanks Bhai 😀'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-02T14:59:00.212096+00:00',
 				story_share: "Shared _silent_wanderer_'s story",
 				text: 'bhai👌'
@@ -10415,12 +10415,12 @@ const chats = [
 				text: 'Haa zrur'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-01-05T10:14:19.494189+00:00',
 				text: 'vapas kb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-01-05T10:14:09.840820+00:00',
 				text: 'badhiya h fir milte hain'
 			},
@@ -10435,7 +10435,7 @@ const chats = [
 				text: 'Haa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-01-05T10:11:40.036144+00:00',
 				text: 'yahi h tu'
 			},
@@ -10445,7 +10445,7 @@ const chats = [
 				text: 'Haa yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-01-04T20:07:15.477309+00:00',
 				story_share: "Shared _silent_wanderer_'s story",
 				text: 'fati padi h bc..'
@@ -10456,7 +10456,7 @@ const chats = [
 				text: 'Meetha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-02T16:38:46.636925+00:00',
 				heart: '❤️'
 			},
@@ -10466,20 +10466,20 @@ const chats = [
 				text: 'Sry... Bhool gya 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-02T16:37:09.129367+00:00',
 				text: 'Bhai movie?'
 			},
 			{
 				sender: '_silent_wanderer_',
 				created_at: '2017-12-02T14:45:04.557561+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Kya baat 😁'
 			}
 		]
 	},
 	{
-		participants: ['siddhartha_bangwal', 'just_junaid_here'],
+		participants: ['siddhartha_bangwal', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'siddhartha_bangwal',
@@ -10487,7 +10487,7 @@ const chats = [
 				text: 'Ha sch mai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-13T10:07:40.303587+00:00',
 				text: 'han bhai tbhi to, ro rhi hogi ab'
 			},
@@ -10497,7 +10497,7 @@ const chats = [
 				text: 'Arre yaar ladko ki koi izzat hi ni rahi bta ab😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-12T18:17:15.005207+00:00',
 				story_share: "Shared siddhartha_bangwal's story",
 				text: 'bhai tu to chhod de, vese hi itni leni hori uski🤣🤣'
@@ -10508,7 +10508,7 @@ const chats = [
 				text: 'Thank you bhai😍💕🙌🏻'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-05T19:40:50.540147+00:00',
 				likes: [
 					{
@@ -10525,12 +10525,12 @@ const chats = [
 				text: '31st aug'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-09-10T17:03:15.433503+00:00',
 				text: 'kb se join kiya tune'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-09-10T17:02:52.077677+00:00',
 				text: 'accha'
 			},
@@ -10540,12 +10540,12 @@ const chats = [
 				text: 'Bpo company hai bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-09-10T16:59:49.075673+00:00',
 				text: 'jahan tk mjhe pta h ye company h shayad'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-09-10T16:59:14.462498+00:00',
 				story_share: "Shared siddhartha_bangwal's story",
 				text: 'bhai tech mahindra id card, kya seen h, clg h kya ye'
@@ -10556,14 +10556,14 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-31T18:51:09.657865+00:00',
 				text: 'are bhai sm 2 u:)'
 			},
 			{
 				sender: 'siddhartha_bangwal',
 				created_at: '2017-12-31T18:50:12.643507+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Happy new year bhai'
 			},
 			{
@@ -10572,7 +10572,7 @@ const chats = [
 				text: '😂😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-02T04:53:59.185938+00:00',
 				story_share: "Shared siddhartha_bangwal's story",
 				text: '😂😂😂😂👍same here..bc'
@@ -10583,7 +10583,7 @@ const chats = [
 				text: 'Hmm😊'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-25T17:54:39.776622+00:00',
 				story_share: "Shared siddhartha_bangwal's story",
 				text: '👍shi baat bhencho..'
@@ -10594,13 +10594,13 @@ const chats = [
 				text: 'Hmm🙄👍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T09:39:29.397709+00:00',
 				story_share: "Shared siddhartha_bangwal's story",
 				text: 'Shi baat bro👍 #chutiyapa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-24T20:10:59.765463+00:00',
 				heart: '❤️'
 			},
@@ -10610,7 +10610,7 @@ const chats = [
 				text: 'Tysm bhaii❤'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-24T19:26:29.224875+00:00',
 				text: 'Btw happy birthday bro....gbu'
 			},
@@ -10620,7 +10620,7 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-24T16:24:55.592834+00:00',
 				text: 'Chl Bdhiya h..'
 			},
@@ -10630,7 +10630,7 @@ const chats = [
 				text: 'Open du'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-24T11:06:09.928195+00:00',
 				text: 'Konsa clg he...?'
 			},
@@ -10645,7 +10645,7 @@ const chats = [
 				text: 'BA program'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:10:33.981327+00:00',
 				text: 'Shi hi chl ri tu bta kya krra?'
 			},
@@ -10660,7 +10660,7 @@ const chats = [
 				text: 'Hmm shi bol rha h bhai tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:04:28.509135+00:00',
 				text: 'Abe ab isme hm kya skte h bhai..isliye bhai chup hi rho shi h'
 			},
@@ -10671,12 +10671,12 @@ const chats = [
 					'Hadd h yr ksm d ke dlt krva di bkr h yr sanyass lke krna pdega kuch'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:55:05.081655+00:00',
 				text: 'Issliye to ye sb ho ra aur hota rhega..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:54:43.713730+00:00',
 				text: 'Yhi dr to h bhai....'
 			},
@@ -10691,12 +10691,12 @@ const chats = [
 				text: 'Kha yr ghr vle dramebaaz h bht'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:47:48.131591+00:00',
 				text: 'Koi ni tu nikaal gussa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:47:33.025967+00:00',
 				text: 'Haan yaar ye to h'
 			},
@@ -10721,12 +10721,12 @@ const chats = [
 				text: 'Gussa toh nkl hi skty h km s km hm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:46:23.373465+00:00',
 				text: 'Bhai kch ni ho skta hmare sochne se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:45:58.847989+00:00',
 				text: 'Aa to rha kya ukhad skte h bhenchd...'
 			},
@@ -10736,17 +10736,17 @@ const chats = [
 				text: 'Gussa ni aa rha fr ?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:45:17.642241+00:00',
 				text: 'Galat to h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:45:04.730506+00:00',
 				text: 'Abhi pdha mne kya h mattr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:44:50.730059+00:00',
 				text: 'Abe mri bhi...'
 			},
@@ -10761,17 +10761,17 @@ const chats = [
 				text: 'Salo nai hadd krdi ab yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:44:25.168230+00:00',
 				text: 'M kera kuch dhang ka hi daal le'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:44:03.929843+00:00',
 				text: 'Wo baat ni h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:43:58.489069+00:00',
 				text: 'Abe ese hi'
 			},
@@ -10786,7 +10786,7 @@ const chats = [
 				text: 'Gussa aa rha ab kyuki Bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:42:58.924675+00:00',
 				story_share: "Shared siddhartha_bangwal's story",
 				text: 'Kyun bkchodi krra..bc'
@@ -10797,12 +10797,12 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T04:52:22.257571+00:00',
 				text: 'Ye sb to chlta rhta h...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T04:51:38.940101+00:00',
 				text: 'Are koi na...'
 			},
@@ -10817,7 +10817,7 @@ const chats = [
 				text: '🙄koi bt ni bhai hta h kbhi kbhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T19:16:04.623301+00:00',
 				text: 'Bhai chudd gyi gandi wli bc'
 			},
@@ -10827,7 +10827,7 @@ const chats = [
 				text: 'Bht ache se lutt gyi yr vse🙄🙄'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T19:14:12.856259+00:00',
 				text:
 					'Bhai dusro ka bhi dekh lia kr thoda saala izzat lutt gyi bc rcb ki'
@@ -10838,13 +10838,13 @@ const chats = [
 				text: 'Kkr fan🙄❤'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T19:09:30.932432+00:00',
 				story_share: "Shared siddhartha_bangwal's story",
 				text: 'Rcb fan.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T19:09:11.245990+00:00',
 				story_share: "Shared siddhartha_bangwal's story",
 				text: 'Abe jale p namak kyun chidak ra bc...'
@@ -10852,10 +10852,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'aashimaxverma'],
+		participants: ['just_not_here', 'aashimaxverma'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-05T19:41:10.915231+00:00',
 				story_share: "Shared aashimaxverma's story",
 				text: 'so true'
@@ -10863,16 +10863,16 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'renu97choudhary'],
+		participants: ['just_not_here', 'renu97choudhary'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-02T16:43:06.160147+00:00',
 				story_share: "Shared renu97choudhary's story",
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-03-02T16:43:02.559096+00:00',
 				story_share: "Shared renu97choudhary's story",
 				text: '👏'
@@ -10880,7 +10880,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['mini_sharma21', 'just_junaid_here'],
+		participants: ['mini_sharma21', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'mini_sharma21',
@@ -10888,13 +10888,13 @@ const chats = [
 				text: 'Haha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-23T18:21:15.136233+00:00',
 				story_share: "Shared mini_sharma21's story",
 				text: 'lg to shi ri h😝'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-19T12:49:41.530724+00:00',
 				text: 'are ho jaata h kbhi kbhi'
 			},
@@ -10909,7 +10909,7 @@ const chats = [
 				text: 'Ab aaya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-19T12:48:45.059766+00:00',
 				text: 'are yr shi m smjh ni aya tha mjhe'
 			},
@@ -10929,7 +10929,7 @@ const chats = [
 				text: 'Dafa ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-19T10:26:02.049395+00:00',
 				text: 'mtlb'
 			},
@@ -10944,25 +10944,25 @@ const chats = [
 				text: 'Kya likha tune'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-19T04:47:25.560138+00:00',
 				text: 'kya hua'
 			},
 			{
 				sender: 'mini_sharma21',
 				created_at: '2019-12-19T03:44:22.401613+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-03T05:49:00.215581+00:00',
 				text: '😛🤣'
 			},
 			{
 				sender: 'mini_sharma21',
 				created_at: '2019-11-02T20:12:43.439676+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '👹'
 			},
 			{
@@ -10971,7 +10971,7 @@ const chats = [
 				text: '🤪'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-26T08:05:13.937784+00:00',
 				story_share: "Shared mini_sharma21's story",
 				text: '😍'
@@ -10982,7 +10982,7 @@ const chats = [
 				text: '😄'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-08T17:16:36.304859+00:00',
 				text: 'oh boy lmao😂😂😂'
 			},
@@ -10997,12 +10997,12 @@ const chats = [
 				text: 'Bas'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-07T07:13:46.237406+00:00',
 				text: 'kyun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-07T07:13:41.580941+00:00',
 				text: 'kya baat krri h'
 			},
@@ -11022,12 +11022,12 @@ const chats = [
 				text: 'Kabhi bhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-06T18:30:15.427613+00:00',
 				text: 'btao kb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-06T18:30:06.453840+00:00',
 				text: 'haan yr blkl'
 			},
@@ -11042,7 +11042,7 @@ const chats = [
 				text: 'Abe mil lo kabhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-06T18:06:08.181648+00:00',
 				text: '😅'
 			},
@@ -11052,7 +11052,7 @@ const chats = [
 				text: 'Pta tera next level'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-06T11:58:56.956517+00:00',
 				text: 'are next level 🤣'
 			},
@@ -11072,14 +11072,14 @@ const chats = [
 				text: 'Hahah'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-05T19:32:44.043512+00:00',
 				text: 'are its confidential'
 			},
 			{
 				sender: 'mini_sharma21',
 				created_at: '2019-07-05T17:49:46.162366+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Nhi dikh rha code🤣'
 			},
 			{
@@ -11088,7 +11088,7 @@ const chats = [
 				text: 'Hahhaha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T18:52:27.272811+00:00',
 				media_owner: 'the.dope.memes',
 				media_share_caption: 'Caption unavailable.',
@@ -11096,7 +11096,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/47694507_288941738635459_5638816594908672588_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_ohc=4GyJKasLFL8AX_xOUfq&oh=800f0d936bce460ef91ef98148ce544b&oe=5EB05577&ig_cache_key=MTk0NTc3NDI5Mjc2NzYzMTM3Mg%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-28T06:54:33.210380+00:00',
 				story_share: "Shared _aviralminz_'s story",
 				text: '',
@@ -11105,17 +11105,17 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'mia_hayes0969'],
+		participants: ['just_not_here', 'mia_hayes0969'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-22T06:00:46.676446+00:00',
 				text: 'hi , this is fake acc. right?'
 			}
 		]
 	},
 	{
-		participants: ['__.f.a.i.z.a.n.___', 'just_junaid_here'],
+		participants: ['__.f.a.i.z.a.n.___', 'just_not_here'],
 		conversation: [
 			{
 				sender: '__.f.a.i.z.a.n.___',
@@ -11123,7 +11123,7 @@ const chats = [
 				text: 'Wo 9a mei thi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-21T15:14:57.676153+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'ainee kahan h'
@@ -11134,22 +11134,22 @@ const chats = [
 				text: 'Back ek bhi ni hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-16T06:27:11.669696+00:00',
 				text: 'maal shi chl ra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-16T06:27:01.055717+00:00',
 				text: 'kitni back aa chuki'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-16T06:26:53.226606+00:00',
 				text: 'aur bta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-16T06:26:26.571572+00:00',
 				text: 'tha'
 			},
@@ -11159,12 +11159,12 @@ const chats = [
 				text: 'Valentine kb tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-16T06:25:56.335468+00:00',
 				text: 'kesa rha valentine'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-16T06:25:46.865467+00:00',
 				text: 'shi h londe'
 			},
@@ -11174,7 +11174,7 @@ const chats = [
 				text: 'Symbiosis mei'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-02-16T06:12:10.703864+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'kahan h ye'
@@ -11185,20 +11185,20 @@ const chats = [
 				text: 'Happy New year bro 😊🤘'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-01T10:03:55.328683+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'sm 2 u bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-20T17:44:39.522520+00:00',
 				text: 'thanks bro'
 			},
 			{
 				sender: '__.f.a.i.z.a.n.___',
 				created_at: '2019-12-20T16:39:06.636175+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Baal sexy lgre🔥👍🤘'
 			},
 			{
@@ -11207,13 +11207,13 @@ const chats = [
 				text: 'Bhsdk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-11T09:18:52.188458+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'laundo ke saath hi ghumta rhio bc🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-06T12:12:47.552121+00:00',
 				likes: [
 					{
@@ -11230,13 +11230,13 @@ const chats = [
 				text: 'Sahi kaha😂🤣🤣😂🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-06T11:17:39.032737+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'o bc fir to apan shi jaa rhen h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T17:05:35.171409+00:00',
 				likes: [
 					{
@@ -11258,7 +11258,7 @@ const chats = [
 				text: 'Delhi ki hi bata koi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:12:55.615817+00:00',
 				text: 'han bhai milte hi btata hun'
 			},
@@ -11268,7 +11268,7 @@ const chats = [
 				text: 'Koi dhund bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:11:35.442824+00:00',
 				text: 'bs to smjh ho gya kaam'
 			},
@@ -11283,17 +11283,17 @@ const chats = [
 				text: 'Mujhe sirf chut marne ke liye pata na hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:10:42.187821+00:00',
 				text: 'baat krke btata hun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:10:36.967286+00:00',
 				text: 'chl dekhta hun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:10:24.605477+00:00',
 				text: 'bhai bs puch hi mt'
 			},
@@ -11313,17 +11313,17 @@ const chats = [
 				text: 'Kese'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:09:44.217843+00:00',
 				text: 'raat din ka yhi kaam h mra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:09:34.301550+00:00',
 				text: 'bs puch mt'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:09:29.379537+00:00',
 				text: 'bhai'
 			},
@@ -11338,7 +11338,7 @@ const chats = [
 				text: 'Tu kaha hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:05:07.299244+00:00',
 				text: 'ye bhi h'
 			},
@@ -11348,22 +11348,22 @@ const chats = [
 				text: 'Baat cheet ni hoti bhai mere se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:04:05.282784+00:00',
 				text: 'fir dheere dheere kaam hota h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:03:48.812885+00:00',
 				text: 'pehle baat cheet kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:03:36.401999+00:00',
 				text: 'bhai yhi to smjhna hoga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:03:21.436929+00:00',
 				text: 'yhi to misconception h bc'
 			},
@@ -11373,22 +11373,22 @@ const chats = [
 				text: 'Chut dekh kr kiska khada ni hoga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:02:24.272688+00:00',
 				text: 'bhai se puch'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:02:17.713045+00:00',
 				text: 'usme wo feeling na ati'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:02:08.554791+00:00',
 				text: 'abe chutiya ho gya kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:01:55.312366+00:00',
 				text: 'mre ko lga mera bhi kaam kraiga bc'
 			},
@@ -11403,17 +11403,17 @@ const chats = [
 				text: 'Ab toh mei randi mang wa raha hu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:01:35.373687+00:00',
 				text: 'akhir kb tk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:01:28.012062+00:00',
 				text: 'bhai kb tk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:01:19.047956+00:00',
 				text: 'hhaahahhahag'
 			},
@@ -11423,12 +11423,12 @@ const chats = [
 				text: 'Kahi tk na pahuchi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:00:51.817950+00:00',
 				text: 'kahan tk pahuchi baat'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T11:00:40.240054+00:00',
 				text: 'are bhai bhai bhai'
 			},
@@ -11453,17 +11453,17 @@ const chats = [
 				text: 'Na bhai saalo ho ge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T10:59:15.443792+00:00',
 				text: 'baat ni hoti kya tri ab'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T10:59:01.566692+00:00',
 				text: 'yaad dila di tune bc unn dino ki'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T10:58:50.541693+00:00',
 				text: 'haan bhai'
 			},
@@ -11473,13 +11473,13 @@ const chats = [
 				text: 'Wo toh khade kra ri hogi hazaro ke😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-25T10:56:56.367219+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'lololol bhai bhai aineeee'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T19:59:37.238046+00:00',
 				text: '2 mhine hone wale h'
 			},
@@ -11489,12 +11489,12 @@ const chats = [
 				text: 'Acha kbse krra gym'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T19:58:48.254670+00:00',
 				text: 'haan bhai thoda bhut'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T19:57:43.444435+00:00',
 				likes: [
 					{
@@ -11508,11 +11508,11 @@ const chats = [
 			{
 				sender: '__.f.a.i.z.a.n.___',
 				created_at: '2019-09-23T19:33:13.546746+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Biceps marra hai 👌👌'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-25T06:56:49.052246+00:00',
 				likes: [
 					{
@@ -11534,18 +11534,18 @@ const chats = [
 				text: 'Thanks bhai🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-13T09:31:43.420264+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'hbd'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T08:45:29.882404+00:00',
 				text: 'milte h fir'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T08:45:24.708631+00:00',
 				text: 'haan blkl bhao'
 			},
@@ -11560,12 +11560,12 @@ const chats = [
 				text: 'Mere exam 28 ko khtm hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T08:44:46.103725+00:00',
 				text: 'next sunday milte h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T08:44:36.457008+00:00',
 				text: 'chl koi na'
 			},
@@ -11580,17 +11580,17 @@ const chats = [
 				text: 'Abei exams chlre yaar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T08:44:04.199123+00:00',
 				text: 'ni utha skta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T08:43:58.282991+00:00',
 				text: 'abhi phone'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T08:43:50.948167+00:00',
 				text: 'bhai yhi bta'
 			},
@@ -11605,7 +11605,7 @@ const chats = [
 				text: 'Bhai automata ka exam hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T08:42:46.637265+00:00',
 				text: 'yr mil lete aaj'
 			},
@@ -11625,7 +11625,7 @@ const chats = [
 				text: 'Bhai gaand phati padi hai paper ke mare'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T08:36:51.607764+00:00',
 				text: 'bhai to milna to mushkil h bc'
 			},
@@ -11635,7 +11635,7 @@ const chats = [
 				text: 'Abei exam hi chlre yaar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T06:42:06.233315+00:00',
 				text: 'bhai exam to ni chlre tre'
 			},
@@ -11645,7 +11645,7 @@ const chats = [
 				text: 'Tmko bhi bhai🌙🌙🌙'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-07T05:20:36.648683+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'ramadan mubarak bhai'
@@ -11656,7 +11656,7 @@ const chats = [
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-12T14:33:41.248685+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: '😂'
@@ -11667,7 +11667,7 @@ const chats = [
 				text: 'Naa du ki  hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-07T06:21:35.666203+00:00',
 				text: 'tre clg mh'
 			},
@@ -11677,13 +11677,13 @@ const chats = [
 				text: 'Randi hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-07T03:45:53.650243+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'kya h te'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:25:11.071971+00:00',
 				text: 'haan haan'
 			},
@@ -11693,7 +11693,7 @@ const chats = [
 				text: 'Tera bhai hai hi tagda'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:23:46.101119+00:00',
 				text: 'are saari tagdi h bhai'
 			},
@@ -11713,17 +11713,17 @@ const chats = [
 				text: 'Hao'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:22:51.790841+00:00',
 				text: 'fir kbhi milte b'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:22:47.330834+00:00',
 				text: 'chl koi na'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:22:38.506360+00:00',
 				text: 'accha'
 			},
@@ -11733,22 +11733,22 @@ const chats = [
 				text: 'Shaam ko hi toh scene hai flat mei'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:22:00.682982+00:00',
 				text: 'shaam ko mil le'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:21:55.976635+00:00',
 				text: 'bhai dekh le'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:21:48.348915+00:00',
 				text: 'next week ghr jaunfa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:21:39.663340+00:00',
 				text: 'abe yaaaaaar'
 			},
@@ -11763,12 +11763,12 @@ const chats = [
 				text: 'Bhai uth ni ptei yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:16:58.779234+00:00',
 				text: 'subah'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:16:58.030950+00:00',
 				text: 'kb h'
 			},
@@ -11778,12 +11778,12 @@ const chats = [
 				text: 'Arei ek londe ki bday party hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:12:58.185387+00:00',
 				text: 'aisa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:12:55.481229+00:00',
 				text: 'kl kya h bc aida'
 			},
@@ -11793,7 +11793,7 @@ const chats = [
 				text: 'Kl ke baad kabhi milege'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:12:05.128807+00:00',
 				text: 'bhai mere paas to kl hi time h'
 			},
@@ -11803,17 +11803,17 @@ const chats = [
 				text: 'Kl ni mil paunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:11:23.064008+00:00',
 				text: 'tagdi h bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:10:34.438531+00:00',
 				text: 'abe cmmnt kiya to'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:10:25.268418+00:00',
 				text: 'kl'
 			},
@@ -11833,7 +11833,7 @@ const chats = [
 				text: 'Jb tu bole'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:09:49.995592+00:00',
 				text: 'abe mil kb ra h'
 			},
@@ -11848,27 +11848,27 @@ const chats = [
 				text: 'Kahi ni bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:08:49.115878+00:00',
 				text: 'lauda lesson'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:08:40.997621+00:00',
 				text: '#bromance'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:08:33.944847+00:00',
 				text: '#squadgoals'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:08:20.198965+00:00',
 				text: 'kahan h bhosdie'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-24T06:47:06.836338+00:00',
 				text: 'tagdi'
 			},
@@ -11878,7 +11878,7 @@ const chats = [
 				text: 'Kesi hai photo?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-24T06:46:20.435181+00:00',
 				likes: [
 					{
@@ -11895,17 +11895,17 @@ const chats = [
 				text: 'Arei koi ni'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-20T02:59:35.172154+00:00',
 				text: 'to hashtag hi chod diye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-20T02:59:22.979733+00:00',
 				text: 'captuon hi ni smjh aaya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-20T02:59:08.144525+00:00',
 				text: 'abe sun photo daali'
 			},
@@ -11915,18 +11915,18 @@ const chats = [
 				text: 'Acha bhsdk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-02-20T02:49:58.522415+00:00',
 				text: 'are wo kbhi kbhi ho jata h'
 			},
 			{
 				sender: '__.f.a.i.z.a.n.___',
 				created_at: '2019-02-19T17:05:59.815368+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Bhsdk tu insta chalata ni tha??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:22:44.773845+00:00',
 				heart: '❤️'
 			},
@@ -11941,7 +11941,7 @@ const chats = [
 				text: 'Hao'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:18:38.891047+00:00',
 				text: 'shi h milte h fir'
 			},
@@ -11951,12 +11951,12 @@ const chats = [
 				text: 'Kl wapus aara'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:17:46.609886+00:00',
 				text: 'kb tk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:17:37.972174+00:00',
 				text: 'abe tu to yhi h na'
 			},
@@ -11966,12 +11966,12 @@ const chats = [
 				text: 'Are mil lenge yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:17:10.441198+00:00',
 				text: 'milenge pkka sat ko pkka bta dunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:16:38.030119+00:00',
 				text: 'yr emotional mt kr bc'
 			},
@@ -11981,12 +11981,12 @@ const chats = [
 				text: 'Saal ho gye yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:14:44.279378+00:00',
 				text: 'bde din ho gye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:14:37.245342+00:00',
 				text: 'bhai pkka sat ko btaunga kyunki ho skta h ghr jana pde mjhe'
 			},
@@ -11996,12 +11996,12 @@ const chats = [
 				text: 'Iss Sunday milre rajiv chowk bata??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:11:10.591719+00:00',
 				text: 'tu bta kya scene h kb vapas ara'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:10:58.787645+00:00',
 				text: 'bhai sunday to sunday'
 			},
@@ -12011,12 +12011,12 @@ const chats = [
 				text: 'Ek kaam krte hai free kb hai??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:10:01.424557+00:00',
 				text: 'bhai mil kb ra h fir'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:09:52.883956+00:00',
 				text: 'abe bc 😂😂😂😂'
 			},
@@ -12027,12 +12027,12 @@ const chats = [
 					'Abei yha couples ka sahi hai room book krke khub thand mei chudai machao BC'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:07:29.459543+00:00',
 				text: 'koi na londiya hoti to trip na hoti'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:07:15.900964+00:00',
 				text: 'lolololol'
 			},
@@ -12052,12 +12052,12 @@ const chats = [
 				text: 'Haa hostel ke londe hai sare'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:06:29.545881+00:00',
 				text: 'abe trip vgera pe gya h kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:06:14.557306+00:00',
 				text: 'bhai katai keda h'
 			},
@@ -12067,13 +12067,13 @@ const chats = [
 				text: 'Manali ka scene hai on piche😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-24T19:04:29.476998+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'shi h bhai tra kya scene h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T08:12:47.703266+00:00',
 				text: 'haan vo to h'
 			},
@@ -12083,7 +12083,7 @@ const chats = [
 				text: 'Ab tk toh bc pil bhi chuki hogi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T07:18:22.494947+00:00',
 				text: 'aur kya bc'
 			},
@@ -12093,7 +12093,7 @@ const chats = [
 				text: 'Arei bhut padi hai maa chudai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T07:12:15.842658+00:00',
 				text: 'chl koi na'
 			},
@@ -12103,14 +12103,14 @@ const chats = [
 				text: 'Bhai kuch ni hua block hu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T07:09:35.544394+00:00',
-				video_call_action: 'just_junaid_here ended a video call'
+				video_call_action: 'just_not_here ended a video call'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T07:09:07.389662+00:00',
-				video_call_action: 'just_junaid_here started a video call'
+				video_call_action: 'just_not_here started a video call'
 			},
 			{
 				sender: '__.f.a.i.z.a.n.___',
@@ -12128,9 +12128,9 @@ const chats = [
 				video_call_action: '__.f.a.i.z.a.n.___ started a video call'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T06:55:53.187478+00:00',
-				video_call_action: 'just_junaid_here ended a video call'
+				video_call_action: 'just_not_here ended a video call'
 			},
 			{
 				sender: '__.f.a.i.z.a.n.___',
@@ -12138,12 +12138,12 @@ const chats = [
 				text: 'Aaj maal piyunha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T06:53:22.137450+00:00',
-				video_call_action: 'just_junaid_here started a video call'
+				video_call_action: 'just_not_here started a video call'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T06:53:11.133369+00:00',
 				text: 'abe aaj ka kya scene h'
 			},
@@ -12153,7 +12153,7 @@ const chats = [
 				text: '3ko free hu yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T06:52:49.698388+00:00',
 				text: 'abe mil be bc'
 			},
@@ -12173,7 +12173,7 @@ const chats = [
 				text: 'Happy new yr bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T06:52:22.134326+00:00',
 				text: 'hny'
 			},
@@ -12183,12 +12183,12 @@ const chats = [
 				text: 'Yhi hu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T06:51:32.771491+00:00',
 				text: 'kahan h be'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T19:19:12.210487+00:00',
 				likes: [
 					{
@@ -12202,7 +12202,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/47581725_1977212779000100_9177562761945428433_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_ohc=rR5vJ1HTUSoAX_SWjff&oh=0c483a740ed47d3b5f7a4605ab605e59&oe=5EB0B01C&ig_cache_key=MTk0NTY2NzY4NjI4NzUwMjQxNQ%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T19:18:23.390473+00:00',
 				media_owner: 'official.desimeme',
 				media_share_caption: 'Caption unavailable.',
@@ -12210,7 +12210,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/46836647_2211018782474568_4893386528904481703_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_ohc=aH_EbJ0X2p0AX_FOTWw&oh=f2b2af39fd47b226fd382df61a6d7613&oe=5EB20028&ig_cache_key=MTkzOTEwMzMyMDk4NTM5NDI5OQ%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-31T18:52:28.010558+00:00',
 				media_owner: 'the.dope.memes',
 				media_share_caption: 'Caption unavailable.',
@@ -12228,7 +12228,7 @@ const chats = [
 				text: 'Hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-30T13:11:31.502670+00:00',
 				text: 'haan bhai theek h'
 			},
@@ -12243,7 +12243,7 @@ const chats = [
 				text: 'Hao agle sunday sahi hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-30T13:10:45.433603+00:00',
 				text: 'abe sirf sunday ko off rehta h mra'
 			},
@@ -12253,7 +12253,7 @@ const chats = [
 				text: 'Kyu bsdk 3 ko free ni hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-30T13:09:58.605669+00:00',
 				text: 'abe next sunday dekhte h fir'
 			},
@@ -12263,7 +12263,7 @@ const chats = [
 				text: 'Kb milra bata 2 ko??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-30T08:28:43.130657+00:00',
 				text: 'abe yaar aj milna sch ra tha'
 			},
@@ -12278,12 +12278,12 @@ const chats = [
 				text: 'Delhi hu bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-30T06:27:20.937361+00:00',
 				text: 'delhi ya ghar?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-30T06:27:09.222588+00:00',
 				text: 'kahan h be'
 			},
@@ -12303,17 +12303,17 @@ const chats = [
 				text: 'Ha bhai sessional zruri hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:31:29.679967+00:00',
 				text: '*tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:31:23.789270+00:00',
 				text: 'pehle ye khatm kr le ty'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:30:50.403352+00:00',
 				text: 'haan koi ni bhai'
 			},
@@ -12323,12 +12323,12 @@ const chats = [
 				text: 'Done'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:30:37.649689+00:00',
 				text: 'thik h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:30:34.211240+00:00',
 				text: 'esa kr lete hain'
 			},
@@ -12348,22 +12348,22 @@ const chats = [
 				text: '11 ke baad sahi hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:30:08.939339+00:00',
 				text: 'bhi sunday ko'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:30:03.990206+00:00',
 				text: '11 ke baad kisi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:29:55.826768+00:00',
 				text: 'vrna'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:29:53.248203+00:00',
 				text: 'haan to koi ni 3 ko'
 			},
@@ -12373,7 +12373,7 @@ const chats = [
 				text: 'Wapus aaunga 11 ko'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:29:28.996383+00:00',
 				text: 'wapas kb aega fir'
 			},
@@ -12388,17 +12388,17 @@ const chats = [
 				text: '3 ka final krke bta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:00:05.566005+00:00',
 				text: '3 ka not sure'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:00:03.841757+00:00',
 				text: '2 ko to ni ho skta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T16:00:03.201284+00:00',
 				text: '4 ko sunday h bro'
 			},
@@ -12408,12 +12408,12 @@ const chats = [
 				text: '2ya 3 tareek ko bta free hai??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T11:25:39.461670+00:00',
 				text: 'sunday off hota h sirf'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T11:25:30.667035+00:00',
 				text: 'bhai m intrnship krra gurugram m'
 			},
@@ -12423,12 +12423,12 @@ const chats = [
 				text: 'Kya sunday sunday ata hai kya okhla'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T09:36:47.621646+00:00',
 				text: 'mon to sat m busy rehta hoon'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T09:36:16.397020+00:00',
 				text: 'abe fir agle sunday ko hi milna ho payega'
 			},
@@ -12448,7 +12448,7 @@ const chats = [
 				text: 'Bhai sessional hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T07:45:07.342856+00:00',
 				text: 'bhai m sirf sunday ko hi mil skta hun'
 			},
@@ -12463,12 +12463,12 @@ const chats = [
 				text: 'Bhai sessional chlre'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T02:13:52.629633+00:00',
 				text: 'time aur jghe tu set ke le'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-27T02:13:29.817884+00:00',
 				text: 'm bhi yhi hu kl mil lete h sunday h'
 			},
@@ -12483,7 +12483,7 @@ const chats = [
 				text: 'Yhi hu yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-26T17:56:54.689241+00:00',
 				text: 'h kahan yhi ya ghr'
 			},
@@ -12493,7 +12493,7 @@ const chats = [
 				text: 'Haa bhai bhut mera'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-10-26T17:51:34.088563+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'bhut mze le rha h bc aaj kl'
@@ -12504,7 +12504,7 @@ const chats = [
 				text: 'Thanks bc😊❤😊❤'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-13T02:34:06.008134+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'janmdin mubark bhai ko'
@@ -12515,13 +12515,13 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-05T21:31:56.416467+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'gajjaabbbb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-02T10:10:06.650615+00:00',
 				text: 'mmll'
 			},
@@ -12531,43 +12531,43 @@ const chats = [
 				text: 'Ye toh kuch ni hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-02T09:46:58.115847+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'ye baat gajjab'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-25T11:58:47.607522+00:00',
-				video_call_action: 'just_junaid_here ended a video call'
+				video_call_action: 'just_not_here ended a video call'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-25T11:58:16.991058+00:00',
-				video_call_action: 'just_junaid_here started a video call'
+				video_call_action: 'just_not_here started a video call'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-25T11:58:13.321950+00:00',
-				video_call_action: 'just_junaid_here ended a video call'
+				video_call_action: 'just_not_here ended a video call'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-25T11:57:42.594972+00:00',
-				video_call_action: 'just_junaid_here started a video call'
+				video_call_action: 'just_not_here started a video call'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-22T09:36:01.635342+00:00',
 				text: 'tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-22T09:35:59.995706+00:00',
 				text: 'phone kyun ni uthara'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-22T09:35:51.724229+00:00',
 				text: '😆😆😆'
 			},
@@ -12577,12 +12577,12 @@ const chats = [
 				text: "Mujhe likhna chaiye tha 'born this way'"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-22T09:34:07.388340+00:00',
 				text: '*ladke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-22T09:34:00.456630+00:00',
 				text: 'ae ladje'
 			},
@@ -12593,12 +12593,12 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e15/p480x480/36915557_2156032131299223_3758211532073205760_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=103&_nc_ohc=-bXhKhik96wAX80XQGn&_nc_tp=4&oh=a955792345466083314fe315fce2b8c6&oe=5EB0F38D&ig_cache_key=MjEyODI0MDg4NTA3NzM5MTUxOA%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-22T09:15:12.711523+00:00',
 				text: 'shi m bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-22T09:12:54.786849+00:00',
 				text: 'hata kyun di be'
 			},
@@ -12619,7 +12619,7 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e15/s480x480/37230518_1958661057489269_5677577561333301248_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_ohc=13mXG46G1JEAX9SMjWW&oh=ae18a8b860b89c025bd9faca2c94828d&oe=5EB058BF&ig_cache_key=MjEyODI0MDg4NTA5NDE1NjQwNA%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-22T09:12:26.745276+00:00',
 				text: 'kya thi'
 			},
@@ -12629,7 +12629,7 @@ const chats = [
 				text: 'Bhai tune isse pehli wali story ni dekhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-22T09:11:44.943895+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'bhai aakhir kb tk😕'
@@ -12640,7 +12640,7 @@ const chats = [
 				text: 'Hao theek hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:42:27.878660+00:00',
 				text: 'chl yr m sone jaa ra baad me bt krte h'
 			},
@@ -12655,12 +12655,12 @@ const chats = [
 				text: 'Pta krle btata hu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:41:29.530505+00:00',
 				text: 'aur kuch'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:41:23.592911+00:00',
 				text: 'accha bhut badiya'
 			},
@@ -12671,7 +12671,7 @@ const chats = [
 					'Noida sector 18 mei agr ladki raat mei 11bje red rose leke khadi ho smjh jao wo escort hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:40:12.137989+00:00',
 				text: 'abe unke rate bhi to vese hi hote h bc'
 			},
@@ -12686,17 +12686,17 @@ const chats = [
 				text: 'Bete esi esi escorts hai Dekh kr pyr ho jaega tujhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:39:00.016910+00:00',
 				text: 'kuch bhi bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:38:54.947947+00:00',
 				text: 'mtlb diwaar me dega kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:38:38.809048+00:00',
 				text: 'abe wohi to feeling ho savre'
 			},
@@ -12706,17 +12706,17 @@ const chats = [
 				text: 'Hume ka krna feeling ka hume toh toh bs Lund dalna'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:37:34.976950+00:00',
 				text: 'mre se pooch'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:37:30.029706+00:00',
 				text: 'bhai feeling ni ati'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:37:19.746025+00:00',
 				text: 'chl bhosdu'
 			},
@@ -12726,7 +12726,7 @@ const chats = [
 				text: 'Mzk ni krra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:37:08.548975+00:00',
 				text: 'jb ki jb'
 			},
@@ -12736,7 +12736,7 @@ const chats = [
 				text: 'Kasam se Bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:36:55.916143+00:00',
 				text: 'haan haan dekh lenge'
 			},
@@ -12746,22 +12746,22 @@ const chats = [
 				text: 'Isliye bete job lgegi sbse pehli salary se rand chodke aaunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:35:58.024959+00:00',
 				text: 'pkka h likh ke lele'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:35:49.939964+00:00',
 				text: 'chutiya si shakl ke launde se set hogi vo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:35:21.586926+00:00',
 				text: 'yhi to baat h bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:35:11.211140+00:00',
 				text: 'pta h bhai sb pta h'
 			},
@@ -12771,17 +12771,17 @@ const chats = [
 				text: 'Reply toh atta ni proposal Lund ayengei mere paas'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:33:53.254968+00:00',
 				text: 'kitno ko reject kr chuka'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:33:37.233775+00:00',
 				text: 'kitne prop. are tjhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:33:29.254682+00:00',
 				text: 'aur bhai tu to itna smart h'
 			},
@@ -12791,7 +12791,7 @@ const chats = [
 				text: 'Jaa MC'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:33:08.467463+00:00',
 				text: 'bc agr ldkiyan shakl dekhti hoti na 90% launde kuare marte'
 			},
@@ -12816,22 +12816,22 @@ const chats = [
 				text: 'Apni shaql Dekh bhsdk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:31:54.208016+00:00',
 				text: 'mohalle ki behen h saari'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:31:38.967336+00:00',
 				text: 'esi vesi ni'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:31:34.886447+00:00',
 				text: 'yr koi standard ki dekhni h bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:31:20.921873+00:00',
 				text: 'mohalle ki ni ab'
 			},
@@ -12841,12 +12841,12 @@ const chats = [
 				text: 'Koi mohalle ki hi pata le'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:30:49.879242+00:00',
 				text: 'hahahahhahahaha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:30:26.946781+00:00',
 				text: 'lol rofl lmao'
 			},
@@ -12856,12 +12856,12 @@ const chats = [
 				text: 'Usb port mei loda dega kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:30:13.822314+00:00',
 				text: '10 ghante to m iske saamne rehta hoon'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:29:58.746749+00:00',
 				text: 'abe mri setting to comp. se h'
 			},
@@ -12876,12 +12876,12 @@ const chats = [
 				text: 'Teri love life ke ka haal hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:27:47.863937+00:00',
 				text: 'apna apna shauk h bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:27:31.698111+00:00',
 				text: 'ye to h khair'
 			},
@@ -12896,7 +12896,7 @@ const chats = [
 				text: 'Love life ki mkc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:26:44.825269+00:00',
 				text: 'abe londe jeene na dete'
 			},
@@ -12906,12 +12906,12 @@ const chats = [
 				text: 'Agr hota toh try krta??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:25:39.980813+00:00',
 				text: 'tri jesi kismt kahan mri'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:25:27.771367+00:00',
 				text: 'ghar pe rehta hun'
 			},
@@ -12921,7 +12921,7 @@ const chats = [
 				text: 'Daaru ni pi meine'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:25:19.136919+00:00',
 				text: 'm kahan se kr lunga bc'
 			},
@@ -12936,12 +12936,12 @@ const chats = [
 				text: 'Tune krli??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:24:43.013887+00:00',
 				text: 'daaru bhi kr li try'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:24:29.898024+00:00',
 				text: 'krenge fir kbhi'
 			},
@@ -12956,7 +12956,7 @@ const chats = [
 				text: 'Tu bhi try kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:24:04.530923+00:00',
 				text: 'vo to h khair'
 			},
@@ -12966,12 +12966,12 @@ const chats = [
 				text: 'Yhi toh mje hai BC'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:23:27.845954+00:00',
 				text: 'mje kr bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:23:22.748978+00:00',
 				text: 'badhiya h aur kya'
 			},
@@ -12986,17 +12986,17 @@ const chats = [
 				text: 'Iss sem meine ganja mara tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:22:49.075742+00:00',
 				text: 'kuch nya kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:22:39.294843+00:00',
 				text: 'bc*'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:22:34.951514+00:00',
 				text: 'hostel life to chlti rehti h bv'
 			},
@@ -13016,12 +13016,12 @@ const chats = [
 				text: 'Naa chlri love life'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:21:38.351645+00:00',
 				text: 'aur love life kei chl ri'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:21:26.927436+00:00',
 				text: 'aajagi chinta na kr'
 			},
@@ -13031,7 +13031,7 @@ const chats = [
 				text: 'Ek aad ani chaiye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:20:54.643989+00:00',
 				text: 'hahahhaha'
 			},
@@ -13041,7 +13041,7 @@ const chats = [
 				text: 'Nyi ayi tabhi toh behar chlri'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:20:31.065503+00:00',
 				text: 'back ayi'
 			},
@@ -13056,7 +13056,7 @@ const chats = [
 				text: 'Bekr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:20:04.717049+00:00',
 				text: 'aur padhai kesi chl ri tri'
 			},
@@ -13066,12 +13066,12 @@ const chats = [
 				text: 'Haa sb zinda hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:18:36.630012+00:00',
 				text: 'aur ghar pe sb thik h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:18:19.481558+00:00',
 				text: 'kl niklega'
 			},
@@ -13081,7 +13081,7 @@ const chats = [
 				text: 'Nikal gya hoga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:17:51.356103+00:00',
 				text: 'abe pogba ke to kl se shuru h bc'
 			},
@@ -13096,7 +13096,7 @@ const chats = [
 				text: 'Clg strt hai 1 se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:17:04.291695+00:00',
 				text: 'kyun'
 			},
@@ -13116,17 +13116,17 @@ const chats = [
 				text: 'Bc ab iske baad kb ayega Delhi??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:11:40.578722+00:00',
 				text: 'milne ke liye specially nikal padega mjhe lagra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:11:04.292004+00:00',
 				text: 'abhi recently gya tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:10:55.335955+00:00',
 				text: 'abe yaar jb aata hun tu ghar hota h'
 			},
@@ -13141,12 +13141,12 @@ const chats = [
 				text: 'Delhi kb ara??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:10:29.822002+00:00',
 				text: 'tu ghar hi hoga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:10:19.798193+00:00',
 				text: 'badhiya bhai sb'
 			},
@@ -13156,17 +13156,17 @@ const chats = [
 				text: 'Aur bta kesa chl ra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:06:59.041499+00:00',
 				text: 'thik bhi h tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:06:40.731850+00:00',
 				text: 'sb yhi krre'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T19:06:32.578042+00:00',
 				text: 'chl koi na'
 			},
@@ -13181,7 +13181,7 @@ const chats = [
 				text: 'Bc isne bhi kri thi mere bday pe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-16T18:47:13.216441+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'abe tu kbse krne lga be ye bdday wali bkchodi'
@@ -13192,7 +13192,7 @@ const chats = [
 				text: 'Chl krle'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-05-21T13:09:09.037047+00:00',
 				text: 'm krra'
 			},
@@ -13232,7 +13232,7 @@ const chats = [
 				text: 'Kal kriyo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-05-21T13:08:11.776311+00:00',
 				text: 'accha m call krra konse no pe kru'
 			},
@@ -13242,7 +13242,7 @@ const chats = [
 				text: 'Bc ghr jake rakhunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-05-21T13:07:46.555447+00:00',
 				text: 'bhai roza to hoga ni ye to puchne ki zaroorat ni h'
 			},
@@ -13252,12 +13252,12 @@ const chats = [
 				text: 'Abei bc clean shave krwayi is chutiye nei toh gaand maar re iski'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-05-21T13:05:41.347744+00:00',
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-05-21T13:04:44.774220+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'madr... mtlb ab londo pe aa gya kya'
@@ -13268,17 +13268,17 @@ const chats = [
 				text: 'Meri bhi ni hui'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:36:23.079160+00:00',
 				text: 'm bhool gya tha us din'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:36:02.083552+00:00',
 				text: 'tri hui'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:35:59.018237+00:00',
 				text: 'na'
 			},
@@ -13288,12 +13288,12 @@ const chats = [
 				text: 'Prajuwal se baat hui??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:35:23.274184+00:00',
 				text: 'bc hahahahha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:35:17.687887+00:00',
 				text: 'thik h phone lga conference pe'
 			},
@@ -13303,22 +13303,22 @@ const chats = [
 				text: 'Mere baapu ko smjha de ye baat'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:34:38.090423+00:00',
 				text: 'mtlb maza ni h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:34:27.830571+00:00',
 				text: 'btech ni hota'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:34:22.416265+00:00',
 				text: 'wese bhi jb tk ek do back na aein'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:34:06.188788+00:00',
 				text: 'are koi na tension na le'
 			},
@@ -13328,12 +13328,12 @@ const chats = [
 				text: 'Haa bc gaand phat ri kahi back na aa jaye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:32:59.655249+00:00',
 				text: 'sexy'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:32:57.309362+00:00',
 				text: 'bc gaand faad lgre'
 			},
@@ -13343,12 +13343,12 @@ const chats = [
 				text: 'Ye hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:30:45.612404+00:00',
 				text: '*isme'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:30:40.102893+00:00',
 				text: 'topics kya h ese isne'
 			},
@@ -13358,13 +13358,13 @@ const chats = [
 				text: 'Haa bc hai,,londo ki back aati hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-15T19:19:13.978406+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'tough h kya jada hi?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-12T06:23:52.618858+00:00',
 				text: 'nahi bhai use bhi notice kiya ja rha h bc'
 			},
@@ -13375,24 +13375,24 @@ const chats = [
 					'Haa bc aankh toh video mei londei nei bhi maari thi,uski toh kisi ko shaql bhi yaad ni😅😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-11T20:20:47.820456+00:00',
 				text: 'subah tk iske 100 k followers the bc ab dekh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-11T20:20:26.689144+00:00',
 				text: 'bc har jghe is behen ne gadar macha diya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-11T20:19:58.092004+00:00',
 				media_owner: 'Username unavailable.',
 				media_share_caption: 'Caption unavailable.',
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-11T18:37:16.248299+00:00',
 				text: 'haan:('
 			},
@@ -13402,13 +13402,13 @@ const chats = [
 				text: 'Memes pages khass kr..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-11T16:56:57.698539+00:00',
 				text:
 					'saala log bhi chutiya hi hote h..kisi bhi cheez ko ekdum chadha dete h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-11T16:56:15.349432+00:00',
 				text: 'bhai celeb. bn gyi bc raato raat'
 			},
@@ -13418,7 +13418,7 @@ const chats = [
 				text: 'Xhaa bc faltu mei zada famous ho gyi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-11T16:37:42.335552+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'abe jada ni ho gya iss londiya ka madrchod'
@@ -13429,12 +13429,12 @@ const chats = [
 				text: 'Jio ka no. De'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-01T09:23:45.681051+00:00',
 				text: 'Aaj hi dala airtel'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-01T09:23:34.800132+00:00',
 				text: 'Abe do jio chala ra tha'
 			},
@@ -13444,7 +13444,7 @@ const chats = [
 				text: 'Bdia BC tera Airtel wala no. Ni lgra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-11-30T19:24:12.627597+00:00',
 				text: 'Koi na bhai lga re call krunga tjhe m kl?'
 			},
@@ -13454,14 +13454,14 @@ const chats = [
 				text: 'Bc gaand fati padi hai paper chl re bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-11-29T19:55:12.009586+00:00',
 				text: 'Shadi m..madrchod tu kahan reta h?'
 			},
 			{
 				sender: '__.f.a.i.z.a.n.___',
 				created_at: '2017-11-29T19:34:44.998674+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Ayye BC kaha hai??'
 			},
 			{
@@ -13470,12 +13470,12 @@ const chats = [
 				text: 'Kuch din abhi lgegi fir dushera ke baad bhi lgegi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:43:10.248007+00:00',
 				text: 'Mtlb kitne din ki h?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:42:53.875482+00:00',
 				text: 'Abbe bhot shi bc'
 			},
@@ -13486,7 +13486,7 @@ const chats = [
 					'YouTube khol uspe search kr "andro car jss" isme hum logo ko car bnana sikayegei toh android app se control hogi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:41:15.461038+00:00',
 				text: 'Kya h bc ye'
 			},
@@ -13497,12 +13497,12 @@ const chats = [
 					'Abei aaj kl andro car ki workshop chl ri isliye sham ko 4 se 7 wahi runga shyd'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:40:08.070634+00:00',
 				text: 'Chl jb aega caal krunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:39:57.619570+00:00',
 				text: 'Bc jio m volte ni aata'
 			},
@@ -13517,17 +13517,17 @@ const chats = [
 				text: 'Abei tu kiya kr mere pe jio ni hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:39:04.782199+00:00',
 				text: 'Phone bhi ni krta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:38:55.762075+00:00',
 				text: 'H kahan tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:38:50.793463+00:00',
 				text: 'Bhosdi ke kya lrra h'
 			},
@@ -13537,37 +13537,37 @@ const chats = [
 				text: 'Pata ni meine msg ni kiya usei'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:32:18.798013+00:00',
 				text: 'Bhai uski pics dekh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:32:11.471366+00:00',
 				text: 'Mjhe to bc fake lgri'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:31:59.909777+00:00',
 				text: 'Bc lomdiya poori baate chod ri'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:31:38.638841+00:00',
 				text: 'Scarlett naam ki ladki h tu follow krta h use'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:31:15.878864+00:00',
 				text: 'Abe sun bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:30:42.221414+00:00',
 				text: 'Baki pata ni bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:30:35.762976+00:00',
 				text: 'Abe jamia ka hi h abhi to'
 			},
@@ -13577,12 +13577,12 @@ const chats = [
 				text: 'Toh kaha admission lega???'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:21:55.488777+00:00',
 				text: 'Saharanpur hi hun abhi bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:21:33.386749+00:00',
 				text: 'Abe nhi bc'
 			},
@@ -13592,7 +13592,7 @@ const chats = [
 				text: 'Abei scah bata???😲😲'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:58:58.215404+00:00',
 				text: 'Jamia ka gym h bc'
 			},
@@ -13602,7 +13602,7 @@ const chats = [
 				text: 'Abhi kaha hai saharanpur????'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:35:24.859144+00:00',
 				text: 'Loda le le'
 			},
@@ -13612,23 +13612,23 @@ const chats = [
 				text: 'Bekar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:25:03.989225+00:00',
 				text: 'Kesi aai bc pic?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:24:51.276068+00:00',
 				text: 'Gym'
 			},
 			{
 				sender: '__.f.a.i.z.a.n.___',
 				created_at: '2017-09-18T17:24:10.799862+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Kaha hai???'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-04T09:04:55.526033+00:00',
 				text: 'Rehn de ✋'
 			},
@@ -13638,7 +13638,7 @@ const chats = [
 				text: 'Toh ussei kya hoga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T17:13:23.724750+00:00',
 				text: 'Abe tre paas metro map h'
 			},
@@ -13658,17 +13658,17 @@ const chats = [
 				text: 'Abhi krle call BC'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T16:47:01.585293+00:00',
 				text: 'Aur bta kesa h sb wahan'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T16:46:49.785202+00:00',
 				text: 'Kl krunga call tjhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T16:46:36.708705+00:00',
 				text: 'Bdhiya bc'
 			},
@@ -13678,7 +13678,7 @@ const chats = [
 				text: 'Kl'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T16:44:11.513802+00:00',
 				text: 'Abe kb hua shift'
 			},
@@ -13695,12 +13695,12 @@ const chats = [
 				text: 'Phone krna bc jio na hai mere pe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:47:44.417280+00:00',
 				text: 'Khaana kha ra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:47:39.240853+00:00',
 				text: 'Abe abhi baad m krta hun baat'
 			},
@@ -13710,7 +13710,7 @@ const chats = [
 				text: 'Jaypee ki puri building dikhti'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:46:55.413924+00:00',
 				text: 'Sexy h bc'
 			},
@@ -13725,7 +13725,7 @@ const chats = [
 				text: 'Abei bc ye hostel wale campus ka view hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:32:45.040213+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'Oye hoye...dhappuu😍'
@@ -13736,7 +13736,7 @@ const chats = [
 				text: 'Bhai wo phone ni uthara'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-23T15:54:38.809673+00:00',
 				text: 'Refund honge ya nhu'
 			},
@@ -13756,12 +13756,12 @@ const chats = [
 				text: 'Abei ja bekar hai shyd'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-23T15:54:11.344787+00:00',
 				text: 'Kb tk ka time h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-23T15:53:59.767340+00:00',
 				text: 'Lele'
 			},
@@ -13776,12 +13776,12 @@ const chats = [
 				text: 'Suna??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-23T15:09:11.423004+00:00',
 				text: 'Abe sunnn'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-15T10:11:38.012075+00:00',
 				text: 'Tasalli kise dera rehnde😆'
 			},
@@ -13796,12 +13796,12 @@ const chats = [
 				text: 'In jaisi bohot hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-15T07:00:53.125937+00:00',
 				text: 'Mst lgri..😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-15T07:00:39.778266+00:00',
 				text: 'Whi to bc'
 			},
@@ -13811,7 +13811,7 @@ const chats = [
 				text: 'Ha bc sunder ho gyi phle se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-15T06:56:42.055936+00:00',
 				text: 'Abe piche wali'
 			},
@@ -13821,7 +13821,7 @@ const chats = [
 				text: 'Kon ho ri???'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-14T17:03:59.152540+00:00',
 				text: 'Maal ho ri bc😍'
 			},
@@ -13831,12 +13831,12 @@ const chats = [
 				text: 'Ha piche wali hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-14T12:31:21.401951+00:00',
 				text: 'Peeche wali h na'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-14T12:30:49.642767+00:00',
 				text: 'Yeah...👌'
 			},
@@ -13852,7 +13852,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e15/p480x480/19985851_245930169230528_2656466873490604032_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_ohc=fHTUVcRiNBgAX-0QDCa&_nc_tp=4&oh=959919981415fd3bf64a3a32f5d838e0&oe=5EB18C88&ig_cache_key=MjEyODI0MDg5NDA3MDIwMTQxMA%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-14T12:28:43.805578+00:00',
 				media:
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e15/p480x480/19985622_788095904684658_6380383864799363072_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=106&_nc_ohc=8guEJCmIe50AX8P3neS&_nc_tp=4&oh=9353da8d12da6c4e8b84c7ccaa153b09&oe=5EB0C818&ig_cache_key=MjEyODI0MDg5NDA3ODQ4Mjg3NQ%3D%3D.2'
@@ -13863,7 +13863,7 @@ const chats = [
 				text: 'Abei jb waha jane ki ummed ni hai toh kyu dekhu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-14T12:27:51.793210+00:00',
 				text: 'Kyun asli maal to vhi h be'
 			},
@@ -13873,12 +13873,12 @@ const chats = [
 				text: 'Bc du ki mt bhej'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-14T12:26:08.325517+00:00',
 				text: 'Bhai bura haal h bc..😕'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-14T12:25:24.182513+00:00',
 				media_owner: 'Username unavailable.',
 				media_share_caption: 'Caption unavailable.',
@@ -13890,7 +13890,7 @@ const chats = [
 				text: 'Bc itni gori'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-14T12:24:23.307160+00:00',
 				media_owner: 'Username unavailable.',
 				media_share_caption: 'Caption unavailable.',
@@ -13907,7 +13907,7 @@ const chats = [
 				text: 'Bhai yr kya hai bei ye cgeez'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-14T12:17:49.085449+00:00',
 				likes: [
 					{
@@ -13920,7 +13920,7 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-14T12:17:08.126277+00:00',
 				likes: [
 					{
@@ -13934,7 +13934,7 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e35/39393872_286052792124622_5830936180455112704_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110&_nc_ohc=8K9evazGZVEAX8W3FjK&oh=f2ae47759e7fb676a160989fe939740c&oe=5EB28A1F&ig_cache_key=MTU0NzE0NDgwODY0NzE5NzE3Mg%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-14T12:04:54.351146+00:00',
 				likes: [
 					{
@@ -13953,7 +13953,7 @@ const chats = [
 				text: 'Haa theek hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-09T04:45:15.635865+00:00',
 				text: 'You ki jgh u kr de'
 			},
@@ -13969,17 +13969,17 @@ const chats = [
 				text: 'Ek gane ki line thi yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-08T18:28:38.561741+00:00',
 				text: 'Shi h bc iss baar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-08T18:28:28.035381+00:00',
 				text: '👌username...creative,👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:37:54.032222+00:00',
 				text:
 					'Accept this "BEST PIC CHALLENGE"\n\n📸: Send me your best pic\n\n📸: And forward this message to all your friends\n📸: At the end you will get an amazing picture collection of your Friends.\nP.S. - i will post the pic on my story😎'
@@ -14045,17 +14045,17 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e15/s480x480/18646695_1804376986557225_1964155155108593664_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_ohc=_vRpaRWAGC0AX8kx-mA&oh=d75a44e2368698c73d0af52c33362c14&oe=5EB080EB&ig_cache_key=MjEyODI0MDg5OTYyMzQ3OTMzMA%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-24T19:22:12.405662+00:00',
 				text: 'Silicon boobs kehte inhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-24T19:21:58.655699+00:00',
 				text: 'Real m itne kisi ke ni hote..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-24T19:21:38.914502+00:00',
 				text: 'Abe ye wale fake hote h transplanted'
 			},
@@ -14083,7 +14083,7 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T18:08:04.822552+00:00',
 				text: 'Aisa h kya..'
 			},
@@ -14093,7 +14093,7 @@ const chats = [
 				text: 'Placement ni hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:50:42.749587+00:00',
 				text: 'Kyun be??'
 			},
@@ -14103,7 +14103,7 @@ const chats = [
 				text: 'Ni bhul ke bhi ni'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:49:07.144175+00:00',
 				text: 'Mech.??'
 			},
@@ -14113,7 +14113,7 @@ const chats = [
 				text: 'Electronics bhi le lunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:45:13.336060+00:00',
 				text: 'Aur agr koi aur si branch mil ri ho'
 			},
@@ -14124,12 +14124,12 @@ const chats = [
 					'Agr mujhe galgotia mei cs mili saman pack krunga nikal lunga bc delhi ki college life'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:42:55.921844+00:00',
 				text: 'Tbhi ni bhara'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:42:50.792756+00:00',
 				text: 'Abe sb dekh liya'
 			},
@@ -14139,17 +14139,17 @@ const chats = [
 				text: 'Abei ni mhrd ki ranking dekh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:40:30.447672+00:00',
 				text: 'Kehre ki isse bdhiya ghr ke paas koi norml clg le lo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:40:04.977387+00:00',
 				text: 'Quora p bvp ko tucha clg btare'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:39:28.405416+00:00',
 				text: 'Abe sun'
 			},
@@ -14159,7 +14159,7 @@ const chats = [
 				text: 'Hao uptu mei counseling kraega toh mil jaega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:37:02.387582+00:00',
 				text: 'Mil jaega kya glgtia'
 			},
@@ -14169,7 +14169,7 @@ const chats = [
 				text: 'Search krke dekhle'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:26:16.207380+00:00',
 				text: 'Abe chl'
 			},
@@ -14184,12 +14184,12 @@ const chats = [
 				text: 'Galgotia ka highest package search kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:24:43.318807+00:00',
 				text: 'Aur gunah jp'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:24:20.563933+00:00',
 				text: 'M bhi dekhta hun'
 			},
@@ -14199,7 +14199,7 @@ const chats = [
 				text: 'Galgotia soch rahu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:23:02.542322+00:00',
 				text: 'Kyun'
 			},
@@ -14214,7 +14214,7 @@ const chats = [
 				text: 'Mei uptu bhi optio mei rakhunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:22:28.434032+00:00',
 				text: 'Shi bta'
 			},
@@ -14224,7 +14224,7 @@ const chats = [
 				text: 'Waha mt jaiyo bekar hai pagal'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T17:02:06.906228+00:00',
 				text: 'Abe sun jp noida sctr 128 kesa h'
 			},
@@ -14234,7 +14234,7 @@ const chats = [
 				text: 'Pata ni'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:56:30.082450+00:00',
 				text: 'Abe kitni door h wo jhnsi se'
 			},
@@ -14244,12 +14244,12 @@ const chats = [
 				text: 'Bhartiya vidyapeeth'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:55:41.177123+00:00',
 				text: 'Ab shi bta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:55:20.242407+00:00',
 				text: 'Waah shi h bc ...'
 			},
@@ -14259,12 +14259,12 @@ const chats = [
 				text: 'Papa ke saath collaborate'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:52:44.790151+00:00',
 				text: 'Ab kya plan h bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:43:26.035895+00:00',
 				text: 'Guard ki bhi mil skti h'
 			},
@@ -14274,7 +14274,7 @@ const chats = [
 				text: 'Peon ki nokri'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:42:11.028085+00:00',
 				text: 'Kya milega yun bta'
 			},
@@ -14284,7 +14284,7 @@ const chats = [
 				text: 'Pichi baar 83 sahi 26 galat thei is baar 87 sahi 27 galat'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:35:21.461185+00:00',
 				text: 'Milega kich'
 			},
@@ -14294,7 +14294,7 @@ const chats = [
 				text: '223'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:34:47.412075+00:00',
 				text: 'Pichli baar kitne the'
 			},
@@ -14304,7 +14304,7 @@ const chats = [
 				text: '234'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-23T16:33:39.072374+00:00',
 				text: 'Kitne aaye ??'
 			},
@@ -14352,12 +14352,12 @@ const chats = [
 				text: 'Abei chutiye tu sheeshei ke saamna khada ta bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T16:33:48.678447+00:00',
 				text: 'Bda mza aaya aahaha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T16:33:31.594146+00:00',
 				text:
 					'Abe dabake choos liya londiya ko bc bhai bade ho gye uske pure hath m bhi ni are the ..'
@@ -14373,7 +14373,7 @@ const chats = [
 				text: 'De aya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T16:31:48.319349+00:00',
 				text: 'Abe kl raat mza aa gya'
 			},
@@ -14383,7 +14383,7 @@ const chats = [
 				text: 'Suna bhosdike'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T16:31:12.459969+00:00',
 				text: 'Abe sun bc'
 			},
@@ -14393,7 +14393,7 @@ const chats = [
 				text: 'Reviews padh us cllg ke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T16:30:37.599121+00:00',
 				text: 'Kya puchu quora pe'
 			},
@@ -14408,12 +14408,12 @@ const chats = [
 				text: 'Abei ek baar quora pe padh le uske bare mei'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T16:28:53.382738+00:00',
 				text: 'Shi keh ra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T16:28:46.097902+00:00',
 				text: 'Hahhahaha'
 			},
@@ -14428,12 +14428,12 @@ const chats = [
 				text: 'Ha bhar diya aaj hi advance dene ke baad'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T16:27:44.672681+00:00',
 				text: 'Tune bhar diya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T16:27:17.607627+00:00',
 				text: 'Abe m ni bhar ra bhut dur h bc..'
 			},
@@ -14443,12 +14443,12 @@ const chats = [
 				text: 'Bhartiya vidyapeeth ka bhr diya kya??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T16:26:30.847760+00:00',
 				text: 'Delhi hi hun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T16:26:19.805032+00:00',
 				text: 'Nhi'
 			},
@@ -14458,7 +14458,7 @@ const chats = [
 				text: 'Ghr aa gya kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T16:25:24.171540+00:00',
 				text: 'Fake id h...bc'
 			},
@@ -14475,7 +14475,7 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-19T09:23:01.003824+00:00',
 				text: 'Jld hi ...'
 			},
@@ -14485,7 +14485,7 @@ const chats = [
 				text: 'Bhai esa fashion kb ayega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-19T09:22:04.094265+00:00',
 				text: 'Haan pehle dekh rkhi'
 			},
@@ -14500,7 +14500,7 @@ const chats = [
 				text: 'Pata ni mujhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-19T09:20:44.694341+00:00',
 				text: 'Heerkunwar?? Kya ye naam h kya uska'
 			},
@@ -14519,7 +14519,7 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t50.2886-16/24996301_307592879758907_1790785969822105600_n.mp4?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_ohc=7di2lXGB96QAX8-svyC&oe=5E89A149&oh=62504bb92a20dd0e63c9953b1ac54358'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-19T09:20:02.396321+00:00',
 				text: 'Abhi tk to ni'
 			},
@@ -14529,17 +14529,17 @@ const chats = [
 				text: 'Accept hui'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-19T09:19:39.515866+00:00',
 				text: 'Haan'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-19T09:18:08.906153+00:00',
 				text: 'Kr diya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-19T08:32:02.509550+00:00',
 				heart: '❤️'
 			},
@@ -14579,18 +14579,18 @@ const chats = [
 				text: 'Bhhad mei jaye dono cllg jaane de busty pataunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-19T04:43:04.110442+00:00',
 				text: 'Isiliye to pehli waali bhi udd gyi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-19T04:42:17.409798+00:00',
 				text:
 					'Abe tjhe kya mtlb uske bf se bc jo krna wo kiya kr faltu mt socha kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-19T04:41:06.609003+00:00',
 				text:
 					'Tu na isi chakkar m poori zindgi hath se hi kaam chalaio bhosdike. .'
@@ -14601,7 +14601,7 @@ const chats = [
 				text: 'Abei laude uska setter koi aur hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T19:51:36.477247+00:00',
 				text: 'Kuch nhi babu tu pogo dekh..'
 			},
@@ -14616,7 +14616,7 @@ const chats = [
 				text: 'Kya bolta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T19:44:27.427646+00:00',
 				text: 'Tune cmnt ni kia'
 			},
@@ -14626,12 +14626,12 @@ const chats = [
 				text: 'Story pe dali thi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T19:36:46.767639+00:00',
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T19:36:46.284298+00:00',
 				text: 'Insta p dali kya usne ye'
 			},
@@ -14646,17 +14646,17 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T19:20:34.121170+00:00',
 				text: 'Bc kitni pyaari lg ri bhai...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T19:15:13.534339+00:00',
 				text: 'Dil dhak dhak krrne lga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T19:15:12.609526+00:00',
 				text: 'Mjhe bhi ab to bhai ....'
 			},
@@ -14676,12 +14676,12 @@ const chats = [
 				text: 'Dekh chuka ye wali'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:56:02.555209+00:00',
 				text: 'Mna kisne kia'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:55:51.854647+00:00',
 				text: 'Nha le be'
 			},
@@ -14698,12 +14698,12 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:54:26.543291+00:00',
 				text: 'Bdhiya h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:49:30.461277+00:00',
 				text: 'Abe m kaun sa kuch keh ra perfect h itne'
 			},
@@ -14725,7 +14725,7 @@ const chats = [
 				text: 'Bhai bhut hai ab cadbury ki factory thodi kholni hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:47:44.541277+00:00',
 				text: 'Bhai lgbhag itne hi the uss neeche wali k'
 			},
@@ -14735,7 +14735,7 @@ const chats = [
 				text: 'Itne ho toh maza aa jaye bc😲'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:46:34.413526+00:00',
 				text: 'Jitna dabayega utne bade aur sexy ho jaate h'
 			},
@@ -14757,7 +14757,7 @@ const chats = [
 				text: 'Kitne uth gye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:45:49.454883+00:00',
 				text: 'Experience h be'
 			},
@@ -14767,7 +14767,7 @@ const chats = [
 				text: 'Tujhe kaise pta😒'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:44:36.339175+00:00',
 				text: 'Abe boobs to dabane se uthte hai'
 			},
@@ -14778,7 +14778,7 @@ const chats = [
 					'Bhai pyari ka mei achar dalinga, londiya busty honi chaiye boobs thode uthe hue hone chaiye aur sunder'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:41:50.795211+00:00',
 				text: 'Abe pyaari h yaar wo bhi'
 			},
@@ -14788,12 +14788,12 @@ const chats = [
 				text: 'Lawda priyanka kaha ye kaha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:40:33.720591+00:00',
 				text: 'Shi m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:40:28.601052+00:00',
 				text: 'Abe nhi priyanka se milti h'
 			},
@@ -14813,7 +14813,7 @@ const chats = [
 				text: 'Toh kya sapne mei hi shadi kr lunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:39:11.093993+00:00',
 				text: 'Wese ainee se milti julti h'
 			},
@@ -14830,12 +14830,12 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:38:46.075264+00:00',
 				text: 'Konsa milri'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:38:13.453879+00:00',
 				text: 'Chl hoga...'
 			},
@@ -14845,7 +14845,7 @@ const chats = [
 				text: 'Mera sacha wala hai bc😍😍😍😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T14:37:29.934619+00:00',
 				text: 'Mjhe to pehle se h'
 			},
@@ -14869,14 +14869,14 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/18512751_1416803725074758_5260273372008284160_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=102&_nc_ohc=F5Ga2HuKBJYAX-DuGrt&oh=088ca97776fd7e1a933a0dff727f8a3f&oe=5EB04EEC&ig_cache_key=MTUxNzQ1NzYxODQxMDkxNzY1Mw%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T13:45:37.069380+00:00',
 				media_owner: 'Username unavailable.',
 				media_share_caption: 'Caption unavailable.',
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-18T12:32:16.781614+00:00',
 				text: 'Bc kya h ye bhosdu'
 			},
@@ -14893,7 +14893,7 @@ const chats = [
 				created_at: '2017-05-16T18:16:00.930247+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2017-05-17T16:51:30.259488+00:00'
 					}
 				],
@@ -14911,7 +14911,7 @@ const chats = [
 				created_at: '2017-05-16T16:31:30.507213+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2017-05-17T16:51:33.124111+00:00'
 					}
 				],
@@ -14920,7 +14920,7 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:19:05.587719+00:00',
 				text: 'Kon mara gya'
 			},
@@ -14930,7 +14930,7 @@ const chats = [
 				text: 'Abei kuch ni hota kota wale bhi gand mara gye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:13:22.740076+00:00',
 				text: 'Nhi lena tha'
 			},
@@ -14945,7 +14945,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:09:18.398503+00:00',
 				likes: [
 					{
@@ -14967,17 +14967,17 @@ const chats = [
 				text: 'Abei topic change kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:06:47.055878+00:00',
 				text: 'Uska'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:06:43.012260+00:00',
 				text: 'Saale kutta bna hua tu...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:06:29.060651+00:00',
 				text: 'Land badla h'
 			},
@@ -14987,7 +14987,7 @@ const chats = [
 				text: 'Abei yhi toh badla hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:04:28.481579+00:00',
 				text:
 					'Abe kuch self respect bhi to hoti h lodu ....itne m to badla leta m jrur'
@@ -14998,12 +14998,12 @@ const chats = [
 				text: 'Kb tk maregi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:01:53.945365+00:00',
 				text: 'H kya tri kuch'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:01:44.373758+00:00',
 				text:
 					'Abe ajeeb chutiya h be tu saale itna ignore maar ri h wo gàand m ghusa jaa ra uski bc self respect ni'
@@ -15014,7 +15014,7 @@ const chats = [
 				text: 'Kyu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T15:59:44.485337+00:00',
 				text: 'Landd'
 			},
@@ -15029,12 +15029,12 @@ const chats = [
 				text: 'Maza aa gya lekin bhai 13 or 28 ko sath dekh ke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T15:55:52.761759+00:00',
 				text: 'Abe bhool ja us randi ko...ni milegi ab tjhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T15:55:52.306984+00:00',
 				text: 'Haan thik h...'
 			},
@@ -15044,7 +15044,7 @@ const chats = [
 				text: 'Londo ko dekhne do jo uske piche pde thei'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T15:51:51.516216+00:00',
 				text: 'Tri mrzi bhai'
 			},
@@ -15059,7 +15059,7 @@ const chats = [
 				text: 'Hata du kya story'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T15:50:54.637616+00:00',
 				text: 'Chl chhod'
 			},
@@ -15069,7 +15069,7 @@ const chats = [
 				text: 'Ha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T15:50:31.991368+00:00',
 				text: 'Shi m'
 			},
@@ -15079,17 +15079,17 @@ const chats = [
 				text: 'Jisko dekh ni thi usne dekh liya or ignore bhi mar diya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T15:47:57.166150+00:00',
 				text: 'Kisko pta iss bare m bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T15:47:44.386772+00:00',
 				text: 'Wese kis ko dikhane k liye dali story'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T15:47:32.061237+00:00',
 				text: 'Aise hi'
 			},
@@ -15104,7 +15104,7 @@ const chats = [
 				text: 'Kon meine kisi ka bhi naam ni liya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T15:46:13.615929+00:00',
 				text: 'Abe tu phir us randi baare m baat krra'
 			},
@@ -15114,7 +15114,7 @@ const chats = [
 				text: 'Chitiyaap kyu hai bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T15:45:07.695717+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'Chl bhosdike chutiyaap h ye'
@@ -15125,12 +15125,12 @@ const chats = [
 				text: '3 din bs,pata ni kya hora lekin jo bhi hora bhut bura hora'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-13T05:13:10.964601+00:00',
 				text: 'Bhai pta ni kya hora..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-13T05:12:48.416669+00:00',
 				text: 'Mne to 3 din se kitab hi ni uthai..'
 			},
@@ -15140,12 +15140,12 @@ const chats = [
 				text: 'Bhai kasam se bilkul bhu ni hori'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-13T04:21:05.711230+00:00',
 				text: 'Shi shi btaio'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-13T04:20:55.010138+00:00',
 				text: 'Dekhloonga tu yun bta pdhai kesi chl ri'
 			},
@@ -15155,7 +15155,7 @@ const chats = [
 				text: 'Ha follw kr fir video dekh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-12T21:27:50.045542+00:00',
 				text: 'Abe follow kru kya use'
 			},
@@ -15165,7 +15165,7 @@ const chats = [
 				text: 'Jo dekh ra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-12T21:21:38.523160+00:00',
 				text: 'Kya h ye'
 			},
@@ -15177,12 +15177,12 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T11:31:36.865322+00:00',
 				text: 'Gjjb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T11:31:29.174739+00:00',
 				heart: '❤️'
 			},
@@ -15199,17 +15199,17 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:44:22.409021+00:00',
 				text: 'Jio h na tre p'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:44:10.789958+00:00',
 				text: 'Abe tu call kr mra lg ni rha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:31:45.367373+00:00',
 				text: 'Are koi ni sb thik ho jaaega'
 			},
@@ -15219,17 +15219,17 @@ const chats = [
 				text: 'Vit jaana cancel ab bhai amu bacha bs Allah ke bharose'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T06:22:29.567754+00:00',
 				text: 'Abhi ni din m krunga smjha kr busy hun thoda bahar aaya hua'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T06:21:53.917865+00:00',
 				text: 'Bhuto ka yhi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T06:21:42.987207+00:00',
 				text: 'Abe mra bhi yhi h'
 			},
@@ -15245,12 +15245,12 @@ const chats = [
 					'Lund mera bc gaand marne ki bhi hadh hoti hai itni bhi ni marti mera kuch jada bura haal hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T06:19:23.506481+00:00',
 				text: '*hota'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T06:19:09.112252+00:00',
 				text: 'Abe hpta h yr sbke sath tnsn na le sb thk hoga'
 			},
@@ -15266,12 +15266,12 @@ const chats = [
 					'Na bhai bc vit bhi bc haath se gaya cs ni mil pyegi electrical milegi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T06:18:19.844256+00:00',
 				text: 'Call krunga din m tjhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T06:17:40.126616+00:00',
 				text: 'Abe pagl he kya'
 			},
@@ -15282,22 +15282,22 @@ const chats = [
 					'Mei chahta tha bc 10000 ke andar aa jaye...pr yaha gand mara gaya bhai pta ni kyu mei jo chah ra mujhe mil kyu ni paa raha kasam se Mei Aatm hatya kr lunga bc...😵'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T05:59:07.286081+00:00',
 				text: 'Kya rank ayi vit m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-22T09:07:26.071467+00:00',
 				text: 'Kul mila k maal h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-22T09:07:01.252214+00:00',
 				text: 'Buity with brains h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-22T09:06:35.682479+00:00',
 				text: 'Abe iske to waise bhi poore tevar honge'
 			},
@@ -15308,7 +15308,7 @@ const chats = [
 					'Bhai mujhe vishwas ni hora BC soch bei is londiya ke iit ke londo nei khoob bhav bada diye honge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-22T09:03:48.677165+00:00',
 				text: 'Haan kitni baar btaega'
 			},
@@ -15318,12 +15318,12 @@ const chats = [
 				text: 'Iitian hai air 29'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-22T07:57:58.263108+00:00',
 				text: 'Shi m tagdi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-22T07:57:38.374519+00:00',
 				text: 'Gjb londe'
 			},
@@ -15338,7 +15338,7 @@ const chats = [
 				text: 'dhairya_snadhyana ko follow kr maal mai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:30:43.948875+00:00',
 				story_share: "Shared __.f.a.i.z.a.n.___'s story",
 				text: 'Haan be shi m'
@@ -15349,7 +15349,7 @@ const chats = [
 				text: 'Uc new or delhi ka ek dost hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:27:13.348328+00:00',
 				text: 'Tjhe kisne btaya iss bare m'
 			},
@@ -15359,7 +15359,7 @@ const chats = [
 				text: 'Ruk ja dhoondta hu ya fir YouTube pe dekhle'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:25:42.189452+00:00',
 				text: 'Dobara bhej'
 			},
@@ -15384,12 +15384,12 @@ const chats = [
 				text: 'Ruk video ka link bhejta hu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:23:00.576437+00:00',
 				text: 'Jrur dekhi hui hogi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:22:46.775111+00:00',
 				text: 'Konsi wali'
 			},
@@ -15399,12 +15399,12 @@ const chats = [
 				text: 'Ha bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:21:30.919107+00:00',
 				text: 'Shi m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:21:24.448829+00:00',
 				text: 'Kb'
 			},
@@ -15414,7 +15414,7 @@ const chats = [
 				text: 'Oye rajiv chowk pe bf chl gyi pta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:20:34.097098+00:00',
 				text: 'Chhod na maa chudai wo mgr real ni h pkka'
 			},
@@ -15425,7 +15425,7 @@ const chats = [
 					'Abe real Hai ya bhut jada chalata hai bhn la lund live betha rhta hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:18:16.806079+00:00',
 				text:
 					'Abe to kya hua posts se following dekh uski bhosdike itna to celebs ka bhi ni hota'
@@ -15436,7 +15436,7 @@ const chats = [
 				text: 'Abe bc real hai posts bhut hai uski'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:16:23.283260+00:00',
 				text: 'Famous bhi ho tb bhi 5k followers bhut hote h real agr ho'
 			},
@@ -15451,12 +15451,12 @@ const chats = [
 				text: 'Ni chutiya hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:15:15.480956+00:00',
 				text: 'Famous h kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:15:08.120018+00:00',
 				text: 'Haan to'
 			},
@@ -15466,7 +15466,7 @@ const chats = [
 				text: 'Mere ghar ke samne rht hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:14:35.209853+00:00',
 				text: 'Chl be'
 			},
@@ -15476,7 +15476,7 @@ const chats = [
 				text: 'Abe ni real Hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:14:04.626220+00:00',
 				text: 'Abe fake h'
 			},
@@ -15491,7 +15491,7 @@ const chats = [
 				text: 'Ha mera dost hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:13:28.285309+00:00',
 				text: 'Be like ssohail'
 			},
@@ -15506,7 +15506,7 @@ const chats = [
 				text: 'Kon hai sohail pura naam batao'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:12:50.126703+00:00',
 				text: 'Abe meri sari photos like kr di bc ne'
 			},
@@ -15516,17 +15516,17 @@ const chats = [
 				text: 'Dost hai mera'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:09:52.365951+00:00',
 				text: 'Sohail'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:09:43.326762+00:00',
 				text: 'Ye sohal kon h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:08:30.996674+00:00',
 				text: 'Maar diya be kyun darr ra'
 			},
@@ -15538,7 +15538,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'vaibhavpundir_'],
+		participants: ['just_not_here', 'vaibhavpundir_'],
 		conversation: [
 			{
 				sender: 'vaibhavpundir_',
@@ -15546,22 +15546,22 @@ const chats = [
 				text: 'Thanku mere Bhai ♥️♥️♥️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-26T10:45:25.945715+00:00',
 				text: 'ignore emojis bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-26T10:45:03.276573+00:00',
 				text: 'Happy birthday bhaaaii☝💘👉👶👧'
 			}
 		]
 	},
 	{
-		participants: ['shailysangwan', 'just_junaid_here'],
+		participants: ['shailysangwan', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-24T17:52:50.946873+00:00',
 				likes: [
 					{
@@ -15573,13 +15573,13 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-03T14:34:19.888539+00:00',
 				story_share: "Shared shailysangwan's story",
 				text: 'not at all🤮'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-07T05:34:58.455840+00:00',
 				likes: [
 					{
@@ -15591,7 +15591,7 @@ const chats = [
 				text: 'oho😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:32:17.333951+00:00',
 				text: 'chl koi na'
 			},
@@ -15601,32 +15601,32 @@ const chats = [
 				text: 'Lol I barely got myself a job'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T19:27:17.757143+00:00',
 				text: 'use banglore shift hona h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T19:27:06.401851+00:00',
 				text: 'ek android ka bnda h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T19:27:00.080970+00:00',
 				text: 'refer kr degi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T19:26:38.325758+00:00',
 				text: 'ur company name'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T19:26:05.769650+00:00',
 				text: 'hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-29T10:20:30.384078+00:00',
 				story_share: "Shared shailysangwan's story",
 				text: '👏'
@@ -15637,7 +15637,7 @@ const chats = [
 				text: 'Jp Nagar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-21T15:22:42.409903+00:00',
 				story_share: "Shared shailysangwan's story",
 				text: 'where?'
@@ -15645,215 +15645,215 @@ const chats = [
 		]
 	},
 	{
-		participants: ['theavocoder', 'just_junaid_here'],
+		participants: ['theavocoder', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-11T11:30:37.931161+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'send them here. lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-26T15:57:41.155161+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-02T10:23:12.958359+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'yes mee'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-19T10:16:50.296214+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '🎉'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-10T18:06:28.025988+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-09T18:32:36.738536+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '🎉'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-06T17:09:53.318165+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-24T06:05:41.773560+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'meeeeee'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-12T06:56:24.532780+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-10T11:21:04.625932+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'go ahead'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-25T12:42:22.136929+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-25T12:42:18.918200+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-15T10:17:01.884796+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-14T17:37:36.374396+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'its lit af'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-14T17:33:00.586296+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-14T17:32:28.258177+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T18:10:27.734966+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T12:53:37.653326+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T12:49:45.231589+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '😢'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T12:48:09.456638+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-09T23:00:53.337459+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '🎉'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-09T18:13:07.479713+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-06T16:09:26.388337+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'love that eye roll😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T18:49:54.627181+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'kaggle also good for data science and ml'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-07T01:54:29.539716+00:00',
 				story_share: "Shared theavocoder's story",
 				text:
 					"what's the first step to take when redesigning a clients website and doing modifications they want"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-06-27T08:03:46.135057+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'can u please tell which course is this??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-05-21T13:23:47.170979+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'rofl'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-05-21T13:23:41.648516+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '😂😂😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-04-25T10:40:03.367331+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'emma watson i guess😕'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-04-25T10:39:07.198071+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-04-13T14:40:32.427418+00:00',
 				story_share: "Shared theavocoder's story",
 				text: "you're too funny😂😂😂"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-04-13T13:18:33.739062+00:00',
 				story_share: "Shared theavocoder's story",
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-04-06T09:37:52.814342+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'Happy birthday☺'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-06T08:31:54.042946+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'or what'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-06T08:31:35.619416+00:00',
 				story_share: "Shared theavocoder's story",
 				text: 'So it means that u have bought them again?'
@@ -15861,7 +15861,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'rhythm_97'],
+		participants: ['just_not_here', 'rhythm_97'],
 		conversation: [
 			{
 				sender: 'rhythm_97',
@@ -15869,7 +15869,7 @@ const chats = [
 				text: '12 se 9 h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-10T14:50:49.148858+00:00',
 				text: 'working hours kya h tre'
 			},
@@ -15879,7 +15879,7 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-10T14:39:57.731988+00:00',
 				text: 'haan kese bhi'
 			},
@@ -15894,32 +15894,32 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-09T08:06:18.094390+00:00',
 				text: 'ya apna de'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-09T08:06:11.673521+00:00',
 				text: '9211662744'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-09T08:06:05.339340+00:00',
 				text: 'mere ko kr lio'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-09T08:05:38.571358+00:00',
 				text: 'mere se typing ni hoti'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-09T08:05:23.922241+00:00',
 				text: 'call pe bt krte h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-09T08:05:07.904665+00:00',
 				text: 'are yr'
 			},
@@ -15929,7 +15929,7 @@ const chats = [
 				text: 'Acha vha kya krra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-09T07:20:51.771706+00:00',
 				likes: [
 					{ username: 'rhythm_97', date: '2020-01-09T07:59:00.157166+00:00' }
@@ -15937,17 +15937,17 @@ const chats = [
 				text: 'thanku so much'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-09T07:20:38.176363+00:00',
 				text: 'ghr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-09T07:20:30.617070+00:00',
 				text: 'hr dusre weekend jaata hun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-09T07:20:11.359140+00:00',
 				text: 'nhi m delhi hun'
 			},
@@ -15972,12 +15972,12 @@ const chats = [
 				text: 'Are tu sre hi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T17:45:00.341872+00:00',
 				text: 'milne ka plan kte h kbhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T17:44:01.645377+00:00',
 				text: 'sre thi kya tu'
 			},
@@ -15987,17 +15987,17 @@ const chats = [
 				text: 'Ha abhi aai Bangalore'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T17:25:25.599523+00:00',
 				text: 'kahan banglore hi rehti kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T17:24:59.552059+00:00',
 				text: 'pdai m mn ni lgra tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T17:24:49.564370+00:00',
 				text: 'ese hi'
 			},
@@ -16012,17 +16012,17 @@ const chats = [
 				text: 'Kyu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T16:33:22.521554+00:00',
 				text: '1st sem gya tha bs'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T16:33:02.125614+00:00',
 				text: 'tjhe ni btaya mene'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T16:32:53.067201+00:00',
 				text: 'imma fuckin dropout'
 			},
@@ -16032,7 +16032,7 @@ const chats = [
 				text: 'Teri btech hogyi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T15:09:54.878597+00:00',
 				text: 'bdiya h, lgi reh, see ya'
 			},
@@ -16043,7 +16043,7 @@ const chats = [
 					'Mera application ka h AMS jo bhi dikat hoti h app me database and all ka resolve krna hota h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T14:09:53.523799+00:00',
 				text: 'support m kya hota h'
 			},
@@ -16053,7 +16053,7 @@ const chats = [
 				text: 'Abhi to L3 support'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T13:50:37.863343+00:00',
 				text: 'kya designation h'
 			},
@@ -16063,19 +16063,19 @@ const chats = [
 				text: 'Ha yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T12:48:11.180696+00:00',
 				story_share: "Shared rhythm_97's story",
 				text: 'tcs m h kya tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-08T12:47:49.072701+00:00',
 				story_share: "Shared rhythm_97's story",
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-30T12:28:57.049099+00:00',
 				likes: [
 					{ username: 'rhythm_97', date: '2019-12-05T14:01:02.500868+00:00' }
@@ -16084,7 +16084,7 @@ const chats = [
 				text: '🎉'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-05T17:04:43.526663+00:00',
 				likes: [
 					{ username: 'rhythm_97', date: '2019-11-05T18:16:23.073482+00:00' }
@@ -16095,7 +16095,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'its_me_mr_monis_jaat_123'],
+		participants: ['just_not_here', 'its_me_mr_monis_jaat_123'],
 		conversation: [
 			{
 				sender: 'its_me_mr_monis_jaat_123',
@@ -16103,7 +16103,7 @@ const chats = [
 				text: '😊😊😊😊'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2020-01-01T04:54:19.013275+00:00',
 				likes: [
 					{
@@ -16125,20 +16125,20 @@ const chats = [
 					'2019 ke last me tumhare whatsapp par jitne  bhi friends hai chahe aap unse baat karte Ho ya nahi ...ek bhi chhutna nahi chahiye sab ko send karo aur dekho ki "aaj" aap ko sab se jyada konsa sentence milta hai\n\n*1.😚meri zindagi*\n*2.😍sabki jaan*\n*3.🤟🏻good looking*\n*4.💃🏻best dancer*\n*5.😭dukhi aatma*\n*6.😏Mr. Attitude*\n*7.😙mehfil ki jaan*\n*8.😡matlabi*\n*9.👀flirty*\n*10.👔model*\n*11.🌹most caring*\n*12.😊Cute*\n*13.😇sabhi se aalag*\n*14.💝most emotional*\n*15.😘sweet looking*\n*16.💑gf/bf*\n*17.🤝🏻best friend*\n*18.👫sister/brother*\n*19.😜best naughty*\n*20.😌ego full*\n*21.😍very special*\n*22.😘😘I love u*\n\n*Mujhe bhi send karna...*'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T14:58:00.496984+00:00',
 				text: '😀'
 			},
 			{
 				sender: 'its_me_mr_monis_jaat_123',
 				created_at: '2019-12-18T14:31:25.113610+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Yo bro'
 			}
 		]
 	},
 	{
-		participants: ['jeevan_17', 'just_junaid_here'],
+		participants: ['jeevan_17', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'jeevan_17',
@@ -16146,13 +16146,13 @@ const chats = [
 				text: 'Yes'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-28T09:45:22.508452+00:00',
 				story_share: "Shared jeevan_17's story",
 				text: 'kya bhai rsa h kya tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-04T17:29:01.211959+00:00',
 				likes: [
 					{ username: 'jeevan_17', date: '2019-12-04T18:06:47.402024+00:00' }
@@ -16176,17 +16176,17 @@ const chats = [
 				text: 'Thanks xD'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-03T17:04:29.861090+00:00',
 				text: 'kb se join krra h, aur office kahan h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-03T17:04:28.674639+00:00',
 				text: 'party to banti h bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-03T17:04:27.820239+00:00',
 				text: 'oh great buddy'
 			},
@@ -16201,22 +16201,22 @@ const chats = [
 				text: 'Thanks 😃😃'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-03T16:53:06.864950+00:00',
 				text: 'congo buddy😀'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-03T16:52:56.815788+00:00',
 				text: 'shi m kya🥶'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-03T16:52:39.311873+00:00',
 				text: 'kitna package h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-03T16:52:33.747345+00:00',
 				text: 'kya bat krra'
 			},
@@ -16236,7 +16236,7 @@ const chats = [
 				text: 'Yes'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-03T16:17:38.452971+00:00',
 				text: 'haan aur kya'
 			},
@@ -16251,7 +16251,7 @@ const chats = [
 				text: 'Kis cheez ka?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-03T15:56:24.760895+00:00',
 				story_share: "Shared jeevan_17's story",
 				text: 'hua tra final'
@@ -16259,16 +16259,16 @@ const chats = [
 		]
 	},
 	{
-		participants: ['i_amafnan', 'just_junaid_here'],
+		participants: ['i_amafnan', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-24T04:08:57.636440+00:00',
 				story_share: "Shared i_amafnan's story",
 				text: '👏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-06T11:25:04.360999+00:00',
 				story_share: "Shared i_amafnan's story",
 				text: '👏'
@@ -16279,17 +16279,17 @@ const chats = [
 				text: 'Chalo badiya hain'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T10:08:28.123885+00:00',
 				text: 'just. earning while learning'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T10:08:07.504158+00:00',
 				text: 'im a learner'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T10:07:55.801322+00:00',
 				text: 'are nhi bhai'
 			},
@@ -16299,7 +16299,7 @@ const chats = [
 				text: 'U r a pro then'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T10:04:04.517558+00:00',
 				text: 'bro imma fuckin dropout lol'
 			},
@@ -16309,7 +16309,7 @@ const chats = [
 				text: 'Placement hua tha kya yaha college se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:59:20.712743+00:00',
 				text: 'bhai bss kt ri h'
 			},
@@ -16324,7 +16324,7 @@ const chats = [
 				text: 'Are bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:58:42.983297+00:00',
 				text: 'full stack'
 			},
@@ -16339,7 +16339,7 @@ const chats = [
 				text: 'Badiya bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:57:07.877563+00:00',
 				text: 'nhi yhan intern tha. abhi neargroup m hun full timr'
 			},
@@ -16354,17 +16354,17 @@ const chats = [
 				text: 'Aaj kl yhi kaam kar raha hain kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:56:00.005992+00:00',
 				text: 'abhi to dating type app bna ra hub'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:55:44.439812+00:00',
 				text: 'built in gatsby'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:55:14.685047+00:00',
 				link: 'redcarpetup.com',
 				text: 'redcarpetup.com dekh'
@@ -16375,12 +16375,12 @@ const chats = [
 				text: 'Kya project chal raha h tera'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:54:31.971166+00:00',
 				text: 'mne uspe zyada kaam ni kiya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:54:09.348510+00:00',
 				text: 'bhai sb shi h'
 			},
@@ -16395,7 +16395,7 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:51:07.039331+00:00',
 				text: 'gatsby try kr bhut shi, its on top of react.'
 			},
@@ -16410,17 +16410,17 @@ const chats = [
 				text: 'Hmmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:47:12.568714+00:00',
 				text: 'kis type ki h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:47:05.874264+00:00',
 				text: 'to webapp hui na'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:46:47.241298+00:00',
 				text: 'shi h'
 			},
@@ -16430,7 +16430,7 @@ const chats = [
 				text: 'Hn hain'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:45:58.703378+00:00',
 				text: 'static mtlb uspe api calls vgera h kya'
 			},
@@ -16440,7 +16440,7 @@ const chats = [
 				text: 'Dynamic'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:45:35.219239+00:00',
 				text: 'bhai responsive alag hota h'
 			},
@@ -16455,12 +16455,12 @@ const chats = [
 				text: 'N bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:43:53.099347+00:00',
 				text: '?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:43:49.352587+00:00',
 				text: 'static'
 			},
@@ -16470,7 +16470,7 @@ const chats = [
 				text: 'I am actually working on website'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:22:02.809142+00:00',
 				story_share: "Shared i_amafnan's story",
 				text: 'actually it depends on ur project'
@@ -16478,10 +16478,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['alwaysbakedarjun', 'just_junaid_here'],
+		participants: ['alwaysbakedarjun', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:52:33.686290+00:00',
 				text: 'lololololololol'
 			},
@@ -16491,7 +16491,7 @@ const chats = [
 				text: 'Kya bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:52:17.181703+00:00',
 				text: 'ye zyad ho jaega'
 			},
@@ -16501,12 +16501,12 @@ const chats = [
 				text: 'Lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:52:10.622814+00:00',
 				text: 'chhod bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:52:06.957325+00:00',
 				text: 'for ()'
 			},
@@ -16516,7 +16516,7 @@ const chats = [
 				text: 'Haha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:52:01.056781+00:00',
 				text: 'bhai*4'
 			},
@@ -16526,12 +16526,12 @@ const chats = [
 				text: 'Esi poocha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:51:56.623174+00:00',
 				text: 'bhai bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:51:49.279310+00:00',
 				text: 'tjhe kese pta'
 			},
@@ -16541,12 +16541,12 @@ const chats = [
 				text: 'Lul'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:51:43.039657+00:00',
 				text: 'behenchood'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:51:38.383492+00:00',
 				text: 'blkl'
 			},
@@ -16556,12 +16556,12 @@ const chats = [
 				text: 'Lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:51:34.709373+00:00',
 				text: 'haan bhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:51:31.452925+00:00',
 				text: 'chhod bc'
 			},
@@ -16571,7 +16571,7 @@ const chats = [
 				text: 'Ganja phook raha hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:51:22.647803+00:00',
 				text: 'for ()'
 			},
@@ -16581,7 +16581,7 @@ const chats = [
 				text: 'Lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:51:06.318398+00:00',
 				text: '🧐'
 			},
@@ -16591,7 +16591,7 @@ const chats = [
 				text: '😑'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:50:44.893000+00:00',
 				text: 'nhi yr tre baal shi m shi h'
 			},
@@ -16606,7 +16606,7 @@ const chats = [
 				text: 'Chal be'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:50:27.754229+00:00',
 				text: 'mere ko tiktok vale launde jesi feeling ari bc'
 			},
@@ -16626,12 +16626,12 @@ const chats = [
 				text: 'Bas baal esi bana ke rakio'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:49:51.408381+00:00',
 				text: 'tre zyada mst h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:49:37.933589+00:00',
 				text: 'abe thik hi h bs'
 			},
@@ -16641,7 +16641,7 @@ const chats = [
 				text: 'Sorted hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:49:26.517546+00:00',
 				text: 'chaud m kra ay'
 			},
@@ -16656,7 +16656,7 @@ const chats = [
 				text: 'Tere naal bhi toh sahi hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:49:16.091355+00:00',
 				text: 'are ese hi bc'
 			},
@@ -16666,7 +16666,7 @@ const chats = [
 				text: 'Mast bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:49:06.865162+00:00',
 				text: 'zyada aage hi h'
 			},
@@ -16676,7 +16676,7 @@ const chats = [
 				text: 'Oh bancho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:48:58.306912+00:00',
 				text: 'peeech thoda patches type h'
 			},
@@ -16691,7 +16691,7 @@ const chats = [
 				text: 'Aage aage ka'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:48:12.528942+00:00',
 				text: 'kesa lg ra h bc'
 			},
@@ -16706,7 +16706,7 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:47:57.102615+00:00',
 				text: 'are bhai aaj hi to bc'
 			},
@@ -16721,14 +16721,14 @@ const chats = [
 				text: 'Shit dude'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:46:51.103186+00:00',
 				text: 'haan bhai'
 			},
 			{
 				sender: 'alwaysbakedarjun',
 				created_at: '2019-12-18T17:45:54.812358+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Bhai, baal rangva diye kya ??'
 			},
 			{
@@ -16736,14 +16736,14 @@ const chats = [
 				created_at: '2019-11-06T13:13:47.722831+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-11-06T14:01:13.070743+00:00'
 					}
 				],
 				text: 'Oh bancho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-06T12:14:08.139512+00:00',
 				story_share: "Shared dimeloper_'s story",
 				text: '',
@@ -16765,12 +16765,12 @@ const chats = [
 				text: 'Yea'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:45:41.758740+00:00',
 				text: 'gotta go'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:45:38.162616+00:00',
 				text: 'chl call pe baat krte h'
 			},
@@ -16790,7 +16790,7 @@ const chats = [
 				text: 'Dammit'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:44:41.003381+00:00',
 				text: 'tui tui'
 			},
@@ -16800,12 +16800,12 @@ const chats = [
 				text: 'Lul'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:44:24.954263+00:00',
 				text: '^^'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:44:18.562614+00:00',
 				text: 'shaily'
 			},
@@ -16820,7 +16820,7 @@ const chats = [
 				text: 'Buahhahahahahaha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:43:58.389840+00:00',
 				text: 'for()'
 			},
@@ -16830,27 +16830,27 @@ const chats = [
 				text: 'Kaha ?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:43:52.430079+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:43:48.522964+00:00',
 				text: '🤣🤣🤣🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:43:43.981914+00:00',
 				text: 'abhi bhi shaily ko ni bhula paya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:43:26.694522+00:00',
 				text: 'tu abhi vhi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:43:19.870973+00:00',
 				text: 'haan thik h'
 			},
@@ -16865,7 +16865,7 @@ const chats = [
 				text: 'In lunch or office'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:42:51.482438+00:00',
 				text: 'time bta'
 			},
@@ -16885,12 +16885,12 @@ const chats = [
 				text: '😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:42:31.133073+00:00',
 				text: 'bde din hi gye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:42:25.402141+00:00',
 				text: 'pe baat krte h'
 			},
@@ -16900,7 +16900,7 @@ const chats = [
 				text: 'Kesi katt rahi hai zindagi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:42:15.475132+00:00',
 				text: 'bro call vgera'
 			},
@@ -16915,12 +16915,12 @@ const chats = [
 				text: '😆😝'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:42:02.377232+00:00',
 				text: 'abe bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:41:55.687760+00:00',
 				text: '🤣🤣🤣🤣'
 			},
@@ -16935,12 +16935,12 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:41:47.691156+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:41:41.128670+00:00',
 				text: 'abe oct pura apna ah'
 			},
@@ -16955,7 +16955,7 @@ const chats = [
 				text: 'Abhi kese hoga be'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:41:20.015259+00:00',
 				text: 'abe yr pehle ni bta skta tga'
 			},
@@ -16965,7 +16965,7 @@ const chats = [
 				text: 'Lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:41:15.777527+00:00',
 				text: 'abhi krta hun'
 			},
@@ -16990,12 +16990,12 @@ const chats = [
 				text: 'Hehehe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:40:59.504739+00:00',
 				text: 'shiittttt'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:40:56.425724+00:00',
 				text: 'abeeeee yaaar'
 			},
@@ -17005,12 +17005,12 @@ const chats = [
 				text: 'Is baar hacktober kara tune'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:40:45.725256+00:00',
 				text: 'switch krna h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:40:39.784016+00:00',
 				text: 'bekar h bc'
 			},
@@ -17020,7 +17020,7 @@ const chats = [
 				text: 'Kyu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:40:31.779276+00:00',
 				text: 'nhi bhia'
 			},
@@ -17035,7 +17035,7 @@ const chats = [
 				text: 'Hehehe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:40:11.393757+00:00',
 				text: 'same'
 			},
@@ -17045,7 +17045,7 @@ const chats = [
 				text: '😝'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:40:04.866209+00:00',
 				text: 'bhai bhai bhai'
 			},
@@ -17055,7 +17055,7 @@ const chats = [
 				text: 'Office'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:39:56.711051+00:00',
 				text: 'abe kahan h budddyy'
 			},
@@ -17070,33 +17070,33 @@ const chats = [
 				text: 'Yo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:39:43.099487+00:00',
 				text: 'wassup'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:39:37.941844+00:00',
 				text: 'brooi'
 			}
 		]
 	},
 	{
-		participants: ['akib_2308', 'just_junaid_here'],
+		participants: ['akib_2308', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-18T17:30:39.975839+00:00',
 				text: '🤣🤣'
 			},
 			{
 				sender: 'akib_2308',
 				created_at: '2019-12-18T17:06:54.278254+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Areee baba tu bhi Danish zehen bnn gya😂😘'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-15T17:39:39.783108+00:00',
 				text: 'haan bhai'
 			},
@@ -17112,7 +17112,7 @@ const chats = [
 					'Okh bhai aaja phr milte hai baaki dekh k aayiyo mahol bht khrab hai abhi okhla ka'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-15T17:35:49.122519+00:00',
 				text: 'abhi sre hun subah delhi aunga'
 			},
@@ -17127,13 +17127,13 @@ const chats = [
 				text: 'Haa yrr shi mai prr koini krna to hai baba kuch na kuch'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-15T17:10:55.325955+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'bhai hadd ho gyi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-29T05:41:50.434856+00:00',
 				text: 'shi h👍'
 			},
@@ -17148,13 +17148,13 @@ const chats = [
 				text: 'Aree yrr bndi ki shadi thi kl'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-28T21:07:10.652956+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'kya scene h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-25T06:56:49.625628+00:00',
 				likes: [
 					{ username: 'akib_2308', date: '2019-08-25T06:59:07.611146+00:00' }
@@ -17163,13 +17163,13 @@ const chats = [
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-06T02:23:39.139079+00:00',
 				story_share: "Shared akib_2308's story",
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-05T16:22:43.392540+00:00',
 				text: 'pta ni bhai uska mjhe'
 			},
@@ -17184,18 +17184,18 @@ const chats = [
 				text: 'Yrr bba-mba kaisa h course'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-05T14:25:09.699351+00:00',
 				text: 'haan bhai'
 			},
 			{
 				sender: 'akib_2308',
 				created_at: '2019-07-05T13:49:21.350294+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Sunn ldke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-19T18:51:53.432717+00:00',
 				text: 'Haan bhai blkl'
 			},
@@ -17205,7 +17205,7 @@ const chats = [
 				text: 'Achha chll kbhi idhr aana hua to btana milte h phr baat krte h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-19T18:50:03.366893+00:00',
 				text: 'Office ka hi londa h'
 			},
@@ -17220,23 +17220,23 @@ const chats = [
 				text: 'Achha vo to bht duur h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-19T18:25:48.850188+00:00',
 				text: 'Yhi hun anand vihar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-19T18:25:16.045588+00:00',
 				text: 'Haan bhai'
 			},
 			{
 				sender: 'akib_2308',
 				created_at: '2019-06-19T18:16:28.573555+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Kaisa chlra buisness??khaa h tu??delhi?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-20T02:25:22.243852+00:00',
 				likes: [
 					{ username: 'akib_2308', date: '2019-05-20T07:10:22.875399+00:00' }
@@ -17245,7 +17245,7 @@ const chats = [
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-12T08:46:00.711289+00:00',
 				likes: [
 					{ username: 'akib_2308', date: '2019-05-12T11:31:41.946129+00:00' }
@@ -17254,7 +17254,7 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-11T14:54:35.723650+00:00',
 				likes: [
 					{ username: 'akib_2308', date: '2019-05-11T14:54:40.035645+00:00' }
@@ -17263,7 +17263,7 @@ const chats = [
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-11T14:54:26.005796+00:00',
 				likes: [
 					{ username: 'akib_2308', date: '2019-05-11T14:54:31.178640+00:00' }
@@ -17272,7 +17272,7 @@ const chats = [
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-07T05:22:48.953409+00:00',
 				likes: [
 					{ username: 'akib_2308', date: '2019-05-07T06:42:44.965630+00:00' }
@@ -17281,7 +17281,7 @@ const chats = [
 				text: 'same 2 u bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-27T14:28:32.268169+00:00',
 				text: 'haan bhai'
 			},
@@ -17296,7 +17296,7 @@ const chats = [
 				text: 'Okh chll cll kriyo phr milte h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-27T14:24:38.807290+00:00',
 				text: 'agle snday aunga'
 			},
@@ -17306,7 +17306,7 @@ const chats = [
 				text: 'Sunday ko aarha h kya sre.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-27T14:23:41.919746+00:00',
 				text: 'haan bhai sunday ko milte h kisi'
 			},
@@ -17316,7 +17316,7 @@ const chats = [
 				text: 'Chll milta hu delhi aakr abhi to sre. Hu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-27T14:21:27.916805+00:00',
 				text: 'haan bhai blkl'
 			},
@@ -17331,17 +17331,17 @@ const chats = [
 				text: 'Abhii khaa aaya yrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-27T14:20:26.793079+00:00',
 				text: 'mains ka kya rha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-27T14:20:15.575045+00:00',
 				text: 'aur 12 ho gyi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-27T14:20:08.286309+00:00',
 				text: 'are sb shi alhumdulillah'
 			},
@@ -17351,19 +17351,19 @@ const chats = [
 				text: 'Shii h mzee marra job kaisi chlrii??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-27T14:18:52.393706+00:00',
 				text: 'olx ki'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-27T14:18:38.958867+00:00',
 				text: 'bhai diary aur tshirt h'
 			},
 			{
 				sender: 'akib_2308',
 				created_at: '2019-04-27T14:17:19.494710+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Kya h yoo??'
 			},
 			{
@@ -17371,19 +17371,19 @@ const chats = [
 				created_at: '2019-04-20T21:38:46.090778+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2019-04-21T08:16:41.857798+00:00'
 					}
 				],
 				text: 'Chll phr kl milte h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-20T18:50:19.551169+00:00',
 				text: 'office tha aaj'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-20T18:50:13.456916+00:00',
 				text: 'bhai neend ari h'
 			},
@@ -17408,7 +17408,7 @@ const chats = [
 				text: 'To btaa aaja phrr?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-20T18:22:42.281141+00:00',
 				text: 'baat to shi h'
 			},
@@ -17428,7 +17428,7 @@ const chats = [
 				text: 'Idh seen sett h ekdm😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-20T18:22:08.411273+00:00',
 				text: 'itni raat m?'
 			},
@@ -17448,7 +17448,7 @@ const chats = [
 				text: 'Aaja millete h aur kya??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-20T18:21:28.573721+00:00',
 				text: 'haan kyun?'
 			},
@@ -17463,7 +17463,7 @@ const chats = [
 				text: 'Abee braya ni tune khaa delhi m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-20T18:19:41.366122+00:00',
 				text: 'bhai yahin hun delhi'
 			},
@@ -17473,13 +17473,13 @@ const chats = [
 				text: 'Khaa h ldke??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-20T17:03:36.901714+00:00',
 				story_share: "Shared akib_2308's story",
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-07T09:44:27.662629+00:00',
 				likes: [
 					{ username: 'akib_2308', date: '2019-04-07T11:12:42.660529+00:00' }
@@ -17488,7 +17488,7 @@ const chats = [
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-07T09:44:24.823551+00:00',
 				likes: [
 					{ username: 'akib_2308', date: '2019-04-07T11:12:43.540900+00:00' }
@@ -17497,7 +17497,7 @@ const chats = [
 				text: '🔥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-07T09:44:21.460770+00:00',
 				likes: [
 					{ username: 'akib_2308', date: '2019-04-07T11:12:44.093274+00:00' }
@@ -17506,7 +17506,7 @@ const chats = [
 				text: '😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-06T17:13:20.944218+00:00',
 				likes: [
 					{ username: 'akib_2308', date: '2019-04-06T17:32:17.556382+00:00' }
@@ -17515,7 +17515,7 @@ const chats = [
 				text: 'ae ladke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-31T15:49:21.727300+00:00',
 				likes: [
 					{ username: 'akib_2308', date: '2019-03-31T18:26:14.769691+00:00' }
@@ -17529,13 +17529,13 @@ const chats = [
 				text: 'Haan yrr😭😂😂shii khraa ldke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-27T09:06:59.255943+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'be afraid of jee'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-08T04:54:02.187482+00:00',
 				text: 'sb bdhiya'
 			},
@@ -17551,12 +17551,12 @@ const chats = [
 				text: 'Durr kminee esa ni bolte'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T19:00:57.839876+00:00',
 				text: 'mgr tre se badhiya ni'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T19:00:47.871269+00:00',
 				text: 'sb badhiya bhai'
 			},
@@ -17571,17 +17571,17 @@ const chats = [
 				text: 'Aree sb bdiya ekdm.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T19:00:02.071790+00:00',
 				text: 'ghar mein'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T18:59:58.289768+00:00',
 				text: 'aur aunti sb badhiya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T18:59:47.873299+00:00',
 				text: 'are shi h mje ke aur kya'
 			},
@@ -17601,12 +17601,12 @@ const chats = [
 				text: 'Aur khudi khaa isne ki story daaldo.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T18:58:54.404785+00:00',
 				text: 'kya baat h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T18:58:49.850463+00:00',
 				text: 'oye hoe'
 			},
@@ -17626,7 +17626,7 @@ const chats = [
 				text: 'Yrr x gf hai isko mere prr trst tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T18:58:12.609416+00:00',
 				text: 'zyada senti ni hori'
 			},
@@ -17636,12 +17636,12 @@ const chats = [
 				text: 'Kyu b pgl kyu hotti yrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T18:57:19.265750+00:00',
 				text: 'ave pagal h kya ye bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T18:57:06.465549+00:00',
 				text: 'shi h bhai'
 			},
@@ -17651,13 +17651,13 @@ const chats = [
 				text: 'X  gf hau yrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T18:51:09.846815+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'kon h bhai ye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-08T19:05:18.154992+00:00',
 				text: 'ok bhau'
 			},
@@ -17667,7 +17667,7 @@ const chats = [
 				text: 'Chl gunn8'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-08T19:04:52.493420+00:00',
 				text: 'thik h'
 			},
@@ -17679,7 +17679,7 @@ const chats = [
 			{
 				sender: 'akib_2308',
 				created_at: '2018-07-08T19:04:39.389533+00:00',
-				text: 'Chll yrr junaid kl krte hai baat'
+				text: 'Chll yrr not kl krte hai baat'
 			},
 			{
 				sender: 'akib_2308',
@@ -17687,12 +17687,12 @@ const chats = [
 				text: 'Bdiya h aur kya..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-08T19:03:19.651301+00:00',
 				text: 'kesi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-08T19:03:05.383429+00:00',
 				text: '😂😂😂😂'
 			},
@@ -17717,17 +17717,17 @@ const chats = [
 				text: 'Na delhi ki hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-08T19:02:07.261222+00:00',
 				text: 'laundiya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-08T19:01:58.093659+00:00',
 				text: 'class ki hi h kya ye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-08T19:01:45.768463+00:00',
 				text: 'are bhai sb kaam jruri h'
 			},
@@ -17742,7 +17742,7 @@ const chats = [
 				text: 'Aur kya krrha hai aajkl tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-08T19:01:05.726737+00:00',
 				text: 'mka maan ja'
 			},
@@ -17757,12 +17757,12 @@ const chats = [
 				text: 'Hahaha soch to raa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-08T19:00:16.358804+00:00',
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-08T19:00:11.061036+00:00',
 				text: 'saara tu hi dega kya'
 			},
@@ -17777,7 +17777,7 @@ const chats = [
 				text: 'Yrr kyaa kruu ab inhe pyaar chahiye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-08T18:58:49.523702+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'bhai khiladi tu hi hora bc'
@@ -17798,7 +17798,7 @@ const chats = [
 				text: '12 k baad krta hun gym..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T13:05:10.488280+00:00',
 				text: 'koi ni ho jaga km'
 			},
@@ -17818,12 +17818,12 @@ const chats = [
 				text: 'Vaahh ldke...gzzbb..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T13:04:33.388529+00:00',
 				text: 'h bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T13:04:30.509735+00:00',
 				text: '69'
 			},
@@ -17843,12 +17843,12 @@ const chats = [
 				text: 'Aree..bdiya..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T13:03:10.878837+00:00',
 				text: 'uske baad weight lift kiya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T13:02:55.687484+00:00',
 				text: 'bhai weigt to shuru ke fo mahine m ho gya tha'
 			},
@@ -17873,12 +17873,12 @@ const chats = [
 				text: 'Aree ldke😍👌👌'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T13:02:15.216393+00:00',
 				text: '5 mahine lagr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T13:02:04.771669+00:00',
 				text: 'bhai 10 kilo'
 			},
@@ -17893,12 +17893,12 @@ const chats = [
 				text: 'Achha..haan ..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T13:01:35.116690+00:00',
 				text: '1 saal drop tha mra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T13:01:27.837925+00:00',
 				text: '1 yr hi to bhai'
 			},
@@ -17918,12 +17918,12 @@ const chats = [
 				text: 'Ohh achha bdiya yrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T13:00:56.386269+00:00',
 				text: 'ddun centre'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T13:00:49.988784+00:00',
 				text: 'indra gandhi national open univ.'
 			},
@@ -17938,7 +17938,7 @@ const chats = [
 				text: 'Abee hn khaa ye.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T12:59:59.927081+00:00',
 				text: 'ignou se kr rha hoon m'
 			},
@@ -17953,7 +17953,7 @@ const chats = [
 				text: 'Ye kaha hn.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T12:59:17.665002+00:00',
 				text: 'bca ke'
 			},
@@ -17963,7 +17963,7 @@ const chats = [
 				text: 'Knse cllge m liya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T12:59:12.525524+00:00',
 				text: 'tu bta kya haal h'
 			},
@@ -17973,12 +17973,12 @@ const chats = [
 				text: 'Ohh knse..exm.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T12:59:04.346998+00:00',
 				text: 'abhi tk to gym chl ra tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T12:58:54.590585+00:00',
 				text: 'exam ane wale'
 			},
@@ -17998,7 +17998,7 @@ const chats = [
 				text: 'Okh..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T12:57:19.829948+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'kr ke btaunga abhi bahar hoon'
@@ -18014,7 +18014,7 @@ const chats = [
 				text: 'Shyd 3 vala'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-04T12:54:57.741368+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'konsa option lgaya tune'
@@ -18025,28 +18025,28 @@ const chats = [
 				text: 'Bdiya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-11-29T19:54:22.912359+00:00',
 				text: 'Bhai ki photo bta kesi aari'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-11-29T19:54:05.495445+00:00',
 				text: 'H bhai..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-11-29T19:53:46.040354+00:00',
 				text: 'Behen'
 			},
 			{
 				sender: 'akib_2308',
 				created_at: '2017-11-29T18:59:31.937860+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Abee ye kn hn ldke.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-18T18:46:41.375136+00:00',
 				text: 'Thik h bhai'
 			},
@@ -18061,12 +18061,12 @@ const chats = [
 				text: 'Hmm ldke..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-18T14:31:20.536890+00:00',
 				text: 'Kb aara leke?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-18T14:31:08.040949+00:00',
 				text: 'Aunty bhi h kya?'
 			},
@@ -18076,7 +18076,7 @@ const chats = [
 				text: 'Bhai milte hn jldi se jldi..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-18T14:26:47.078809+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'Haan be milne kb aara...?😀'
@@ -18087,22 +18087,22 @@ const chats = [
 				text: 'Okh..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-11T19:44:40.614447+00:00',
 				text: 'Bdhiya h👌'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-11T19:44:21.926332+00:00',
 				text: 'Use follow kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-11T19:44:11.222437+00:00',
 				text: 'Xplic_1t naam se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-11T19:43:56.831272+00:00',
 				text: 'Abe ek page h'
 			},
@@ -18117,12 +18117,12 @@ const chats = [
 				text: 'Aree bc. Kaha to setting hn chlti phirti..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-11T19:10:36.025504+00:00',
 				text: 'Vahi to puchra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-11T19:10:29.636853+00:00',
 				text: 'Hai kon'
 			},
@@ -18132,7 +18132,7 @@ const chats = [
 				text: 'Arree bhai kn hotti..setting hn aur kya londa thodii hn..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-11T19:01:00.907636+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'Kon h bc ye😕😮'
@@ -18143,7 +18143,7 @@ const chats = [
 				text: 'Hmm tryy krr aur kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-11T16:31:46.526964+00:00',
 				text: 'Shi h bhai😂😂'
 			},
@@ -18169,7 +18169,7 @@ const chats = [
 				text: 'Kya hua ldke.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-11T14:00:55.852623+00:00',
 				story_share: "Shared akib_2308's story",
 				text: '😕😂😂'
@@ -18180,12 +18180,12 @@ const chats = [
 				text: 'Bc hnaa yrr..shi8 m hsii tultii nhii isee dekh krr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-19T15:50:47.991933+00:00',
 				text: 'Gjb👌'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-19T15:50:39.984038+00:00',
 				text: '😂😂😂'
 			},
@@ -18202,7 +18202,7 @@ const chats = [
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T18:03:37.206379+00:00',
 				text: '👋'
 			},
@@ -18217,12 +18217,12 @@ const chats = [
 				text: 'Okh broo bye.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T18:03:13.405954+00:00',
 				text: '👍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T18:03:08.314587+00:00',
 				text: 'Haan bhai padh le ab'
 			},
@@ -18242,12 +18242,12 @@ const chats = [
 				text: 'Hmm..allah ka shukrr hn bhai..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T18:02:01.784158+00:00',
 				text: 'Aur aunty kesi hain'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T18:01:51.982396+00:00',
 				text: 'Abhi to ghar hi hun bhai'
 			},
@@ -18262,7 +18262,7 @@ const chats = [
 				text: 'Aur kya krra kha hn.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T18:01:07.797091+00:00',
 				text: 'Haan bhai blkl'
 			},
@@ -18287,22 +18287,22 @@ const chats = [
 				text: 'Hmm..bhai bilkul..yrr..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T18:00:23.344735+00:00',
 				text: 'Milenge phir'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T18:00:13.464087+00:00',
 				text: 'Jaye inshallah jamia me'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T18:00:03.619276+00:00',
 				text: 'Agle mahine tk ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:59:55.736367+00:00',
 				text: 'Are bs dua kr'
 			},
@@ -18312,7 +18312,7 @@ const chats = [
 				text: 'Aajaa delhi..phrr kraaten hn aur kya.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:58:38.527421+00:00',
 				text: 'Ek aadhi hme bhi faswa diyo'
 			},
@@ -18322,7 +18322,7 @@ const chats = [
 				text: 'Haan yrr saari open minded hn..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:58:04.238098+00:00',
 				text: 'Mgr bc wahan to sari esi hi hongi'
 			},
@@ -18337,7 +18337,7 @@ const chats = [
 				text: 'Kaha hn ghrr hn kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:57:41.727218+00:00',
 				text: 'Esi londiya km mile'
 			},
@@ -18347,7 +18347,7 @@ const chats = [
 				text: 'Hmm...aur kya krra..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:57:27.977386+00:00',
 				text: 'Abe bdhiya h bc'
 			},
@@ -18372,7 +18372,7 @@ const chats = [
 				text: 'Haam yrr..bss pcm ki hn..soch agrr commerce ki hotii..to kitni..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:56:14.587543+00:00',
 				text: 'Abe shi h bc'
 			},
@@ -18388,7 +18388,7 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e15/p480x480/21689900_118515158847761_7400645404569632768_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_ohc=G1jyjU7JGogAX9AhyS7&_nc_tp=4&oh=849e08bc51e34f1f4c989c4c268345e8&oe=5EB0D67C&ig_cache_key=MjE3NTEwNDM4MzU0Mzg4NTMyNQ%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:55:07.935090+00:00',
 				text: 'Are bdhiya h apna aur kya'
 			},
@@ -18398,12 +18398,12 @@ const chats = [
 				text: 'Shii hn pcm ki bndii hn aur kya.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:53:24.772505+00:00',
 				text: 'Kesi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:53:20.092237+00:00',
 				text: 'Photo bhejio'
 			},
@@ -18424,17 +18424,17 @@ const chats = [
 				text: 'Aree haan hmm pkka..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:51:46.577414+00:00',
 				text: 'Bhai ko sbse pehle btaunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:51:35.652673+00:00',
 				text: 'Jb ho jaga final'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:51:24.536837+00:00',
 				text: 'Arree chl ra mamla'
 			},
@@ -18445,7 +18445,7 @@ const chats = [
 					'Hmm..bsdkk tu bhii kuch btaa diyaa..kya chlraa. Ya zindagii jhndd hn.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:50:25.986060+00:00',
 				text: 'Aree bhut sahee'
 			},
@@ -18475,12 +18475,12 @@ const chats = [
 				text: 'Aree leraa thaa yrr..mgrr bachhe dekh krr gand phtt gayii..to'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:49:13.512716+00:00',
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:49:10.644713+00:00',
 				text: 'Bc mje tu hi lera'
 			},
@@ -18531,7 +18531,7 @@ const chats = [
 				text: 'Abee ldke jbhi to bc zyada famous hogaya thaa yrr...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:46:36.933838+00:00',
 				text: '😂😂😂😂'
 			},
@@ -18546,7 +18546,7 @@ const chats = [
 				text: 'Lkin 3 vaali se hogayi thii..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:45:51.720789+00:00',
 				text: 'Bhut badhiya'
 			},
@@ -18571,7 +18571,7 @@ const chats = [
 				text: 'Haan yrr...bc.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:44:18.323743+00:00',
 				text: 'Arre gjjb'
 			},
@@ -18606,12 +18606,12 @@ const chats = [
 				text: 'Abee to shii to thaa.bc..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:43:36.884938+00:00',
 				text: 'Baaki clg to tagda tha bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:43:13.204889+00:00',
 				text: 'Abe londiya baaji jada thi usme'
 			},
@@ -18631,17 +18631,17 @@ const chats = [
 				text: 'Kyun bdiya ni tha kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:42:16.954361+00:00',
 				text: 'Ab inshallah jamia m aane wala tra bhai dua kr bas'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:41:54.079896+00:00',
 				text: 'Ip ke clg me liya tha ab chhod diya clg'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:41:36.356410+00:00',
 				text: 'Abe haan'
 			},
@@ -18656,7 +18656,7 @@ const chats = [
 				text: 'Arreee..ldkee..bdiyaa yaan yrr yhin hn bss ab zindagii m..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:40:08.514305+00:00',
 				text: 'Bki londiya baaji poori chl ri'
 			},
@@ -18666,17 +18666,17 @@ const chats = [
 				text: 'To phrr zyada kya hn..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:39:56.913183+00:00',
 				text: 'Ab pdhai to km hi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:39:44.824026+00:00',
 				text: 'Chl ra mra sb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:39:35.654391+00:00',
 				text: 'Are bdhiya bhai gjjb'
 			},
@@ -18693,7 +18693,7 @@ const chats = [
 					'Phrr bhi..kuch to chlra..mtlb..pdhai m..bc..londii baaji m ni puuchraa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:38:11.005427+00:00',
 				text: 'Bhai sb thik h..bdhiya'
 			},
@@ -18708,12 +18708,12 @@ const chats = [
 				text: 'Haan yrr ye to hn..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:36:36.266644+00:00',
 				text: 'Fir tension na h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:36:29.008408+00:00',
 				text: 'Bhai kr le 2 saal sabr'
 			},
@@ -18733,7 +18733,7 @@ const chats = [
 				text: 'Haan yrr..bss vohii.. baat..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:35:16.636448+00:00',
 				text: 'Kya hogya bhai sb thik bhi h?'
 			},
@@ -18754,29 +18754,29 @@ const chats = [
 					'Aree nhii yrr..ab kaaha model..ab to jindagii ka chutiya ktt gaya hn yrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:32:34.588613+00:00',
 				text: 'Shi ari kya pic?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:32:25.418424+00:00',
 				text: 'Model to tum ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T17:32:15.966054+00:00',
 				text: 'Aree na bhai'
 			},
 			{
 				sender: 'akib_2308',
 				created_at: '2017-09-18T17:31:39.073669+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text:
 					'Arreee ldke..kya baat hn..kya baat modeling krne ka soch liya kya..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-23T13:17:48.915127+00:00',
 				text: 'Shi h👍'
 			},
@@ -18791,7 +18791,7 @@ const chats = [
 				text: 'Ajii ghnta mzee.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-23T11:15:42.245763+00:00',
 				text: 'Mje tu hi le ra 👍'
 			},
@@ -18801,13 +18801,13 @@ const chats = [
 				text: 'Bhai india gate gaya tha cricket khelne..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-23T06:26:29.957779+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'Abe kahan ka h ye?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:44:10.415732+00:00',
 				text: '👌'
 			},
@@ -18818,18 +18818,18 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e15/p480x480/20214225_675209006012829_3132571913876930560_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_ohc=1Lh27CxUmrEAX-I6h0r&_nc_tp=4&oh=aae13aef6557dcec8361498864e70ddb&oe=5EB01B1E&ig_cache_key=MjE3NTEwNDM4MzU2ODg0NTc1Ng%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-22T09:20:16.068666+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'J'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:24:55.781489+00:00',
 				text: '👍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T10:24:51.670807+00:00',
 				text:
 					'PPut the same story as I did and give your friends beautiful names..Keep the game going on!😄💝\n1 - kumbkaran\n2 - Lover\n3 - Cockroach\n4 - Bhukkad\n5 - Billa/Billi\n6 - Bewakuf\n7 - meri jaan\n8 - best frd\n9 - Tiger\n10 - Sweetheart \n11 - pagal\n12 - My Life \n13 - Ullu\n14 - Your Name\n15 - My Love\n16 - Monkey \n17 -  nice \n18 - Beautiful \n19 - Janu\n20 - ravan\n21- Baby elephant\n22 - Dhinchak\n23 - Kamina/Kamini\n24 - Bitch\n25 - Cutie pie 😂😘'
@@ -18837,7 +18837,7 @@ const chats = [
 			{
 				sender: 'akib_2308',
 				created_at: '2017-07-19T10:24:19.317905+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Bhai iska dare send kriyo.'
 			},
 			{
@@ -18846,7 +18846,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-06T18:52:26.406395+00:00',
 				text: '👍'
 			},
@@ -18856,13 +18856,13 @@ const chats = [
 				text: 'Okh broo..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-06T18:40:14.366792+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'Bhai mri trf se bhi happy birthday bol dio aunty ko😄✌'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:21:46.531854+00:00',
 				text: 'Bdhiya'
 			},
@@ -18872,7 +18872,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:21:35.983948+00:00',
 				text: '👍'
 			},
@@ -18892,17 +18892,17 @@ const chats = [
 				text: 'Okh mere bhai..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:20:47.297938+00:00',
 				text: 'Sbb ho jaga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:20:41.547625+00:00',
 				text: 'Tujhe jo roz kra re acche se kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:20:14.307419+00:00',
 				text: 'Abe koi ni ti'
 			},
@@ -18938,7 +18938,7 @@ const chats = [
 				text: 'Zindagi k loode lg jaate hn'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:19:01.286388+00:00',
 				text: '😆😆😆'
 			},
@@ -18950,7 +18950,7 @@ const chats = [
 			{
 				sender: 'akib_2308',
 				created_at: '2017-07-05T10:18:38.624536+00:00',
-				text: 'Yrr junaid ..'
+				text: 'Yrr not ..'
 			},
 			{
 				sender: 'akib_2308',
@@ -18958,7 +18958,7 @@ const chats = [
 				text: 'Arree..bc..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:18:18.957783+00:00',
 				text: 'Abe jb clear hoga rnk tbhi aati h'
 			},
@@ -18973,12 +18973,12 @@ const chats = [
 				text: 'Achha...btt phrr bhi aayi kitni thi.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:17:36.818593+00:00',
 				text: 'Ho ni paaya mra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:17:21.918147+00:00',
 				text: 'Abe advance ki cut off high gyi iss baar nhi'
 			},
@@ -18988,7 +18988,7 @@ const chats = [
 				text: 'Haan yrr sre. To bore hogaya..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:16:39.808516+00:00',
 				text: 'Bv ni bc'
 			},
@@ -19003,12 +19003,12 @@ const chats = [
 				text: 'Aur advance mai kitni rank thi terii'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:16:27.237927+00:00',
 				text: 'Bv'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:16:25.219281+00:00',
 				text: 'Yhaa kuch ni h bv'
 			},
@@ -19018,27 +19018,27 @@ const chats = [
 				text: 'Okh...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:16:13.199280+00:00',
 				text: 'Lgaa reh bss'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:16:08.018969+00:00',
 				text: 'Whan to acche se pdhayenge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:15:54.456873+00:00',
 				text: 'Abe mne to do saal yha pdha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:15:00.789796+00:00',
 				text: 'May m tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:14:47.400150+00:00',
 				text: 'Abe ho gya wo bbi lb'
 			},
@@ -19058,7 +19058,7 @@ const chats = [
 				text: '115 to aagye na tere bhtt hn yrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:12:11.088676+00:00',
 				text: 'Itne laane m fat jave bc'
 			},
@@ -19073,17 +19073,17 @@ const chats = [
 				text: 'Uffff....'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:11:53.427019+00:00',
 				text: 'Bekaar h bv'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:11:38.557993+00:00',
 				text: '115'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:11:30.365688+00:00',
 				text: '15 laakh bcche baithte h'
 			},
@@ -19098,12 +19098,12 @@ const chats = [
 				text: 'Achha...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:11:14.467834+00:00',
 				text: '360 m se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:11:02.396249+00:00',
 				text: '100 no.'
 			},
@@ -19123,17 +19123,17 @@ const chats = [
 				text: 'Tu khraa na..sb ptaa lgjayega..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:10:21.421861+00:00',
 				text: 'Kya 1 lakh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:10:12.958400+00:00',
 				text: '☝'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:09:57.395080+00:00',
 				text: 'Kehra'
 			},
@@ -19143,7 +19143,7 @@ const chats = [
 				text: 'Kya hua ..isbaar pattern.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:09:52.536807+00:00',
 				text: 'Mtlb kya kehta'
 			},
@@ -19153,7 +19153,7 @@ const chats = [
 				text: 'Achha ..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:09:38.459510+00:00',
 				text: 'Abe vese bhi iss baar se paatrrn chnge hoga'
 			},
@@ -19163,12 +19163,12 @@ const chats = [
 				text: '100 ya 1 lakh ..tkk.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:09:14.257521+00:00',
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:09:07.617130+00:00',
 				text: 'Hr baar jaati thi'
 			},
@@ -19178,12 +19178,12 @@ const chats = [
 				text: 'Private college hi milta hn phrr aur kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:08:58.445655+00:00',
 				text: '100'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:08:50.545593+00:00',
 				text: 'Sb pta lv jaga abhi'
 			},
@@ -19193,7 +19193,7 @@ const chats = [
 				text: 'Haan vo to hn yrr..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:08:25.527751+00:00',
 				text: 'Abe cutoff nikalni mushkil ho jaati h bc'
 			},
@@ -19213,7 +19213,7 @@ const chats = [
 				text: 'Aur advance ka kb hn paper'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:08:00.206386+00:00',
 				text: 'Clear to jo hi gya bdhiya se'
 			},
@@ -19223,7 +19223,7 @@ const chats = [
 				text: 'Hmm..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:07:47.676241+00:00',
 				text: 'Kuch ni...kya kehte'
 			},
@@ -19233,7 +19233,7 @@ const chats = [
 				text: 'Kya kaha ghrr vaalo ne.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:07:18.245985+00:00',
 				text: 'Haan bc'
 			},
@@ -19253,7 +19253,7 @@ const chats = [
 				text: '90 hzaar...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:06:33.518942+00:00',
 				text: '90 k bc lg gyi thi yrr uss din'
 			},
@@ -19273,12 +19273,12 @@ const chats = [
 				text: 'Achha..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:05:58.299377+00:00',
 				text: 'Advance ni hua'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:05:50.578906+00:00',
 				text: 'Mains ho gya tha'
 			},
@@ -19293,7 +19293,7 @@ const chats = [
 				text: 'Achha ..kya rhaa phrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:05:28.989334+00:00',
 				text: 'Abe ho bhi gya kb ka'
 			},
@@ -19308,7 +19308,7 @@ const chats = [
 				text: 'To paper kb hn..phrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:04:49.939657+00:00',
 				text: 'Haan bhai march m hi ho gya tha'
 			},
@@ -19328,7 +19328,7 @@ const chats = [
 				text: 'Achha..haan 1 saal..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:04:00.811800+00:00',
 				text: 'Abe m drop kiya tha'
 			},
@@ -19348,7 +19348,7 @@ const chats = [
 				text: 'Bhai tune bhi to fiitjee se krii clsses'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T10:03:08.201741+00:00',
 				text: 'Haan bhai✌'
 			},
@@ -19358,12 +19358,12 @@ const chats = [
 				text: 'Achhaa..bhaijii'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T09:58:50.088216+00:00',
 				text: 'Koi dikkat ho bta dio😄'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T09:58:17.690091+00:00',
 				text: 'Shi h lga rah...👍'
 			},
@@ -19383,12 +19383,12 @@ const chats = [
 				text: 'Haan yrr mhnt to chlrii mgrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T05:50:32.869104+00:00',
 				text: 'Aur pdhai kesi chl ri..mehnt krra😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T05:49:56.317054+00:00',
 				text: '😀😀gjjb...abhi bhejta hoon do chaar ko..😂😂😂'
 			},
@@ -19399,13 +19399,13 @@ const chats = [
 					"Post the same story as I did and let the game going \nNo backing out cause u're already in 😈\n11- Write something about me in ur story\n22- Tell me if i hug uh Accidently in dark would u continue it😗 \n33- post ur fav pic of mine and tag me\n44- what if I ask you for a date ? \n55- do you love me? 💕\n66-would you proposed me if you'd get a chance?👅\n77-describe me in one word 🌏\n88- name of your crush?  😮\n99- would you make out with me? 👄"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-04T20:06:26.089782+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'Abe iska reply wala bhej'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-04T12:04:17.206792+00:00',
 				heart: '❤️'
 			},
@@ -19425,12 +19425,12 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-04T12:01:49.832318+00:00',
 				text: 'Lga reh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-04T12:01:38.454885+00:00',
 				text: 'Abe mehnt shuru kr de ab bs...'
 			},
@@ -19445,17 +19445,17 @@ const chats = [
 				text: 'Haan yrr shii chlraa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-04T07:13:21.747358+00:00',
 				text: 'Pdh bhi ra ya nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-04T07:13:10.268041+00:00',
 				text: 'Fiitjee kesa chl ra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-04T07:12:59.903768+00:00',
 				text: 'Arre gajjaab bhut shi'
 			},
@@ -19485,7 +19485,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-17T14:13:31.446412+00:00',
 				text: 'Ghr pe hi hun bhai..'
 			},
@@ -19505,7 +19505,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:19:19.007709+00:00',
 				text: 'Chl milte h phir'
 			},
@@ -19515,7 +19515,7 @@ const chats = [
 				text: 'kl aaunga..dekhta hun..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:13:41.652593+00:00',
 				text: 'Haan bhai'
 			},
@@ -19540,12 +19540,12 @@ const chats = [
 				text: 'bduya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:13:04.989142+00:00',
 				text: 'Exam h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:13:00.890697+00:00',
 				text: 'Abhi to sre hi hun 20 ko delhi jaaunga'
 			},
@@ -19555,7 +19555,7 @@ const chats = [
 				text: 'kuch ni bhai aur bata kahan hn.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:07:30.863620+00:00',
 				text: 'Kya baat h'
 			},
@@ -19580,7 +19580,7 @@ const chats = [
 				text: 'na 20 se hn.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:05:45.946687+00:00',
 				text: 'Hogi claas shuru'
 			},
@@ -19610,12 +19610,12 @@ const chats = [
 				text: 'bhai abhi sre. hun.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:03:00.498198+00:00',
 				text: 'Pdhna shuru kr de mgr ab'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:02:41.572857+00:00',
 				text: 'Han bete shi jaa ra..'
 			},
@@ -19650,7 +19650,7 @@ const chats = [
 				text: 'nhii bhai...abhi nhii..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-16T16:00:13.148939+00:00',
 				story_share: "Shared akib_2308's story",
 				text: 'Shuru ho gya kya fiitjee'
@@ -19661,12 +19661,12 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T11:27:39.741721+00:00',
 				text: 'Aae haaee'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T11:27:16.270510+00:00',
 				heart: '❤️'
 			},
@@ -19676,7 +19676,7 @@ const chats = [
 				text: 'Arree kuch nhii shrmaagayi aur kya ..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:48:56.951683+00:00',
 				text: 'Kya rreply kiya usne'
 			},
@@ -19686,7 +19686,7 @@ const chats = [
 				text: 'Abrr hn ek ldki..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:41:10.391750+00:00',
 				text: '0 kis ne kiya'
 			},
@@ -19706,7 +19706,7 @@ const chats = [
 				text: 'Ek ka 0'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:33:55.157317+00:00',
 				text: 'Kya h'
 			},
@@ -19721,7 +19721,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:32:56.199474+00:00',
 				text: 'AE LONDE shi ja rha bc..'
 			},
@@ -19751,17 +19751,17 @@ const chats = [
 				text: 'Arree nhi yrr hm kaha. Stud bc.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:20:58.985698+00:00',
 				text: 'Abe londiyan chutiya ho tjhe to pta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:20:18.256880+00:00',
 				text: 'Abe kr tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:20:06.856187+00:00',
 				text: 'Kyunki stud to aajkl akib hi ho ra'
 			},
@@ -19776,7 +19776,7 @@ const chats = [
 				text: 'Purana to nhi hnaa ye.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:19:38.459832+00:00',
 				text: 'Btaio agr kisi ka aaye to'
 			},
@@ -19791,7 +19791,7 @@ const chats = [
 				text: 'Hmm ruk daalla'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:19:10.858967+00:00',
 				text: 'Daal tu bhi'
 			},
@@ -19811,7 +19811,7 @@ const chats = [
 				text: 'Aree sexyy hn ye to dare'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:18:47.737837+00:00',
 				text: 'Ldkiya krti h'
 			},
@@ -19821,24 +19821,24 @@ const chats = [
 				text: 'To..usse kya hoga..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:17:41.131554+00:00',
 				text:
 					"0- be mah bf or gf for one week 👌\n1- pull mah cheeks when we meet 😘\n2- give me a tight hug 🤗 \n3- let's exchange our numbers 👄\n4- post mah cutest pic without writing it as a dare n also write love uh ❤️\n5-meet me or not 💘\n6- propose me ❤\n7-do a couple dance with me 💋\n8-describe me using one adjective 😘\n9- describe me by writing a song 💝\n#darefun ... repost it as your story ❤️...."
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T10:17:16.881783+00:00',
 				text: 'Abe londiyon k liye h ye'
 			},
 			{
 				sender: 'akib_2308',
 				created_at: '2017-05-11T10:15:54.874242+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '1 ..usse kya hoga...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T23:52:08.022857+00:00',
 				text: 'Thik h'
 			},
@@ -19853,12 +19853,12 @@ const chats = [
 				text: 'Okh...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T19:20:54.261273+00:00',
 				text: 'Kch dino m delhi jaaunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T19:20:37.321457+00:00',
 				text: 'Abhi to sre hi hun'
 			},
@@ -19868,7 +19868,7 @@ const chats = [
 				text: 'Hmm. Kaha hn tu..bhai.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T19:19:08.631743+00:00',
 				text: 'Acha ye baat h'
 			},
@@ -19883,7 +19883,7 @@ const chats = [
 				text: 'Abee vo to khtmm hagaya.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T19:17:23.464981+00:00',
 				text: 'Accha ipl ni dikhare kya shayad'
 			},
@@ -19903,7 +19903,7 @@ const chats = [
 				text: 'Abee abhi post nhi hui shii'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T19:15:23.705964+00:00',
 				text: 'Abe smjh ni aya mjhe kya story h'
 			},
@@ -19928,7 +19928,7 @@ const chats = [
 				text: 'Hmm aree chod.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T19:12:34.378000+00:00',
 				text: 'Ab kya kr skte chud to gyi hi..'
 			},
@@ -19938,20 +19938,20 @@ const chats = [
 				text: 'Haan yrr bc. Esaa lgraha tha jese fixx hogaya ho match..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T19:06:50.162180+00:00',
 				text: 'Abe hadd hi ho gyi saala'
 			},
 			{
 				sender: 'akib_2308',
 				created_at: '2017-04-23T18:57:58.819484+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Hahahah...koi ni bachhe dill nhi dhukate..yrr..'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'sahrawat_prashant'],
+		participants: ['just_not_here', 'sahrawat_prashant'],
 		conversation: [
 			{
 				sender: 'sahrawat_prashant',
@@ -19959,17 +19959,17 @@ const chats = [
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:57:55.791063+00:00',
 				text: 'bhi wesi hi ho gyi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:57:49.659974+00:00',
 				text: 'uski to boli'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:57:45.098629+00:00',
 				text: 'hana bc'
 			},
@@ -19979,12 +19979,12 @@ const chats = [
 				text: 'bihari ho chuka hai pura vo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:57:05.810877+00:00',
 				text: '😁'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:56:59.257457+00:00',
 				text: 'bihar ka cm bnna use'
 			},
@@ -19994,17 +19994,17 @@ const chats = [
 				text: 'bhai ye alag hi bakchod hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:56:47.769051+00:00',
 				text: 'election ldega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:56:42.310051+00:00',
 				text: 'kehra th'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:56:38.141575+00:00',
 				text: 'whi local m'
 			},
@@ -20019,12 +20019,12 @@ const chats = [
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:56:06.099453+00:00',
 				text: '🤣🤣🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:56:03.130408+00:00',
 				text: 'abe wo neta giri krra aajkl'
 			},
@@ -20044,17 +20044,17 @@ const chats = [
 				text: 'pta ni bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:55:20.995266+00:00',
 				text: 'kahan h wo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:55:15.139334+00:00',
 				text: 'le conference pe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:55:07.922828+00:00',
 				text: 'abe mila use phone bc'
 			},
@@ -20064,7 +20064,7 @@ const chats = [
 				text: 'kha hai vo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:54:59.421223+00:00',
 				text: 'shi baat h'
 			},
@@ -20074,7 +20074,7 @@ const chats = [
 				text: 'prajuwal se hui baat'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:54:40.711162+00:00',
 				text: 'wo to h'
 			},
@@ -20089,7 +20089,7 @@ const chats = [
 				text: 'maujh kuch ni hai bc coding karte raho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:53:37.749777+00:00',
 				text: 'haan shi h abhi to mauj le'
 			},
@@ -20109,17 +20109,17 @@ const chats = [
 				text: 'off campus hi try karu ga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:52:54.019098+00:00',
 				text: 'zyada hua to'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:52:48.616026+00:00',
 				text: 'abe off campus le lio'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:52:36.265908+00:00',
 				text: 'mjboori'
 			},
@@ -20129,12 +20129,12 @@ const chats = [
 				text: 'bc kismat ka lekin kuch pta nahi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:52:31.337877+00:00',
 				text: 'haan pta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:52:24.705375+00:00',
 				text: 'bc preshan h'
 			},
@@ -20144,12 +20144,12 @@ const chats = [
 				text: 'fasna to koi ni chahta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:52:15.171095+00:00',
 				text: 'mere collegues vgera h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:52:02.905787+00:00',
 				text: 'bhai mass recruitment ke jaal me mt fasio'
 			},
@@ -20169,7 +20169,7 @@ const chats = [
 				text: 'jabhi to seekhi hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:51:01.226316+00:00',
 				text: 'ml ka to bhut scope h bc'
 			},
@@ -20179,32 +20179,32 @@ const chats = [
 				text: 'dekhte hai try karunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:50:28.418569+00:00',
 				text: 'use le lenge ml m intern'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:50:18.111720+00:00',
 				text: 'wrna agr koi bnda tgda h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:50:05.785955+00:00',
 				text: 'wo bacchon ke liye ni h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:49:55.946383+00:00',
 				text: 'ml me degree isliye h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:49:37.625767+00:00',
 				text: 'abe ye sb suni sunai bate h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:49:23.019593+00:00',
 				text: 'esa ni h'
 			},
@@ -20215,7 +20215,7 @@ const chats = [
 					'intern jyada tar web dev mein milte hai ml vagera deegree complete hone pr milege'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:48:26.135766+00:00',
 				text: 'abe to ml me kr na intern'
 			},
@@ -20230,12 +20230,12 @@ const chats = [
 				text: 'project to machine learning pr hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:47:38.185146+00:00',
 				text: 'live'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:47:35.665334+00:00',
 				text: 'bhai project h kya koi'
 			},
@@ -20250,22 +20250,22 @@ const chats = [
 				text: 'skills hai cpp algo js python sql'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:46:55.586015+00:00',
 				text: 'mtlb js python'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:46:44.978072+00:00',
 				text: 'skills kya h tri'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:46:34.905866+00:00',
 				text: 'm refer kr dunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:46:27.340947+00:00',
 				text: 'abe redcarpet me kr le'
 			},
@@ -20275,12 +20275,12 @@ const chats = [
 				text: 'ha yr internship bta kese milegi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:45:44.268211+00:00',
 				text: 'ladkiyon mtlb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:45:38.697066+00:00',
 				text: 'abe abhi to bhai intern vgera kr dhang ki jgha'
 			},
@@ -20290,7 +20290,7 @@ const chats = [
 				text: 'lawda na mile 24  ladkiyon ke luye hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:45:00.925548+00:00',
 				text: 'tu to 24 pe focus kr'
 			},
@@ -20311,7 +20311,7 @@ const chats = [
 					'avg to yahi hai mass recruiter 4 lakh or baaki kuch company8 ka deti hai or kuch 24 ka'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:43:29.343432+00:00',
 				text: 'kitna avg. h tere clg se'
 			},
@@ -20326,7 +20326,7 @@ const chats = [
 				text: 'dekhte hai bhai software dev'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:42:45.277194+00:00',
 				text: 'placement vgera to tgdi hogi bhai ki'
 			},
@@ -20336,12 +20336,12 @@ const chats = [
 				text: 'intern bhi karenge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:42:27.450131+00:00',
 				text: 'mtlb 3sem reh re'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:42:03.148116+00:00',
 				text: 'ya abhi'
 			},
@@ -20351,22 +20351,22 @@ const chats = [
 				text: 'aaj 5th sem khatam hua'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:41:56.639361+00:00',
 				text: 'intern vgera krra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:41:49.729302+00:00',
 				text: 'tera bta kya chl ra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:41:39.377344+00:00',
 				text: '🤣🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:41:35.875037+00:00',
 				text: 'are haan bhai shi keh ra h'
 			},
@@ -20386,17 +20386,17 @@ const chats = [
 				text: 'or kya chaiye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:40:46.180312+00:00',
 				text: 'bdiya kt jaati h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:40:37.270001+00:00',
 				text: 'thik thak hi pd jaate h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:40:24.680609+00:00',
 				text: 'pichle me hi bc sde1 tha'
 			},
@@ -20406,12 +20406,12 @@ const chats = [
 				text: 'kitna deri company'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:39:58.982213+00:00',
 				text: 'js dev l2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:39:52.243823+00:00',
 				text: 'no bro'
 			},
@@ -20421,22 +20421,22 @@ const chats = [
 				text: 'tu intern mein gaya hoga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:39:10.927919+00:00',
 				text: 'job mil jaegi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:39:04.666827+00:00',
 				text: 'tmhe kaam ata h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:38:53.852465+00:00',
 				text: 'kahin ni pucha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:38:46.592176+00:00',
 				text: 'abe mene diya'
 			},
@@ -20447,22 +20447,22 @@ const chats = [
 					'arre bhai elegibility jo hoti hai na apply krne mein usme maangte h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:37:44.723516+00:00',
 				text: 'software engg as a whole ki baat krra m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:37:17.681158+00:00',
 				text: 'koi dikkt na hui'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:37:10.972865+00:00',
 				text: 'recently'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:37:07.493221+00:00',
 				text: 'mene 100 se zyada interview diye'
 			},
@@ -20472,12 +20472,12 @@ const chats = [
 				text: 'web dev mein to koi ni puchega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:36:50.427703+00:00',
 				text: 'han agr iit nit h to alg baat h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:36:37.403582+00:00',
 				text: 'are yr koi ni puchta degree bc'
 			},
@@ -20487,7 +20487,7 @@ const chats = [
 				text: 'bhai deegree lele exp tujhe ho hi chuka hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:36:09.822356+00:00',
 				text: 'abe yaar kon krega ab'
 			},
@@ -20497,12 +20497,12 @@ const chats = [
 				text: 'dobara daal de bca ke liye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:35:48.429144+00:00',
 				text: 'time hi ni milta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:35:41.932076+00:00',
 				text: 'abe chud gya bca'
 			},
@@ -20512,17 +20512,17 @@ const chats = [
 				text: 'bca to kr hi rha hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:35:22.152411+00:00',
 				text: 'degree to h ni hmare paas'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:35:11.891450+00:00',
 				text: 'bs koshish krre h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:35:04.301749+00:00',
 				text: 'haan bhai'
 			},
@@ -20537,12 +20537,12 @@ const chats = [
 				text: 'sahi hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:34:35.217305+00:00',
 				text: 'srijan tech.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:34:29.732429+00:00',
 				text: 'abhi switch kiya'
 			},
@@ -20552,17 +20552,17 @@ const chats = [
 				text: 'konsi company hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:34:06.997460+00:00',
 				text: 'flat l nagar h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:33:56.391667+00:00',
 				text: 'h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:33:55.205118+00:00',
 				text: 'nhi office cp'
 			},
@@ -20577,17 +20577,17 @@ const chats = [
 				text: 'job kra hai kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:33:17.037017+00:00',
 				text: 'monday wapsi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:33:03.202381+00:00',
 				text: 'laxmi nagar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:32:58.069844+00:00',
 				text: 'haan'
 			},
@@ -20602,12 +20602,12 @@ const chats = [
 				text: 'bs bhadiya sab'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:32:27.092899+00:00',
 				text: 'aur kya chl ra h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:32:12.930786+00:00',
 				text: 'abhi to ghr hun'
 			},
@@ -20622,12 +20622,12 @@ const chats = [
 				text: 'hmm aaj hi khatam hue'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:29:40.445251+00:00',
 				text: 'paper waper ho gye kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:29:30.728700+00:00',
 				text: 'shi h'
 			},
@@ -20637,7 +20637,7 @@ const chats = [
 				text: 'noida hi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-14T08:28:12.843708+00:00',
 				likes: [
 					{
@@ -20654,13 +20654,13 @@ const chats = [
 				text: 'are bhai bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T05:25:18.746252+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Bhai itna padha likha ni hun m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-03T08:20:41.750880+00:00',
 				media_owner: 'the.movie.freak',
 				media_share_caption:
@@ -20673,12 +20673,12 @@ const chats = [
 				text: 'Haha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-28T06:39:54.840287+00:00',
 				text: 'ek to chutiya si h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-28T06:39:34.779144+00:00',
 				text: 'bhai tagdi h bc'
 			},
@@ -20705,12 +20705,12 @@ const chats = [
 				text: 'Ha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-28T06:18:40.567799+00:00',
 				text: 'dekh ra bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-28T06:15:42.169481+00:00',
 				story_share: "Shared meh_anubhav's story",
 				text: '',
@@ -20719,10 +20719,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['subhdcode', 'just_junaid_here'],
+		participants: ['subhdcode', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-12-08T07:05:30.035387+00:00',
 				likes: [
 					{ username: 'subhdcode', date: '2019-12-08T08:12:43.517419+00:00' }
@@ -20733,10 +20733,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'babberkartik'],
+		participants: ['just_not_here', 'babberkartik'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-23T15:59:39.780608+00:00',
 				story_share: "Shared babberkartik's story",
 				text: '💯'
@@ -20744,23 +20744,23 @@ const chats = [
 		]
 	},
 	{
-		participants: ['rohit_gupta_fitness', 'just_junaid_here'],
+		participants: ['rohit_gupta_fitness', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-22T05:27:39.284695+00:00',
 				story_share: "Shared rohit_gupta_fitness's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-06T12:14:18.069322+00:00',
 				story_share: "Shared dimeloper_'s story",
 				text: '',
 				story_share_type: 'default'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-02T19:19:59.924737+00:00',
 				link: 'https://www.instagram.com/p/B4Xo-Jxp-0T/?igshid=kssa5t6orjc5',
 				text: 'https://www.instagram.com/p/B4Xo-Jxp-0T/?igshid=kssa5t6orjc5'
@@ -20768,10 +20768,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['martinsoft', 'just_junaid_here'],
+		participants: ['martinsoft', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T17:57:59.945812+00:00',
 				text: 'no. im professional react dev. btw thanks for ur advice.'
 			},
@@ -20787,19 +20787,19 @@ const chats = [
 				text: 'Sorry. My focus is iOS and I work freelance on my own.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T17:36:09.363285+00:00',
 				text:
 					'Hi there, hope all is good.\nSo i was just wondering, maybe i can be of any help, like if you have some freelancing projects related to web dev.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T08:50:03.212423+00:00',
 				story_share: "Shared martinsoft's story",
 				text: 'awesome😍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-06-13T20:33:39.381459+00:00',
 				story_share: "Shared martinsoft's story",
 				text: 'python🙌'
@@ -20807,16 +20807,16 @@ const chats = [
 		]
 	},
 	{
-		participants: ['studywebdevelopment', 'just_junaid_here'],
+		participants: ['studywebdevelopment', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T17:40:22.798627+00:00',
 				text:
 					'hi there. hope all is good.\nSo i was just wondering if you have any freelance project related to web dev., would love to work with you.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-23T17:03:10.594278+00:00',
 				story_share: "Shared studywebdevelopment's story",
 				text: '💯'
@@ -20824,10 +20824,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['devslopes', 'just_junaid_here'],
+		participants: ['devslopes', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T17:38:07.459559+00:00',
 				text: 'no problem. its all good👍'
 			},
@@ -20837,7 +20837,7 @@ const chats = [
 				text: 'No sir'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T17:30:32.467553+00:00',
 				text:
 					'Hi. i was wondering do you guys have freelancing projects related to web dev.'
@@ -20853,7 +20853,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-25T05:50:16.963879+00:00',
 				story_share: "Shared devslopes's story",
 				text: 'devslopes full stack course again'
@@ -20861,16 +20861,16 @@ const chats = [
 		]
 	},
 	{
-		participants: ['dimeloper_', 'just_junaid_here'],
+		participants: ['dimeloper_', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T17:33:26.206043+00:00',
 				text:
 					'Hi, hope all is good.\nI was just wondering if you have some freelancing projects related to web dev.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-08T10:06:59.602997+00:00',
 				story_share: "Shared dimeloper_'s story",
 				text: '😍'
@@ -20878,17 +20878,17 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'suhailgeorgianboy'],
+		participants: ['just_not_here', 'suhailgeorgianboy'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-14T04:27:44.226963+00:00',
 				text: '🤓'
 			},
 			{
 				sender: 'suhailgeorgianboy',
 				created_at: '2019-11-14T03:17:44.480676+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Bas ruk jao dolle phatne wale hain😅😅😅😅'
 			},
 			{
@@ -20897,12 +20897,12 @@ const chats = [
 				text: '😅😅😅😅😅😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-02T19:17:10.398457+00:00',
 				text: 'lolololooolo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-02T19:17:05.132804+00:00',
 				text: 'mousey🤣🤣🤣🤣🤣'
 			},
@@ -20912,19 +20912,19 @@ const chats = [
 				text: 'Haan bhai lil mousey lag rahe ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-02T19:15:36.678593+00:00',
 				text: 'hai ni tgda'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-02T19:14:58.250559+00:00',
 				text: '🥵'
 			},
 			{
 				sender: 'suhailgeorgianboy',
 				created_at: '2019-11-02T19:14:25.576068+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Yo ke hai bhai'
 			},
 			{
@@ -20933,7 +20933,7 @@ const chats = [
 				text: '😎😎😎😎😎'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-05T07:02:28.933969+00:00',
 				text: '🤣🤣🤣🤣🤙🤙'
 			},
@@ -20943,7 +20943,7 @@ const chats = [
 				text: '😠😡😡😡😡😡😡'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-05T06:57:18.660602+00:00',
 				text: 'haan haan hann haan 🥵'
 			},
@@ -20953,23 +20953,23 @@ const chats = [
 				text: 'Smart lag raha hun main'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-05T06:23:26.398460+00:00',
 				story_share: "Shared suhailgeorgianboy's story",
 				text: 'abe mote chuje'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-29T15:31:44.495699+00:00',
 				text: '🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-29T15:31:43.207146+00:00',
 				text: '🤙'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-29T15:31:41.931082+00:00',
 				likes: [
 					{
@@ -20982,21 +20982,21 @@ const chats = [
 			{
 				sender: 'suhailgeorgianboy',
 				created_at: '2019-09-29T13:43:00.435611+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Galaxy gym😂😂😂'
 			}
 		]
 	},
 	{
-		participants: ['shailendra.its', 'just_junaid_here'],
+		participants: ['shailendra.its', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-03T14:09:40.081069+00:00',
 				text: 'are bhai ese hi bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-03T14:09:33.229538+00:00',
 				text: 'hahhaah'
 			},
@@ -21006,33 +21006,33 @@ const chats = [
 				text: 'Song mst dala hai tmne'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-03T14:01:37.293267+00:00',
 				text: 'are bhai'
 			},
 			{
 				sender: 'shailendra.its',
 				created_at: '2019-11-03T13:42:30.285134+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Oye hoye 😋'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', '___amir___786'],
+		participants: ['just_not_here', '___amir___786'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-03T14:00:28.566439+00:00',
 				text: 'shi h bhaaiii'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-09T17:19:26.141496+00:00',
 				text: 'kyun kya hua'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-09T17:19:25.493083+00:00',
 				text: 'bhai yhi delhi hi'
 			},
@@ -21042,23 +21042,23 @@ const chats = [
 				text: 'Bhai tum kaha ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-05T06:11:27.404183+00:00',
 				text: 'are bhai shukriya'
 			},
 			{
 				sender: '___amir___786',
 				created_at: '2019-09-05T03:45:03.334041+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Bhai tussi grate ho'
 			}
 		]
 	},
 	{
-		participants: ['rathiayush121', 'just_junaid_here'],
+		participants: ['rathiayush121', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-11-01T11:18:20.233604+00:00',
 				story_share: "Shared rathiayush121's story",
 				text: '💯'
@@ -21066,7 +21066,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', '__deleted__bhiebebeihcbbdfdh'],
+		participants: ['just_not_here', '__deleted__bhiebebeihcbbdfdh'],
 		conversation: [
 			{
 				sender: '__deleted__bhiebebeihcbbdfdh',
@@ -21074,13 +21074,13 @@ const chats = [
 				text: '😆😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-20T10:10:37.772432+00:00',
 				story_share: "Shared __deleted__bhiebebeihcbbdfdh's story",
 				text: '🎉'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-19T17:47:55.500789+00:00',
 				story_share: "Shared __deleted__bhiebebeihcbbdfdh's story",
 				text: '😂'
@@ -21091,7 +21091,7 @@ const chats = [
 				text: 'Shukriya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-19T16:30:24.457914+00:00',
 				likes: [
 					{
@@ -21108,7 +21108,7 @@ const chats = [
 				text: 'Shukriya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-19T10:15:52.104944+00:00',
 				likes: [
 					{
@@ -21125,7 +21125,7 @@ const chats = [
 				text: 'Shukriya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-17T17:04:47.141360+00:00',
 				likes: [
 					{
@@ -21142,7 +21142,7 @@ const chats = [
 				text: '😅😅😅😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-13T12:22:34.728582+00:00',
 				text: '*is not was and will be'
 			},
@@ -21152,7 +21152,7 @@ const chats = [
 				text: 'I know I am not'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-13T12:13:42.320675+00:00',
 				story_share: "Shared __deleted__bhiebebeihcbbdfdh's story",
 				text: 'u r not'
@@ -21163,17 +21163,17 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T18:46:21.231437+00:00',
 				text: 'ajeeb h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T18:46:12.724963+00:00',
 				text: '😘isme kya hasi ari h tre ko'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T18:45:41.042367+00:00',
 				text: 'kya hua'
 			},
@@ -21183,7 +21183,7 @@ const chats = [
 				text: '😆😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T18:28:44.393260+00:00',
 				story_share: "Shared __deleted__bhiebebeihcbbdfdh's story",
 				text: '😘'
@@ -21194,9 +21194,9 @@ const chats = [
 				text: 'Hnn'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T19:20:36.543940+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'ptaa ni. acchi thi mgr'
 			},
 			{
@@ -21205,12 +21205,12 @@ const chats = [
 				text: 'Are'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-06T11:13:35.373500+00:00',
 				text: 'double chin'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-06T11:13:29.298850+00:00',
 				text: 'kya compulsary'
 			},
@@ -21225,7 +21225,7 @@ const chats = [
 				text: 'Kyu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-06T10:50:15.775066+00:00',
 				text: 'chl pagal vagl h kya'
 			},
@@ -21236,7 +21236,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/71676454_1748228915321346_4775803041414149995_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=106&_nc_ohc=lNlrJMzq2tUAX_UAmJQ&oh=65f3780e9aff8a2812b9b59ce950a54c&oe=5EB0120B&ig_cache_key=Mjg5NjgwMDA4ODM2NjIzOTQyMTg3MTQxMjQzODUyNTU0MjQ%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-06T10:40:34.315597+00:00',
 				likes: [
 					{
@@ -21258,17 +21258,17 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-02T05:53:36.522196+00:00',
 				text: 'type ni ho ra mre se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-02T05:53:35.275891+00:00',
 				text: 'ese ni'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-02T05:51:29.890620+00:00',
 				text: 'are milke btaunga'
 			},
@@ -21288,7 +21288,7 @@ const chats = [
 				text: 'Abhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-02T05:50:42.630248+00:00',
 				text: 'are baad m pkka'
 			},
@@ -21313,7 +21313,7 @@ const chats = [
 				text: 'Btaooo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-01T18:33:02.279497+00:00',
 				text: 'baad m btata hun'
 			},
@@ -21333,27 +21333,27 @@ const chats = [
 				text: 'Kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-01T17:53:09.910915+00:00',
 				text: 'aur ek advice'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-01T17:52:59.377566+00:00',
 				text: 'tra to dusra tha na'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-01T17:52:52.016344+00:00',
 				text: 'ye phone konsa h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-01T17:52:18.040225+00:00',
 				text: 'video hi video'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-01T17:51:44.709650+00:00',
 				text: 'mtlb khala gyi hui h to'
 			},
@@ -21363,7 +21363,7 @@ const chats = [
 				text: '😆😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-01T17:22:14.952477+00:00',
 				likes: [
 					{
@@ -21380,12 +21380,12 @@ const chats = [
 				text: 'Okh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-30T19:29:04.893562+00:00',
 				text: '🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-30T19:28:28.880769+00:00',
 				text: 'nothin sis'
 			},
@@ -21395,19 +21395,19 @@ const chats = [
 				text: 'Kya hua'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-30T19:24:08.898652+00:00',
 				story_share: "Shared __deleted__bhiebebeihcbbdfdh's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-30T19:23:45.337658+00:00',
 				story_share: "Shared __deleted__bhiebebeihcbbdfdh's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T10:00:18.202512+00:00',
 				likes: [
 					{
@@ -21419,22 +21419,22 @@ const chats = [
 				text: '☹️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:45:07.415270+00:00',
 				text: '🤪'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:44:48.017595+00:00',
 				text: 'its common nowadays'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:44:39.324988+00:00',
 				text: 'buri baat ni h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:44:20.187766+00:00',
 				text: 'ade yaad'
 			},
@@ -21459,19 +21459,19 @@ const chats = [
 				text: 'Today I am in a good mood'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:16:44.482250+00:00',
 				story_share: "Shared __deleted__bhiebebeihcbbdfdh's story",
 				text: 'ab tre pe na shak hone lga mjhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:15:50.942690+00:00',
 				story_share: "Shared __deleted__bhiebebeihcbbdfdh's story",
 				text: 'wat about today'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T09:14:30.181142+00:00',
 				text: 'ookay'
 			},
@@ -21491,7 +21491,7 @@ const chats = [
 				text: 'Mood mood ki baat'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T08:44:08.358864+00:00',
 				text: 'jiiii ? itni respect 🤨'
 			},
@@ -21501,7 +21501,7 @@ const chats = [
 				text: 'Jii'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T08:34:00.280461+00:00',
 				text: 'accha'
 			},
@@ -21521,7 +21521,7 @@ const chats = [
 				text: 'Hn'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T07:27:33.308136+00:00',
 				likes: [
 					{
@@ -21529,11 +21529,11 @@ const chats = [
 						date: '2019-09-28T07:37:27.603553+00:00'
 					}
 				],
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'ye zruri tha kya😏'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-28T07:26:06.261702+00:00',
 				likes: [
 					{
@@ -21541,7 +21541,7 @@ const chats = [
 						date: '2019-09-28T07:37:26.505297+00:00'
 					}
 				],
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'shukriya'
 			},
 			{
@@ -21550,12 +21550,12 @@ const chats = [
 				text: '👍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T18:12:50.077819+00:00',
 				text: 'shit☹️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T18:12:49.581399+00:00',
 				text: 'alelelele'
 			},
@@ -21565,7 +21565,7 @@ const chats = [
 				text: 'Nothing'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T17:43:51.058785+00:00',
 				text: 'kya hua'
 			},
@@ -21580,12 +21580,12 @@ const chats = [
 				text: '😒'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T17:38:27.737841+00:00',
 				text: 'lololol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T17:37:41.592524+00:00',
 				text: 'are msg dhang se send to hone diya kr'
 			},
@@ -21595,7 +21595,7 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T17:36:45.921442+00:00',
 				story_share: "Shared __deleted__bhiebebeihcbbdfdh's story",
 				text: 'ye hui na baat'
@@ -21606,12 +21606,12 @@ const chats = [
 				text: '😆😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T17:29:57.274506+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T17:29:56.251752+00:00',
 				text: 'wo bhi kutta billi wala'
 			},
@@ -21621,7 +21621,7 @@ const chats = [
 				text: 'Just like that'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T15:11:23.560561+00:00',
 				likes: [
 					{
@@ -21638,19 +21638,19 @@ const chats = [
 				text: 'Yaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-22T17:25:11.196023+00:00',
 				text: 'this is so disgusting'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-22T17:25:10.537673+00:00',
 				media_owner: 'Username unavailable.',
 				media_share_caption: 'Caption unavailable.',
 				media_share_url: 'Media share unavailable.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-22T17:19:55.226562+00:00',
 				link: 'https://www.instagram.com/p/B2tFbvxpm2-/?igshid=1puffk3p1vhu',
 				text: 'https://www.instagram.com/p/B2tFbvxpm2-/?igshid=1puffk3p1vhu'
@@ -21661,7 +21661,7 @@ const chats = [
 				text: 'Hn'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-19T17:47:44.507360+00:00',
 				text: 'chl koi na'
 			},
@@ -21676,12 +21676,12 @@ const chats = [
 				text: 'Nothing bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-19T17:46:48.159003+00:00',
 				text: 'ye kesi wahiyat chize h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-19T17:46:26.416140+00:00',
 				text: 'kya ho gya tjhr'
 			},
@@ -21696,7 +21696,7 @@ const chats = [
 				text: 'What??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-19T17:27:04.311302+00:00',
 				story_share: "Shared __deleted__bhiebebeihcbbdfdh's story",
 				text: '🤦‍♂'
@@ -21707,7 +21707,7 @@ const chats = [
 				text: 'Yaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-17T17:26:41.564315+00:00',
 				likes: [
 					{
@@ -21729,7 +21729,7 @@ const chats = [
 				text: 'Haa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:30:29.695124+00:00',
 				text: '12 bje dimaag ghum jata h mra'
 			},
@@ -21744,12 +21744,12 @@ const chats = [
 				text: 'Hnn'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:30:01.563118+00:00',
 				text: 'esa hi h kuch apna'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:29:54.210753+00:00',
 				text: 'haan behen'
 			},
@@ -21764,7 +21764,7 @@ const chats = [
 				text: '😆😆😆😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:28:47.259811+00:00',
 				text: 'bidi jalaele'
 			},
@@ -21774,7 +21774,7 @@ const chats = [
 				text: 'Ab kya hua'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:28:20.092283+00:00',
 				text: '🤕'
 			},
@@ -21789,17 +21789,17 @@ const chats = [
 				text: 'hehhehhhehe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:26:34.812415+00:00',
 				text: 'kon hasta h itnaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:26:18.060879+00:00',
 				text: 'kya yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:26:14.046975+00:00',
 				text: 'itni hasii'
 			},
@@ -21809,12 +21809,12 @@ const chats = [
 				text: '😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:25:23.641781+00:00',
 				text: 'on demand'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:25:20.161079+00:00',
 				text: 'jo bhi ghr ata h chai peeke jata h'
 			},
@@ -21829,7 +21829,7 @@ const chats = [
 				text: '😆😆😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:25:05.521864+00:00',
 				text: 'dur dur tk diwaane h'
 			},
@@ -21839,7 +21839,7 @@ const chats = [
 				text: 'Sahi baat h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:24:56.852834+00:00',
 				text: 'meri chai ke'
 			},
@@ -21849,7 +21849,7 @@ const chats = [
 				text: 'Haa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:24:48.979401+00:00',
 				text: 'ab tjhe kya pta'
 			},
@@ -21859,12 +21859,12 @@ const chats = [
 				text: '😂😂😂👍👍👍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:24:05.967923+00:00',
 				text: 'kya chai thi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:24:01.628055+00:00',
 				text: 'ahahaha mza aa gya'
 			},
@@ -21874,7 +21874,7 @@ const chats = [
 				text: '😆😆😆😆😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:20:53.224726+00:00',
 				text: 'has le'
 			},
@@ -21894,7 +21894,7 @@ const chats = [
 				text: 'Ahsa bhi kuch hua th'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:19:53.146444+00:00',
 				text: 'koi ni🥺'
 			},
@@ -21909,7 +21909,7 @@ const chats = [
 				text: '😆😆😂😂😅😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:18:29.897177+00:00',
 				text: 'haan tbhi bada cup bharke pee gyi thi'
 			},
@@ -21929,7 +21929,7 @@ const chats = [
 				text: '😆😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:18:03.360150+00:00',
 				text: '😔'
 			},
@@ -21949,12 +21949,12 @@ const chats = [
 				text: 'Haa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:16:53.217238+00:00',
 				text: '🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:16:46.677719+00:00',
 				text: 'jo piye pita reh jae'
 			},
@@ -21969,7 +21969,7 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:16:34.036086+00:00',
 				text: 'wo bhi sexy wali'
 			},
@@ -21979,12 +21979,12 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:16:28.009239+00:00',
 				text: 'chaaye bna ra hun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:16:21.310552+00:00',
 				text: 'yahan dekh'
 			},
@@ -21994,7 +21994,7 @@ const chats = [
 				text: 'Seriously'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:14:46.351175+00:00',
 				text: 'lol how boring☹️'
 			},
@@ -22004,12 +22004,12 @@ const chats = [
 				text: 'Kuch nhi  gaane sunri hu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:13:21.147140+00:00',
 				text: 'vse'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:13:19.682261+00:00',
 				text: 'kya krri h'
 			},
@@ -22019,12 +22019,12 @@ const chats = [
 				text: 'Bs rehndo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:12:45.673623+00:00',
 				text: 'record krke bhej'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:12:27.267679+00:00',
 				text: 'gaa ke suna'
 			},
@@ -22044,7 +22044,7 @@ const chats = [
 				text: 'Yo-yo k'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:11:12.310395+00:00',
 				text: 'konse'
 			},
@@ -22059,7 +22059,7 @@ const chats = [
 				text: 'Haa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:10:54.097047+00:00',
 				text: 'dope songs suna kr🦵'
 			},
@@ -22074,7 +22074,7 @@ const chats = [
 				text: 'Are'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T18:10:29.659400+00:00',
 				text: 'kya rone dhone wale gaane sunti h'
 			},
@@ -22084,13 +22084,13 @@ const chats = [
 				text: 'Kya hua'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T17:29:58.874484+00:00',
 				story_share: "Shared __deleted__bhiebebeihcbbdfdh's story",
 				text: '😢'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T13:47:38.612219+00:00',
 				likes: [
 					{
@@ -22111,7 +22111,7 @@ const chats = [
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T13:46:58.831424+00:00',
 				text: '🤔'
 			},
@@ -22121,7 +22121,7 @@ const chats = [
 				text: 'What❓ 😄😄'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T12:49:41.040086+00:00',
 				text: '😔😟'
 			},
@@ -22550,7 +22550,7 @@ const chats = [
 				}
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T12:11:09.190541+00:00',
 				text: '🤓'
 			},
@@ -22560,7 +22560,7 @@ const chats = [
 				text: '😊'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T10:50:07.961235+00:00',
 				text: '🧐'
 			},
@@ -22570,12 +22570,12 @@ const chats = [
 				text: 'Nothing'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T07:55:59.555305+00:00',
 				text: 'do u want baby gal'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-16T07:55:21.278413+00:00',
 				text: 'what'
 			},
@@ -22595,12 +22595,12 @@ const chats = [
 				text: 'As your wish'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T17:43:49.155543+00:00',
 				text: '🤔'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T17:43:29.863730+00:00',
 				text: 'comment bhi kru'
 			},
@@ -22610,7 +22610,7 @@ const chats = [
 				text: '👏👍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T17:33:19.123587+00:00',
 				text: '🤠'
 			},
@@ -22625,12 +22625,12 @@ const chats = [
 				text: "It's all depends on you"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T17:21:05.366451+00:00',
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T17:20:51.283118+00:00',
 				text: 'like bhi krni h kya'
 			},
@@ -22655,7 +22655,7 @@ const chats = [
 				text: 'Okh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T17:18:40.859223+00:00',
 				text: 'kr dia'
 			},
@@ -22710,20 +22710,20 @@ const chats = [
 				text: 'Nothing'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-02T05:24:53.265139+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'what that even mean😕'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-02T05:22:45.916447+00:00',
 				text: '🤙'
 			},
 			{
 				sender: '__deleted__bhiebebeihcbbdfdh',
 				created_at: '2019-07-01T17:57:38.045226+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '👏'
 			},
 			{
@@ -22938,7 +22938,7 @@ const chats = [
 				user: {}
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-28T16:38:00.189411+00:00',
 				text: 'hahaha so funny'
 			},
@@ -22964,12 +22964,12 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-27T18:32:02.316841+00:00',
 				text: 'notification ati h pta h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-27T18:31:40.114077+00:00',
 				text: 'like krke disklike yhi kaam h kya tre ko'
 			},
@@ -22979,7 +22979,7 @@ const chats = [
 				text: 'Hn'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:44:09.870474+00:00',
 				text: 'Yup'
 			},
@@ -22989,7 +22989,7 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:33:43.368513+00:00',
 				text: 'Not anymore baby girl'
 			},
@@ -22999,18 +22999,18 @@ const chats = [
 				text: 'Kallu bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:28:36.711604+00:00',
 				text: '🤫🤣🤣🤣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:28:27.140906+00:00',
 				media:
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e35/62472720_114677449798871_2965022710298079679_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_ohc=028NWOAOc5kAX_AHCU7&oh=7b60d2e12aecfc09988470f65c41f2a9&oe=5EB015D5&ig_cache_key=MjA3MTc4MjIxMDYxMzQyOTYwNg%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:28:25.535589+00:00',
 				likes: [
 					{
@@ -23022,7 +23022,7 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e35/62360550_142362843506079_5429540575058308909_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=103&_nc_ohc=FFRlrxMLwfUAX9P_TMw&oh=c9037e9f69b0b5129baa85e30b49c07b&oe=5EAF207B&ig_cache_key=MjA3MTc4MjE5NzI5MjIyNzUwOA%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:28:23.855889+00:00',
 				likes: [
 					{
@@ -23034,13 +23034,13 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e35/62352985_173746400298233_3460146366349904391_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_ohc=acWMbWXtK2YAX8d1uPk&oh=06a2e2fbec1760e1a6575fe8c61cafb6&oe=5EB027B6&ig_cache_key=MjA3MTc4MjE4MzI0OTY4MTU5MQ%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:28:21.513615+00:00',
 				media:
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/64763840_176059690065374_1036210289553965209_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=102&_nc_ohc=UsCUx6eYchoAX8BtT_p&oh=4791865e20045e8634cd952098007733&oe=5EB0FD9F&ig_cache_key=MjA3MTc4MjE2MzYyODczMjQ5Ng%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:28:19.553330+00:00',
 				media:
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/64395595_677268829384250_5328362302356978621_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=102&_nc_ohc=Q78kxWZ5_igAX9I3jr2&oh=1057f6acf54da3811f95a88a70049bfb&oe=5EAFBD57&ig_cache_key=MjA3MTc4MjE0NzMyOTg0NzAxNQ%3D%3D.2'
@@ -23056,12 +23056,12 @@ const chats = [
 				text: '😆'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:24:54.345837+00:00',
 				text: '😁'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:24:43.220625+00:00',
 				likes: [
 					{
@@ -23078,7 +23078,7 @@ const chats = [
 				text: '👎'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:23:33.857619+00:00',
 				text: '✍( ಠĹ̯ ಠ💢)💬'
 			},
@@ -23526,7 +23526,7 @@ const chats = [
 				}
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:21:09.775944+00:00',
 				heart: '❤️'
 			},
@@ -23536,17 +23536,17 @@ const chats = [
 				text: 'Haa Alhumdulillah'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:20:39.873107+00:00',
 				text: 'Sb thik'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:20:33.035518+00:00',
 				text: 'Kesi h tu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:20:12.864427+00:00',
 				text: 'Kuch ni'
 			},
@@ -23556,7 +23556,7 @@ const chats = [
 				text: '??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T09:00:07.455563+00:00',
 				text: 'Gtf outta here'
 			},
@@ -23566,28 +23566,28 @@ const chats = [
 				text: 'Lame joke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T07:45:51.756952+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Sexy joker🤙'
 			}
 		]
 	},
 	{
-		participants: ['s_u_y_a_s_h__s_i_n_g_h', 'just_junaid_here'],
+		participants: ['s_u_y_a_s_h__s_i_n_g_h', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:53:09.094875+00:00',
 				text: 'apna de ya meee ko kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:53:00.592495+00:00',
 				text: 'bro call pe baat kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:52:51.879416+00:00',
 				text: 'bhai delhi'
 			},
@@ -23607,27 +23607,27 @@ const chats = [
 				text: 'Arey bhai bhai bhai 😄😃'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:43:01.676214+00:00',
 				text: '😝'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:43:01.266443+00:00',
 				text: 'uske liye seat bhi bhut roki bhai ne'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:43:00.861116+00:00',
 				text: 'uske peeche baith baith ke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:43:00.381185+00:00',
 				text: 'bc tune kashika finally pta hi li'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:42:59.757955+00:00',
 				text: 'sb mst ekdm jesa pehle tha'
 			},
@@ -23652,22 +23652,22 @@ const chats = [
 				text: 'Theek bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:18:46.583249+00:00',
 				text: 'lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:18:45.638444+00:00',
 				text: 'varshney ke baad seedha ab baat hori h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:18:18.637102+00:00',
 				text: 'kitne din ho gye bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:18:10.528949+00:00',
 				text: 'aur bta kesa h'
 			},
@@ -23677,7 +23677,7 @@ const chats = [
 				text: 'Achaaaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T17:17:06.284620+00:00',
 				text: 'haan bhai tbhi to bol ra hun yr'
 			},
@@ -23687,22 +23687,22 @@ const chats = [
 				text: 'Tera saga bhai hai kya vo?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T16:49:39.527235+00:00',
 				text: 'dhyaan rkhio thoda bs'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T16:49:36.844977+00:00',
 				text: 'mbbs suhail choudhary naam h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-14T16:45:59.203565+00:00',
 				text: 'bhai wo mera chhota bhai h 1st year m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-12T12:28:51.861555+00:00',
 				text: 'abe apna no. de'
 			},
@@ -23712,17 +23712,17 @@ const chats = [
 				text: 'Han bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-12T12:14:59.666099+00:00',
 				text: 'tu kgmc m h na'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-12T12:14:44.231972+00:00',
 				text: 'kesa h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-12T12:14:41.008027+00:00',
 				text: 'broo wassuo'
 			},
@@ -23732,7 +23732,7 @@ const chats = [
 				text: '😃'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-06T17:06:11.362415+00:00',
 				story_share: "Shared s_u_y_a_s_h__s_i_n_g_h's story",
 				text: 'shi h bhai'
@@ -23740,7 +23740,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['_arorakshit', 'just_junaid_here'],
+		participants: ['_arorakshit', 'just_not_here'],
 		conversation: [
 			{
 				sender: '_arorakshit',
@@ -23748,7 +23748,7 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-09T06:30:50.648847+00:00',
 				text: 'u can ask ill a answer whenever i get time'
 			},
@@ -23763,9 +23763,9 @@ const chats = [
 				text: 'Great'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T19:21:38.653111+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'freelancing a gatsby project with graphcms'
 			},
 			{
@@ -23774,7 +23774,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T15:37:33.550415+00:00',
 				text: 'yeah correct'
 			},
@@ -23784,14 +23784,14 @@ const chats = [
 				text: 'Ohh but at late night its opposite'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T10:43:24.141824+00:00',
 				text: 'i have switched to light its more convenient to my eyes'
 			},
 			{
 				sender: '_arorakshit',
 				created_at: '2019-10-08T09:50:11.866327+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Use dark theme 🤘'
 			},
 			{
@@ -23800,9 +23800,9 @@ const chats = [
 				text: 'Great🤘'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-14T12:40:41.535659+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '🔥🔥'
 			},
 			{
@@ -23811,7 +23811,7 @@ const chats = [
 				text: '😃😃'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-29T05:46:20.827257+00:00',
 				story_share: "Shared _arorakshit's story",
 				text: '🔥'
@@ -23822,7 +23822,7 @@ const chats = [
 				text: '😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-25T12:46:12.656198+00:00',
 				story_share: "Shared _arorakshit's story",
 				text: '🔥'
@@ -23833,12 +23833,12 @@ const chats = [
 				text: 'Are you free right now'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-25T12:27:49.010138+00:00',
 				text: 'please elaborate or call me 9211662744'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-25T12:27:31.660427+00:00',
 				text: 'so im not getting ur exact problem'
 			},
@@ -23854,7 +23854,7 @@ const chats = [
 				text: 'Ohh 😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-25T11:48:48.873823+00:00',
 				text: 'send the pic again'
 			},
@@ -23874,7 +23874,7 @@ const chats = [
 				text: 'I am trying to build a chat app using chatkit'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-25T00:50:41.886077+00:00',
 				text: 'yeah sure'
 			},
@@ -23901,10 +23901,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['_.irosha', 'just_junaid_here'],
+		participants: ['_.irosha', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-08T15:38:20.540468+00:00',
 				story_share: "Shared _.irosha's story",
 				text: 'working on same'
@@ -23912,10 +23912,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['yalematta', 'just_junaid_here'],
+		participants: ['yalematta', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-10-06T15:22:24.956855+00:00',
 				story_share: "Shared yalematta's story",
 				text: '😍'
@@ -23923,19 +23923,19 @@ const chats = [
 		]
 	},
 	{
-		participants: ['twitter', 'just_junaid_here'],
+		participants: ['twitter', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-23T09:53:54.042583+00:00',
 				mentioned_username: 'twitter',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: null
 			}
 		]
 	},
 	{
-		participants: ['vanshkapoor40', 'just_junaid_here'],
+		participants: ['vanshkapoor40', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'vanshkapoor40',
@@ -23943,19 +23943,19 @@ const chats = [
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-20T05:55:37.820328+00:00',
 				story_share: "Shared vanshkapoor40's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-22T19:10:24.454407+00:00',
 				story_share: "Shared vanshkapoor40's story",
 				text: '💯'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-02T18:53:04.863960+00:00',
 				text: 'bs bhai aag laga rkhi h bc'
 			},
@@ -23965,12 +23965,12 @@ const chats = [
 				text: 'Badiya tu bta?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-02T17:12:31.214244+00:00',
 				text: 'aur thik h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-02T17:12:22.163697+00:00',
 				text: 'are bhai'
 			},
@@ -23980,7 +23980,7 @@ const chats = [
 				text: 'Sahi h meri jaan krle❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-03-02T17:11:29.469823+00:00',
 				story_share: "Shared vanshkapoor40's story",
 				text: 'copy krra hun bhai👌'
@@ -23990,14 +23990,14 @@ const chats = [
 				created_at: '2018-08-06T02:43:05.283997+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2018-08-07T06:33:21.748430+00:00'
 					}
 				],
 				text: 'Haan bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-05T21:31:25.903134+00:00',
 				story_share: "Shared vanshkapoor40's story",
 				text: 'shi m'
@@ -24008,17 +24008,17 @@ const chats = [
 				text: 'Accha... Bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-06-16T12:16:46.867189+00:00',
 				text: 'jb marzi aa phone kr dio bs'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-06-16T12:16:22.002611+00:00',
 				text: 'ye to haq h tmhara😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-06-16T12:16:03.140537+00:00',
 				text: 'ye bhi koi kehne ki baat h'
 			},
@@ -24033,7 +24033,7 @@ const chats = [
 				text: 'Are bhai Bhai...apko bhi❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-06-16T12:11:36.684675+00:00',
 				text: 'btw eid mubarak bhai ko'
 			},
@@ -24043,19 +24043,19 @@ const chats = [
 				text: 'Fuck af😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-06-15T20:40:36.980622+00:00',
 				story_share: "Shared vanshkapoor40's story",
 				text: 'Still asshole??😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-05T18:14:42.473465+00:00',
 				story_share: "Shared vanshkapoor40's story",
 				text: 'Same shirt😂😂..vese tagdii👌'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:13:10.576551+00:00',
 				text: 'Bhai h😘'
 			},
@@ -24070,12 +24070,12 @@ const chats = [
 				text: 'nhi bs bdiya hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:12:37.895033+00:00',
 				text: '* mention'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:12:08.554155+00:00',
 				text: 'Tag bhi karun kya'
 			},
@@ -24085,7 +24085,7 @@ const chats = [
 				text: 'okay'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:09:04.293668+00:00',
 				text: 'Abe wo cmmnt del krra me dubara krunga'
 			},
@@ -24095,22 +24095,22 @@ const chats = [
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:08:16.954389+00:00',
 				text: 'Link se wo bhu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:08:03.615308+00:00',
 				text: 'Padi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:08:01.135012+00:00',
 				text: 'Alag se browser m kholni pafi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:07:48.065647+00:00',
 				text: 'Ek to bc tri video ni chl ri'
 			},
@@ -24125,7 +24125,7 @@ const chats = [
 				text: 'okay'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:02:47.197920+00:00',
 				text: 'Thik h abhi krra'
 			},
@@ -24143,12 +24143,12 @@ const chats = [
 					'https://www.instagram.com/p/BZGxxAvB4mckpi16kvD-4iHWfSKo8EVk2LQCRs0/'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:01:17.145188+00:00',
 				text: '😕'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:01:07.585077+00:00',
 				text: 'Abe shi m ni aa ri'
 			},
@@ -24158,12 +24158,12 @@ const chats = [
 				text: 'haaa 😒😬😬'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:00:24.061371+00:00',
 				text: 'Dekhta hun ek aur baar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T19:00:13.521444+00:00',
 				text: 'Ptani bc😝'
 			},
@@ -24173,7 +24173,7 @@ const chats = [
 				text: 'kyu😒'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T18:59:38.295965+00:00',
 				text: 'Abe yr meri timeline m aa ni rhi wo tri video'
 			},
@@ -24183,12 +24183,12 @@ const chats = [
 				text: 'accha😮😁'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T18:58:33.121687+00:00',
 				text: 'Abhi krra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T18:58:29.371952+00:00',
 				text: 'Arre bhai bhool gya tha,😂😂'
 			},
@@ -24200,10 +24200,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'ayaz3747khan'],
+		participants: ['just_not_here', 'ayaz3747khan'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T16:58:04.173637+00:00',
 				text: '👍'
 			},
@@ -24213,7 +24213,7 @@ const chats = [
 				text: 'Ok bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T16:51:32.031417+00:00',
 				text: 'are internshala pew mil jaegi'
 			},
@@ -24223,7 +24223,7 @@ const chats = [
 				text: 'Java programming ya Machine learning'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T14:18:29.954172+00:00',
 				text: 'tre ko kis domain me krni h internship'
 			},
@@ -24234,7 +24234,7 @@ const chats = [
 					'Internshala pr zyadatar web aur android development ki internship hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T07:55:47.257891+00:00',
 				text: 'bro internshala pe apply kiya'
 			},
@@ -24244,9 +24244,9 @@ const chats = [
 				text: 'Bhai internship me kuch help kr do, koi link nhi mil rha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-14T19:49:32.580796+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'nhi bhai ab full time ho gya'
 			},
 			{
@@ -24255,18 +24255,18 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-07-02T09:53:14.515072+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'bro i had dropped out'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'saurabh_codesk'],
+		participants: ['just_not_here', 'saurabh_codesk'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-15T04:44:09.421866+00:00',
 				likes: [
 					{
@@ -24274,44 +24274,44 @@ const chats = [
 						date: '2019-09-15T05:14:37.632730+00:00'
 					}
 				],
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'through my workplace'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', '_shivam__verma_'],
+		participants: ['just_not_here', '_shivam__verma_'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-14T19:49:33.400684+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'bhai ye tech meetup tha microsoft ka adobe m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-18T03:31:50.689334+00:00',
 				text: 'reason bro?'
 			},
 			{
 				sender: '_shivam__verma_',
 				created_at: '2019-08-18T02:29:06.182663+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Lower body of the plane'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-22T07:44:25.687383+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Bdiya bhai tu kesa h'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'raghavio'],
+		participants: ['just_not_here', 'raghavio'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-09-08T06:25:37.629382+00:00',
 				story_share: "Shared raghavio's story",
 				text: '😂'
@@ -24319,10 +24319,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', '98himanshu_verma'],
+		participants: ['just_not_here', '98himanshu_verma'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T18:02:08.312494+00:00',
 				text: '👍'
 			},
@@ -24332,17 +24332,17 @@ const chats = [
 				text: 'H bhai bss ho jaye bss'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T14:37:40.619681+00:00',
 				text: 'srkari ki baat hi alg h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T14:37:03.009537+00:00',
 				text: 'shi h bhai lga reh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T14:36:43.898405+00:00',
 				text: 'ssc vgera'
 			},
@@ -24357,12 +24357,12 @@ const chats = [
 				text: 'Bss kha field'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T13:08:41.784757+00:00',
 				text: 'tu bta kis field m h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T13:08:03.798460+00:00',
 				text: 'haan yr ye to h'
 			},
@@ -24377,7 +24377,7 @@ const chats = [
 				text: 'Nahi shi hai bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T12:08:24.543703+00:00',
 				text: 'haan bhai bs thik kt ri h'
 			},
@@ -24392,7 +24392,7 @@ const chats = [
 				text: 'Bdiya bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T09:47:22.274493+00:00',
 				text: '30k'
 			},
@@ -24402,12 +24402,12 @@ const chats = [
 				text: 'Kitna pay hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:59:02.445465+00:00',
 				text: 'aur intern 6 mahine fir full time'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:58:47.840946+00:00',
 				text: 'bs bhai online courses vgera kiye'
 			},
@@ -24422,7 +24422,7 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:48:37.380948+00:00',
 				text: 'na bhai 12 bs'
 			},
@@ -24432,12 +24432,12 @@ const chats = [
 				text: 'Course kra tha ? Koi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:15:25.896910+00:00',
 				text: 'are koi na sb ho jaga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:15:10.440232+00:00',
 				text: 'bhai software dev.'
 			},
@@ -24452,17 +24452,17 @@ const chats = [
 				text: 'Kis deprtmnt m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-11T16:55:16.851147+00:00',
 				text: 'tu ky krr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-11T16:55:04.367387+00:00',
 				text: '*job'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-11T16:54:57.350466+00:00',
 				text: 'bhai jib chl ri h'
 			},
@@ -24472,29 +24472,29 @@ const chats = [
 				text: 'Vese kya kr rha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-11T15:55:04.558746+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'bhai delhi tu kahn h'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'patriotic_memes_'],
+		participants: ['just_not_here', 'patriotic_memes_'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T14:44:52.353001+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '🤣🤣🤣🤣'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'shikhar_saini7'],
+		participants: ['just_not_here', 'shikhar_saini7'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-08-12T04:19:27.950147+00:00',
 				likes: [
 					{
@@ -24502,28 +24502,28 @@ const chats = [
 						date: '2019-08-12T07:14:21.434494+00:00'
 					}
 				],
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'are bhai same 2 u'
 			}
 		]
 	},
 	{
-		participants: ['byadrianam', 'just_junaid_here'],
+		participants: ['byadrianam', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-25T14:54:49.304321+00:00',
 				story_share: "Shared byadrianam's story",
 				text: 'lol sriously🤙'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-16T07:38:53.770032+00:00',
 				story_share: "Shared byadrianam's story",
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-10T11:51:57.143822+00:00',
 				story_share: "Shared byadrianam's story",
 				text: '😍'
@@ -24531,22 +24531,22 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'neargroup'],
+		participants: ['just_not_here', 'neargroup'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-06-19T18:03:51.357017+00:00',
 				mentioned_username: 'neargroup',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: null
 			}
 		]
 	},
 	{
-		participants: ['mujtbahusain', 'just_junaid_here'],
+		participants: ['mujtbahusain', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-05-07T05:24:17.828666+00:00',
 				story_share: "Shared mujtbahusain's story",
 				text: 'same 2 u bro'
@@ -24554,22 +24554,22 @@ const chats = [
 		]
 	},
 	{
-		participants: ['olx_india', 'just_junaid_here'],
+		participants: ['olx_india', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-27T12:37:27.575642+00:00',
 				mentioned_username: 'olx_india',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: null
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'madison_brown_dev'],
+		participants: ['just_not_here', 'madison_brown_dev'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-26T05:44:57.021142+00:00',
 				text: 'im already a full time dev bruh'
 			},
@@ -24582,7 +24582,7 @@ const chats = [
 					'Are you interested in joining me to attend this free webinar to learn about how to get remote job opportunities in startups?\n\nhttps://events.genndi.com/register/818182175026320047/f39b0c5b82?utm_source=troperbudi1984@yahoo.com\n\n'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-25T00:50:51.967042+00:00',
 				text: 'yes'
 			},
@@ -24590,12 +24590,12 @@ const chats = [
 				sender: 'madison_brown_dev',
 				created_at: '2019-04-25T00:14:48.656449+00:00',
 				text:
-					'Hey Junaid, I like your account. Looks like I follow some of the same profiles you do. Are you currently working in tech companies?'
+					'Hey not, I like your account. Looks like I follow some of the same profiles you do. Are you currently working in tech companies?'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'namrah_jahan'],
+		participants: ['just_not_here', 'namrah_jahan'],
 		conversation: [
 			{
 				sender: 'namrah_jahan',
@@ -24603,7 +24603,7 @@ const chats = [
 				text: 'Kk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-15T18:03:19.870335+00:00',
 				text: 'work'
 			},
@@ -24618,7 +24618,7 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-15T14:07:56.844971+00:00',
 				text: 'bdiya h'
 			},
@@ -24638,7 +24638,7 @@ const chats = [
 				text: 'Me bhi thik ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-15T09:36:23.058788+00:00',
 				text: 'fine nd u'
 			},
@@ -24648,83 +24648,83 @@ const chats = [
 				text: 'Hw r u'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-04-14T05:38:54.381301+00:00',
 				text: 'hello'
 			},
 			{
 				sender: 'namrah_jahan',
 				created_at: '2019-04-14T03:41:43.129829+00:00',
-				text: 'Hello Junaid bhaiya'
+				text: 'Hello not bhaiya'
 			}
 		]
 	},
 	{
-		participants: ['thedigitalocean', 'just_junaid_here'],
+		participants: ['thedigitalocean', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-20T05:54:45.647699+00:00',
 				mentioned_username: 'thedigitalocean',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: null
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'hacktoberfest'],
+		participants: ['just_not_here', 'hacktoberfest'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-20T05:54:45.647699+00:00',
 				mentioned_username: 'hacktoberfest',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: null
 			}
 		]
 	},
 	{
-		participants: ['twilio', 'just_junaid_here'],
+		participants: ['twilio', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-20T05:54:45.647699+00:00',
 				mentioned_username: 'twilio',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: null
 			}
 		]
 	},
 	{
-		participants: ['github', 'just_junaid_here'],
+		participants: ['github', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-20T05:54:45.647699+00:00',
 				mentioned_username: 'github',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: null
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'mohduzairr'],
+		participants: ['just_not_here', 'mohduzairr'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-04T04:39:41.475428+00:00',
 				text: 'haan bhai lol'
 			},
 			{
 				sender: 'mohduzairr',
 				created_at: '2019-01-03T19:23:09.861949+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Ye durgesh ne likha h kya??'
 			}
 		]
 	},
 	{
-		participants: ['__.f.a.i.z.a.n.___', 'just_junaid_here', '__prajuwal__'],
+		participants: ['__.f.a.i.z.a.n.___', 'just_not_here', '__prajuwal__'],
 		conversation: [
 			{
 				sender: '__prajuwal__',
@@ -24737,7 +24737,7 @@ const chats = [
 				text: 'Pogba madafakr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T08:25:46.434661+00:00',
 				text: 'pogba madrchod'
 			},
@@ -24829,7 +24829,7 @@ const chats = [
 			{
 				sender: '__.f.a.i.z.a.n.___',
 				created_at: '2019-01-01T08:17:57.091997+00:00',
-				text: "Junaid mother's also get it"
+				text: "not mother's also get it"
 			},
 			{
 				sender: '__prajuwal__',
@@ -24884,7 +24884,7 @@ const chats = [
 			{
 				sender: '__.f.a.i.z.a.n.___',
 				created_at: '2019-01-01T08:14:54.229631+00:00',
-				text: 'Junaid bhii tha'
+				text: 'not bhii tha'
 			},
 			{
 				sender: '__.f.a.i.z.a.n.___',
@@ -24927,14 +24927,14 @@ const chats = [
 				text: 'Kya tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T07:09:05.540841+00:00',
-				video_call_action: 'just_junaid_here ended a video call'
+				video_call_action: 'just_not_here ended a video call'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2019-01-01T07:08:34.614389+00:00',
-				video_call_action: 'just_junaid_here started a video call'
+				video_call_action: 'just_not_here started a video call'
 			},
 			{
 				sender: '__.f.a.i.z.a.n.___',
@@ -24948,12 +24948,12 @@ const chats = [
 			}
 		]
 	},
-	{ participants: ['just_junaid_here', 'tehreenmuskaan'], conversation: [] },
+	{ participants: ['just_not_here', 'tehreenmuskaan'], conversation: [] },
 	{
-		participants: ['fzjensen', 'just_junaid_here'],
+		participants: ['fzjensen', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-20T16:44:09.616418+00:00',
 				text:
 					'no but like do u really need one coz like i can start working on it since im free, just finished uni. exams'
@@ -24965,7 +24965,7 @@ const chats = [
 					'Aw that’s nice to hear 👌🏼 Inshallah I will let you know when I am ready 🙏🏽'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-12-20T16:32:49.390373+00:00',
 				story_share: "Shared fzjensen's story",
 				text:
@@ -24974,7 +24974,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'varenhorstkm___varenhorstqzj'],
+		participants: ['just_not_here', 'varenhorstkm___varenhorstqzj'],
 		conversation: [
 			{
 				sender: 'varenhorstkm___varenhorstqzj',
@@ -24989,16 +24989,16 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'dhanishgajjar'],
+		participants: ['just_not_here', 'dhanishgajjar'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-26T10:57:52.319884+00:00',
 				story_share: "Shared dhanishgajjar's story",
 				text: 'And yeah reported👍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-26T10:57:09.685920+00:00',
 				story_share: "Shared dhanishgajjar's story",
 				text:
@@ -25015,7 +25015,7 @@ const chats = [
 				text: 'Nice'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-17T17:31:10.024823+00:00',
 				media:
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e15/p480x480/37137759_232763557423225_7775651441703649280_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=101&_nc_ohc=jBtwPTjdfYEAX9F2i4x&_nc_tp=4&oh=d5f40e8b384b4482d5899fceec502e32&oe=5EAF61DE&ig_cache_key=MjE2NTc1MTQwODY1MzI3MDkwMA%3D%3D.2'
@@ -25025,14 +25025,14 @@ const chats = [
 				created_at: '2018-08-05T19:46:36.465307+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2018-08-07T06:33:27.966417+00:00'
 					}
 				],
 				text: 'Thank you 🙏🏼'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-05T18:31:00.112194+00:00',
 				story_share: "Shared dhanishgajjar's story",
 				text: 'Done !'
@@ -25040,10 +25040,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'prv_.amber'],
+		participants: ['just_not_here', 'prv_.amber'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-19T20:18:41.177961+00:00',
 				text: 'okay good'
 			},
@@ -25054,7 +25054,7 @@ const chats = [
 					'Nothing I just was looking through my messages to people then I found you'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-19T20:15:07.189028+00:00',
 				text: 'hey wassup'
 			},
@@ -25064,7 +25064,7 @@ const chats = [
 				text: 'Hello sponge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-08T15:17:38.279026+00:00',
 				text: 'Helo u spongr'
 			},
@@ -25074,7 +25074,7 @@ const chats = [
 				text: 'Hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-07T17:00:51.983661+00:00',
 				text: 'Awesome😛'
 			},
@@ -25084,7 +25084,7 @@ const chats = [
 				text: 'Done'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-07T15:39:28.390143+00:00',
 				text: 'K'
 			},
@@ -25094,7 +25094,7 @@ const chats = [
 				text: 'Don’t start that again'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-07T15:27:27.449726+00:00',
 				text: 'C'
 			},
@@ -25104,7 +25104,7 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-07T15:25:26.044786+00:00',
 				text: 'Nice..cookies😍😍'
 			},
@@ -25114,7 +25114,7 @@ const chats = [
 				text: 'Good about to make cookies'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-07T15:23:45.621165+00:00',
 				text: 'Very good nd u'
 			},
@@ -25124,7 +25124,7 @@ const chats = [
 				text: 'How r u'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-07T15:22:41.935920+00:00',
 				text: 'Hlo😀'
 			},
@@ -25134,7 +25134,7 @@ const chats = [
 				text: 'Hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-01T16:36:09.484504+00:00',
 				text: 'No im not u sponge'
 			},
@@ -25149,7 +25149,7 @@ const chats = [
 				text: 'Cause ur a creap'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-01T16:35:09.685528+00:00',
 				text: 'Why'
 			},
@@ -25164,12 +25164,12 @@ const chats = [
 				text: 'Ho away'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-01T16:34:04.091512+00:00',
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-01T16:34:00.943622+00:00',
 				text: 'Ur cute'
 			},
@@ -25179,7 +25179,7 @@ const chats = [
 				text: 'What do u mean'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-01T16:33:17.211438+00:00',
 				text: 'C'
 			},
@@ -25189,7 +25189,7 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-01T16:32:41.439922+00:00',
 				text: 'Am also good..😉'
 			},
@@ -25199,7 +25199,7 @@ const chats = [
 				text: 'Good thanks u'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-01T16:13:48.716348+00:00',
 				text: 'Hey..hw r u☺'
 			},
@@ -25219,7 +25219,7 @@ const chats = [
 				text: 'Hi im back'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-28T06:31:59.926544+00:00',
 				text: 'Okay😔 ur wish..'
 			},
@@ -25230,7 +25230,7 @@ const chats = [
 					'Hi just to let you know im going to have to block you for today but i will un block when i get me new phone'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:48:16.527308+00:00',
 				text: 'Nice'
 			},
@@ -25240,12 +25240,12 @@ const chats = [
 				text: 'Same age as me'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:47:45.157333+00:00',
 				text: 'How old is he'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:47:39.136020+00:00',
 				text: 'Good'
 			},
@@ -25260,12 +25260,12 @@ const chats = [
 				text: 'Yes'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:47:14.046371+00:00',
 				text: 'Or its just u only'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:47:04.658095+00:00',
 				text: 'He also take u as his gf'
 			},
@@ -25275,7 +25275,7 @@ const chats = [
 				text: 'Harley'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:46:25.418317+00:00',
 				text: 'Whats his name btw'
 			},
@@ -25285,7 +25285,7 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:45:53.947633+00:00',
 				text: 'U both'
 			},
@@ -25295,12 +25295,12 @@ const chats = [
 				text: 'Who'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:45:40.528371+00:00',
 				text: 'Soo funny af'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:45:32.265612+00:00',
 				text: '😂😂😊'
 			},
@@ -25316,7 +25316,7 @@ const chats = [
 				text: 'Sends me messages'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:44:26.575086+00:00',
 				text: 'What does he do'
 			},
@@ -25326,7 +25326,7 @@ const chats = [
 				text: 'I do he just is really busy'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:43:48.936072+00:00',
 				text: 'U dont talk to him'
 			},
@@ -25336,7 +25336,7 @@ const chats = [
 				text: 'Why what'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:43:22.193687+00:00',
 				text: 'Why'
 			},
@@ -25346,7 +25346,7 @@ const chats = [
 				text: 'Yea'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:43:07.857415+00:00',
 				text: 'U dont talk to him'
 			},
@@ -25356,7 +25356,7 @@ const chats = [
 				text: 'Asleep'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:42:58.485224+00:00',
 				text: 'Where is ur bf'
 			},
@@ -25366,12 +25366,12 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:42:39.897791+00:00',
 				text: 'Dont be upset'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:42:32.417060+00:00',
 				text: 'Ok um nt going'
 			},
@@ -25382,7 +25382,7 @@ const chats = [
 					'Fine leave me like everyone else does it’s alright im always on my own'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:38:58.193414+00:00',
 				text: 'Bt im tired'
 			},
@@ -25392,7 +25392,7 @@ const chats = [
 				text: 'You want to stay then you want to go'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:37:03.207054+00:00',
 				text: 'Why'
 			},
@@ -25402,12 +25402,12 @@ const chats = [
 				text: 'Oh you are annoying'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:36:38.496225+00:00',
 				text: 'I need rest'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:36:29.984845+00:00',
 				text: 'I have to go but'
 			},
@@ -25422,12 +25422,12 @@ const chats = [
 				text: 'What u going'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:36:04.426632+00:00',
 				text: 'Feelin tired'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:35:54.805880+00:00',
 				text: 'Ok bye gn'
 			},
@@ -25437,7 +25437,7 @@ const chats = [
 				text: '😡'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:29:07.913172+00:00',
 				text: 'U r cute..😝'
 			},
@@ -25457,7 +25457,7 @@ const chats = [
 				text: 'WHATS THAT SUPPOSED TO MEAN'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:28:19.502786+00:00',
 				text: 'U r c'
 			},
@@ -25467,7 +25467,7 @@ const chats = [
 				text: 'Thout so'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:27:55.209858+00:00',
 				text: '*idk'
 			},
@@ -25477,7 +25477,7 @@ const chats = [
 				text: 'What'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:27:24.442079+00:00',
 				text: 'Idn'
 			},
@@ -25487,7 +25487,7 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:27:13.312277+00:00',
 				text: 'Nthing'
 			},
@@ -25497,7 +25497,7 @@ const chats = [
 				text: 'Whats that supposed to mean'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:26:35.491343+00:00',
 				text: '😑'
 			},
@@ -25507,7 +25507,7 @@ const chats = [
 				text: 'Thank you'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:25:50.637158+00:00',
 				text: 'Okay'
 			},
@@ -25517,7 +25517,7 @@ const chats = [
 				text: 'Never call me that again'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:25:09.427904+00:00',
 				text: 'Anytime baby'
 			},
@@ -25527,7 +25527,7 @@ const chats = [
 				text: 'Thx'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:23:19.416734+00:00',
 				text: 'K'
 			},
@@ -25537,12 +25537,12 @@ const chats = [
 				text: 'No'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:22:53.576000+00:00',
 				text: 'It'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:22:51.319156+00:00',
 				text: 'U dont like iy'
 			},
@@ -25552,12 +25552,12 @@ const chats = [
 				text: 'Ya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:18:36.314398+00:00',
 				text: 'This one'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:18:31.266423+00:00',
 				text: '😘'
 			},
@@ -25572,12 +25572,12 @@ const chats = [
 				text: 'Ok your pushin it'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:17:19.093551+00:00',
 				text: '😘'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:17:16.150969+00:00',
 				text: 'U shut up sponge'
 			},
@@ -25587,12 +25587,12 @@ const chats = [
 				text: 'Shut up jam jar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:16:12.763932+00:00',
 				text: 'U lil squirrel'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:16:06.326370+00:00',
 				text: '19 also'
 			},
@@ -25602,7 +25602,7 @@ const chats = [
 				text: 'And 12'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:15:24.327254+00:00',
 				text: '😂😂'
 			},
@@ -25612,7 +25612,7 @@ const chats = [
 				text: 'K let me think 17'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:14:44.234575+00:00',
 				text: 'And nw fr me'
 			},
@@ -25622,12 +25622,12 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:13:59.021206+00:00',
 				text: 'And kiss on cheeks😘'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:13:39.590137+00:00',
 				text: '16'
 			},
@@ -25637,12 +25637,12 @@ const chats = [
 				text: 'Try again'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:10:47.044412+00:00',
 				text: 'Srry i hv not seen that clearly'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:09:57.517418+00:00',
 				text: '😽🙀😾'
 			},
@@ -25652,7 +25652,7 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:08:21.054982+00:00',
 				text: 'I like ur cute convo.😜'
 			},
@@ -25672,12 +25672,12 @@ const chats = [
 				text: 'I wws supposed to put if not i woooppppsssss'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:06:41.336675+00:00',
 				text: 'Baby'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:06:38.730428+00:00',
 				text: 'Def. Yess'
 			},
@@ -25692,17 +25692,17 @@ const chats = [
 				text: 'No problem 😈😈'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:05:23.813719+00:00',
 				text: '😇'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:05:19.182744+00:00',
 				text: 'Tysm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:05:05.283856+00:00',
 				text: '😂😂😂'
 			},
@@ -25727,17 +25727,17 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:02:11.724244+00:00',
 				text: 'Yup baby'
 			},
 			{
 				sender: 'prv_.amber',
 				created_at: '2017-09-27T21:02:01.181103+00:00',
-				text: 'Ok is it junaid'
+				text: 'Ok is it not'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:01:47.119293+00:00',
 				text: 'already u know my name'
 			},
@@ -25747,7 +25747,7 @@ const chats = [
 				text: 'Whats your name'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:01:28.156477+00:00',
 				text: 'So tell me'
 			},
@@ -25757,12 +25757,12 @@ const chats = [
 				text: 'If u want then i will answer honestly'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:00:39.483327+00:00',
 				text: 'I hv to dm my name'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T21:00:13.856204+00:00',
 				text: 'I hve'
 			},
@@ -25772,12 +25772,12 @@ const chats = [
 				text: 'Read it'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T20:59:45.467845+00:00',
 				text: 'Insta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T20:59:41.724647+00:00',
 				text: 'Whats ur story abt?'
 			},
@@ -25787,7 +25787,7 @@ const chats = [
 				text: 'Cause im not doing nothing'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T20:58:53.793694+00:00',
 				text: 'Why'
 			},
@@ -25802,7 +25802,7 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T20:58:13.904159+00:00',
 				text: 'Nice😮'
 			},
@@ -25813,7 +25813,7 @@ const chats = [
 					'No i don’t usually get comfortable sitting down so im going to stay like this until i get uncomfortable'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T20:56:54.065476+00:00',
 				text: 'Lay down'
 			},
@@ -25823,7 +25823,7 @@ const chats = [
 				text: 'Sitting on my bed'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T20:56:15.407772+00:00',
 				text: 'What u doin.?'
 			},
@@ -25833,7 +25833,7 @@ const chats = [
 				text: 'K hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T15:49:47.521255+00:00',
 				text: 'Hlo sweety😘'
 			},
@@ -25843,7 +25843,7 @@ const chats = [
 				text: 'Hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-27T07:03:27.409286+00:00',
 				text: 'Gud mrning..☺'
 			},
@@ -25853,7 +25853,7 @@ const chats = [
 				text: 'Morning'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:59:35.680617+00:00',
 				text: 'Ok'
 			},
@@ -25863,7 +25863,7 @@ const chats = [
 				text: '2 brothers im going now im tired'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:58:36.500796+00:00',
 				text: 'Hw many sublings u hv'
 			},
@@ -25873,12 +25873,12 @@ const chats = [
 				text: 'Bed time'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:57:39.849314+00:00',
 				text: 'Time'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:57:35.330114+00:00',
 				text: 'So whats tim there'
 			},
@@ -25888,7 +25888,7 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:56:30.431616+00:00',
 				text: 'I have 😘'
 			},
@@ -25898,7 +25898,7 @@ const chats = [
 				text: 'No one has ever sent me that emoji before'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:24:42.734717+00:00',
 				text: 'Ya bye cu'
 			},
@@ -25908,12 +25908,12 @@ const chats = [
 				text: 'K bye sqidward'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:23:32.740206+00:00',
 				text: 'I will not do it'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:23:23.437781+00:00',
 				text: 'Okay'
 			},
@@ -25923,7 +25923,7 @@ const chats = [
 				text: 'I have a boyfriend duu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:22:37.299272+00:00',
 				text: 'Any problem u hv'
 			},
@@ -25933,7 +25933,7 @@ const chats = [
 				text: 'Was u supposed to send it me'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:21:55.839112+00:00',
 				text: 'So wht'
 			},
@@ -25943,12 +25943,12 @@ const chats = [
 				text: 'Yes that'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:21:17.948411+00:00',
 				text: 'Oh this'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:21:13.119232+00:00',
 				text: '😘'
 			},
@@ -25958,7 +25958,7 @@ const chats = [
 				text: 'Read ur last message'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:20:39.366572+00:00',
 				text: 'What happende'
 			},
@@ -25968,7 +25968,7 @@ const chats = [
 				text: 'Was u supposed to send that last emoji'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:19:01.018182+00:00',
 				text: 'Ok bye sqirrel😂😂😘'
 			},
@@ -25978,7 +25978,7 @@ const chats = [
 				text: 'Bye sponge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:18:01.237543+00:00',
 				text: 'U egg'
 			},
@@ -25988,7 +25988,7 @@ const chats = [
 				text: 'U window'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:17:09.140513+00:00',
 				text: 'Uh lil squirel'
 			},
@@ -25998,7 +25998,7 @@ const chats = [
 				text: 'No'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:16:48.618555+00:00',
 				text: 'I also wanna come there'
 			},
@@ -26008,12 +26008,12 @@ const chats = [
 				text: 'To mars'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:16:18.020605+00:00',
 				text: 'Where r u goin'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:16:06.180068+00:00',
 				text: 'U funny ball'
 			},
@@ -26028,17 +26028,17 @@ const chats = [
 				text: 'No'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:15:12.919169+00:00',
 				text: 'Or full fom'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:15:07.859915+00:00',
 				text: 'Meaning'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:15:03.470113+00:00',
 				text: 'U want to know'
 			},
@@ -26048,7 +26048,7 @@ const chats = [
 				text: 'No'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:14:43.541186+00:00',
 				text: 'Its full form?'
 			},
@@ -26058,7 +26058,7 @@ const chats = [
 				text: 'What does it mean'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:14:10.079193+00:00',
 				text: 'Obvio'
 			},
@@ -26068,12 +26068,12 @@ const chats = [
 				text: 'Do u no wht fo stands for'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:13:40.228276+00:00',
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:13:36.030601+00:00',
 				text: 'U fo'
 			},
@@ -26083,12 +26083,12 @@ const chats = [
 				text: 'Fo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:13:19.558607+00:00',
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:13:16.258034+00:00',
 				text: 'C'
 			},
@@ -26098,17 +26098,17 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:12:56.929427+00:00',
 				text: '😇'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:12:53.540328+00:00',
 				text: 'I feel gud'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:12:46.840086+00:00',
 				text: '😂😂'
 			},
@@ -26118,7 +26118,7 @@ const chats = [
 				text: 'Idk u jam jar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:12:04.174182+00:00',
 				text: 'Sponge come into ur mind'
 			},
@@ -26128,12 +26128,12 @@ const chats = [
 				text: 'Heads is plural for head'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:11:51.863505+00:00',
 				text: 'Btw how come'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:11:44.774680+00:00',
 				text: 'I got it'
 			},
@@ -26143,12 +26143,12 @@ const chats = [
 				text: 'U said still laughing my headSsssssss off'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:11:13.263955+00:00',
 				text: 'Nw lmao'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:11:08.804327+00:00',
 				text: 'Okay'
 			},
@@ -26158,22 +26158,22 @@ const chats = [
 				text: 'U should only have one head'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:10:37.604084+00:00',
 				text: 'Lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:10:35.394176+00:00',
 				text: '😋'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:10:32.342095+00:00',
 				text: 'Uh squirrel'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:10:23.083238+00:00',
 				text: 'Laughing my heads off'
 			},
@@ -26183,7 +26183,7 @@ const chats = [
 				text: 'U sponge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:10:08.955310+00:00',
 				text: '😂😂😂😂'
 			},
@@ -26193,12 +26193,12 @@ const chats = [
 				text: 'No its ur face'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:09:51.994794+00:00',
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:09:47.005215+00:00',
 				text: 'I know me'
 			},
@@ -26213,22 +26213,22 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:08:51.864682+00:00',
 				text: '😂😊😊😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:08:49.004919+00:00',
 				text: 'Still laughing'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:08:39.307324+00:00',
 				text: '😂😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:08:21.125799+00:00',
 				text: '😊😊😊😂😂😝'
 			},
@@ -26243,7 +26243,7 @@ const chats = [
 				text: 'YOUR LIFE HA HA😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:07:50.214309+00:00',
 				text: 'Ya'
 			},
@@ -26253,12 +26253,12 @@ const chats = [
 				text: 'Thanks u want to know a joke'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:07:22.692048+00:00',
 				text: 'U r soo funny'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:07:15.856043+00:00',
 				text: 'Sponge😂😂😂'
 			},
@@ -26268,17 +26268,17 @@ const chats = [
 				text: 'U didnt say ur u sponge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:06:23.009013+00:00',
 				text: 'U r nt telling ur age'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:05:54.239204+00:00',
 				text: 'Nt'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:05:51.852463+00:00',
 				text: 'Im ny'
 			},
@@ -26293,22 +26293,22 @@ const chats = [
 				text: 'No'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:05:11.780746+00:00',
 				text: '😜😜😝'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:05:08.208933+00:00',
 				text: 'I think'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:05:04.640611+00:00',
 				text: 'U still in moms womb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:04:52.720661+00:00',
 				text: '😂😂😂'
 			},
@@ -26318,7 +26318,7 @@ const chats = [
 				text: '4 months'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:04:22.789469+00:00',
 				text: 'Urs'
 			},
@@ -26328,7 +26328,7 @@ const chats = [
 				text: 'Ikr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:04:05.700220+00:00',
 				text: 'Prfect'
 			},
@@ -26338,7 +26338,7 @@ const chats = [
 				text: '2111111111111111111111190047362828363'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:03:38.195063+00:00',
 				text: 'Guess it'
 			},
@@ -26348,17 +26348,17 @@ const chats = [
 				text: 'Tell me urs first'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:03:06.830018+00:00',
 				text: 'What ws ur age btw'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:02:59.550770+00:00',
 				text: 'Good'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:02:47.681634+00:00',
 				text: 'So'
 			},
@@ -26368,7 +26368,7 @@ const chats = [
 				text: 'Cause u said'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:02:19.520839+00:00',
 				text: 'And why no'
 			},
@@ -26378,7 +26378,7 @@ const chats = [
 				text: 'No'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:01:54.709448+00:00',
 				text: 'What u think'
 			},
@@ -26388,17 +26388,17 @@ const chats = [
 				text: 'No u said u didn’t'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:01:14.951281+00:00',
 				text: 'Not'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:01:13.009920+00:00',
 				text: 'I have gf or'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:01:06.660365+00:00',
 				text: 'Bt what do u think'
 			},
@@ -26408,7 +26408,7 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:00:52.730700+00:00',
 				text: 'I think u r'
 			},
@@ -26418,7 +26418,7 @@ const chats = [
 				text: 'Ur so annoying'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:00:24.125530+00:00',
 				text: '😊😂'
 			},
@@ -26428,12 +26428,12 @@ const chats = [
 				text: 'It does'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:00:07.143698+00:00',
 				text: 'I dont have'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T20:00:01.524447+00:00',
 				text: 'I said no that doesnt mean'
 			},
@@ -26453,7 +26453,7 @@ const chats = [
 				text: 'Ha ha i have a boyfriend'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:59:10.749785+00:00',
 				text: 'No'
 			},
@@ -26463,7 +26463,7 @@ const chats = [
 				text: 'Ya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:59:00.667238+00:00',
 				text: 'Right now'
 			},
@@ -26473,12 +26473,12 @@ const chats = [
 				text: 'Do you have a girlfriend'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:58:32.621334+00:00',
 				text: '😼'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:58:23.590018+00:00',
 				text: '😂'
 			},
@@ -26488,7 +26488,7 @@ const chats = [
 				text: '👾'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:57:46.960747+00:00',
 				text: 'Good..☺'
 			},
@@ -26503,27 +26503,27 @@ const chats = [
 				text: 'I do have time i just do what I want whenever'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:56:56.490971+00:00',
 				text: 'U know that'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:56:52.262599+00:00',
 				text: 'And there r misuses of phone...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:56:34.032009+00:00',
 				text: 'That i dont hv time'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:56:26.381169+00:00',
 				text: 'I ws so busy with studies'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:56:15.779043+00:00',
 				text: 'I ws sayin that at your age'
 			},
@@ -26544,7 +26544,7 @@ const chats = [
 				text: 'U said...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:55:04.918702+00:00',
 				text: 'Wht'
 			},
@@ -26554,7 +26554,7 @@ const chats = [
 				text: 'What r u on about'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:54:22.302113+00:00',
 				text: 'U dont have to use phone right nw'
 			},
@@ -26564,12 +26564,12 @@ const chats = [
 				text: 'And im younger'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:53:59.641713+00:00',
 				text: 'Bt u r so young..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:53:37.621699+00:00',
 				text: 'Grt👍'
 			},
@@ -26580,12 +26580,12 @@ const chats = [
 					'Im getting the iPhone eight on Thursday but at the moment i have the Iphone six s'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:52:39.500204+00:00',
 				text: '😀'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:52:34.681232+00:00',
 				text: 'Nice'
 			},
@@ -26610,7 +26610,7 @@ const chats = [
 				text: 'Oh ha ha mines better'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:52:00.370673+00:00',
 				text: 'Samsung on 5'
 			},
@@ -26620,17 +26620,17 @@ const chats = [
 				text: 'What phone do u have'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:51:27.711037+00:00',
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:51:09.450336+00:00',
 				text: 'May br'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:51:06.531174+00:00',
 				text: 'Okay'
 			},
@@ -26645,17 +26645,17 @@ const chats = [
 				text: 'Most havent got fone yet'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:50:17.529906+00:00',
 				text: 'Coz im bit popular'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:50:04.102031+00:00',
 				text: 'Like in my case'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:49:57.781764+00:00',
 				text: 'But they can also find u'
 			},
@@ -26665,12 +26665,12 @@ const chats = [
 				text: 'I have loads i just cant be bothered to find them all'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:48:53.849481+00:00',
 				text: 'I think'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:48:50.040910+00:00',
 				text: 'And have less friends'
 			},
@@ -26680,12 +26680,12 @@ const chats = [
 				text: 'So'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:48:39.840679+00:00',
 				text: 'U r younger than me'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:48:21.500489+00:00',
 				text: '😂😂'
 			},
@@ -26700,12 +26700,12 @@ const chats = [
 				text: 'More than the'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:47:35.462552+00:00',
 				text: '😕'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:47:30.592369+00:00',
 				text: 'Its not that much'
 			},
@@ -26720,7 +26720,7 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:43:45.061967+00:00',
 				text: 'Im good..☺'
 			},
@@ -26730,12 +26730,12 @@ const chats = [
 				text: 'Alright u'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:42:48.421729+00:00',
 				text: 'Btw hw r u'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:42:42.887039+00:00',
 				text: 'Nthin jdt kiddin'
 			},
@@ -26745,12 +26745,12 @@ const chats = [
 				text: 'What do you mean'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:41:44.161655+00:00',
 				text: 'I was starving without u😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-26T19:41:03.662482+00:00',
 				text: 'Tysm😂'
 			},
@@ -26760,12 +26760,12 @@ const chats = [
 				text: 'Hello I unblocked u'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:44:02.452538+00:00',
 				text: 'U want to know c meaning'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:43:49.444684+00:00',
 				text: 'Why am i creepy'
 			},
@@ -26780,7 +26780,7 @@ const chats = [
 				text: 'Cause ur creepy'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:42:38.271988+00:00',
 				text: 'Why so'
 			},
@@ -26790,7 +26790,7 @@ const chats = [
 				text: 'Im going to block you now good bye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:41:49.427697+00:00',
 				text: '😂😆😝😜'
 			},
@@ -26800,7 +26800,7 @@ const chats = [
 				text: 'Ye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:41:14.907845+00:00',
 				text: 'Rely'
 			},
@@ -26815,7 +26815,7 @@ const chats = [
 				text: 'Idk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:40:44.902365+00:00',
 				text: 'C is a special word'
 			},
@@ -26825,12 +26825,12 @@ const chats = [
 				text: "I couldn't care less about c"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:39:50.654739+00:00',
 				text: '😕'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:39:47.710690+00:00',
 				text: 'How can smone be soo young'
 			},
@@ -26840,22 +26840,22 @@ const chats = [
 				text: 'Its around 100000000900'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:38:56.906718+00:00',
 				text: 'Age'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:38:53.065581+00:00',
 				text: 'Exact aga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:38:47.785966+00:00',
 				text: 'Tell me ur'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:38:43.466523+00:00',
 				text: 'Okay first'
 			},
@@ -26865,17 +26865,17 @@ const chats = [
 				text: 'Just tell me'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:38:02.857315+00:00',
 				text: 'Thats why'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:37:56.909048+00:00',
 				text: 'Ur too young'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:37:48.205533+00:00',
 				text: 'I cant'
 			},
@@ -26885,12 +26885,12 @@ const chats = [
 				text: 'I will tell u what it means just tell me what c means'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:37:12.906222+00:00',
 				text: 'Acting oversmart'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:37:00.250089+00:00',
 				text: '😂😂😂'
 			},
@@ -26900,7 +26900,7 @@ const chats = [
 				text: 'I wont tell u until u tell me what c means'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:36:25.009965+00:00',
 				text: 'And now whats that t for'
 			},
@@ -26910,7 +26910,7 @@ const chats = [
 				text: 'T'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:35:46.834616+00:00',
 				text: 'U hv to use ur brain'
 			},
@@ -26920,7 +26920,7 @@ const chats = [
 				text: 'Y'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:35:32.074745+00:00',
 				text: 'I wont tell u'
 			},
@@ -26930,7 +26930,7 @@ const chats = [
 				text: 'What do you mean by c'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:34:56.734966+00:00',
 				text: 'C'
 			},
@@ -26940,12 +26940,12 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:32:37.389913+00:00',
 				text: 'I didnt get it'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:32:31.212763+00:00',
 				text: 'Just no what'
 			},
@@ -26955,12 +26955,12 @@ const chats = [
 				text: 'Yea'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:32:14.703269+00:00',
 				text: 'This'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:32:12.169483+00:00',
 				heart: '❤️'
 			},
@@ -26970,7 +26970,7 @@ const chats = [
 				text: 'That'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:32:00.069038+00:00',
 				text: 'What'
 			},
@@ -26980,7 +26980,7 @@ const chats = [
 				text: 'Thats just no just no'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:31:29.060206+00:00',
 				heart: '❤️'
 			},
@@ -26990,7 +26990,7 @@ const chats = [
 				text: '🤡'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:31:03.851062+00:00',
 				text: '😎'
 			},
@@ -27000,7 +27000,7 @@ const chats = [
 				text: '😔'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:30:41.186220+00:00',
 				text: '🙈😂😂'
 			},
@@ -27010,7 +27010,7 @@ const chats = [
 				text: 'What'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:30:26.385542+00:00',
 				text: 'C'
 			},
@@ -27020,7 +27020,7 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:30:11.022939+00:00',
 				text: 'Nthin'
 			},
@@ -27030,7 +27030,7 @@ const chats = [
 				text: 'What'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:29:07.449120+00:00',
 				text: 'C'
 			},
@@ -27040,7 +27040,7 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:19:25.890942+00:00',
 				text: 'Nthin'
 			},
@@ -27050,7 +27050,7 @@ const chats = [
 				text: 'What'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:18:05.710907+00:00',
 				text: 'C'
 			},
@@ -27060,7 +27060,7 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:16:31.984600+00:00',
 				text: 'I will also not tell u'
 			},
@@ -27070,7 +27070,7 @@ const chats = [
 				text: 'How old r u'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:15:32.785541+00:00',
 				text: 'Cool'
 			},
@@ -27080,7 +27080,7 @@ const chats = [
 				text: 'Ive seen'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:14:08.499234+00:00',
 				text: 'I hv cmmnted'
 			},
@@ -27090,7 +27090,7 @@ const chats = [
 				text: 'What'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:13:18.751782+00:00',
 				text: 'Hmm'
 			},
@@ -27105,7 +27105,7 @@ const chats = [
 				text: 'Not tellin u'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:12:14.627758+00:00',
 				text: '?what'
 			},
@@ -27115,7 +27115,7 @@ const chats = [
 				text: 'And i plan to keep it that way'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:11:05.064425+00:00',
 				text: 'Btw uv nt told ur age'
 			},
@@ -27125,7 +27125,7 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:10:18.134985+00:00',
 				text: 'Good keep it up'
 			},
@@ -27135,7 +27135,7 @@ const chats = [
 				text: 'I always am smiling and making ppl feel good 😊'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:05:53.611283+00:00',
 				text: 'Just be happy always'
 			},
@@ -27145,7 +27145,7 @@ const chats = [
 				text: 'K well see'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:05:02.567112+00:00',
 				text: 'Yup'
 			},
@@ -27155,7 +27155,7 @@ const chats = [
 				text: 'Srsly'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:04:44.821078+00:00',
 				text: 'U rely cute though'
 			},
@@ -27165,12 +27165,12 @@ const chats = [
 				text: 'And ppl failing so really im not that nice'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:04:06.303419+00:00',
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:04:03.936432+00:00',
 				text: 'Wow thats grt'
 			},
@@ -27185,12 +27185,12 @@ const chats = [
 				text: 'Its true'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:02:58.116856+00:00',
 				text: 'Bt acc to me u r'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:02:48.197379+00:00',
 				text: 'I dont know'
 			},
@@ -27200,7 +27200,7 @@ const chats = [
 				text: 'Seriously im not that nice'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:01:50.457519+00:00',
 				text: 'Its just u r a nice gal'
 			},
@@ -27210,7 +27210,7 @@ const chats = [
 				text: 'Good'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:01:34.768065+00:00',
 				text: 'Not really'
 			},
@@ -27220,12 +27220,12 @@ const chats = [
 				text: 'Do u have a crush on me or something'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:00:52.868928+00:00',
 				text: 'Ur pics i think'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:00:45.885885+00:00',
 				text: 'No reason'
 			},
@@ -27240,7 +27240,7 @@ const chats = [
 				text: 'Oh ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T18:59:43.414386+00:00',
 				text: 'Cute'
 			},
@@ -27250,7 +27250,7 @@ const chats = [
 				text: 'Yea what is that one'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T18:59:04.256159+00:00',
 				text: 'U dont know.?..its pink'
 			},
@@ -27260,12 +27260,12 @@ const chats = [
 				text: 'What coulor is that'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T16:24:28.154012+00:00',
 				text: 'Pink'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T16:03:35.157838+00:00',
 				text: 'U sure..'
 			},
@@ -27275,7 +27275,7 @@ const chats = [
 				text: 'The sky duuu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T15:19:08.530735+00:00',
 				text: 'Hi wassup'
 			},
@@ -27290,17 +27290,17 @@ const chats = [
 				text: 'K'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:59:13.414648+00:00',
 				text: 'Bye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:59:11.564951+00:00',
 				text: 'Ttyl'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:59:07.942351+00:00',
 				text: 'I gotta go'
 			},
@@ -27310,7 +27310,7 @@ const chats = [
 				text: 'Ikr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:58:21.569235+00:00',
 				text: 'Oh ..Nice'
 			},
@@ -27320,17 +27320,17 @@ const chats = [
 				text: 'Middle school that has loads of teachers'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:57:38.495169+00:00',
 				text: 'School'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:57:28.531066+00:00',
 				text: 'Lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:57:26.841681+00:00',
 				text: 'Education'
 			},
@@ -27340,12 +27340,12 @@ const chats = [
 				text: 'What r u saying'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:56:56.353137+00:00',
 				text: 'In which class'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:56:42.374537+00:00',
 				text: 'Grt'
 			},
@@ -27360,12 +27360,12 @@ const chats = [
 				text: 'What'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:56:24.722691+00:00',
 				text: 'Frm where r u'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:56:17.644074+00:00',
 				text: 'So now tell me'
 			},
@@ -27375,12 +27375,12 @@ const chats = [
 				text: '😃'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:55:50.004344+00:00',
 				text: '😄'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:55:42.954334+00:00',
 				text: 'U cute..'
 			},
@@ -27390,12 +27390,12 @@ const chats = [
 				text: 'What'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:53:29.097173+00:00',
 				text: 'U are'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:53:19.354681+00:00',
 				text: '?'
 			},
@@ -27405,12 +27405,12 @@ const chats = [
 				text: 'Im not'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:52:47.599640+00:00',
 				text: 'And im feeling sleepy'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:52:38.537849+00:00',
 				text: 'Coz its late night'
 			},
@@ -27420,17 +27420,17 @@ const chats = [
 				text: 'Why'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:52:12.157220+00:00',
 				text: 'Like hell'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:52:07.961464+00:00',
 				text: 'My head is paining'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:52:00.327190+00:00',
 				text: 'Why why why'
 			},
@@ -27440,7 +27440,7 @@ const chats = [
 				text: "Thanks but I don't think im cute"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:51:07.403759+00:00',
 				text: 'U realy cute though'
 			},
@@ -27450,12 +27450,12 @@ const chats = [
 				text: "I just don't like myself"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:50:52.671549+00:00',
 				text: 'But the truth is'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:50:43.670876+00:00',
 				text: 'Why...'
 			},
@@ -27465,7 +27465,7 @@ const chats = [
 				text: 'No but in my eyes im not cute'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:49:57.571598+00:00',
 				text: 'so in short ur saying delete that cmmnt'
 			},
@@ -27475,17 +27475,17 @@ const chats = [
 				text: 'Ok but point is im really not cute'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:48:19.583896+00:00',
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:48:16.613767+00:00',
 				text: 'I get it'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:48:12.683001+00:00',
 				text: 'Because'
 			},
@@ -27495,7 +27495,7 @@ const chats = [
 				text: 'Short for because'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:47:57.273752+00:00',
 				text: 'Bc?'
 			},
@@ -27505,7 +27505,7 @@ const chats = [
 				text: 'Bc im not'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:47:30.263416+00:00',
 				text: 'Why'
 			},
@@ -27515,7 +27515,7 @@ const chats = [
 				text: 'Yea'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:47:11.793095+00:00',
 				text: 'Really'
 			},
@@ -27525,7 +27525,7 @@ const chats = [
 				text: 'But im not cute'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:46:36.583740+00:00',
 				text: 'It looks cute..simple'
 			},
@@ -27540,12 +27540,12 @@ const chats = [
 				text: 'I just dont want to tell ppl my age'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:38:23.122515+00:00',
 				text: 'Btw girls dont tell their age ...didnt knw why? U know..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:37:25.605364+00:00',
 				text: 'K'
 			},
@@ -27555,7 +27555,7 @@ const chats = [
 				text: "Then don't ask you weirdo"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:36:11.021548+00:00',
 				text: 'For no reason'
 			},
@@ -27565,7 +27565,7 @@ const chats = [
 				text: 'Why do you want to know that'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:35:02.672658+00:00',
 				text: 'Hw old r u'
 			},
@@ -27575,7 +27575,7 @@ const chats = [
 				text: 'Thanks'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:33:03.434735+00:00',
 				text: 'How sad'
 			},
@@ -27585,7 +27585,7 @@ const chats = [
 				text: 'Yea'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:32:54.517392+00:00',
 				text: 'Really'
 			},
@@ -27595,17 +27595,17 @@ const chats = [
 				text: 'In a house next to my neighbor'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:32:09.058823+00:00',
 				text: 'Btw where do u live'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:31:47.968714+00:00',
 				text: 'May be im not'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:31:41.718151+00:00',
 				text: 'I think so'
 			},
@@ -27615,12 +27615,12 @@ const chats = [
 				text: 'Seriously'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:31:25.399573+00:00',
 				text: 'Lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:31:19.337314+00:00',
 				text: 'Human..'
 			},
@@ -27640,17 +27640,17 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:30:40.345300+00:00',
 				text: 'Hello,😄'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'bitsofamber'],
+		participants: ['just_not_here', 'bitsofamber'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-07T05:41:34.456765+00:00',
 				story_share: "Shared bitsofamber's story",
 				text: 'nice 😕'
@@ -27658,7 +27658,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['vaibhav.tyagi_up11', 'just_junaid_here'],
+		participants: ['vaibhav.tyagi_up11', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'vaibhav.tyagi_up11',
@@ -27666,12 +27666,12 @@ const chats = [
 				text: 'me Dehradun hu bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-02T09:58:44.035698+00:00',
 				text: 'tu bta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-02T09:58:39.086135+00:00',
 				text: 'bhai ghar hi hoon'
 			},
@@ -27691,7 +27691,7 @@ const chats = [
 				text: 'ha bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-08-02T09:57:22.378844+00:00',
 				text: 'haan bhai shayad sachin sir ke yahan tha na'
 			},
@@ -27703,10 +27703,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'techiegirls'],
+		participants: ['just_not_here', 'techiegirls'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-24T18:49:14.706550+00:00',
 				text:
 					'hey can u please follow my other acc.😊 or shoutout if u can @coding_shuttle , thanks'
@@ -27717,7 +27717,7 @@ const chats = [
 				text: '😣😣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-07-24T14:30:44.203248+00:00',
 				story_share: "Shared techiegirls's story",
 				text: '😔'
@@ -27725,12 +27725,12 @@ const chats = [
 		]
 	},
 	{
-		participants: ['snowden._', 'just_junaid_here'],
+		participants: ['snowden._', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'snowden._',
 				created_at: '2018-07-13T12:16:16.937045+00:00',
-				mentioned_username: 'just_junaid_here',
+				mentioned_username: 'just_not_here',
 				story_share: "Shared snowden._'s story",
 				text: null
 			},
@@ -27746,42 +27746,42 @@ const chats = [
 				text: '😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-24T18:47:57.267611+00:00',
 				text: 'are bhai bhai bhai :*)'
 			},
 			{
 				sender: 'snowden._',
 				created_at: '2018-02-24T18:36:31.954368+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Everytime yr'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'simply_sujit_'],
+		participants: ['just_not_here', 'simply_sujit_'],
 		conversation: [
 			{
 				sender: 'simply_sujit_',
 				created_at: '2018-07-12T05:29:40.468904+00:00',
-				mentioned_username: 'just_junaid_here',
+				mentioned_username: 'just_not_here',
 				story_share: "Shared simply_sujit_'s story",
 				text: null
 			}
 		]
 	},
 	{
-		participants: ['mech_guy_sid', 'just_junaid_here'],
+		participants: ['mech_guy_sid', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'mech_guy_sid',
 				created_at: '2018-04-23T14:11:50.945139+00:00',
-				mentioned_username: 'just_junaid_here',
+				mentioned_username: 'just_not_here',
 				story_share: "Shared mech_guy_sid's story",
 				text: null
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-04-23T07:42:38.117607+00:00',
 				story_share: "Shared mech_guy_sid's story",
 				text: '🍀'
@@ -27789,18 +27789,18 @@ const chats = [
 			{
 				sender: 'mech_guy_sid',
 				created_at: '2018-01-07T19:40:53.478125+00:00',
-				mentioned_username: 'just_junaid_here',
+				mentioned_username: 'just_not_here',
 				story_share: "Shared mech_guy_sid's story",
 				text: null
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-01-07T19:31:17.553655+00:00',
 				story_share: "Shared mech_guy_sid's story",
 				text: '*)'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-15T18:08:03.389946+00:00',
 				story_share: "Shared mech_guy_sid's story",
 				text: 'Ae mote gjjb..'
@@ -27811,7 +27811,7 @@ const chats = [
 				text: 'Tap Karo uspar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-05T05:06:57.644002+00:00',
 				story_share: "Shared mech_guy_sid's story",
 				text: 'Relationship'
@@ -27822,7 +27822,7 @@ const chats = [
 				text: 'Mast'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-28T16:52:35.291600+00:00',
 				story_share: "Shared mech_guy_sid's story",
 				text: 'Ohh yeahh😜'
@@ -27832,7 +27832,7 @@ const chats = [
 				created_at: '2017-07-23T15:08:25.408720+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2017-07-23T16:09:52.979064+00:00'
 					}
 				],
@@ -27843,7 +27843,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e35/37508158_532658037151722_7375416354356068352_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=106&_nc_ohc=lR5bvAY5oSIAX_cuE9a&oh=163847c3080987199221afaab68883cb&oe=5EAFEDF0&ig_cache_key=MTU2NTMzMjA4NjIxNzYwNDkxNw%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-15T10:12:37.616527+00:00',
 				story_share: "Shared mech_guy_sid's story",
 				text: 'Abe kyun ro ra....'
@@ -27867,36 +27867,36 @@ const chats = [
 				text: 'Nhi Bhai uptu bakwaas'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-11T05:44:55.563490+00:00',
 				story_share: "Shared mech_guy_sid's story",
 				text: 'Shi h mgr uptu wala jo tjhe mil rha h bttr h👍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-06T09:23:01.393512+00:00',
 				story_share: "Shared mech_guy_sid's story",
 				text: 'Chutiya lg ra bc😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-22T18:20:44.320661+00:00',
 				story_share: "Shared mech_guy_sid's story",
 				text: 'Bhai pta tha bc ...shi m ese kon jeetta h bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-21T18:36:22.938826+00:00',
 				story_share: "Shared mech_guy_sid's story",
 				text: 'Sahi keh ra mote'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T05:46:27.347808+00:00',
 				text: 'Mote mene tri story daal di'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T05:44:04.851221+00:00',
 				text: 'Kya hua??'
 			},
@@ -27911,17 +27911,17 @@ const chats = [
 				text: 'Nhi uski baat mat Kar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T05:39:56.859445+00:00',
 				text: 'Shreya ne??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T05:39:48.717698+00:00',
 				text: 'Kisi ladki ne kiya dm...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T05:39:26.517036+00:00',
 				text: 'Hahahah mote bakchodi...'
 			},
@@ -27937,26 +27937,26 @@ const chats = [
 				text: 'Rehne do 😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-11T04:11:55.338306+00:00',
 				story_share: "Shared mech_guy_sid's story",
 				text: '6'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T03:19:42.536771+00:00',
 				text: 'Bc'
 			},
 			{
 				sender: 'mech_guy_sid',
 				created_at: '2017-04-24T02:17:35.461750+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '😂😂😂😂'
 			}
 		]
 	},
 	{
-		participants: ['__dushyant___', 'just_junaid_here'],
+		participants: ['__dushyant___', 'just_not_here'],
 		conversation: [
 			{
 				sender: '__dushyant___',
@@ -27964,7 +27964,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-04-21T06:11:59.143503+00:00',
 				text: 'han bhai... zyada hi h☺'
 			},
@@ -27974,7 +27974,7 @@ const chats = [
 				text: 'Bura haal hai bhai🙄🙄'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-04-21T05:24:15.632229+00:00',
 				story_share: "Shared __dushyant___'s story",
 				text: 'yeah bhai💪👍'
@@ -27982,7 +27982,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', '__deleted__bhiebeafhaficjchg'],
+		participants: ['just_not_here', '__deleted__bhiebeafhaficjchg'],
 		conversation: [
 			{
 				sender: '__deleted__bhiebeafhaficjchg',
@@ -27990,7 +27990,7 @@ const chats = [
 				text: 'Hmmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:57:01.365118+00:00',
 				text: 'okay☺'
 			},
@@ -28000,7 +28000,7 @@ const chats = [
 				text: 'Acha to chla bhi liya kr usee'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:48:56.280574+00:00',
 				text: 'haan vhi h😅'
 			},
@@ -28010,12 +28010,12 @@ const chats = [
 				text: 'Ha no lele tu phele. Are jo mere pas h tera no vo hi h kyaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:46:56.680964+00:00',
 				text: 'kyun no. deri kya kisi ka?? 😄'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:46:15.174533+00:00',
 				text: 'are km chalata hoon'
 			},
@@ -28025,12 +28025,12 @@ const chats = [
 				text: 'Achaa.. Or tu watsap ni chlara kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:45:01.292242+00:00',
 				text: 'raftaar h koi sa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:44:48.211361+00:00',
 				text: 'are gaane ki line h'
 			},
@@ -28045,12 +28045,12 @@ const chats = [
 				text: 'Aadateinn'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:40:53.892837+00:00',
 				text: '😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:40:51.303230+00:00',
 				text: 'vse londa smart h bs thodi aadatein kharab h'
 			},
@@ -28065,7 +28065,7 @@ const chats = [
 				text: 'Rhene de bsss'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:39:53.763354+00:00',
 				text: '😆😆😆😆'
 			},
@@ -28075,12 +28075,12 @@ const chats = [
 				text: '😂😂😂😂😂😂😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:39:53.003012+00:00',
 				text: '90% indians bina shadi ke mrte'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:39:27.760062+00:00',
 				text: 'agr ldkiyan shakl dekhti hoti na to'
 			},
@@ -28095,12 +28095,12 @@ const chats = [
 				text: 'Achaa ldka smart ho gya kyaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:38:02.016831+00:00',
 				text: '😍😛😩✋'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:37:37.887522+00:00',
 				text: 'noida ki h'
 			},
@@ -28115,12 +28115,12 @@ const chats = [
 				text: 'Achaaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:35:55.029800+00:00',
 				text: 'udhar se hi h😉😄'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:35:43.167211+00:00',
 				text: 'mtlb i am not involved in it😆😆'
 			},
@@ -28130,7 +28130,7 @@ const chats = [
 				text: 'Kuch kuch mtlb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:30:47.182933+00:00',
 				likes: [
 					{
@@ -28141,7 +28141,7 @@ const chats = [
 				text: '😣'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:30:40.977446+00:00',
 				text: 'haan kuch kuch'
 			},
@@ -28161,12 +28161,12 @@ const chats = [
 				text: '😂😂😂😂😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:21:37.218139+00:00',
 				text: 'mgr fir bhi mjhe rona aara thoda thoda😭'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T13:20:43.203094+00:00',
 				text: 'are konsa mra brkup hua jo mujhe dukh hoga😆😆😆'
 			},
@@ -28181,7 +28181,7 @@ const chats = [
 				text: 'Sach me yr muje bura lgra😥'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-16T02:41:37.808168+00:00',
 				story_share: "Shared __deleted__bhiebeafhaficjchg's story",
 				text: 'haan dono ne tweet bhi kiya'
@@ -28189,10 +28189,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', '__deleted__bhiebeafjgibdccie'],
+		participants: ['just_not_here', '__deleted__bhiebeafjgibdccie'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-03-03T10:15:10.526538+00:00',
 				likes: [
 					{
@@ -28205,13 +28205,13 @@ const chats = [
 			{
 				sender: '__deleted__bhiebeafjgibdccie',
 				created_at: '2018-03-02T19:29:10.138312+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '👌😊'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'lalit_31999'],
+		participants: ['just_not_here', 'lalit_31999'],
 		conversation: [
 			{
 				sender: 'lalit_31999',
@@ -28219,13 +28219,13 @@ const chats = [
 				text: 'Theek hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2018-02-24T18:49:47.338212+00:00',
 				story_share: "Shared lalit_31999's story",
 				text: 'vedio bana lio bhai ki acche se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:14:21.083789+00:00',
 				text: 'bc shi m:)))'
 			},
@@ -28235,22 +28235,22 @@ const chats = [
 				text: '🤣🤣 mujhe pata Tu kitna dekhega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:13:08.093089+00:00',
 				text: 'tb tk tu koshish kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:12:52.722499+00:00',
 				text: 'koi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:12:51.394985+00:00',
 				text: 'chl m dekhta hoon tre layk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:12:20.897747+00:00',
 				text: 'ha bhai wo to h'
 			},
@@ -28275,17 +28275,17 @@ const chats = [
 				text: 'Ab bhai hone ka farz nibha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:09:24.318100+00:00',
 				text: 'jaanne wali to h wese'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:08:59.940605+00:00',
 				text: 'best h clg m hi fasa koi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:08:43.785803+00:00',
 				text: 'bhai aise ni hone ki'
 			},
@@ -28300,7 +28300,7 @@ const chats = [
 				text: 'Tere janne me koi hai to bata'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:06:00.707119+00:00',
 				text: 'bhai goalkeeper ke rehte goal ho skta h'
 			},
@@ -28310,7 +28310,7 @@ const chats = [
 				text: 'Par Sb set hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:05:04.154442+00:00',
 				text: 'bhai dost h mere 2 year ke'
 			},
@@ -28320,7 +28320,7 @@ const chats = [
 				text: 'Wo to hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:04:49.355312+00:00',
 				text: 'ek se ek maal h dtu m'
 			},
@@ -28330,7 +28330,7 @@ const chats = [
 				text: 'Sach me'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:04:32.634698+00:00',
 				text: 'abe ye sb bahane h'
 			},
@@ -28346,12 +28346,12 @@ const chats = [
 					'Bc 15% outside delhi Kota ,usme aati teen char laundiya hai wo bhi bekar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:01:49.887840+00:00',
 				text: 'ha private h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:01:39.733820+00:00',
 				text: 'londiya pasand ayi koi si'
 			},
@@ -28366,17 +28366,17 @@ const chats = [
 				text: 'Ha bhai bilkul hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:00:26.755790+00:00',
 				text: 'bhai pe bharosa h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:00:19.876416+00:00',
 				text: 'are wo bhi ho jagi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T11:00:07.794072+00:00',
 				text: 'accha bhai'
 			},
@@ -28391,17 +28391,17 @@ const chats = [
 				text: 'Poori bhai poori'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:59:46.245653+00:00',
 				text: 'bakchodi chal ri poori'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:59:36.214583+00:00',
 				text: 'aur bta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:59:25.755461+00:00',
 				text: 'haan mere m mil jayega'
 			},
@@ -28416,7 +28416,7 @@ const chats = [
 				text: 'Tere insta par hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:58:39.214233+00:00',
 				text: 'utkarsh ke naam se h'
 			},
@@ -28426,7 +28426,7 @@ const chats = [
 				text: 'Id bata'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:57:56.484628+00:00',
 				text: 'haan h'
 			},
@@ -28436,12 +28436,12 @@ const chats = [
 				text: 'Insta par hai wo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:57:22.724921+00:00',
 				text: 'gl bajaj h shayad'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:57:13.525688+00:00',
 				text: 'ghaziabad'
 			},
@@ -28456,12 +28456,12 @@ const chats = [
 				text: 'Kaha par'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:56:55.465344+00:00',
 				text: 'cs h usme'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:56:45.534799+00:00',
 				text: 'uptu ka h koi clg'
 			},
@@ -28471,7 +28471,7 @@ const chats = [
 				text: 'Durgesh kaha hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:56:09.702312+00:00',
 				text: 'haan bhai sbse hoti h'
 			},
@@ -28491,7 +28491,7 @@ const chats = [
 				text: 'Dtu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:55:43.684046+00:00',
 				text: 'tune kahan liya'
 			},
@@ -28511,12 +28511,12 @@ const chats = [
 				text: 'Na bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:54:51.314472+00:00',
 				text: 'bs ab iit na boliyo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:54:36.694564+00:00',
 				text: 'roorkee h'
 			},
@@ -28531,12 +28531,12 @@ const chats = [
 				text: 'Badhiya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:52:58.812159+00:00',
 				text: 'kesa h??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-12-25T10:52:37.818022+00:00',
 				text: 'bhai ghar'
 			},
@@ -28548,7 +28548,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'noah_oliver12'],
+		participants: ['just_not_here', 'noah_oliver12'],
 		conversation: [
 			{
 				sender: 'noah_oliver12',
@@ -28559,10 +28559,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', '__deleted__bhiebeagadhhfffba'],
+		participants: ['just_not_here', '__deleted__bhiebeagadhhfffba'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-10-08T16:23:08.475781+00:00',
 				story_share: "Shared _bakkchodi_'s story",
 				text: '',
@@ -28571,7 +28571,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', '_.bunny.___'],
+		participants: ['just_not_here', '_.bunny.___'],
 		conversation: [
 			{
 				sender: '_.bunny.___',
@@ -28624,15 +28624,15 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'rennezen'],
+		participants: ['just_not_here', 'rennezen'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-20T06:52:23.336509+00:00',
 				text: 'Ur age?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-20T06:52:17.759241+00:00',
 				text: 'Grt👍'
 			},
@@ -28647,27 +28647,27 @@ const chats = [
 				text: 'Thankyou'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-20T06:42:18.860764+00:00',
 				text: 'Btw whre ru frm?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-20T06:42:05.079935+00:00',
 				text: 'U look cute..😀'
 			}
 		]
 	},
 	{
-		participants: ['mollie.omk_2000', 'just_junaid_here'],
+		participants: ['mollie.omk_2000', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-19T06:48:35.229152+00:00',
 				text: 'Off the internet also'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-19T06:48:26.155628+00:00',
 				text: 'I can meet u'
 			},
@@ -28677,22 +28677,22 @@ const chats = [
 				text: 'Yeah not on the internet tho hahahahah'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-19T06:47:54.315075+00:00',
 				text: 'Or interact'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-19T06:47:47.255488+00:00',
 				text: 'Untill u approach them'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-19T06:47:23.685934+00:00',
 				text: 'Initially is a stranger'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-19T06:47:09.014442+00:00',
 				text: 'Actally everyone'
 			},
@@ -28703,17 +28703,17 @@ const chats = [
 					"That means nothing hahaha ur a stranger on the internet. I can't talk to strangers so goodbye"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-19T06:46:07.404000+00:00',
 				text: 'I know urs thats it..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-19T06:45:53.653153+00:00',
 				text: 'U know my name'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-19T06:45:44.221189+00:00',
 				text: 'So what?'
 			},
@@ -28723,7 +28723,7 @@ const chats = [
 				text: "Ummm i don't know you so I can't talk to you"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-19T06:44:20.011062+00:00',
 				text: 'Actually i want to hv friendship with u...nthing else☺😕'
 			},
@@ -28733,32 +28733,32 @@ const chats = [
 				text: 'Who are you and what do u want?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T08:31:12.539395+00:00',
 				text: 'Ur bio..lol👈'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T08:30:58.486580+00:00',
 				text: 'What r u working hard for gal..'
 			}
 		]
 	},
 	{
-		participants: ['tatianaryan135', 'just_junaid_here'],
+		participants: ['tatianaryan135', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:57:26.073421+00:00',
 				text: 'Btw u r damn cute'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:57:18.883002+00:00',
 				text: 'Okay'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:56:59.190729+00:00',
 				text: 'Its wierd'
 			},
@@ -28768,12 +28768,12 @@ const chats = [
 				text: 'Stop'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:56:51.051645+00:00',
 				text: 'Actually u r right..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:56:42.051121+00:00',
 				text: 'Yeah'
 			},
@@ -28784,7 +28784,7 @@ const chats = [
 					"Cause it's just no it's wrong like just like one pic it's weird if u like all my pics"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T19:54:56.178083+00:00',
 				text: 'Okay bt why?'
 			},
@@ -28794,37 +28794,37 @@ const chats = [
 				text: 'Can u not stalk me plz'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T08:34:02.477524+00:00',
 				text: 'I want to tell u smthing...😌'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T08:33:45.782319+00:00',
 				text: 'Hi'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', '__deleted__bhiebeaffhbdcbhce'],
+		participants: ['just_not_here', '__deleted__bhiebeaffhbdcbhce'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T18:58:39.659204+00:00',
 				text: 'R u dumb?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T18:58:31.390121+00:00',
 				text: 'Why u nt replying?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T11:24:40.106600+00:00',
 				text: '😔'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T11:24:25.342501+00:00',
 				text: 'Why uh so unhospitable?lol'
 			},
@@ -28834,54 +28834,54 @@ const chats = [
 				text: 'bye bye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T10:48:30.573832+00:00',
 				text: 'Hey..hi!'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'evlyn1190'],
+		participants: ['just_not_here', 'evlyn1190'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-18T08:32:46.196884+00:00',
 				text: 'Hey..hi!'
 			}
 		]
 	},
 	{
-		participants: ['laury.jl', 'just_junaid_here'],
+		participants: ['laury.jl', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T09:15:30.921851+00:00',
 				text: '😶'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T09:15:16.964177+00:00',
 				text: 'But in indian native lang. Its vulgar!'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T09:14:49.177634+00:00',
 				text: 'Hey ur name is abusive...srry'
 			}
 		]
 	},
 	{
-		participants: ['mae_poppy2004', 'just_junaid_here'],
+		participants: ['mae_poppy2004', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-17T00:53:24.269099+00:00',
 				text: 'Huy ur dp is very cute!!😍😍'
 			}
 		]
 	},
 	{
-		participants: ['chloe.sharp04', 'just_junaid_here'],
+		participants: ['chloe.sharp04', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'chloe.sharp04',
@@ -28889,17 +28889,17 @@ const chats = [
 				text: 'Good'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-16T17:26:31.873063+00:00',
 				text: 'Hows everything going?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-16T17:26:05.610877+00:00',
 				text: 'Soo..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-15T20:16:05.153684+00:00',
 				text: 'Jst passing time'
 			},
@@ -28909,7 +28909,7 @@ const chats = [
 				text: 'Not much u'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-15T19:12:40.817316+00:00',
 				text: 'Hey wassup?'
 			},
@@ -28919,17 +28919,17 @@ const chats = [
 				text: 'Hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:46:52.646798+00:00',
 				text: 'Hi chloe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:18:39.717871+00:00',
 				text: 'Bye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:18:30.818792+00:00',
 				text: '✋'
 			},
@@ -28944,7 +28944,7 @@ const chats = [
 				text: 'England'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:16:18.168546+00:00',
 				text: 'Country?'
 			},
@@ -28954,12 +28954,12 @@ const chats = [
 				text: '13'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:15:43.946184+00:00',
 				text: 'Whats ur age'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:15:29.686668+00:00',
 				text: 'Ull be fine'
 			},
@@ -28969,7 +28969,7 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:14:56.155019+00:00',
 				text: 'Dont worry abt it'
 			},
@@ -28980,7 +28980,7 @@ const chats = [
 					"And don't like my smile I need braces there okay but not strait 🙂🙂"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:13:26.012848+00:00',
 				text: '😕'
 			},
@@ -28990,7 +28990,7 @@ const chats = [
 				text: 'Not good ones'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:13:03.269774+00:00',
 				text: 'Dont have teeth?'
 			},
@@ -29000,12 +29000,12 @@ const chats = [
 				text: "I can't 😌"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:12:32.497710+00:00',
 				text: '😄'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:12:26.143289+00:00',
 				text: 'Just smile when u take selfies'
 			},
@@ -29015,12 +29015,12 @@ const chats = [
 				text: 'Ok what is it'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:11:55.278088+00:00',
 				text: 'Btw i hv an advice fr u'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:10:08.503586+00:00',
 				text: 'K'
 			},
@@ -29030,12 +29030,12 @@ const chats = [
 				text: "Don't want to say sorry"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:04:41.791820+00:00',
 				text: 'Education'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:04:36.232388+00:00',
 				text: 'School'
 			},
@@ -29045,7 +29045,7 @@ const chats = [
 				text: '?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:03:06.113706+00:00',
 				text: 'What u hv done...actually'
 			},
@@ -29055,17 +29055,17 @@ const chats = [
 				text: 'Done with boys so I gave up with them'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:00:55.763380+00:00',
 				text: '?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:00:52.929832+00:00',
 				text: 'Single nd never give up'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T07:00:42.431958+00:00',
 				text: 'And whats that'
 			},
@@ -29075,17 +29075,17 @@ const chats = [
 				text: 'Chloe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T06:59:59.529934+00:00',
 				text: 'Btw whats ur name?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T06:59:26.751804+00:00',
 				text: 'Coz u replied so late..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T06:59:09.995775+00:00',
 				text: 'Srry i forgot what to ask..😑'
 			},
@@ -29100,19 +29100,19 @@ const chats = [
 				text: 'Yh okay'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T05:36:14.815424+00:00',
 				text: 'Can u tell me 1 thing'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T05:36:03.498094+00:00',
 				text: 'Hey'
 			}
 		]
 	},
 	{
-		participants: ['cleverqazi', 'just_junaid_here'],
+		participants: ['cleverqazi', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'cleverqazi',
@@ -29120,12 +29120,12 @@ const chats = [
 				text: 'Woah awesome!'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-15T19:27:33.690047+00:00',
 				text: 'Hey qazi i did it..👍✌'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-15T19:27:12.281097+00:00',
 				media:
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e15/p480x480/21688505_2016326058604108_2934719370598809600_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_ohc=v3GyI-JXL7YAX_-EjlA&_nc_tp=4&oh=be5bece5f674d27fc7fdbcb5c60854e9&oe=5EAF5722&ig_cache_key=MjE2MjczODk5MTQyMDY3OTgzOA%3D%3D.2'
@@ -29136,7 +29136,7 @@ const chats = [
 				text: 'Good job 👏🏼'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T07:02:54.005104+00:00',
 				story_share: "Shared cleverqazi's story",
 				text: 'Done bro...✌'
@@ -29144,175 +29144,175 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'orinnilima'],
+		participants: ['just_not_here', 'orinnilima'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-15T05:49:43.254054+00:00',
 				text: 'I dont get it, please explain'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-15T05:49:07.370667+00:00',
 				text: '2nd line of ur bio'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-15T05:48:42.868312+00:00',
 				text: 'Hey'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'shaheenshagufta085'],
+		participants: ['just_not_here', 'shaheenshagufta085'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:09:13.015892+00:00',
 				text: 'Nw i cannot die in piece..lol'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:09:00.421841+00:00',
 				text: 'Btw i have wasted 1 sec. Of my life'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T19:08:14.640735+00:00',
 				text: 'Ur bio really funny af..😂😂'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', '__deleted__bhiebeafjehiadehd'],
+		participants: ['just_not_here', '__deleted__bhiebeafjehiadehd'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T10:40:08.463106+00:00',
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T10:40:07.104999+00:00',
 				text: 'No one is happy being single..😑'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'samiya_05_'],
+		participants: ['just_not_here', 'samiya_05_'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T10:22:54.571087+00:00',
 				text: 'Bio unavailable why?'
 			}
 		]
 	},
 	{
-		participants: ['amna__faizan', 'just_junaid_here'],
+		participants: ['amna__faizan', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T10:19:09.404467+00:00',
 				text: 'Are u that bad.,i think ur awesome'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T10:18:24.190468+00:00',
 				text: 'Why u still single😭😭'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', '__deleted__bhiebeafgjcicdibc'],
+		participants: ['just_not_here', '__deleted__bhiebeafgjcicdibc'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T09:06:56.782933+00:00',
 				text: 'Nt revaled yet😞'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T09:06:41.215871+00:00',
 				text: 'Iv scratched bt ur bio'
 			}
 		]
 	},
 	{
-		participants: ['khan_alshaba', 'just_junaid_here'],
+		participants: ['khan_alshaba', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T09:05:55.371401+00:00',
 				text: 'Why u still single😭'
 			}
 		]
 	},
 	{
-		participants: ['devan_shii', 'just_junaid_here'],
+		participants: ['devan_shii', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T09:05:09.541416+00:00',
 				text: 'Everyone do'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T09:05:01.100340+00:00',
 				text: 'Ur nt the only 1 grown up'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T09:04:47.550294+00:00',
 				text: 'I saw ur bio'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T09:04:41.864718+00:00',
 				text: 'Hi..'
 			}
 		]
 	},
 	{
-		participants: ['sara_frjp', 'just_junaid_here'],
+		participants: ['sara_frjp', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T09:01:15.719046+00:00',
 				text: 'Ur dp👌👌'
 			}
 		]
 	},
 	{
-		participants: ['_palakkewalramani_', 'just_junaid_here'],
+		participants: ['_palakkewalramani_', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T08:55:08.190957+00:00',
 				text: 'Wud u tell me'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T08:55:01.610897+00:00',
 				text: '1 thing'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T08:54:56.493729+00:00',
 				text: 'Actually i want to know'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T08:53:44.423727+00:00',
 				text: 'U disgusting'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T08:53:38.731404+00:00',
 				text: 'Uhhh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T08:53:35.954742+00:00',
 				text: 'Me'
 			},
@@ -29322,12 +29322,12 @@ const chats = [
 				text: 'U disgusting 😤😤'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T08:53:01.859096+00:00',
 				text: 'I just vaiw it'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T08:52:44.734689+00:00',
 				text: 'Its with me only'
 			},
@@ -29342,97 +29342,97 @@ const chats = [
 				text: 'U keep Ur middle finger wid u ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T08:49:08.582828+00:00',
 				text: 'Middle finger to attitude..😑'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'prachi_sharma_28'],
+		participants: ['just_not_here', 'prachi_sharma_28'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T08:45:41.605635+00:00',
 				text: 'Uh Medicos..😒?'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'simrankriti1997'],
+		participants: ['just_not_here', 'simrankriti1997'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T05:56:13.647831+00:00',
 				text: 'Lavista'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-14T05:56:08.297790+00:00',
 				text: 'Hasta lavus'
 			}
 		]
 	},
 	{
-		participants: ['kunana_khan', 'just_junaid_here'],
+		participants: ['kunana_khan', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:54:57.664407+00:00',
 				text: 'Fuck off u shit'
 			}
 		]
 	},
 	{
-		participants: ['anu_ankita26', 'just_junaid_here'],
+		participants: ['anu_ankita26', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:48:36.805784+00:00',
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:44:22.651627+00:00',
 				text: 'Sacchi?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:44:07.097428+00:00',
 				text: 'Ur bio...'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'iqa_gamechanger'],
+		participants: ['just_not_here', 'iqa_gamechanger'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:45:52.844607+00:00',
 				text: 'Kuch zyada ni ho gya..😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:45:41.818621+00:00',
 				text: 'Bio...last line..'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'fiona_cuesta902'],
+		participants: ['just_not_here', 'fiona_cuesta902'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-13T20:28:40.719842+00:00',
 				text: 'U have 2 dogs right?'
 			}
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'i_m_abhi_1609'],
+		participants: ['just_not_here', 'i_m_abhi_1609'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-12T15:17:36.207514+00:00',
 				text: 'Bdhiya👍'
 			},
@@ -29442,12 +29442,12 @@ const chats = [
 				text: 'Kaisa chal raha hai college'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-10T17:45:01.696828+00:00',
 				text: 'Bhai h tu..😘'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-09-10T17:44:06.036961+00:00',
 				text: 'Abe nhi'
 			},
@@ -29462,17 +29462,17 @@ const chats = [
 				text: 'Bhul gaya kya re'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-23T09:15:16.707407+00:00',
 				text: 'Abe chhod na bc'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-23T09:14:59.124525+00:00',
 				text: 'Hi no. The bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-23T09:14:41.671666+00:00',
 				text: '96'
 			},
@@ -29482,12 +29482,12 @@ const chats = [
 				text: 'Q bhai kitna no. aaya tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-23T04:39:21.689692+00:00',
 				text: 'K aas paas'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-23T04:39:11.310302+00:00',
 				text: '96 k'
 			},
@@ -29497,7 +29497,7 @@ const chats = [
 				text: 'Jee main m kitna rank tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T17:16:10.103178+00:00',
 				text: 'Mila ni bhai'
 			},
@@ -29507,7 +29507,7 @@ const chats = [
 				text: 'To govt m q ni liya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T16:51:54.858816+00:00',
 				text: 'Na private h'
 			},
@@ -29522,7 +29522,7 @@ const chats = [
 				text: 'Govt college hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T14:21:33.415367+00:00',
 				text: 'Jss noida..'
 			},
@@ -29537,12 +29537,12 @@ const chats = [
 				text: 'Q'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T13:29:37.722078+00:00',
 				text: 'Tnsion h faltu ki'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T13:29:30.621380+00:00',
 				text: 'Abe shi h'
 			},
@@ -29552,7 +29552,7 @@ const chats = [
 				text: 'Ha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T13:29:14.740991+00:00',
 				text: '2nd year hoga'
 			},
@@ -29562,12 +29562,12 @@ const chats = [
 				text: 'B.a'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T13:28:48.341963+00:00',
 				text: 'Kya krra phir ab'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T13:28:41.399817+00:00',
 				text: 'Chl thik h'
 			},
@@ -29582,17 +29582,17 @@ const chats = [
 				text: 'Na call mt kar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T13:27:57.023956+00:00',
 				text: 'Ya no. De apna'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T13:27:46.906128+00:00',
 				text: 'Abe call kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T13:27:40.013297+00:00',
 				text: 'Shi bta'
 			},
@@ -29602,17 +29602,17 @@ const chats = [
 				text: 'Chor diya engineering'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T13:27:01.568688+00:00',
 				text: 'Tune  kahan liya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T13:26:44.857030+00:00',
 				text: 'Bpit clg h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-12T13:26:39.465793+00:00',
 				text: 'Ty bta bc mne to ipu m le liya..'
 			},
@@ -29624,7 +29624,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', '__deleted__bhiebeafeacedigbh'],
+		participants: ['just_not_here', '__deleted__bhiebeafeacedigbh'],
 		conversation: [
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -29634,140 +29634,140 @@ const chats = [
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-08-22T20:48:22.932673+00:00',
-				text: 'Junaid request accept Kyu nhi ki tumne bolo'
+				text: 'not request accept Kyu nhi ki tumne bolo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:31:27.022707+00:00',
 				text: 'Kb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:30:50.986553+00:00',
 				text: 'Itni badi h wo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:30:43.373405+00:00',
 				text: 'Mtlb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:29:18.188105+00:00',
 				text: 'Whi h na ye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:29:13.477651+00:00',
 				text: 'Abe jo tmhare ghr ke paas rehti h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:27:17.226709+00:00',
 				text: 'H kesi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:26:42.355671+00:00',
 				text: 'Pura nam kya h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:26:18.216438+00:00',
 				text: 'Ya whatsapp insta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:26:05.599508+00:00',
 				text: 'Fb pe h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:24:39.686842+00:00',
 				text: 'Mtlb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:23:45.735248+00:00',
 				text: 'H acchi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:23:39.934208+00:00',
 				text: 'Ki mne suna tri koi dost b'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:23:27.210421+00:00',
 				text: 'Naam'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:23:23.888826+00:00',
 				text: 'Muskan'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:23:19.199257+00:00',
 				text: 'Sun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:23:15.683375+00:00',
 				text: 'Accha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:19:12.990386+00:00',
 				text: 'Accha aur koi pic bhej uski'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:18:18.718741+00:00',
 				text: 'Aur phir'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:16:53.678975+00:00',
 				text: 'Tu bta kya kahegi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:16:23.179182+00:00',
 				text: 'Kya kahegi usse'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:15:30.828992+00:00',
 				text: 'Mene kaha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:15:24.938258+00:00',
 				text: 'Aur yun mt kahio'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:15:13.119839+00:00',
 				text: 'Usse bhi to baat kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:14:34.823645+00:00',
 				text: 'Ise chahiya kya koi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:12:50.738612+00:00',
 				text: 'Aur koi ni h kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:12:12.790642+00:00',
 				text: 'Fir dekhte h kesi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-22T20:12:02.166299+00:00',
 				text: 'Chl baat to kra pehle'
 			},
@@ -29797,17 +29797,17 @@ const chats = [
 				text: 'Kuch rah gaya ho to vo bhi bol do'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:18:35.421317+00:00',
 				text: 'Mgr ab kbhi kch ni kahunga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:18:12.401056+00:00',
 				text: 'Sorry mne tjhe bhut bura kaha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:17:43.913225+00:00',
 				text: 'Ab msg mt krio'
 			},
@@ -29817,12 +29817,12 @@ const chats = [
 				text: 'Meri Choti soch nhi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:17:21.320681+00:00',
 				text: 'Jiski itni chhoti soch h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:17:04.241254+00:00',
 				text: 'Ab m chahkr bhi ese insaan se baat ni kr skta'
 			},
@@ -29832,7 +29832,7 @@ const chats = [
 				text: 'Please baat Mano'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:16:35.712873+00:00',
 				text: 'Mjhe ni krni baat'
 			},
@@ -29842,22 +29842,22 @@ const chats = [
 				text: 'Sorry ho gai galti'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:16:02.982034+00:00',
 				text: 'Shaadi bhai se kon krta h'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-24T21:15:48.088041+00:00',
-				text: 'Junaid Kya ho Raha hai yeh'
+				text: 'not Kya ho Raha hai yeh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:15:30.292459+00:00',
 				text: 'Randi bn jaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:15:15.771412+00:00',
 				text: 'Hadd hoti h bhenchod tri jesi sirf lund lene ke liye bni h'
 			},
@@ -29877,12 +29877,12 @@ const chats = [
 				text: 'Haad h yrr itna gussa sahi nhi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:13:37.741429+00:00',
 				text: 'Krr mazaak'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:13:29.020570+00:00',
 				text: 'Amir se maa chudwaa'
 			},
@@ -29892,12 +29892,12 @@ const chats = [
 				text: 'Yeh Kya baat h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:13:04.797652+00:00',
 				text: 'Amir se gaand mrwa le'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:12:39.473120+00:00',
 				text: 'Mzak m apne baap se chud le jaake'
 			},
@@ -29912,7 +29912,7 @@ const chats = [
 				text: 'Kyu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:11:43.617218+00:00',
 				text: 'Ab m kbhi maaf ni kr skta tjhe'
 			},
@@ -29927,17 +29927,17 @@ const chats = [
 				text: 'Sorry bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:10:46.709072+00:00',
 				text: 'Forever'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:10:40.866973+00:00',
 				text: 'Fuck off'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:10:29.506080+00:00',
 				text: 'Aaj ke baad baat krne ki himmat ni honi chahiye'
 			},
@@ -29947,7 +29947,7 @@ const chats = [
 				text: 'I hate you'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:08:48.758115+00:00',
 				text: 'Tune esa socha kese kutiya'
 			},
@@ -29957,14 +29957,14 @@ const chats = [
 				text: 'Yeh ab zyada ho  Raha h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:08:17.488301+00:00',
 				text: 'Mn to krra wahin aake chaanta maarun'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-24T21:08:12.943927+00:00',
-				text: 'Bs Junaid'
+				text: 'Bs not'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -29972,7 +29972,7 @@ const chats = [
 				text: 'Yrr joke tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:07:49.869573+00:00',
 				text: 'Teri maa....'
 			},
@@ -29982,17 +29982,17 @@ const chats = [
 				text: 'Ab itni gandi Gali to mat do'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:07:26.408370+00:00',
 				text: 'Tra kch ni hone ka'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:07:11.707838+00:00',
 				text: 'Itna smjhaya sbpe moot diya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:06:31.445816+00:00',
 				text: 'Bhenchod kitni bdi randi h tu'
 			},
@@ -30012,12 +30012,12 @@ const chats = [
 				text: 'Nhi yrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:05:55.125833+00:00',
 				text: 'Shaadi tk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:05:45.345163+00:00',
 				text: 'Mtlb tu sochti thi'
 			},
@@ -30037,7 +30037,7 @@ const chats = [
 				text: 'Haan to'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:04:33.826500+00:00',
 				text: 'Bhen h tu meri'
 			},
@@ -30047,7 +30047,7 @@ const chats = [
 				text: 'Kya socha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:04:09.167364+00:00',
 				text: 'Tu esa soch kese sakti h'
 			},
@@ -30057,12 +30057,12 @@ const chats = [
 				text: 'Yrr nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:03:05.679627+00:00',
 				text: 'Chutiya hkya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:02:49.769808+00:00',
 				text: 'Mtlb'
 			},
@@ -30087,7 +30087,7 @@ const chats = [
 				text: 'Kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T21:00:10.933387+00:00',
 				text: 'Hate me more hmm'
 			},
@@ -30097,7 +30097,7 @@ const chats = [
 				text: 'Hmmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:59:34.990999+00:00',
 				text: 'H koi'
 			},
@@ -30112,12 +30112,12 @@ const chats = [
 				text: 'Pta nhi Jo mere nasib me hoga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:58:18.648423+00:00',
 				text: 'Shadi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:58:14.290246+00:00',
 				text: 'Kisse kregi'
 			},
@@ -30137,7 +30137,7 @@ const chats = [
 				text: 'Pehle Kuch ban to jau shaadi bhi Kar lungi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:56:34.720401+00:00',
 				text: 'Haan to'
 			},
@@ -30147,7 +30147,7 @@ const chats = [
 				text: 'Yeh to tana maar Rahe ho tum'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:55:30.044701+00:00',
 				text: 'Sb pta mjhe'
 			},
@@ -30162,12 +30162,12 @@ const chats = [
 				text: 'Meri koi pyaas nhi j'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:54:52.989190+00:00',
 				text: 'Jo chahiye mil jaaega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:54:40.153300+00:00',
 				text: 'Tri pyaas bhuj jaaegi'
 			},
@@ -30182,12 +30182,12 @@ const chats = [
 				text: 'Chup Raho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:53:48.532842+00:00',
 				text: 'Shadi krle jldi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:53:24.808166+00:00',
 				text: 'Shi kha'
 			},
@@ -30208,12 +30208,12 @@ const chats = [
 				text: 'Hmmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:51:49.802644+00:00',
 				text: 'Esi pta ni kitni raatein h or hongi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:51:28.450166+00:00',
 				text: 'Bhul jaa raat gyi baat gyi'
 			},
@@ -30223,7 +30223,7 @@ const chats = [
 				text: 'Bhul gae'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:51:02.908859+00:00',
 				text: 'Knsi raat'
 			},
@@ -30238,7 +30238,7 @@ const chats = [
 				text: 'Vo alag baat h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:50:07.467431+00:00',
 				text: 'Bhai bhi to hoon'
 			},
@@ -30258,7 +30258,7 @@ const chats = [
 				text: 'Tum ache ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:49:01.266508+00:00',
 				text: 'Mjh me esa kya h jo tu pagal h'
 			},
@@ -30278,12 +30278,12 @@ const chats = [
 				text: 'Mere school mujhe sabse zyada log pasand karte h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:47:49.832876+00:00',
 				text: 'Acchi soch rkhte ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:47:26.425307+00:00',
 				text: 'Experience milta h bhut'
 			},
@@ -30293,12 +30293,12 @@ const chats = [
 				text: 'Haa yeh baat to h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:47:07.215033+00:00',
 				text: 'Logo se milte ho acchon se buro se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:46:43.625859+00:00',
 				text: 'Chehre pr bhi alag noor hota h jab tum khush rehte ho'
 			},
@@ -30313,17 +30313,17 @@ const chats = [
 				text: 'Yahi reason h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:45:16.408398+00:00',
 				text: 'Mjhme esa kch ni h abhi tk jo kisi ko khush rakhun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:44:04.335154+00:00',
 				text: 'Khush rehne k liye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:43:53.203589+00:00',
 				text:
 					'Tbhi tujhe aur koi kaam ni bs me hi dikhta hoon tune duniya ni dekhi abhi bhut kch h'
@@ -30334,7 +30334,7 @@ const chats = [
 				text: 'Kah hi to nhi sakti'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:42:34.994742+00:00',
 				text: 'To keh apne bap se'
 			},
@@ -30359,7 +30359,7 @@ const chats = [
 				text: 'Yrr me bhi thoda time door rahna chati hu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:41:13.503998+00:00',
 				text: 'Mra bhi'
 			},
@@ -30369,7 +30369,7 @@ const chats = [
 				text: 'Yrr pizza Khana h Mera Mann Kar Raha hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:40:02.320635+00:00',
 				text: 'Bhai kis kaam ka phir'
 			},
@@ -30394,7 +30394,7 @@ const chats = [
 				text: 'Mujhe to nhi aa Rahi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:37:39.969411+00:00',
 				text: 'Neend to aa ri h bhen'
 			},
@@ -30404,7 +30404,7 @@ const chats = [
 				text: 'So Rahe ho kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:36:48.460259+00:00',
 				text: 'Hmm'
 			},
@@ -30444,7 +30444,7 @@ const chats = [
 				text: 'Jab me khud se pyaar krugi tab Kisi se pyaar nhi irugi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:32:42.336299+00:00',
 				text: 'M to khud se krta hoon'
 			},
@@ -30455,12 +30455,12 @@ const chats = [
 					'Pta h Kisi aur pyaar karna  aasaan hota h lekin khud se pyaar Kar bht mushkil'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:31:20.092358+00:00',
 				text: 'Krte bhut km h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:31:05.360535+00:00',
 				text: 'Ye bdi baate hr koi krta h'
 			},
@@ -30475,7 +30475,7 @@ const chats = [
 				text: 'Abhi humari importance nhi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:29:51.149173+00:00',
 				text: 'Log tra bhut faida uthaenge nhi to'
 			},
@@ -30485,12 +30485,12 @@ const chats = [
 				text: 'Kyu ki life me change hona padhta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:29:19.880572+00:00',
 				text: 'Acchi insaan bn'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:29:09.057373+00:00',
 				text: 'Bahut badhiya yhi m chahta hun bhen'
 			},
@@ -30510,7 +30510,7 @@ const chats = [
 				text: 'Jo bhi banugi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:28:05.796815+00:00',
 				text: 'To'
 			},
@@ -30520,7 +30520,7 @@ const chats = [
 				text: 'Nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:27:48.871504+00:00',
 				text: 'Alia bhatt bnne jaa ri h kya'
 			},
@@ -30530,12 +30530,12 @@ const chats = [
 				text: 'Tum meri baat nhi samjhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:27:20.778059+00:00',
 				text: 'Tu pagl ho gyi kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:26:57.008195+00:00',
 				text: 'Kya keh ri h'
 			},
@@ -30550,7 +30550,7 @@ const chats = [
 				text: 'Zyada time nhi lagega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:26:27.947137+00:00',
 				text: 'Mtlb'
 			},
@@ -30560,14 +30560,14 @@ const chats = [
 				text: 'Dekh Lena'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:26:04.544768+00:00',
 				text: 'Kesa change'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-24T20:25:09.030571+00:00',
-				text: 'Tum kahoge ki sana tujh me itna bada change kese aaya'
+				text: 'Tum kahoge ki anna tujh me itna bada change kese aaya'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -30580,7 +30580,7 @@ const chats = [
 				text: 'I know'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:23:40.366485+00:00',
 				text: 'Ek baar ni hr baar fail'
 			},
@@ -30590,7 +30590,7 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:23:12.304410+00:00',
 				text: 'Ek bhai apni bhen ka accha to chahega hi na'
 			},
@@ -30600,12 +30600,12 @@ const chats = [
 				text: 'Acha fail hu ya pass test me'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:22:45.578487+00:00',
 				text: 'Kyun bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:22:27.897954+00:00',
 				text: 'Tera'
 			},
@@ -30615,12 +30615,12 @@ const chats = [
 				text: 'Matlbi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:22:19.816751+00:00',
 				text: 'M to test krra tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:22:00.602138+00:00',
 				text: 'Dekh acchi insaan bn ldke to ese hi hote h'
 			},
@@ -30630,7 +30630,7 @@ const chats = [
 				text: 'To yrr aesi baat mat kiya karo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:20:59.587328+00:00',
 				text: 'Tune bhai kaha waah yhi m chahta hoon'
 			},
@@ -30655,7 +30655,7 @@ const chats = [
 				text: 'Bas Rahe do'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:19:31.396998+00:00',
 				text: 'Yhi to samjha ta hoon ki bhai bhen ke beech ye galat h'
 			},
@@ -30665,7 +30665,7 @@ const chats = [
 				text: 'Tum khud ko samjhna Rahe ho mujhe nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:18:50.098312+00:00',
 				text: 'Tu hi krwati h'
 			},
@@ -30675,7 +30675,7 @@ const chats = [
 				text: 'Itna Kuch karte ho last me bhen yeh sab bhen ke sath nhi hota'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:18:23.342635+00:00',
 				text: 'Sacchai'
 			},
@@ -30685,7 +30685,7 @@ const chats = [
 				text: 'Yeh Kya h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:17:20.070288+00:00',
 				text: 'So ja bhen'
 			},
@@ -30715,7 +30715,7 @@ const chats = [
 				text: 'Me too'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:15:46.472901+00:00',
 				text: 'Chl ab m sone jaa ra bye'
 			},
@@ -30730,7 +30730,7 @@ const chats = [
 				text: 'Me biology student hu mujh sab pta h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:13:57.428413+00:00',
 				text: 'Kse pta'
 			},
@@ -30740,7 +30740,7 @@ const chats = [
 				text: 'Ha vo to h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:13:26.771040+00:00',
 				text: 'Jb jaaegA ander tb lgege'
 			},
@@ -30750,7 +30750,7 @@ const chats = [
 				text: 'Aese hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:12:49.227532+00:00',
 				text: 'Kyun'
 			},
@@ -30760,7 +30760,7 @@ const chats = [
 				text: 'Mujhe drr nhi laga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:11:59.268007+00:00',
 				text: 'Kyaa'
 			},
@@ -30780,7 +30780,7 @@ const chats = [
 				text: 'Nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:09:50.372967+00:00',
 				text: 'Tjhe drr ni lga itna bda dekh k'
 			},
@@ -30790,7 +30790,7 @@ const chats = [
 				text: 'Kuch nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:08:46.709293+00:00',
 				text: 'Mtlb'
 			},
@@ -30800,7 +30800,7 @@ const chats = [
 				text: 'Okk to Kya hua'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:08:16.670962+00:00',
 				text: 'Shi m bhut bda tha yaar itna nhi h mra'
 			},
@@ -30810,7 +30810,7 @@ const chats = [
 				text: 'Acha g'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:07:56.180076+00:00',
 				text: 'Chl koi ni mujhe dobara dhoondni pdegi net p'
 			},
@@ -30825,7 +30825,7 @@ const chats = [
 				text: 'Nhi Khul Rahi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:06:38.571889+00:00',
 				text: 'Send to kri thi'
 			},
@@ -30840,12 +30840,12 @@ const chats = [
 				text: 'Okk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:05:58.242066+00:00',
 				text: 'Wo kch zyada bda h chahe dobara dkh le'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:05:29.876529+00:00',
 				text: 'Itna bda h kya pagal'
 			},
@@ -30865,7 +30865,7 @@ const chats = [
 				text: 'Maine befaqoof mat samjho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:04:12.211568+00:00',
 				text: 'Mra itna bda ni h thoda sa chhota h'
 			},
@@ -30880,12 +30880,12 @@ const chats = [
 				text: 'Tumhara hath bhi aa Raha tha uss me'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:02:52.389361+00:00',
 				text: 'Kahan h wo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:02:46.700386+00:00',
 				text: 'Nhi h'
 			},
@@ -30895,7 +30895,7 @@ const chats = [
 				text: 'Tum bht pito ge wo tumhari hi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:01:47.110471+00:00',
 				text: 'PORN VIDEOS ki pic h wo'
 			},
@@ -30910,7 +30910,7 @@ const chats = [
 				text: 'Tumhari hi to h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:01:06.115327+00:00',
 				text: 'Krr na'
 			},
@@ -30920,7 +30920,7 @@ const chats = [
 				text: 'Yrr batao'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:00:47.948468+00:00',
 				text: 'Guess kr'
 			},
@@ -30930,7 +30930,7 @@ const chats = [
 				text: 'To kis ki h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T20:00:16.927165+00:00',
 				text: 'Nhi to mri ni h m kyun hataoonga'
 			},
@@ -30940,7 +30940,7 @@ const chats = [
 				text: 'Tumne hata di'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:59:35.386140+00:00',
 				text: 'Pics khan h wo'
 			},
@@ -30955,7 +30955,7 @@ const chats = [
 				text: 'Kuch Kuch hoya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:59:01.200145+00:00',
 				text: 'Uske baad kya hua'
 			},
@@ -30970,7 +30970,7 @@ const chats = [
 				text: 'Haa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:58:25.907775+00:00',
 				text: 'Photo'
 			},
@@ -30980,24 +30980,24 @@ const chats = [
 				text: 'Kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:58:05.692704+00:00',
 				text: 'Accba pboto kitni baar dekb skte wo jo mne tjhe send ki'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:57:20.892123+00:00',
 				text: 'H wo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:57:11.931489+00:00',
 				text: 'Are mra ni wo prnstar ka'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-24T19:56:34.224473+00:00',
-				text: 'Junaid'
+				text: 'not'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -31020,7 +31020,7 @@ const chats = [
 				text: 'Anderson ghusaungi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:54:13.961482+00:00',
 				text: 'Phir kya kregi'
 			},
@@ -31030,7 +31030,7 @@ const chats = [
 				text: 'Jata'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:53:59.639239+00:00',
 				text: 'Bol'
 			},
@@ -31040,7 +31040,7 @@ const chats = [
 				text: 'Yrr itna door dekh Kar nhi Raha jats'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:53:04.600675+00:00',
 				text: 'Ab bol kya kregi jldi'
 			},
@@ -31060,7 +31060,7 @@ const chats = [
 				text: 'Okk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:51:42.867742+00:00',
 				text: 'Yhan mra khada tu bkwas mt kr'
 			},
@@ -31070,7 +31070,7 @@ const chats = [
 				text: 'Yrr pehle batao'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:51:05.985500+00:00',
 				text: 'Bolti jaa kya kregi phir'
 			},
@@ -31080,17 +31080,17 @@ const chats = [
 				text: 'Kaha h sab'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:50:34.135727+00:00',
 				text: 'Nhi'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-24T19:50:25.824765+00:00',
-				text: 'Junaid Ghar pe koi nhi h Kya'
+				text: 'not Ghar pe koi nhi h Kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:50:15.567656+00:00',
 				text: 'Kiska h ye pta hoga'
 			},
@@ -31110,7 +31110,7 @@ const chats = [
 				text: 'Okk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:48:54.577154+00:00',
 				text: 'Bolti ja'
 			},
@@ -31120,7 +31120,7 @@ const chats = [
 				text: 'Hath me lungi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:48:21.454066+00:00',
 				text: 'Phir'
 			},
@@ -31130,7 +31130,7 @@ const chats = [
 				text: 'Dabbaungi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:47:16.379248+00:00',
 				text: 'Iss jse ke sath kya kya kregi'
 			},
@@ -31140,7 +31140,7 @@ const chats = [
 				text: 'Acha aap mujhe guide me waise hi krugi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:44:45.917655+00:00',
 				text: 'Me to sirf khol k khada hoon tujhe krna sb kch ab bta kya kregi'
 			},
@@ -31165,7 +31165,7 @@ const chats = [
 				text: 'Jo aap bologe vo krugi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:41:45.721047+00:00',
 				text: 'Chl maan le m tre samne khda hoon ab kya kya kregi'
 			},
@@ -31185,17 +31185,17 @@ const chats = [
 				text: 'Kese yrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:40:13.276260+00:00',
 				text: 'Poora khada h iss time'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-24T19:40:06.446425+00:00',
-				text: 'Junaid Papa hall me h match dekh Rahe h'
+				text: 'not Papa hall me h match dekh Rahe h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:39:17.365837+00:00',
 				text: 'Jhadne wala h'
 			},
@@ -31205,27 +31205,27 @@ const chats = [
 				text: 'Kya hua'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:38:53.502305+00:00',
 				text: 'Aah aah'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:38:49.185172+00:00',
 				text: 'Mjhe ni pta jldi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:38:08.394882+00:00',
 				text: 'M hila ra hoon upar niche'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:37:49.878068+00:00',
 				text: 'Jldi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:37:43.849716+00:00',
 				text: 'Whatsapp kr'
 			},
@@ -31235,12 +31235,12 @@ const chats = [
 				text: 'Yrr insta pe kese'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:37:00.749254+00:00',
 				text: 'Mera khada h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:36:54.090686+00:00',
 				text: 'Bathroom ja aur apni pic bhej nude'
 			},
@@ -31250,7 +31250,7 @@ const chats = [
 				text: 'Haa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:36:14.229133+00:00',
 				text: 'Aur jse lollipop chuste h vese suck krna h'
 			},
@@ -31265,12 +31265,12 @@ const chats = [
 				text: 'Acha g'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:35:07.900167+00:00',
 				text: 'Aur hoja shuru'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:34:56.330728+00:00',
 				text: 'Hath m le'
 			},
@@ -31280,7 +31280,7 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:34:39.469628+00:00',
 				text: 'Mu khol'
 			},
@@ -31295,7 +31295,7 @@ const chats = [
 				text: 'Pehle like karo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:33:23.690600+00:00',
 				text: 'Mu mle'
 			},
@@ -31307,7 +31307,7 @@ const chats = [
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-24T19:32:33.347972+00:00',
-				text: 'Junaid'
+				text: 'not'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -31315,7 +31315,7 @@ const chats = [
 				text: 'Pehle like karo fir pakka lungi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:31:09.390882+00:00',
 				text: 'Tu mra mu m kyun ni leti h'
 			},
@@ -31340,7 +31340,7 @@ const chats = [
 				text: 'What'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T19:29:20.684626+00:00',
 				text: 'Hila ra hun'
 			},
@@ -31352,7 +31352,7 @@ const chats = [
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-24T18:46:46.672586+00:00',
-				text: 'Junaid'
+				text: 'not'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -31365,7 +31365,7 @@ const chats = [
 				text: 'Pocho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T12:24:36.220324+00:00',
 				text: 'Ek baat do ball'
 			},
@@ -31385,7 +31385,7 @@ const chats = [
 				text: 'Acha g'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T11:50:19.639909+00:00',
 				text:
 					'Kuch nhi bhut kuch h mre paas lamba sa tight soft jo tri hosh uda dega'
@@ -31411,7 +31411,7 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T11:47:50.939570+00:00',
 				text: 'Kch ni'
 			},
@@ -31426,7 +31426,7 @@ const chats = [
 				text: 'Tumhe Kya karna h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T11:46:54.402036+00:00',
 				text: 'Kya kregi'
 			},
@@ -31473,7 +31473,7 @@ const chats = [
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-24T11:38:21.472778+00:00',
-				text: 'Junaid'
+				text: 'not'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -31491,22 +31491,22 @@ const chats = [
 				text: 'Yrr sorry'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T11:34:21.183301+00:00',
 				text: 'Mra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T11:34:20.442699+00:00',
 				text: 'Ab tu gaand mr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T11:34:19.905473+00:00',
 				text: 'Ab to ho gya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T11:34:19.414301+00:00',
 				text: 'Ab kya'
 			},
@@ -31523,15 +31523,15 @@ const chats = [
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-24T11:32:10.808202+00:00',
-				text: 'Hi Junaid'
+				text: 'Hi not'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:32:43.903882+00:00',
 				text: 'Dalwa to le ander'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:31:46.677596+00:00',
 				text: 'Legi ni kya'
 			},
@@ -31541,7 +31541,7 @@ const chats = [
 				text: 'Ruko thoda please aa Rahi hu qbhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:30:32.894691+00:00',
 				text: 'Maa chuda'
 			},
@@ -31551,12 +31551,12 @@ const chats = [
 				text: 'Bye yrr samjho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:30:16.087591+00:00',
 				text: 'Mu m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:30:09.168641+00:00',
 				text: 'Abhi to abhi lamba poora'
 			},
@@ -31566,7 +31566,7 @@ const chats = [
 				text: 'Yrr pls'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:29:36.930053+00:00',
 				text: 'Baith jaaega'
 			},
@@ -31576,7 +31576,7 @@ const chats = [
 				text: 'Usse coaching Jane do pehpe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:29:17.539471+00:00',
 				text: '30 min bd to jhad jaaega'
 			},
@@ -31586,7 +31586,7 @@ const chats = [
 				text: 'Okk ruko'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:28:50.737081+00:00',
 				text: 'Poora'
 			},
@@ -31596,12 +31596,12 @@ const chats = [
 				text: 'Ab me Kuch nhi Kar sakti 30 min ruko'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:28:42.638026+00:00',
 				text: 'Ander tk jaaega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:28:16.298448+00:00',
 				text: 'Khada mra abhi h tu baad k liye taal ri h'
 			},
@@ -31611,7 +31611,7 @@ const chats = [
 				text: 'Koshish krugi agar vo phone ni le Jay to baat krugi bye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:27:20.008326+00:00',
 				text: 'To'
 			},
@@ -31621,7 +31621,7 @@ const chats = [
 				text: 'Yrr yeh phone Amir coaching le Kar jata h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:26:39.441567+00:00',
 				text: 'Baad m me ni karoonga'
 			},
@@ -31631,12 +31631,12 @@ const chats = [
 				text: 'Okk Baad me baat krugi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:26:04.578388+00:00',
 				text: 'Mu m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:25:59.565897+00:00',
 				text: 'To kya mra legi'
 			},
@@ -31646,12 +31646,12 @@ const chats = [
 				text: 'Tum aese kese bol sakte ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:25:28.332063+00:00',
 				text: 'Pyaar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:25:15.091277+00:00',
 				text: 'Hahahhha'
 			},
@@ -31661,17 +31661,17 @@ const chats = [
 				text: 'Chupppp pyaar yeh Kya baat h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:25:06.568511+00:00',
 				text: 'Ghusja uski m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:24:52.067286+00:00',
 				text: 'Bkl'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:24:48.867627+00:00',
 				text: 'Apne baap ka mu m lele jaake'
 			},
@@ -31686,7 +31686,7 @@ const chats = [
 				text: 'Bye Papa bula Rahe h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:24:03.517195+00:00',
 				text: 'Kya mtlb hota h'
 			},
@@ -31696,7 +31696,7 @@ const chats = [
 				text: 'Fuck off to tha hi uss me koi nai baat to h nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:22:59.948569+00:00',
 				text: 'Taarif krra tha tri'
 			},
@@ -31706,7 +31706,7 @@ const chats = [
 				text: "What's this"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:22:24.106789+00:00',
 				text: 'Fuck off'
 			},
@@ -31716,17 +31716,17 @@ const chats = [
 				text: 'Thik h bye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:21:46.681352+00:00',
 				text: 'Yhi kaam ni h mjhe sirf'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:21:26.107423+00:00',
 				text: 'Raat ko kisi aur sevbaat krta hoon m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:21:02.252202+00:00',
 				text: 'Jaa esi tesi kra'
 			},
@@ -31761,12 +31761,12 @@ const chats = [
 				text: 'Yrr seriously Kuch nhi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:18:11.892121+00:00',
 				text: 'Jo btana bta de dimag na kha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:17:47.850325+00:00',
 				text: 'Chhod phir'
 			},
@@ -31781,7 +31781,7 @@ const chats = [
 				text: 'Rehne do'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:17:17.484809+00:00',
 				text: 'Kya dubara bta de'
 			},
@@ -31791,7 +31791,7 @@ const chats = [
 				text: 'Abhi Jo btaya suna nhi tumne'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:16:30.205390+00:00',
 				text: 'Kya'
 			},
@@ -31801,7 +31801,7 @@ const chats = [
 				text: 'Mera dil kara share Karne ka to bta diya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:16:15.483339+00:00',
 				text: 'Hmm'
 			},
@@ -31811,7 +31811,7 @@ const chats = [
 				text: 'Kuch nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:15:34.772333+00:00',
 				text: 'Kya thik h'
 			},
@@ -31821,12 +31821,12 @@ const chats = [
 				text: 'Haa thik h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:14:50.715418+00:00',
 				text: 'Bhai hun m tra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:14:37.939141+00:00',
 				text: 'Kyun itna drama krti h jse m tra aashiq hoon'
 			},
@@ -31836,7 +31836,7 @@ const chats = [
 				text: 'Okk I am waiting'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:11:15.734887+00:00',
 				text: 'Are abhi kisi ki caal eri bd m'
 			},
@@ -31851,7 +31851,7 @@ const chats = [
 				text: 'Maine un Charo ko mana Kar Diya tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:09:48.875700+00:00',
 				text: 'Ab kya h'
 			},
@@ -31866,7 +31866,7 @@ const chats = [
 				text: 'Haa g'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:08:47.193780+00:00',
 				text: 'Phir tu khegi nafrat kyun karte ho'
 			},
@@ -31876,7 +31876,7 @@ const chats = [
 				text: 'Nahi kabhi bhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:08:15.764025+00:00',
 				text: 'Hmm mtlb hota h hate me more'
 			},
@@ -31886,7 +31886,7 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:07:37.374301+00:00',
 				text: 'Chl koi ni'
 			},
@@ -31901,7 +31901,7 @@ const chats = [
 				text: 'Sorry sorry'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:06:14.900496+00:00',
 				text: 'Tu pagal h kya kya ki jgah kiya likh ti h'
 			},
@@ -31911,12 +31911,12 @@ const chats = [
 				text: 'Haa haa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:05:50.831143+00:00',
 				text: 'Kya ni kiya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:05:23.030273+00:00',
 				text: 'Kya'
 			},
@@ -31926,7 +31926,7 @@ const chats = [
 				text: 'Tumhe PTA h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:04:08.608128+00:00',
 				text: 'Haan'
 			},
@@ -31936,17 +31936,17 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:03:48.551235+00:00',
 				text: 'Bhen bhai wala pyar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:03:35.185524+00:00',
 				text: 'M to tre se pyaar krta hoon'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:03:20.242047+00:00',
 				text: 'Nhi to'
 			},
@@ -31966,7 +31966,7 @@ const chats = [
 				text: 'Achi baat h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:01:45.830790+00:00',
 				text: 'Delete krde sari'
 			},
@@ -31976,7 +31976,7 @@ const chats = [
 				text: 'Okk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T10:01:27.975305+00:00',
 				text: 'Bss kr ab'
 			},
@@ -31991,7 +31991,7 @@ const chats = [
 				text: 'Yrr Kuch bhi nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:54:23.906694+00:00',
 				text: 'Haan ab bol kya keh ri thi'
 			},
@@ -32001,7 +32001,7 @@ const chats = [
 				text: 'Allah Hafiz'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:50:43.362586+00:00',
 				text: 'Hmm'
 			},
@@ -32026,12 +32026,12 @@ const chats = [
 				text: 'Ye Kya h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:45:39.136987+00:00',
 				text: 'Behen'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:45:27.786599+00:00',
 				text: 'Are aur bhi log h unse bhi baat krni zaruri h'
 			},
@@ -32056,7 +32056,7 @@ const chats = [
 				text: 'Okk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:34:25.144139+00:00',
 				text: 'Krni h to kr'
 			},
@@ -32071,7 +32071,7 @@ const chats = [
 				text: 'Promise me gussa nhi hoge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:31:08.290502+00:00',
 				text: 'Haan'
 			},
@@ -32081,7 +32081,7 @@ const chats = [
 				text: 'Aese hi agar Kuch Galt bol Diya ho to'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:30:23.460431+00:00',
 				text: 'Kyun'
 			},
@@ -32096,7 +32096,7 @@ const chats = [
 				text: 'Kuch to'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:29:27.396707+00:00',
 				text: 'Kch ni'
 			},
@@ -32106,14 +32106,14 @@ const chats = [
 				text: 'Kya kah Rahe the'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:28:49.628793+00:00',
 				text: 'Kya h'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-24T09:27:27.414068+00:00',
-				text: 'Junaid'
+				text: 'not'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -32126,7 +32126,7 @@ const chats = [
 				text: 'Kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:25:59.614591+00:00',
 				text: 'Bf bnaoonga'
 			},
@@ -32136,12 +32136,12 @@ const chats = [
 				text: 'Kya karoge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:25:19.844801+00:00',
 				text: 'Shi si bhej'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T09:25:09.853248+00:00',
 				text: 'Bhejti reh'
 			},
@@ -32153,7 +32153,7 @@ const chats = [
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-24T09:24:00.443424+00:00',
-				text: 'Junaid'
+				text: 'not'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -32161,7 +32161,7 @@ const chats = [
 				text: 'Hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T06:50:44.450296+00:00',
 				text: 'Ek aur bhej'
 			},
@@ -32191,12 +32191,12 @@ const chats = [
 				text: 'Tumne kaha tha bekar h to maine delete Kar di'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T18:28:28.672708+00:00',
 				text: 'Pic dobara bhej'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T16:47:49.856373+00:00',
 				text: 'Hi'
 			},
@@ -32206,7 +32206,7 @@ const chats = [
 				text: 'Hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T12:57:43.259663+00:00',
 				text: 'Chlo koi ni'
 			},
@@ -32216,7 +32216,7 @@ const chats = [
 				text: 'Koi baat nhi mujhe to achi lagi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T12:57:17.346179+00:00',
 				text: 'Kya'
 			},
@@ -32226,7 +32226,7 @@ const chats = [
 				text: 'Meri bura karoge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T12:56:52.621541+00:00',
 				text: 'Bekar'
 			},
@@ -32236,7 +32236,7 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T12:56:36.664743+00:00',
 				text: 'Sach batau'
 			},
@@ -32246,14 +32246,14 @@ const chats = [
 				text: 'Pic kesi lagi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T12:55:50.743755+00:00',
 				text: 'Kch ni'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-23T12:54:27.016694+00:00',
-				text: 'Kya hua Junaid'
+				text: 'Kya hua not'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -32271,14 +32271,14 @@ const chats = [
 				text: 'Kya Kar Rahe ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T10:20:33.706387+00:00',
 				text: 'Hi'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-23T06:23:48.384027+00:00',
-				text: 'Hi Junaid'
+				text: 'Hi not'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -32336,7 +32336,7 @@ const chats = [
 				text: 'Mujhe pure 2 hours tak roi thi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:50:18.036300+00:00',
 				text: 'Chl ab m sone jaa ra hoon'
 			},
@@ -32351,7 +32351,7 @@ const chats = [
 				text: 'So sad'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:48:55.675928+00:00',
 				text: 'Bechari'
 			},
@@ -32366,7 +32366,7 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:47:51.902807+00:00',
 				text: 'Koi na shi ho jaaega'
 			},
@@ -32386,7 +32386,7 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:46:45.869691+00:00',
 				text: 'Vo to h'
 			},
@@ -32411,7 +32411,7 @@ const chats = [
 				text: 'Spects kaha h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:45:19.264848+00:00',
 				likes: [
 					{
@@ -32428,12 +32428,12 @@ const chats = [
 				text: 'Achi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:44:26.925398+00:00',
 				text: 'Ye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:44:21.938399+00:00',
 				likes: [
 					{
@@ -32460,12 +32460,12 @@ const chats = [
 				text: 'Sahi h bas'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:43:12.805487+00:00',
 				text: 'Ye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:42:51.845244+00:00',
 				likes: [
 					{
@@ -32482,12 +32482,12 @@ const chats = [
 				text: 'Yeh sahi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:42:18.576664+00:00',
 				text: 'Ye bta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:42:10.868753+00:00',
 				likes: [
 					{
@@ -32504,7 +32504,7 @@ const chats = [
 				text: 'Click Kar ke send karo tab batugi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:41:15.154353+00:00',
 				text: 'Accha'
 			},
@@ -32514,7 +32514,7 @@ const chats = [
 				text: 'Tab achi pic aaegi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:40:10.159540+00:00',
 				text: 'Aur ladki kesi hoti h'
 			},
@@ -32524,7 +32524,7 @@ const chats = [
 				text: 'Thodi sahi smile karo aur camera se door ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:39:45.288655+00:00',
 				text: 'Hrkt to tri simple ni h'
 			},
@@ -32540,12 +32540,12 @@ const chats = [
 					'Jaisi ladki Hoti vasi me nhi hu me bht simple hu bht jaldi hurt ho jati hu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:38:35.477579+00:00',
 				text: 'Accha ye kaisi h upload kru'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:38:12.736371+00:00',
 				likes: [
 					{
@@ -32557,7 +32557,7 @@ const chats = [
 					'https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-15/e15/s480x480/18013183_262805010851694_4794448756751728640_n.jpg?_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=106&_nc_ohc=yrK8J0iatbMAX_rzoM9&oh=d0e248b0e66331bd092464ac89a5c4aa&oe=5EB00817&ig_cache_key=MjE1NzY4OTMzMjQ1MzQyMDAwMg%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:37:15.734834+00:00',
 				text: 'Bta na ab'
 			},
@@ -32567,12 +32567,12 @@ const chats = [
 				text: 'Kuch nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:36:49.063960+00:00',
 				text: 'Type mtlb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:36:39.848956+00:00',
 				text: 'Pasand krta hoon mgr'
 			},
@@ -32582,12 +32582,12 @@ const chats = [
 				text: 'Dekho mujhe PTA h tum mujhe pasand nhi karte'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:35:34.853881+00:00',
 				text: 'Or bta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:35:29.884546+00:00',
 				text: 'Accha h'
 			},
@@ -32597,12 +32597,12 @@ const chats = [
 				text: 'Bola Na koshish krugi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:34:35.928375+00:00',
 				text: 'Ya nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:34:31.384142+00:00',
 				text: 'Bhai bhen ka rishta hi to h hmara'
 			},
@@ -32627,12 +32627,12 @@ const chats = [
 				text: 'Hmm sab sahi Hi kahte'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:32:22.431445+00:00',
 				text: 'Ya nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:32:14.413162+00:00',
 				text: 'Shi to keh ra hoon'
 			},
@@ -32642,12 +32642,12 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:31:43.368372+00:00',
 				text: 'Mtlb tu mri khala ki ldki h mtlb bhen hi to hui'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:31:13.569368+00:00',
 				text: 'Kya ni hota'
 			},
@@ -32657,7 +32657,7 @@ const chats = [
 				text: 'Jo nhi hota vo Karne ko Kyu bolte ho mujhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:29:42.179800+00:00',
 				text: 'Mtlb tu meri kisi aur se baat ni kra ri aur na hi bhai maanti'
 			},
@@ -32667,24 +32667,24 @@ const chats = [
 				text: 'Kya  matlb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:28:32.061523+00:00',
 				text: 'H mre se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:28:24.891908+00:00',
 				text: 'Accba tu chahti kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:27:50.811741+00:00',
 				text: 'Haan thik h'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-19T19:25:53.858792+00:00',
-				text: 'Junaid Kya hua'
+				text: 'not Kya hua'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -32697,7 +32697,7 @@ const chats = [
 				text: 'Kar Diya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:23:00.373769+00:00',
 				text: 'Haan'
 			},
@@ -32707,7 +32707,7 @@ const chats = [
 				text: 'Zarroori h kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:22:26.290830+00:00',
 				text: 'Kesi h ka'
 			},
@@ -32722,7 +32722,7 @@ const chats = [
 				text: 'Kya reply karu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:21:50.052359+00:00',
 				text: 'Reply bhi to de'
 			},
@@ -32732,17 +32732,17 @@ const chats = [
 				text: 'Usse Kya hoga'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:21:17.282340+00:00',
 				text: 'Ab thik h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:20:23.271756+00:00',
 				text: 'Accha chl grp p reply to kr jldi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:19:41.033176+00:00',
 				text: 'Bta jldi'
 			},
@@ -32757,7 +32757,7 @@ const chats = [
 				text: 'Konsa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:18:22.558101+00:00',
 				text: 'Tune mere question ka ans ni diya'
 			},
@@ -32777,7 +32777,7 @@ const chats = [
 				text: 'Kuch bhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:16:28.262015+00:00',
 				text: 'Kya bolu'
 			},
@@ -32789,7 +32789,7 @@ const chats = [
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-19T19:15:24.318823+00:00',
-				text: 'Ab Kya hua Junaid'
+				text: 'Ab Kya hua not'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -32807,7 +32807,7 @@ const chats = [
 				text: 'Chahe sab sudhar jaye tum nhi sudhro ge'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:13:29.880781+00:00',
 				text: 'Achha sbse acchi kon si h'
 			},
@@ -32822,12 +32822,12 @@ const chats = [
 				text: 'Sab individual baat karege'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:12:56.542008+00:00',
 				text: 'Gaali ki vjhe se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:12:46.970257+00:00',
 				text: 'Kyun'
 			},
@@ -32842,7 +32842,7 @@ const chats = [
 				text: 'Zyada'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:11:18.794390+00:00',
 				text: 'Abe grp p to 2 hi add h na'
 			},
@@ -32852,12 +32852,12 @@ const chats = [
 				text: 'Nhi bht sare friends h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:10:36.500318+00:00',
 				text: 'Grp p'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:10:32.261170+00:00',
 				text: 'Dost tri'
 			},
@@ -32867,7 +32867,7 @@ const chats = [
 				text: 'Kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:10:05.510144+00:00',
 				text: '2 hain na shayad'
 			},
@@ -32877,7 +32877,7 @@ const chats = [
 				text: 'Yahi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:09:34.896868+00:00',
 				text: 'Poora'
 			},
@@ -32897,7 +32897,7 @@ const chats = [
 				text: 'Yrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:08:29.266318+00:00',
 				text: 'Sirf naam hi to puch ra hoon'
 			},
@@ -32907,12 +32907,12 @@ const chats = [
 				text: 'Mujhse baat nhi meri friend ke liye baat Kar Rahe ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:07:16.616810+00:00',
 				text: 'Accha naam bta apni friend ka'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:06:49.346637+00:00',
 				text: 'Mjhe tre se zyada aa ri h mgr phir bhi m tre se baat krra hun na'
 			},
@@ -32922,12 +32922,12 @@ const chats = [
 				text: 'Mujhe nind aa Rahi hai ab'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:05:49.758954+00:00',
 				text: 'Ab kya hua'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:05:44.156648+00:00',
 				text: 'Kyun bhai'
 			},
@@ -32937,12 +32937,12 @@ const chats = [
 				text: 'Bhad me jao'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:05:16.155420+00:00',
 				text: 'Are tu mri bhen h bura mt maana kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:04:52.004320+00:00',
 				text: 'Ese hi'
 			},
@@ -32952,7 +32952,7 @@ const chats = [
 				text: 'Haa haa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:04:41.736155+00:00',
 				text: 'Kya ni kiya'
 			},
@@ -32967,7 +32967,7 @@ const chats = [
 				text: 'Acha pehle batao'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:03:34.255784+00:00',
 				text: 'Kr na drama mt kr ab gaali n hongi tameez'
 			},
@@ -32977,12 +32977,12 @@ const chats = [
 				text: 'Me nhi Kar rahi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:02:42.304308+00:00',
 				text: 'Accha pehle grp p reply kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:02:20.545831+00:00',
 				text: 'Kyun gungi h kya'
 			},
@@ -32992,12 +32992,12 @@ const chats = [
 				text: 'Vo Kisi se bhi baat nhi karti'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:01:33.460416+00:00',
 				text: 'Tu pkka baat kraegi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:01:19.839935+00:00',
 				text: 'To kb aaegi'
 			},
@@ -33007,17 +33007,17 @@ const chats = [
 				text: 'Yrr vo online nhi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:00:36.929715+00:00',
 				text: 'Koi gaali ni hogi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:00:11.649296+00:00',
 				text: 'Chahe to uv ko bahar kr de'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:59:46.189466+00:00',
 				text: 'Kr diya ab tu baat kra'
 			},
@@ -33027,7 +33027,7 @@ const chats = [
 				text: 'Nhi mat karo add pls'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:58:51.799390+00:00',
 				text: 'M tjhe grp p add krra hun tu intro kra hmera apni dost se'
 			},
@@ -33042,7 +33042,7 @@ const chats = [
 				text: 'Kis kis ko baat Karu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:58:04.692469+00:00',
 				text: 'Mtlb ese kregi ab tu'
 			},
@@ -33052,12 +33052,12 @@ const chats = [
 				text: 'O hello mere pass aur bhi bht se kaam h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:56:59.200619+00:00',
 				text: 'Kuch to kaam aa yaar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:56:46.052662+00:00',
 				text: 'Maan ja mri bahen aur kisi dost se mri baat kra bdhiya si'
 			},
@@ -33072,7 +33072,7 @@ const chats = [
 				text: 'No'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:55:11.084313+00:00',
 				text: 'Mtlb mjhe bhai maan liya'
 			},
@@ -33082,12 +33082,12 @@ const chats = [
 				text: 'Sudhari hui hu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:54:26.547387+00:00',
 				text: 'Accha vse tu sudhar gyi kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:53:52.422797+00:00',
 				text: 'Pdh ra hoon'
 			},
@@ -33097,7 +33097,7 @@ const chats = [
 				text: 'Kya Kar Rahe ho abhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:53:16.385595+00:00',
 				text: 'Haan'
 			},
@@ -33122,7 +33122,7 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:51:12.559199+00:00',
 				text: 'Aesi koi ni hoti bnani pdti h'
 			},
@@ -33132,7 +33132,7 @@ const chats = [
 				text: 'Vo aesi h hi nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:50:09.712055+00:00',
 				text: 'Dr h kya kahin pta na loon'
 			},
@@ -33142,7 +33142,7 @@ const chats = [
 				text: 'Meri merji'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:49:37.577693+00:00',
 				text: 'Kyun nhi bta ri'
 			},
@@ -33152,7 +33152,7 @@ const chats = [
 				text: 'Kyu batau'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:49:11.451885+00:00',
 				text: 'Accha vese kya naam h tri friend ka'
 			},
@@ -33167,7 +33167,7 @@ const chats = [
 				text: 'Eye to aati h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:47:55.287605+00:00',
 				text: 'Kese dikhta h'
 			},
@@ -33182,12 +33182,12 @@ const chats = [
 				text: 'Haa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:47:04.097713+00:00',
 				text: 'Aur tjhe kese pta unhone pdha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:46:41.691586+00:00',
 				text: 'Class ki h kya tri'
 			},
@@ -33208,7 +33208,7 @@ const chats = [
 					'Yrr uv gaaliya de Raha tha uss grp me meri friends bhi thi unhone padha tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:44:59.683338+00:00',
 				text: 'Kyun'
 			},
@@ -33218,7 +33218,7 @@ const chats = [
 				text: 'Okk ha Kar Diya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:44:14.845019+00:00',
 				text: 'Delh jhoot mt bola kr'
 			},
@@ -33228,7 +33228,7 @@ const chats = [
 				text: 'Nhi to'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:43:19.457820+00:00',
 				text: 'Grp leave kr diya tune'
 			},
@@ -33238,14 +33238,14 @@ const chats = [
 				text: 'Kese'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T17:04:53.648329+00:00',
 				text: 'Grp p msg kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T17:02:42.352947+00:00',
-				text: 'Sana b na'
+				text: 'anna b na'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
@@ -33253,7 +33253,7 @@ const chats = [
 				text: 'Mujhe grp leave karna kese hota bataiye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T17:00:59.202877+00:00',
 				text: 'Baat to kra grp m'
 			},
@@ -33263,7 +33263,7 @@ const chats = [
 				text: 'No please'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T17:00:24.082254+00:00',
 				text: 'Bta to'
 			},
@@ -33273,7 +33273,7 @@ const chats = [
 				text: 'Kyu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T16:59:50.023461+00:00',
 				text: 'H kon kon grp m'
 			},
@@ -33288,12 +33288,12 @@ const chats = [
 				text: 'Aese hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T16:26:59.870055+00:00',
 				text: 'Kyun'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T16:26:44.427814+00:00',
 				text: 'Konsa'
 			},
@@ -33303,12 +33303,12 @@ const chats = [
 				text: 'Grp leave karna h mujhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:18:03.387411+00:00',
 				text: 'Kon kon h ye grp m'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:10:11.300359+00:00',
 				heart: '❤️'
 			},
@@ -33318,19 +33318,19 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T06:19:05.248351+00:00',
 				text: 'Haan to'
 			},
 			{
 				sender: '__deleted__bhiebeafeacedigbh',
 				created_at: '2017-04-18T20:44:18.199098+00:00',
-				text: 'Hi Junaid I am sana'
+				text: 'Hi not I am anna'
 			}
 		]
 	},
 	{
-		participants: ['shaine_ansari_', 'just_junaid_here'],
+		participants: ['shaine_ansari_', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'shaine_ansari_',
@@ -33343,7 +33343,7 @@ const chats = [
 				text: 'haan bro all the best'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:11:02.781540+00:00',
 				text: 'Haan bhai dekhte h.😄'
 			},
@@ -33358,17 +33358,17 @@ const chats = [
 				text: 'Bhai londa chutiya hoga  mat suna Kr Bhai tension na le'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:07:38.435922+00:00',
 				text: 'Clg milna zroori h 3 round tk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:07:00.355033+00:00',
 				text: 'Abe ek londa keh ra tha ki'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:06:46.718948+00:00',
 				text: 'Tbhi to puch ra m'
 			},
@@ -33378,7 +33378,7 @@ const chats = [
 				text: 'haan Kya pata acha mil jaaye spot Mein tereko'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:06:11.397692+00:00',
 				text: 'Accha bhai shi h phir to'
 			},
@@ -33388,7 +33388,7 @@ const chats = [
 				text: 'Bhai spot unhi ke liye hota hai jinhe kuch na mila hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:05:23.736907+00:00',
 				text: 'Ki agr na mila teeno round m kuch bhi'
 			},
@@ -33398,7 +33398,7 @@ const chats = [
 				text: 'haan Bhai pakka'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:05:07.777488+00:00',
 				text: 'Achha mtlb pkka pta na tjhe'
 			},
@@ -33418,22 +33418,22 @@ const chats = [
 				text: 'haan Bhai 2000'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:04:08.690860+00:00',
 				text: 'Aur spot'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:03:59.093150+00:00',
 				text: 'M beth skte h?'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:03:50.669138+00:00',
 				text: 'Yo sliding round'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:03:41.425577+00:00',
 				text: 'Bhai ip m 3rd roubd tk agr kuch na mile'
 			},
@@ -33443,17 +33443,17 @@ const chats = [
 				text: 'haan bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:03:17.690030+00:00',
 				text: 'Agr tjhe pta h to'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:03:08.233629+00:00',
 				text: 'Abe yr ek baat bya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:03:01.826890+00:00',
 				text: 'Bhai abhi to jaypee m hi h'
 			},
@@ -33463,7 +33463,7 @@ const chats = [
 				text: 'haan Bhai tu Bata kha liya tune'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T16:59:34.957941+00:00',
 				text: 'Bdhiya h bc'
 			},
@@ -33478,12 +33478,12 @@ const chats = [
 				text: 'Bhai dtu ke civil se biotech Mein upgrade karaya hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T16:58:47.196646+00:00',
 				text: 'Kya mila'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T16:58:44.189524+00:00',
 				text: 'Le lia'
 			},
@@ -33498,12 +33498,12 @@ const chats = [
 				text: 'aur Bata Bhai sab badiyya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T16:57:00.119944+00:00',
 				text: 'Kya kr skte h...bc😆😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T16:56:40.262031+00:00',
 				text: '😂😂😂'
 			},
@@ -33518,12 +33518,12 @@ const chats = [
 				text: '😂😂😂😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T16:54:53.756295+00:00',
 				text: '😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T16:54:50.029646+00:00',
 				text:
 					'PPut the same story as I did and give your friends beautiful names..Keep the game going on!😄💝\n1 - kumbkaran\n2 - Lover\n3 - Cockroach\n4 - Bhukkad\n5 - Billa/Billi\n6 - Bewakuf\n7 - meri jaan\n8 - best frd\n9 - Tiger\n10 - Sweetheart \n11 - pagal\n12 - My Life \n13 - Ullu\n14 - Your Name\n15 - My Love\n16 - Monkey \n17 -  nice \n18 - Beautiful \n19 - Janu\n20 - ravan\n21- Baby elephant\n22 - Dhinchak\n23 - Kamina/Kamini\n24 - Bitch\n25 - Cutie pie 😂😘'
@@ -33531,21 +33531,21 @@ const chats = [
 			{
 				sender: 'shaine_ansari_',
 				created_at: '2017-07-19T15:20:27.030805+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '11'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-26T21:00:42.343855+00:00',
 				text: 'Guests vgera aaye hue h na...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-26T21:00:19.300702+00:00',
 				text: 'Bhai wo phone band pada tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-26T20:59:46.454894+00:00',
 				text: 'Bhai tjhe bhi...eid mubarak'
 			},
@@ -33562,7 +33562,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['shamy968', 'just_junaid_here'],
+		participants: ['shamy968', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'shamy968',
@@ -33570,12 +33570,12 @@ const chats = [
 				text: 'Whatsapp pe aa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:46:38.979046+00:00',
 				text: 'Bhej phir'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:46:33.633726+00:00',
 				text: 'Shi m bc'
 			},
@@ -33585,7 +33585,7 @@ const chats = [
 				text: 'Bhai gana gaya hai bhut tagda studio me ..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:38:15.187381+00:00',
 				text: 'Kyun esa kya ho gyq'
 			},
@@ -33595,7 +33595,7 @@ const chats = [
 				text: 'Bhai ab tumhara bhai hero ho gya hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:36:40.234057+00:00',
 				text: '9211662744'
 			},
@@ -33605,17 +33605,17 @@ const chats = [
 				text: 'Bhai whats app no dede apna'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:34:57.024660+00:00',
 				text: 'Raula h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:34:52.964743+00:00',
 				text: 'Gjjb'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:34:49.421158+00:00',
 				text: 'Shi h bc'
 			},
@@ -33630,12 +33630,12 @@ const chats = [
 				text: 'Okkk brooo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:33:53.143446+00:00',
 				text: 'Out of station hun...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-08-01T15:33:37.978711+00:00',
 				text: 'Abe abhi baat ni kr skta'
 			},
@@ -33670,24 +33670,24 @@ const chats = [
 				text: 'Hmm theek hai sab delete kar diyee msg'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T20:08:30.097132+00:00',
 				text: 'Ab m sora bye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T20:07:58.350681+00:00',
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T20:07:57.872459+00:00',
 				text: 'Haan shi keh ra'
 			},
 			{
 				sender: 'shamy968',
 				created_at: '2017-04-19T20:07:01.125686+00:00',
-				text: 'Sana se achi h'
+				text: 'anna se achi h'
 			},
 			{
 				sender: 'shamy968',
@@ -33695,7 +33695,7 @@ const chats = [
 				text: 'Bhai ksam see'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T20:06:39.538560+00:00',
 				text: 'Rhende bs ab bhut ho gya'
 			},
@@ -33720,12 +33720,12 @@ const chats = [
 				text: 'Bhai kasam se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T20:05:48.801949+00:00',
 				text: 'Hahaha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T20:05:44.789338+00:00',
 				text: 'Bc'
 			},
@@ -33745,39 +33745,39 @@ const chats = [
 				text: 'Banne de'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T20:02:46.049442+00:00',
 				text: 'Londiya baaj wali image bn jaaegi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T20:02:20.840615+00:00',
 				text: 'Tu chutiya h kya be'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T20:01:44.190885+00:00',
 				text: 'Grou p'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T20:01:38.730428+00:00',
 				text: 'Pic'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T20:01:33.620607+00:00',
 				text: 'Tri or mri'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T20:00:13.458162+00:00',
 				text: 'Chutiya h kya'
 			},
 			{
 				sender: 'shamy968',
 				created_at: '2017-04-19T19:58:54.963249+00:00',
-				text: 'Junnu yr Sana baby babu likh rhi h gaand chod de kya'
+				text: 'Junnu yr anna baby babu likh rhi h gaand chod de kya'
 			},
 			{
 				sender: 'shamy968',
@@ -33795,34 +33795,34 @@ const chats = [
 				text: 'Hmm bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:56:49.089345+00:00',
 				text: 'Soch samajh k likh ladkiya phasani h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:56:16.329703+00:00',
 				text: 'Abe bc mt kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:31:37.379158+00:00',
 				text: 'Puri lenge uski'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:31:25.127880+00:00',
-				text: 'Abe grp bba jisme m tu aur sana'
+				text: 'Abe grp bba jisme m tu aur anna'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:30:45.928379+00:00',
 				text: 'Hahaha'
 			},
 			{
 				sender: 'shamy968',
 				created_at: '2017-04-19T08:30:45.247824+00:00',
-				text: 'Sana ka ..bhosdike'
+				text: 'anna ka ..bhosdike'
 			},
 			{
 				sender: 'shamy968',
@@ -33830,7 +33830,7 @@ const chats = [
 				text: 'Charges apply- mota lund and big dick with flexibility'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:30:01.597538+00:00',
 				text: 'Kiska h'
 			},
@@ -33841,17 +33841,17 @@ const chats = [
 					'9250194894 is no ko milaiye aur paiye apni man pasand ladki se baat karne ka mauka aj hi dial kijiye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:29:39.520252+00:00',
 				text: 'Mre lode lgwa de'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:29:27.685743+00:00',
 				text: 'Shi h be tra to kam bn gya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:28:43.918866+00:00',
 				text: 'Haaahahaa'
 			},
@@ -33861,7 +33861,7 @@ const chats = [
 				text: 'Yahi hoga ab'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:28:37.571088+00:00',
 				text: 'Bhen chod'
 			},
@@ -33871,7 +33871,7 @@ const chats = [
 				text: 'Waah'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:28:26.920173+00:00',
 				text: 'Abe bhosdi k'
 			},
@@ -33884,12 +33884,12 @@ const chats = [
 				sender: 'shamy968',
 				created_at: '2017-04-19T08:28:08.899824+00:00',
 				text:
-					'Hmm bhai ham kah denge usse ki ham tumhe junaid phaswa denge tum hame koi phaswa do'
+					'Hmm bhai ham kah denge usse ki ham tumhe not phaswa denge tum hame koi phaswa do'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:27:36.730923+00:00',
-				text: 'Ab to sana kaam ayegi'
+				text: 'Ab to anna kaam ayegi'
 			},
 			{
 				sender: 'shamy968',
@@ -33907,12 +33907,12 @@ const chats = [
 				text: 'Bhai ham chunne me aa gye the'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:26:50.479770+00:00',
 				text: 'Ab mu m lele'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:26:36.517402+00:00',
 				text: 'Bhen ke lode madr chod kaam bigad diya tune'
 			},
@@ -33934,7 +33934,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['rishabh77_gujjar', 'just_junaid_here'],
+		participants: ['rishabh77_gujjar', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'rishabh77_gujjar',
@@ -33942,13 +33942,13 @@ const chats = [
 				text: 'tq😊'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-31T00:16:06.662752+00:00',
 				story_share: "Shared rishabh77_gujjar's story",
 				text: 'Bhai hairstyle sexy hora👌..tra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-31T00:15:28.326456+00:00',
 				story_share: "Shared rishabh77_gujjar's story",
 				text: 'Bhai h'
@@ -33956,10 +33956,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['sushant_jaiswal', 'just_junaid_here'],
+		participants: ['sushant_jaiswal', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-20T16:31:55.015834+00:00',
 				text: '😁'
 			},
@@ -33969,12 +33969,12 @@ const chats = [
 				text: 'ofcourse bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-20T05:24:22.443519+00:00',
 				text: '😂👍'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-20T05:21:49.380218+00:00',
 				text:
 					'PPut the same story as I did and give your friends beautiful names..Keep the game going on!😄💝\n1 - kumbkaran\n2 - Lover\n3 - Cockroach\n4 - Bhukkad\n5 - Billa/Billi\n6 - Bewakuf\n7 - meri jaan\n8 - best frd\n9 - Tiger\n10 - Sweetheart \n11 - pagal\n12 - My Life \n13 - Ullu\n14 - Your Name\n15 - My Love\n16 - Monkey \n17 -  nice \n18 - Beautiful \n19 - Janu\n20 - ravan\n21- Baby elephant\n22 - Dhinchak\n23 - Kamina/Kamini\n24 - Bitch\n25 - Cutie pie 😂😘'
@@ -33982,16 +33982,16 @@ const chats = [
 			{
 				sender: 'sushant_jaiswal',
 				created_at: '2017-07-19T21:03:38.932534+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '8'
 			}
 		]
 	},
 	{
-		participants: ['sanchit______', 'just_junaid_here'],
+		participants: ['sanchit______', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-20T10:22:46.290804+00:00',
 				text: '😀'
 			},
@@ -34006,17 +34006,17 @@ const chats = [
 				text: 'Sahi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-20T05:24:25.412939+00:00',
 				text: '✌'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-20T05:24:24.448660+00:00',
 				text: 'Baki ip ki bhi councelling chl ri h..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-20T05:24:23.172025+00:00',
 				text: 'Bhai jamia delhi m ummeed h..'
 			},
@@ -34041,17 +34041,17 @@ const chats = [
 				text: 'Bhai abhi na liya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:06:30.645634+00:00',
 				text: '?@'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T17:06:24.375450+00:00',
 				text: 'Aur kahan liya adm.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T16:54:32.286296+00:00',
 				text: '😂👍'
 			},
@@ -34066,12 +34066,12 @@ const chats = [
 				text: '😂😂😂😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T14:23:35.382470+00:00',
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T14:23:14.794131+00:00',
 				text:
 					'PPut the same story as I did and give your friends beautiful names..Keep the game going on!😄💝\n1 - kumbkaran\n2 - Lover\n3 - Cockroach\n4 - Bhukkad\n5 - Billa/Billi\n6 - Bewakuf\n7 - meri jaan\n8 - best frd\n9 - Tiger\n10 - Sweetheart \n11 - pagal\n12 - My Life \n13 - Ullu\n14 - Your Name\n15 - My Love\n16 - Monkey \n17 -  nice \n18 - Beautiful \n19 - Janu\n20 - ravan\n21- Baby elephant\n22 - Dhinchak\n23 - Kamina/Kamini\n24 - Bitch\n25 - Cutie pie 😂😘'
@@ -34079,7 +34079,7 @@ const chats = [
 			{
 				sender: 'sanchit______',
 				created_at: '2017-07-19T14:22:20.910712+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: '14'
 			},
 			{
@@ -34088,7 +34088,7 @@ const chats = [
 				text: '😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-12T21:34:44.758052+00:00',
 				story_share: "Shared sanchit______'s story",
 				text: 'Hahahaha.....gjjb londe.!!!'
@@ -34096,17 +34096,17 @@ const chats = [
 		]
 	},
 	{
-		participants: ['syeda_kizran', 'just_junaid_here'],
+		participants: ['syeda_kizran', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-19T12:15:30.161692+00:00',
 				text: 'Can u tll me where r u sending nawaz...lol...ur #bio😂😂'
 			}
 		]
 	},
 	{
-		participants: ['pasricha015', 'just_junaid_here'],
+		participants: ['pasricha015', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'pasricha015',
@@ -34114,7 +34114,7 @@ const chats = [
 				text: 'Thnku😊'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-18T09:11:09.674060+00:00',
 				story_share: "Shared pasricha015's story",
 				text: 'Too good👌😍'
@@ -34122,7 +34122,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['__deleted__bhiebeadjfgbcbjdc', 'just_junaid_here'],
+		participants: ['__deleted__bhiebeadjfgbcbjdc', 'just_not_here'],
 		conversation: [
 			{
 				sender: '__deleted__bhiebeadjfgbcbjdc',
@@ -34135,22 +34135,22 @@ const chats = [
 				text: 'Thnks'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-17T10:48:50.580923+00:00',
 				text: 'Congo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-17T10:48:38.772342+00:00',
 				text: 'Accha shi h yaar'
 			}
 		]
 	},
 	{
-		participants: ['malik_aditi_', 'just_junaid_here'],
+		participants: ['malik_aditi_', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:39:32.997859+00:00',
 				text:
 					'Accept this "BEST PIC CHALLENGE"\n\n📸: Send me your best pic\n\n📸: And forward this message to all your friends\n📸: At the end you will get an amazing picture collection of your Friends.\nP.S. - i will post the pic on my story😎'
@@ -34166,12 +34166,12 @@ const chats = [
 				text: 'Nah'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-07T08:31:13.070494+00:00',
 				text: 'Aur koi option h kya tum bta do??'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-07T08:30:41.249379+00:00',
 				text: 'Haan to tm puch rhi thi.....haan yr btech hi krna h...'
 			},
@@ -34186,7 +34186,7 @@ const chats = [
 				text: 'Ohk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T18:00:24.672695+00:00',
 				text: 'Sry yr gotta go urgent ttyl'
 			},
@@ -34201,7 +34201,7 @@ const chats = [
 				text: 'Socha toh yhi h yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:56:36.473695+00:00',
 				text: 'Krna btech hi h?'
 			},
@@ -34216,12 +34216,12 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:55:39.533500+00:00',
 				text: 'Mgr private hi milega'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:55:27.238285+00:00',
 				text: 'Bdhiya to h'
 			},
@@ -34236,7 +34236,7 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:54:23.516374+00:00',
 				text: '7k gnrl'
 			},
@@ -34251,7 +34251,7 @@ const chats = [
 				text: 'Kitni'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:54:06.259009+00:00',
 				text: 'Mri bekar h'
 			},
@@ -34261,7 +34261,7 @@ const chats = [
 				text: '7k'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:53:17.116725+00:00',
 				text: 'Rank??'
 			},
@@ -34271,7 +34271,7 @@ const chats = [
 				text: 'Ha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:52:47.864777+00:00',
 				text: 'Are mtlb krogi socha to hoga hi'
 			},
@@ -34281,7 +34281,7 @@ const chats = [
 				text: 'Abi start ni hui'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:52:11.654501+00:00',
 				link: 'cons.ki',
 				text: 'Accha tmne uptu ki cons.ki'
@@ -34297,7 +34297,7 @@ const chats = [
 				text: 'H'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:51:47.022778+00:00',
 				text: 'Haan yr vhi to...'
 			},
@@ -34312,7 +34312,7 @@ const chats = [
 				text: 'Haa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:46:37.131866+00:00',
 				text: 'Family ko vese smjhna chahiye'
 			},
@@ -34327,12 +34327,12 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:45:06.834576+00:00',
 				text: 'Vrna apna to kch ni h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:44:55.655751+00:00',
 				text: 'Haan yr family ke case m serious hona pdta h...'
 			},
@@ -34352,12 +34352,12 @@ const chats = [
 				text: '😅😅'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:42:22.312363+00:00',
 				text: 'Mjhe ni lgta koi h..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T17:41:56.681247+00:00',
 				text: 'Btw wt are the cases??'
 			},
@@ -34368,17 +34368,17 @@ const chats = [
 					'Ha Yr hu m emotionless..... Actually sirf Kuch hi cases me emotional hu bs'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T07:09:38.862741+00:00',
 				text: 'Aur chhoda yr mt dilao wo time yd...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T07:02:47.882820+00:00',
 				text: 'Nd u emotionless...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T07:02:10.624759+00:00',
 				text: 'Haan vo to h...chhodo ab kya kr skte h'
 			},
@@ -34398,12 +34398,12 @@ const chats = [
 				text: 'Ohho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T04:13:40.282479+00:00',
 				text: 'Are wo m emotional ho gya tha...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T04:12:56.170780+00:00',
 				text: 'Bola to sorry.....madm'
 			},
@@ -34418,14 +34418,14 @@ const chats = [
 				text: 'Block b krdiya tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T15:05:07.491219+00:00',
 				text: 'Srry yr uss time tmhe unfollw kiya'
 			}
 		]
 	},
 	{
-		participants: ['arifkhan4977', 'just_junaid_here'],
+		participants: ['arifkhan4977', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'arifkhan4977',
@@ -34433,7 +34433,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:36:31.684679+00:00',
 				text: '👍'
 			},
@@ -34443,7 +34443,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:33:22.382164+00:00',
 				story_share: "Shared arifkhan4977's story",
 				text: '😂😂😂👍👍'
@@ -34455,12 +34455,12 @@ const chats = [
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e15/p480x480/19764535_824566111046245_1478809711628255232_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=101&_nc_ohc=33K5PNM5HccAX_egI4M&_nc_tp=4&oh=9a77f47d80a21cbbf26acc8e9b7c9a7f&oe=5EB183C7&ig_cache_key=MjE2NjAyNjY3MjQyNjkzMjk4NQ%3D%3D.2'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:29:51.574678+00:00',
 				text: 'Tu bhi bhej bhai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:29:43.308061+00:00',
 				media:
 					'https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-15/e15/p480x480/19764998_833985020088059_6445844371890765824_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_ohc=aO3CjX1Z91MAX_N3rI0&_nc_tp=4&oh=7f6b446f6cf5f43a7493be0464ece522&oe=5EB2C7EC&ig_cache_key=MjE2NjAyNjY3MjQxMDExMjU1OA%3D%3D.2'
@@ -34472,14 +34472,14 @@ const chats = [
 					'Accept this "BEST PIC CHALLENGE"\n\n📸: Send me your best pic\n\n📸: And forward this message to all your friends\n📸: At the end you will get an amazing picture collection of your Friends.\nP.S. - i will post the pic on my story😎'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-07-05T19:27:48.423402+00:00',
 				text: 'Kya bhai?'
 			},
 			{
 				sender: 'arifkhan4977',
 				created_at: '2017-07-05T19:25:34.562587+00:00',
-				story_share: "Shared just_junaid_here's story",
+				story_share: "Shared just_not_here's story",
 				text: 'Abe BhAi apne tOo photo snd Kr dOo'
 			},
 			{
@@ -34508,12 +34508,12 @@ const chats = [
 				text: 'Bhaaii'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-17T19:26:46.179545+00:00',
 				text: 'Or sb thik h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-17T19:26:38.361267+00:00',
 				text: 'Bhai engineering tu bta kya krra'
 			},
@@ -34533,7 +34533,7 @@ const chats = [
 				text: 'Khhaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-17T19:25:18.149182+00:00',
 				text: 'Bdhiya bhai tu bta'
 			},
@@ -34551,10 +34551,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'i_gulista_choudhary'],
+		participants: ['just_not_here', 'i_gulista_choudhary'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-12T08:20:11.177427+00:00',
 				text: 'Kya be.??'
 			},
@@ -34569,12 +34569,12 @@ const chats = [
 				text: 'Panther'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-07T08:29:58.639906+00:00',
 				text: 'Pink...'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-07T08:29:56.743320+00:00',
 				text: 'Tin ...tidin...... tidin tidin tidin'
 			},
@@ -34584,7 +34584,7 @@ const chats = [
 				text: 'Happ'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T16:50:02.823552+00:00',
 				text: 'Hatt'
 			},
@@ -34594,7 +34594,7 @@ const chats = [
 				text: 'Pdhle'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T10:17:24.894169+00:00',
 				heart: '❤️'
 			},
@@ -34604,7 +34604,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-06T04:14:16.738972+00:00',
 				text: 'Hmm'
 			},
@@ -34614,17 +34614,17 @@ const chats = [
 				text: 'Achaji'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T19:05:08.064873+00:00',
 				text: 'Bachpna tha abhi tk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T19:04:58.501346+00:00',
 				text: 'Soch badl gyi mri'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T19:04:45.897096+00:00',
 				text: 'Shi m'
 			},
@@ -34639,17 +34639,17 @@ const chats = [
 				text: 'Oh really'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:38:49.627904+00:00',
 				text: 'Pure soul req.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:38:34.282218+00:00',
 				text: 'Body se mtlb ni h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:38:12.882148+00:00',
 				text: 'Sb chalegi'
 			},
@@ -34669,17 +34669,17 @@ const chats = [
 				text: 'Hehehe acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:36:41.460357+00:00',
 				text: 'Wife to esi hi honi chahiye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:36:09.203812+00:00',
 				text: 'Sweetvsimple tikau'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:35:55.017797+00:00',
 				text: 'Lets see hota h ganvaar'
 			},
@@ -34709,17 +34709,17 @@ const chats = [
 				text: 'Hehehe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:34:59.214002+00:00',
 				text: 'Koi na koi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:34:54.706297+00:00',
 				text: 'Mgr koi ni inshallah milega zroor'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:34:34.573327+00:00',
 				text: 'Haan vo to h'
 			},
@@ -34754,22 +34754,22 @@ const chats = [
 				text: 'Hehege'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:31:52.076129+00:00',
 				text: 'Feel'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:31:35.890493+00:00',
 				text: 'Mne bhi ni kiya shi btau to'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:30:57.032588+00:00',
 				text: 'Aajkl ldkon se zyada ldkiyan ghoor ti h hadd h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:30:27.489340+00:00',
 				text: 'Taadti ni tu...aur ldkiyan kha jaati h'
 			},
@@ -34789,12 +34789,12 @@ const chats = [
 				text: 'Scheme ksm se yr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:29:56.542189+00:00',
 				text: 'M maan hi ni skta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:29:49.345124+00:00',
 				text: 'Aaj tk koi ldka psnd hi ni aaya'
 			},
@@ -34814,22 +34814,22 @@ const chats = [
 				text: 'Haww'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:29:25.897346+00:00',
 				text: 'Tu bhut bdi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:29:18.133601+00:00',
 				text: 'Jhoothi h r'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:28:58.706076+00:00',
 				text: 'Single*'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:28:49.472366+00:00',
 				text: 'Hum bhi aingle hi khush h'
 			},
@@ -34849,7 +34849,7 @@ const chats = [
 				text: 'Hehehe are bhot tym h usme'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:28:07.375121+00:00',
 				text: 'Hatt aukat m reh'
 			},
@@ -34859,7 +34859,7 @@ const chats = [
 				text: 'Vese crush hna Justin beber'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:27:40.453052+00:00',
 				text: 'Ya phir shadi hi direct'
 			},
@@ -34874,12 +34874,12 @@ const chats = [
 				text: 'Ni... Abtk koi esani mila'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:27:17.614653+00:00',
 				text: 'Achha crush vgera to hoga hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:27:02.862008+00:00',
 				text: 'Vhi mne abhi kaha'
 			},
@@ -34904,7 +34904,7 @@ const chats = [
 				text: 'Ni ksm se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:24:06.406114+00:00',
 				text: 'Accha h bdhiya mgr mn to krta hoga tra jhoot mt boliyo'
 			},
@@ -34919,7 +34919,7 @@ const chats = [
 				text: 'Hehehe ni bs'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:22:52.212580+00:00',
 				text: 'Agr kuch kabhi mood bne setting vgera ka'
 			},
@@ -34934,7 +34934,7 @@ const chats = [
 				text: 'Are na na'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:22:21.685697+00:00',
 				text: 'Accha agr tjhe ladko k mattr m kuch poochna h to puch skti h'
 			},
@@ -34949,7 +34949,7 @@ const chats = [
 				text: 'Hehe mere pas ni h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:21:31.069021+00:00',
 				text: 'Kch dhangka puch'
 			},
@@ -34969,12 +34969,12 @@ const chats = [
 				text: 'Hehehe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:20:30.691196+00:00',
 				text: 'Ques do word ka ans. Infinite words ka...hatt or bata'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:19:57.053876+00:00',
 				text: 'Iss or bta ka kya and. Hota h'
 			},
@@ -34999,12 +34999,12 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:18:37.619560+00:00',
 				text: 'Aur wese bhi gaali ni di ab tk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:17:11.290305+00:00',
 				text: 'Baachi h kya tu abhi tk sb chlta h yr'
 			},
@@ -35024,17 +35024,17 @@ const chats = [
 				text: "Don't abuse"
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:16:26.638589+00:00',
 				text: 'Haraami hote h londe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:16:14.008895+00:00',
 				text: 'Unka mksd pura ho jae bs wo chhod dete h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:15:32.162831+00:00',
 				text: 'Are ladke ni itna chep hote wo time paas krte h pagli'
 			},
@@ -35054,22 +35054,22 @@ const chats = [
 				text: 'Oho... To fir single hi best h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:14:24.714871+00:00',
 				text: ',,.**'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:14:12.872590+00:00',
 				text: 'Srry chhodo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:13:58.235878+00:00',
 				text: 'Pati maan leti hain'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:13:48.673424+00:00',
 				text: 'Mat chodo kaha jaa rhe ho kahan nhi sb btao'
 			},
@@ -35084,7 +35084,7 @@ const chats = [
 				text: 'Ku bhaeeee'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:13:08.895020+00:00',
 				text: 'Pat to jaati h mgr phir chep ho jaati h'
 			},
@@ -35094,12 +35094,12 @@ const chats = [
 				text: '😱'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:12:46.995886+00:00',
 				text: 'Are yr ladkiyon se pareshan aa gya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:12:12.757165+00:00',
 				text: 'Nhi koi aur h'
 			},
@@ -35114,17 +35114,17 @@ const chats = [
 				text: 'Hehe are janti hu vhi aliya bhatt na'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:11:16.002993+00:00',
 				text: 'Cute h bhut wo pics dekiyo kbhi insta ki'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:10:51.743958+00:00',
 				text: 'Phir bhi dm krta rehta hoon'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:10:34.723447+00:00',
 				text: 'Pta h...'
 			},
@@ -35139,7 +35139,7 @@ const chats = [
 				text: 'Tu kaise kaise abd  shab use kr RHA h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:09:46.728151+00:00',
 				text: 'Alia bhatt pata rha hoon'
 			},
@@ -35154,12 +35154,12 @@ const chats = [
 				text: '😱'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:09:23.602056+00:00',
 				text: 'Tjhe kya lg ra'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:08:53.804085+00:00',
 				text: 'Sexxyy'
 			},
@@ -35179,7 +35179,7 @@ const chats = [
 				text: 'Or bta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:08:08.107686+00:00',
 				text: 'Lol'
 			},
@@ -35199,12 +35199,12 @@ const chats = [
 				text: '😱'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:05:47.509495+00:00',
 				text: 'Hahahha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:05:39.208380+00:00',
 				text: 'Kiye ni i use protections'
 			},
@@ -35224,7 +35224,7 @@ const chats = [
 				text: 'Or bta kesa h chore'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:05:03.689983+00:00',
 				text: 'Dp m to pyari lg ri h'
 			},
@@ -35234,17 +35234,17 @@ const chats = [
 				text: 'Heheh na na'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:04:07.496377+00:00',
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:03:55.529156+00:00',
 				text: 'Aur kuch'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:03:50.921633+00:00',
 				text: 'Thanku'
 			},
@@ -35259,7 +35259,7 @@ const chats = [
 				text: 'Chl be chl bimar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-06-05T18:02:38.704737+00:00',
 				text: 'Hlo'
 			},
@@ -35271,10 +35271,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['tamara__scardina', 'just_junaid_here'],
+		participants: ['tamara__scardina', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-22T04:57:54.273194+00:00',
 				story_share: "Shared None's story",
 				text: 'Nice legs btw...'
@@ -35282,7 +35282,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['__.f.a.i.z.a.n.___', 'thatbrownboye', 'just_junaid_here'],
+		participants: ['__.f.a.i.z.a.n.___', 'thatbrownboye', 'just_not_here'],
 		conversation: [
 			{
 				sender: '__.f.a.i.z.a.n.___',
@@ -35298,7 +35298,7 @@ const chats = [
 			'ironically_telling',
 			'__.f.a.i.z.a.n.___',
 			'thatbrownboye',
-			'just_junaid_here'
+			'just_not_here'
 		],
 		conversation: [
 			{
@@ -35311,7 +35311,7 @@ const chats = [
 				created_at: '2017-05-13T05:49:02.837610+00:00',
 				likes: [
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2017-05-13T05:53:19.599351+00:00'
 					},
 					{
@@ -35326,10 +35326,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['vanshaj__chauhan', 'just_junaid_here'],
+		participants: ['vanshaj__chauhan', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-05-12T21:31:09.442206+00:00',
 				story_share: "Shared vanshaj__chauhan's story",
 				text: '7'
@@ -35337,7 +35337,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', '__deleted__bhiebeaehbijjcfeh'],
+		participants: ['just_not_here', '__deleted__bhiebeaehbijjcfeh'],
 		conversation: [
 			{
 				sender: '__deleted__bhiebeaehbijjcfeh',
@@ -35345,7 +35345,7 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-25T04:36:58.353686+00:00',
 				text: 'Accha sorry'
 			},
@@ -35355,7 +35355,7 @@ const chats = [
 				text: 'Kya I am your sis not bro'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-24T16:08:55.043619+00:00',
 				text: 'Hlo bro'
 			},
@@ -35380,12 +35380,12 @@ const chats = [
 				text: 'OK'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-21T18:56:47.607484+00:00',
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-21T18:55:43.300289+00:00',
 				text: 'Kr diya'
 			},
@@ -35397,7 +35397,7 @@ const chats = [
 			{
 				sender: '__deleted__bhiebeaehbijjcfeh',
 				created_at: '2017-04-21T15:37:53.765887+00:00',
-				text: 'Bhai sana ko unblock kardo'
+				text: 'Bhai anna ko unblock kardo'
 			},
 			{
 				sender: '__deleted__bhiebeaehbijjcfeh',
@@ -35430,12 +35430,12 @@ const chats = [
 				text: 'Abhi vali'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T15:14:22.376173+00:00',
 				text: 'Kyun kri upload'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T15:14:12.323747+00:00',
 				text: 'Kr di itni saari'
 			},
@@ -35450,7 +35450,7 @@ const chats = [
 				text: 'Kardo bh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T15:13:09.957704+00:00',
 				heart: '❤️'
 			},
@@ -35470,12 +35470,12 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T15:12:43.876935+00:00',
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T15:12:41.678028+00:00',
 				text: 'No'
 			},
@@ -35485,7 +35485,7 @@ const chats = [
 				text: 'Yes'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T15:11:52.457201+00:00',
 				text: 'Zabrdasti h kya'
 			},
@@ -35500,7 +35500,7 @@ const chats = [
 				text: 'Meri new posts like karo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T15:10:10.132214+00:00',
 				heart: '❤️'
 			},
@@ -35520,7 +35520,7 @@ const chats = [
 				text: 'Bye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:26:45.152062+00:00',
 				text: 'Hmmm'
 			},
@@ -35530,7 +35530,7 @@ const chats = [
 				text: 'Pyare Bhai ka pyaar'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:25:10.759076+00:00',
 				text: 'Pyaar'
 			},
@@ -35540,7 +35540,7 @@ const chats = [
 				text: 'Kya hai ye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:24:48.855710+00:00',
 				heart: '❤️'
 			},
@@ -35550,7 +35550,7 @@ const chats = [
 				text: '👎'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:24:20.611908+00:00',
 				text: 'Mre ko koi kuch ni btata'
 			},
@@ -35560,7 +35560,7 @@ const chats = [
 				text: 'Kyu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:23:55.321583+00:00',
 				text: 'Nhi'
 			},
@@ -35570,7 +35570,7 @@ const chats = [
 				text: 'Kyu bataya nhi Kisi ne'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:23:20.181271+00:00',
 				text: 'Pta ni'
 			},
@@ -35580,7 +35580,7 @@ const chats = [
 				text: 'Kha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:22:58.231388+00:00',
 				text: 'Gye h'
 			},
@@ -35590,7 +35590,7 @@ const chats = [
 				text: 'Acha sab Kha hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:22:22.343027+00:00',
 				text: 'Abhi m akela hoon'
 			},
@@ -35600,7 +35600,7 @@ const chats = [
 				text: 'Kya samjhna'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:22:07.750253+00:00',
 				text: 'Samjha kr'
 			},
@@ -35620,7 +35620,7 @@ const chats = [
 				text: 'Zyada Na itrao'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:21:06.951008+00:00',
 				text: 'Kya h'
 			},
@@ -35635,7 +35635,7 @@ const chats = [
 				text: 'Kyu by'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:19:52.472513+00:00',
 				text: 'Nhi abhi ni'
 			},
@@ -35655,7 +35655,7 @@ const chats = [
 				text: 'Kyu nhi hai khecho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:19:15.842238+00:00',
 				text: 'Nhi h'
 			},
@@ -35670,7 +35670,7 @@ const chats = [
 				text: 'Single means single'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:18:12.703472+00:00',
 				likes: [
 					{
@@ -35678,7 +35678,7 @@ const chats = [
 						date: '2017-04-20T14:18:20.193121+00:00'
 					},
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2017-04-20T14:19:28.882262+00:00'
 					}
 				],
@@ -35701,7 +35701,7 @@ const chats = [
 				text: 'Looking like a jocker'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:17:21.035000+00:00',
 				likes: [
 					{
@@ -35709,7 +35709,7 @@ const chats = [
 						date: '2017-04-20T14:17:40.380970+00:00'
 					},
 					{
-						username: 'just_junaid_here',
+						username: 'just_not_here',
 						date: '2017-04-20T14:19:33.339963+00:00'
 					}
 				],
@@ -35722,7 +35722,7 @@ const chats = [
 				text: 'Are sab ki bhejo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:16:45.852809+00:00',
 				likes: [
 					{
@@ -35749,12 +35749,12 @@ const chats = [
 				text: 'OK fime'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:16:00.286451+00:00',
 				text: 'Bilkul abhi ki h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:15:46.227803+00:00',
 				likes: [
 					{
@@ -35771,7 +35771,7 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:15:04.968856+00:00',
 				text: 'Ruk'
 			},
@@ -35791,7 +35791,7 @@ const chats = [
 				text: 'plzzzzzzzzzzzzzzzz'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:14:28.871903+00:00',
 				text: 'Apni'
 			},
@@ -35821,7 +35821,7 @@ const chats = [
 				text: 'Sab ki'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-20T14:12:55.497719+00:00',
 				text: 'Kiski'
 			},
@@ -35846,7 +35846,7 @@ const chats = [
 				text: 'Pgl ho gaya ho Kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T06:18:04.162029+00:00',
 				heart: '❤️'
 			},
@@ -35856,7 +35856,7 @@ const chats = [
 				text: 'Kya hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-18T15:11:12.110585+00:00',
 				heart: '❤️'
 			},
@@ -35876,12 +35876,12 @@ const chats = [
 				text: 'OK fin'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-18T14:19:45.223927+00:00',
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-18T14:19:37.896553+00:00',
 				text: 'Sorrŕrrrrrrryyyyyyyyyýy'
 			},
@@ -35892,7 +35892,7 @@ const chats = [
 					'Pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl pgl'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-18T04:56:39.588332+00:00',
 				heart: '❤️'
 			},
@@ -35907,7 +35907,7 @@ const chats = [
 				text: 'Pgl ho gaye ho Kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-17T14:32:43.999507+00:00',
 				heart: '❤️'
 			},
@@ -35917,7 +35917,7 @@ const chats = [
 				text: 'Pgl'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-17T05:07:47.105399+00:00',
 				heart: '❤️'
 			},
@@ -35932,7 +35932,7 @@ const chats = [
 				text: 'Kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-16T08:45:20.634017+00:00',
 				heart: '❤️'
 			},
@@ -35957,7 +35957,7 @@ const chats = [
 				text: 'Hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-12T20:32:42.985275+00:00',
 				text: 'Kch ni'
 			},
@@ -35967,7 +35967,7 @@ const chats = [
 				text: 'Bhai Kya kr Rahe ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-08T18:25:50.909838+00:00',
 				text: 'Hi'
 			},
@@ -35982,7 +35982,7 @@ const chats = [
 				text: 'Kya kr rahe ho'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-08T08:35:24.295056+00:00',
 				text: 'H'
 			},
@@ -35992,7 +35992,7 @@ const chats = [
 				text: 'Hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-07T19:08:41.776640+00:00',
 				heart: '❤️'
 			},
@@ -36003,7 +36003,7 @@ const chats = [
 					'Bhai whatsaap wala no unblock kardo Aamir pooch raha hai Ki msg kyu nhi hoo raha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-07T15:09:09.354987+00:00',
 				text: 'Hlo'
 			},
@@ -36028,7 +36028,7 @@ const chats = [
 				text: 'Hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-07T06:47:17.736549+00:00',
 				text: 'Gmm'
 			},
@@ -36063,7 +36063,7 @@ const chats = [
 				text: 'Ahse vehse ladke nhi hai voh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:53:18.705991+00:00',
 				text: 'Byee'
 			},
@@ -36078,12 +36078,12 @@ const chats = [
 				text: 'Mera section change ktvaliyA unhone bhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:52:09.989421+00:00',
 				text: 'Sone'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:52:05.587828+00:00',
 				text: 'Aacha mri maa ab mjhe sine de'
 			},
@@ -36129,12 +36129,12 @@ const chats = [
 				text: 'PR mujhse bahaut ache se baat karte hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:48:22.695435+00:00',
 				text: 'Mere alawa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:47:54.454879+00:00',
 				text: 'Tujhe kon accha lgta h'
 			},
@@ -36189,12 +36189,12 @@ const chats = [
 				text: 'Bhai hai sab'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:45:53.712183+00:00',
 				text: 'Mgr tjhe bchke rhna h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:45:35.432751+00:00',
 				text: 'Aur ldkiyon ka use'
 			},
@@ -36209,7 +36209,7 @@ const chats = [
 				text: 'Lafange'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:45:20.964110+00:00',
 				text: 'Sare bs time pass krte h'
 			},
@@ -36224,7 +36224,7 @@ const chats = [
 				text: 'Haaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:45:02.172433+00:00',
 				text: 'Are ladko ko aur kaam hi kya h'
 			},
@@ -36274,12 +36274,12 @@ const chats = [
 				text: 'Bilkul sach hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:43:47.657350+00:00',
 				text: 'Bs kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:43:32.824676+00:00',
 				text: 'Fenkne ki hadd hoti h'
 			},
@@ -36294,7 +36294,7 @@ const chats = [
 				text: '8 ladko ne propose kr rakha hai mujhe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:42:32.510989+00:00',
 				text: 'Kaun marta h tre p'
 			},
@@ -36309,7 +36309,7 @@ const chats = [
 				text: '2 class se'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:42:06.891663+00:00',
 				text: 'Bs hmesha ese hi rhiyo innocent si'
 			},
@@ -36334,7 +36334,7 @@ const chats = [
 				text: 'Haaaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:41:23.790530+00:00',
 				text: 'Aww esa h kya'
 			},
@@ -36364,7 +36364,7 @@ const chats = [
 				text: 'Achaaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:39:13.584855+00:00',
 				text: 'Pyyari meri bhen'
 			},
@@ -36379,7 +36379,7 @@ const chats = [
 				text: 'Lagta toonhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:38:02.126868+00:00',
 				text: 'Abe m sudhrava hoon'
 			},
@@ -36394,7 +36394,7 @@ const chats = [
 				text: 'Nhi nhi nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:36:57.877677+00:00',
 				text: 'Kyun mri baat kraigi kya'
 			},
@@ -36419,7 +36419,7 @@ const chats = [
 				text: 'Kesi hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:36:27.842071+00:00',
 				text: 'Hmm acchi h'
 			},
@@ -36429,7 +36429,7 @@ const chats = [
 				text: 'Yeah hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:36:04.921178+00:00',
 				text: 'Accha itni chhoti to ni lgri'
 			},
@@ -36444,7 +36444,7 @@ const chats = [
 				text: 'Alinaalex hai voh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:34:14.160639+00:00',
 				text: 'Abe tra post like kiya h'
 			},
@@ -36459,7 +36459,7 @@ const chats = [
 				text: 'Kon'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:33:04.875548+00:00',
 				text: 'Ye allaina kaun h'
 			},
@@ -36489,7 +36489,7 @@ const chats = [
 				text: '😠😠'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:31:32.452067+00:00',
 				text: 'Chl krta hoon babu ro mt'
 			},
@@ -36509,7 +36509,7 @@ const chats = [
 				text: 'Plzzz'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:30:28.848369+00:00',
 				text: 'Kyun bhai isme mra kya faida'
 			},
@@ -36539,7 +36539,7 @@ const chats = [
 				text: 'Kuch bhi PR kari'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:29:10.024111+00:00',
 				text: 'Abe like kr to diya na'
 			},
@@ -36574,7 +36574,7 @@ const chats = [
 				text: 'Kyu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:27:13.086556+00:00',
 				text: 'Isislye to acchi lgti h tu mjhae'
 			},
@@ -36604,7 +36604,7 @@ const chats = [
 				text: 'Much nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:25:57.330516+00:00',
 				text: 'Pehle kya likha tha'
 			},
@@ -36624,7 +36624,7 @@ const chats = [
 				text: 'Ahse hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:24:40.645754+00:00',
 				text: 'Kyun bhai'
 			},
@@ -36634,7 +36634,7 @@ const chats = [
 				text: 'Ushne'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:24:23.929914+00:00',
 				text: 'Tjhe kya lgta h'
 			},
@@ -36654,7 +36654,7 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:23:11.435807+00:00',
 				text: 'Bdi hasi aa rhi h'
 			},
@@ -36679,7 +36679,7 @@ const chats = [
 				text: 'Kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:22:37.762817+00:00',
 				text: 'Hmmm'
 			},
@@ -36699,7 +36699,7 @@ const chats = [
 				text: 'Breajup'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:22:19.426839+00:00',
 				text: 'Chhor diya'
 			},
@@ -36719,7 +36719,7 @@ const chats = [
 				text: 'Of line Matt hona'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:22:02.589407+00:00',
 				text: 'Bhaag gyi kutti'
 			},
@@ -36744,7 +36744,7 @@ const chats = [
 				text: 'Hmm pata tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:21:21.478250+00:00',
 				text: 'Gf hi to ni h'
 			},
@@ -36769,7 +36769,7 @@ const chats = [
 				text: 'Dimaag hai too chalaongi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:19:54.597106+00:00',
 				text: 'Bda dimaag chlati htu'
 			},
@@ -36794,7 +36794,7 @@ const chats = [
 				text: 'Kyu akele hoo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:18:54.508504+00:00',
 				text: 'Kya kahoon aaj koi h hi ni'
 			},
@@ -36819,7 +36819,7 @@ const chats = [
 				text: 'Kuch kh rahe the'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:18:12.777377+00:00',
 				text: 'Ye kya h'
 			},
@@ -36829,7 +36829,7 @@ const chats = [
 				text: '😂'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:18:02.999895+00:00',
 				text: 'Kya btaun'
 			},
@@ -36849,7 +36849,7 @@ const chats = [
 				text: 'Hehe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:17:21.086053+00:00',
 				text: 'Galdi nhi hota jaldi hota h'
 			},
@@ -36874,7 +36874,7 @@ const chats = [
 				text: 'Kya kaam tha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:16:53.007467+00:00',
 				text: 'Raat ko galat kaam hote h'
 			},
@@ -36886,10 +36886,10 @@ const chats = [
 			{
 				sender: '__deleted__bhiebeaehbijjcfeh',
 				created_at: '2017-04-06T20:16:34.947344+00:00',
-				text: 'Sana too aaj hi kr rshi hai'
+				text: 'anna too aaj hi kr rshi hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:16:28.207812+00:00',
 				text: 'Tu paagl h kya soo ja'
 			},
@@ -36904,7 +36904,7 @@ const chats = [
 				text: 'Haa ji'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:15:52.014899+00:00',
 				text: 'Itni raat ko'
 			},
@@ -36916,7 +36916,7 @@ const chats = [
 			{
 				sender: '__deleted__bhiebeaehbijjcfeh',
 				created_at: '2017-04-06T20:15:29.217840+00:00',
-				text: 'Sana bhi apna kaam kr rahi hai'
+				text: 'anna bhi apna kaam kr rahi hai'
 			},
 			{
 				sender: '__deleted__bhiebeaehbijjcfeh',
@@ -36944,7 +36944,7 @@ const chats = [
 				text: 'Nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:14:30.446544+00:00',
 				text: 'Sab so gye kya'
 			},
@@ -36954,7 +36954,7 @@ const chats = [
 				text: 'Kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T20:14:05.642948+00:00',
 				text: 'Abe sun'
 			},
@@ -36969,12 +36969,12 @@ const chats = [
 				text: 'Byee'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:57:27.924810+00:00',
 				text: 'Chl bhut ho gya mjhe neend aa rhi h ab bye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:56:44.917320+00:00',
 				text: 'Hmm'
 			},
@@ -36984,7 +36984,7 @@ const chats = [
 				text: 'Post kr rahi hoo'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:55:20.178171+00:00',
 				text: 'To tu kya samjh rhi thi beta'
 			},
@@ -36999,12 +36999,12 @@ const chats = [
 				text: 'Haaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:53:20.967426+00:00',
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:53:18.246655+00:00',
 				text: 'Itnaa saraa pyaar'
 			},
@@ -37014,7 +37014,7 @@ const chats = [
 				text: 'Post kr rshi hoon comment zaroor karna'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:52:29.148878+00:00',
 				heart: '❤️'
 			},
@@ -37024,7 +37024,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:52:25.716330+00:00',
 				heart: '❤️'
 			},
@@ -37034,7 +37034,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:52:21.631619+00:00',
 				heart: '❤️'
 			},
@@ -37044,7 +37044,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:52:19.274908+00:00',
 				heart: '❤️'
 			},
@@ -37054,7 +37054,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:52:16.507473+00:00',
 				heart: '❤️'
 			},
@@ -37064,7 +37064,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:52:13.837808+00:00',
 				heart: '❤️'
 			},
@@ -37074,7 +37074,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:52:10.728157+00:00',
 				heart: '❤️'
 			},
@@ -37084,7 +37084,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:52:07.836572+00:00',
 				heart: '❤️'
 			},
@@ -37094,7 +37094,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:52:05.287000+00:00',
 				heart: '❤️'
 			},
@@ -37104,7 +37104,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:52:02.406386+00:00',
 				heart: '❤️'
 			},
@@ -37114,7 +37114,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:51:59.307138+00:00',
 				heart: '❤️'
 			},
@@ -37124,7 +37124,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:51:55.965445+00:00',
 				heart: '❤️'
 			},
@@ -37134,7 +37134,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:51:52.487930+00:00',
 				heart: '❤️'
 			},
@@ -37144,7 +37144,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:51:48.535656+00:00',
 				heart: '❤️'
 			},
@@ -37159,7 +37159,7 @@ const chats = [
 				text: 'Po'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:51:40.479534+00:00',
 				heart: '❤️'
 			},
@@ -37174,7 +37174,7 @@ const chats = [
 				text: 'Acha😜😜'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:51:19.807415+00:00',
 				text: 'Thanku so much'
 			},
@@ -37184,7 +37184,7 @@ const chats = [
 				text: '0000'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:50:54.406326+00:00',
 				text: 'To phir 0de'
 			},
@@ -37194,7 +37194,7 @@ const chats = [
 				text: 'Kitna bhi nhi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:50:26.887077+00:00',
 				text: 'Are kitna like krti h'
 			},
@@ -37204,7 +37204,7 @@ const chats = [
 				text: '18.'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:49:38.553921+00:00',
 				text: 'Kya samjhaun'
 			},
@@ -37224,7 +37224,7 @@ const chats = [
 				text: 'Kys relationship'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:48:25.913451+00:00',
 				text: 'Kya hua'
 			},
@@ -37249,7 +37249,7 @@ const chats = [
 				text: 'Ky batao'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:47:54.721459+00:00',
 				text: 'Tu chhor bs hogya'
 			},
@@ -37259,7 +37259,7 @@ const chats = [
 				text: 'Kya kitne'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:47:12.239065+00:00',
 				text: 'Are 10 m se hmare relationship ko kitne'
 			},
@@ -37274,7 +37274,7 @@ const chats = [
 				text: '18 samajh nhi aya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:46:09.863843+00:00',
 				text: 'Nhi pakaunga agr to..'
 			},
@@ -37289,7 +37289,7 @@ const chats = [
 				text: 'Not love ,like ,hate'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:44:54.986405+00:00',
 				text: 'Acchhaaa'
 			},
@@ -37375,7 +37375,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:26:46.158057+00:00',
 				heart: '❤️'
 			},
@@ -37395,7 +37395,7 @@ const chats = [
 				text: 'Pls'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:26:12.187066+00:00',
 				text: 'Phir m so jaaunga'
 			},
@@ -37430,7 +37430,7 @@ const chats = [
 				text: 'Abhi 5 min mai bataungi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:25:27.106456+00:00',
 				heart: '❤️'
 			},
@@ -37440,12 +37440,12 @@ const chats = [
 				text: 'Ok'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:25:12.705779+00:00',
 				text: 'Kuch smjh na aaye to puch lio'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:24:53.318240+00:00',
 				text: 'Chl jldi shuru ho ja ab'
 			},
@@ -37460,7 +37460,7 @@ const chats = [
 				text: 'Has'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:24:03.097740+00:00',
 				text: 'English aati h'
 			},
@@ -37470,7 +37470,7 @@ const chats = [
 				text: 'Kya hai yeh'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:23:33.718088+00:00',
 				text:
 					"2 - screenshot my profile photo and put it in your story 😁\n4- What's my best picture on Instagram?😋\n6- Describe me in one word🙈\n8- What song would you like to dedicate me?😆\n10-  What am I to you?✔\n12- be my partner for 3 days😛\n14 - Am I cute or not?😐\n16- You like me? Love me? Adore me ? Or hate me?😎\n18 - Rate our bond out of 10😊\n20 - answer all the above questions 😂"
@@ -37486,7 +37486,7 @@ const chats = [
 				text: 'Kyu'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:23:08.065747+00:00',
 				text: 'Phass gyi'
 			},
@@ -37496,12 +37496,12 @@ const chats = [
 				text: '20'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:22:11.882875+00:00',
 				text: '2 se 20 tk'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:21:56.732702+00:00',
 				text: 'Even number'
 			},
@@ -37511,12 +37511,12 @@ const chats = [
 				text: 'Kya'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:21:01.437454+00:00',
 				text: 'Khaan gyi jldi time ni h mre paas'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:20:10.761304+00:00',
 				text: 'Achha choose an even no.'
 			},
@@ -37536,7 +37536,7 @@ const chats = [
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T19:09:09.585390+00:00',
 				text: 'Achha'
 			},
@@ -37566,12 +37566,12 @@ const chats = [
 				text: 'Mane aap me friend request accept nhi ki'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T18:47:39.686068+00:00',
 				heart: '❤️'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T18:45:24.754458+00:00',
 				text: 'Konsi babu'
 			},
@@ -37611,7 +37611,7 @@ const chats = [
 				text: 'OK'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-06T17:40:52.495213+00:00',
 				text: 'No'
 			},
@@ -37631,12 +37631,12 @@ const chats = [
 				text: 'Yes or no'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-03T15:49:11.392518+00:00',
 				text: 'Kregi tu phirbhi chahe m mana bhi karoon'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-03T15:48:26.593192+00:00',
 				text: 'Meri konsa maanegi tu'
 			},
@@ -37651,14 +37651,14 @@ const chats = [
 				text: 'Acha'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-02T12:35:19.882230+00:00',
 				text: 'Friend h'
 			},
 			{
 				sender: '__deleted__bhiebeaehbijjcfeh',
 				created_at: '2017-04-02T09:50:13.150790+00:00',
-				text: 'Ushme likha hai followed by Junaid Chaudhary 210'
+				text: 'Ushme likha hai followed by not Chaudhary 210'
 			},
 			{
 				sender: '__deleted__bhiebeaehbijjcfeh',
@@ -37676,7 +37676,7 @@ const chats = [
 				text: 'Hmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-03-30T04:09:57.807352+00:00',
 				text: 'Gm'
 			},
@@ -37688,10 +37688,10 @@ const chats = [
 		]
 	},
 	{
-		participants: ['__mohitgurjar', 'just_junaid_here'],
+		participants: ['__mohitgurjar', 'just_not_here'],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T18:30:04.549008+00:00',
 				text: 'Achha'
 			},
@@ -37701,7 +37701,7 @@ const chats = [
 				text: 'Bhai inshaallah afridi ka dialogue hai'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-23T18:27:25.591936+00:00',
 				story_share: "Shared __mohitgurjar's story",
 				text: 'Inshallah ni mashallah..'
@@ -37712,13 +37712,13 @@ const chats = [
 		participants: [
 			'kunana_khan',
 			'amirking1010gmail',
-			'just_junaid_here',
+			'just_not_here',
 			'__u_will_alwyz_be_my_king__',
 			'aamirking1010'
 		],
 		conversation: [
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:59:33.403468+00:00',
 				text: 'Mtlb'
 			},
@@ -37733,7 +37733,7 @@ const chats = [
 				text: 'Yaaaa'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:58:56.831906+00:00',
 				text: 'Kya'
 			},
@@ -37763,14 +37763,14 @@ const chats = [
 				text: 'Hi'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T19:01:02.061197+00:00',
-				text: 'Sana kesi h'
+				text: 'anna kesi h'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T18:59:27.285173+00:00',
-				action: 'junaidchoudhary210 added sunny_choudhary8502'
+				action: 'notchoudhary210 added sunny_choudhary8502'
 			},
 			{
 				sender: 'shamy968',
@@ -37778,12 +37778,12 @@ const chats = [
 				text: 'Hmmm'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T15:45:12.415930+00:00',
 				text: 'Whatsapp kr de'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T15:44:55.173585+00:00',
 				text: 'Chl koi na'
 			},
@@ -37793,12 +37793,12 @@ const chats = [
 				text: 'Bhai send nhi hoti ispe'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T09:31:30.611086+00:00',
 				text: 'Koi nyi recording h to send kr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T09:31:05.338110+00:00',
 				text: 'Aur tri singing kesi chl ri h..'
 			},
@@ -37809,19 +37809,19 @@ const chats = [
 					'Bas iit me 250 no aa rhe h uptu me 530 aur vit me vahi 96 aur tumhare'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:59:36.556807+00:00',
 				text: 'Tu bta'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:56:13.888127+00:00',
 				text: 'Bdhiya bhai'
 			},
 			{
 				sender: 'shamy968',
 				created_at: '2017-04-19T08:53:32.875575+00:00',
-				text: 'Junaid kaisa hai too'
+				text: 'not kaisa hai too'
 			},
 			{
 				sender: 'shamy968',
@@ -37832,7 +37832,7 @@ const chats = [
 				sender: 'shamy968',
 				created_at: '2017-04-19T08:52:46.435614+00:00',
 				action:
-					'utk542 added imkunana, inayakhan8531, sunny_choudhary8502, zeenu_chaudhary and junaidchoudhary210'
+					'utk542 added imkunana, inayakhan8531, sunny_choudhary8502, zeenu_chaudhary and notchoudhary210'
 			},
 			{
 				sender: 'aamirking1010',
@@ -37842,7 +37842,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['kunana_khan', 'just_junaid_here'],
+		participants: ['kunana_khan', 'just_not_here'],
 		conversation: [
 			{
 				sender: 'shamy968',
@@ -37855,12 +37855,12 @@ const chats = [
 				text: 'I love u all girls'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:04:57.850766+00:00',
 				text: 'Behave..'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T08:04:49.319499+00:00',
 				text: 'Nt like this bro...'
 			},
@@ -37885,7 +37885,7 @@ const chats = [
 				text: 'Kya bhakchodi h ye'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-04-19T06:20:51.559216+00:00',
 				text: 'Bhaukal h'
 			},
@@ -37914,7 +37914,7 @@ const chats = [
 		]
 	},
 	{
-		participants: ['just_junaid_here', 'aamirking1010'],
+		participants: ['just_not_here', 'aamirking1010'],
 		conversation: [
 			{
 				sender: 'aamirking1010',
@@ -37927,7 +37927,7 @@ const chats = [
 				text: 'Yrr'
 			},
 			{
-				sender: 'just_junaid_here',
+				sender: 'just_not_here',
 				created_at: '2017-02-25T17:34:02.885697+00:00',
 				text: 'Kya?'
 			},
