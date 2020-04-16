@@ -1,4 +1,4 @@
-const chats = [
+export const chats = [
 	{
 		participants: ['just_not_here', 'nish_nikk'],
 		conversation: [
